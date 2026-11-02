@@ -1,0 +1,43 @@
+=== r84 eval suite === 
+=== probe best === 
+probing C:\github\DBllm\runs/synth2/best.bin -- confirm no train.exe is running on this data dir
+wrote C:\github\DBllm\runs/synth2/audit/probe_out84.txt (60 prompt outputs)
+=== probe final === 
+probing C:\github\DBllm\runs/synth2/final.bin -- confirm no train.exe is running on this data dir
+wrote C:\github\DBllm\runs/synth2/audit/probe_out84_final.txt (60 prompt outputs)
+=== turn_delta best === 
+turn_delta  data=runs\synth2
+            ckpt=runs\synth2\best.bin
+            register-col 4
+            611 examples, 13048 scored tokens, 9128 user-side tokens
+
+  real  heldout 6.1502
+  swap  heldout 7.2835
+  drop  heldout 6.8364
+  shuf  heldout 6.5267
+
+turn_delta (understanding):
+  swap  +1.1333
+  drop  +0.6862
+  shuf  +0.3765
+  --> turn_delta = drop - real = +0.6862  (11.16% of the loss)
+
+per register (heldout.map column 4): n, real, drop, delta
+  register                        n      real      drop     delta
+  small_talk_angry.jsonl        142    6.0312    6.8416   +0.8104
+  small_talk_sexy.jsonl         148    5.9255    6.7330   +0.8075
+  small_talk_lazy.jsonl         146    6.2252    6.9206   +0.6954
+  small_talk_casual.jsonl       141    6.3152    6.8212   +0.5060
+  small_talk_formal.jsonl        34    6.6185    6.9668   +0.3483
+
+read: turn_delta near 0 means the model ignores its input and no
+      derivability work can pay off. copynat is the positive control.
+      scratch: C:\Users\ericl\AppData\Local\Temp\synth_turn_delta\synth2
+=== tokenmap === 
+wrote runs/synth2/audit/tokenmap_84.md
+wrote runs/synth2/audit/tokenmap_84.json
+=== fc best vs final === 
+Comparing files RUNS\SYNTH2\best.bin and RUNS\SYNTH2\FINAL.BIN
+FC: no differences encountered
+
+=== suite done === 

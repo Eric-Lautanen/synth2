@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs/synth2/final.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " yeah, i'm a good good. i'm not a good good one of the whole time."
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " did you get? that's the one one of the whole time."
+
+## [ghetto / greeting] yo you good? long time no see.
+"yo you good? long time no see."
+  OUT: " that is the one of the one of the whole time."
+
+## [ghetto / money] they taxed my whole paycheck again.
+"they taxed my whole paycheck again."
+  OUT: " is the whole time? it's been a good good one. i'm not a good good good one of the whole"
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " yeah, i'm a good. i'm not a good good one of the whole time."
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " how did it? it's a good good one. i'm not a good good good one of the whole time."
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " that's the one one one of the whole time."
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " did you get a good? it's been a good good one. i'm not a good good good one of the"
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " did you get? that's the one of the one of the whole time."
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " yeah, i'm a good good. i'm not a good good one and i'm not not not not not"
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " did you get to? that's a good good one. i'm not a good good good one of the whole time"
+
+## [formal / general] how was your journey in this morning?
+"how was your journey in this morning?"
+  OUT: " yeah, i'm a good good good. i'm not a good good good one of the whole time."
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " how you will be? i'm not not, i'm not been on the whole time."
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: " haha the whole. it's been a good good good one."
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " you get? i'm not not not not not not not not not not not not not not not good."
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: " i'm not not not not not not not not not not not not not not good."
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " i'm not a good. i'm not a good good one?"
+
+## [gloomy / general] nothing good on telly ever anymore.
+"nothing good on telly ever anymore."
+  OUT: " that's a good one of the whole time. did you get it?"
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " did you get in? the whole time. the whole time is a good good good good good day."
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " it's a good one. it's been a good good one."
+
+## [gossip / neighbours] did you hear about flat nine upstairs?
+"did you hear about flat nine upstairs?"
+  OUT: " i'm not not not not good. i'm not a good good one of the whole time."
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: " that's the one one one one one one one one one of the whole time."
+
+## [nostalgic / school] remember the tuck shop queues at break?
+"remember the tuck shop queues at break?"
+  OUT: " yeah, i'm a good good one. i'm not not a good good one and i'm not not not"
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " yeah, i'm a good. i'm not a good good one and i'm not not not not not not"
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " yeah, i'm a good one. i'm not a good good one and i'm not not not not not"
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " yeah, i'm a good good. i'm not a good good good one."
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " yeah, the whole time. i'm been been a good good one."
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " i'm not not not not not not good. i'm not a good good one of the whole time."
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " that is the one? i'm not not not not not not good."
+
+## [supportive / bad news] i did not get the job, i am gutted.
+"i did not get the job, i am gutted."
+  OUT: ". it is the whole time. did you get a good good good?"
+
+## [bored / nothing to do] i am so bored i have cleaned the whole flat.
+"i am so bored i have cleaned the whole flat."
+  OUT: " how's the one? i'm not not not not not not not not not not not not good."
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " how how how how that's the one?"
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " yeah, a good day. i'm not a good good good one."
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " i'm not not not good. i'm not a good one of the whole time."
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " i'm not not not not not not not not not good. i'm not a good one of the whole time."
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " haha the whole time. i'm not a good good one and i'm not not not not not not not"
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " how did you get? it's a good good one. i'm not a good good good one?"
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " that's a good good good. i'm not a good good good one of the whole time."
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " i'm not not not not not good. i'm not a good good one of the whole time."
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " that's the one? i'm not not not not not not good."
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " how's the one? i'm not not not not good."
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " you're be the one? i'm not, i'm not been on the one and it's been a good one"
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " i'm not not not not not not not not not not not not not not not good."
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " yeah, i'm been on the whole time."
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " yeah, i'm a good good. i'm not a good good one and i'm not not not not not"
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " i'm not not not not not not not not not not not not not not not not good."
+
+## [petty / grudge] she still owes me twenty quid from march.
+"she still owes me twenty quid from march."
+  OUT: " did you get a good? it's been a good one. i'm not a good good one of the whole time"
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " it's a good one? i'm not a good good one."
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: " haha the whole time. it's been a good good one."
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " haha the whole time? i'm a good good good good. i'm not a good good good one and"
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " yeah, i'm a good good. i'm not a good good one and i'm not not not not not"
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " i'm not been on the whole time."
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: ". i'll be a good good one of the whole time."
+
+## [dont_know / shrug] i have not got a clue, sorry.
+"i have not got a clue, sorry."
+  OUT: " you will be be be be be be be be the one of the whole time."
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: "? that's a good one of the whole time. i'm not a good good one of the whole time."
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " that's the one? i'm not not not not not not not good."
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " how did you get? it's a good good one. i'm not a good good good one of the whole time"
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " that's the one? i'm not not not not not not not not not not not good."
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " i'm not not not not good. i'm not a good good one?"
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " i'm not not been on the whole time."
+

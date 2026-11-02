@@ -1,0 +1,59 @@
+synth2 SPLIT AUDIT (D3)
+data = runs\synth2
+
+## train
+  examples 1900  tokens 121992  scored(mask=1) 65283 (53.5%)
+  user tokens 49271  assistant tokens 63383
+  turns per example {2: 542, 4: 911, 6: 433, 8: 14}   SEP masks {0: 5538}
+  structural errors: 0
+  repetition census:
+  rows                    1900
+  exact duplicate rows       0  (0.00%)
+  user turns              3719  unique   3665  dup     54 (1.45%)
+  assistant turns         3719  unique   3719  dup      0 (0.00%)
+  assistant 5-grams      48508  repeated    652 (1.34%)
+  spans with an internal repeated 5-gram: 7 / 3719 (0.19%)
+  -- most repeated USER turns (the 'reply does not depend on
+     the prompt' signature) --
+       8x   yeah.
+       6x   probably.
+       4x   did you sleep okay?
+       3x   any plans for the weekend?
+       3x   what's the plan for tonight?
+       3x   did you get the shopping?
+       3x   not really.
+       3x   nearly.
+       2x   how was your weekend?
+       2x   how's it going?
+       2x   any plans tonight?
+       2x   what have you been up to?
+  -- assistant spans that repeat a 5-gram internally (the
+     'repetition in, repetition out' signature) --
+     ex610   turn5   a thermometer in a panic is still a thermometer. welcome to proper barbecue people.
+     ex1596  turn1   her first trip back, then. did she bring washing? did she bring washing?
+     ex1597  turn1   a proper brothers weekend. what did you get up to? what did you get up to?
+     ex1602  turn1   a proper gallery staircase. whose photos made the cut? whose photos made the cut?
+     ex1603  turn1   that fog swallows the far hills whole. did it burn off at all? did it burn off at all?
+     ex1610  turn1   climbing for the sunset view pays off. what was the show? what was the show?
+     ex1827  turn3   boiling water trick versus citric acid, mine preferred the citric acid treatment.
+
+## heldout
+  examples 130  tokens 8229  scored(mask=1) 4416 (53.7%)
+  user tokens 3309  assistant tokens 4286
+  turns per example {2: 39, 4: 62, 6: 27, 8: 2}   SEP masks {0: 374}
+  structural errors: 0
+  repetition census:
+  rows                     130
+  exact duplicate rows       0  (0.00%)
+  user turns               252  unique    250  dup      2 (0.79%)
+  assistant turns          252  unique    252  dup      0 (0.00%)
+  assistant 5-grams       3278  repeated      5 (0.15%)
+  spans with an internal repeated 5-gram: 0 / 252 (0.00%)
+  -- most repeated USER turns (the 'reply does not depend on
+     the prompt' signature) --
+       3x   yeah.
+
+train.exids 1900 vs train.ids 1900  -> ok
+heldout.exids 130 vs heldout.ids 130  -> ok
+
+VERDICT: structure ok

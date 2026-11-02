@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs/synth2/best.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " yeah, i'm. i'm, i'm'm'm'm'm'm'm'm'm'm'm'm'm'm"
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm"
+
+## [ghetto / greeting] yo you good? long time no see.
+"yo you good? long time no see."
+  OUT: " i'm a a bit. i'm'm'm'm'm'm'm'm'm'm'm'm'm'm'm'm,"
+
+## [ghetto / money] they taxed my whole paycheck again.
+"they taxed my whole paycheck again."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm,"
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm'm'm'm'm."
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm"
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " yeah, i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm'm'm."
+
+## [formal / general] how was your journey in this morning?
+"how was your journey in this morning?"
+  OUT: " yeah, i'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm"
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm"
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm"
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm"
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm."
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " yeah, i'm."
+
+## [gloomy / general] nothing good on telly ever anymore.
+"nothing good on telly ever anymore."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm"
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm'm'm'm'm."
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm"
+
+## [gossip / neighbours] did you hear about flat nine upstairs?
+"did you hear about flat nine upstairs?"
+  OUT: " i'm. i'm, i'm'm'm'm'm'm'm'm'm'm'm'm'm'm."
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm"
+
+## [nostalgic / school] remember the tuck shop queues at break?
+"remember the tuck shop queues at break?"
+  OUT: " yeah, i'm. i'm, i'm'm'm'm'm'm'm'm'm'm'm'm'm,"
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " i'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm, i'm'm"
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " i'm. i'm. i'm'm'm'm'm'm'm'm'm'm'm'm'm'm'm, i"
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " i'm. i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " yeah, i'm, i'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm"
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm"
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm"
+
+## [supportive / bad news] i did not get the job, i am gutted.
+"i did not get the job, i am gutted."
+  OUT: " i'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm, i'm"
+
+## [bored / nothing to do] i am so bored i have cleaned the whole flat.
+"i am so bored i have cleaned the whole flat."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm"
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " it. i'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm"
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm"
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " i'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm, i'm"
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm"
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " i'm. i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm"
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm"
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm"
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " i'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm, i'm'm"
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " i'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm"
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm."
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm"
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " yeah, i'm, i'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm"
+
+## [petty / grudge] she still owes me twenty quid from march.
+"she still owes me twenty quid from march."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm"
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm"
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: " yeah, i'm."
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm"
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " i'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm'm"
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " i'm'm. i'm'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm"
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: " yeah, i'm. i'm."
+
+## [dont_know / shrug] i have not got a clue, sorry.
+"i have not got a clue, sorry."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm"
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm"
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " i'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm'm,"
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " i'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm, i'm'm'm"
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " i'm, i'm'm'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm"
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm'm'm'm'm."
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " i'm'm'm'm'm'm'm'm'm'm'm, i'm'm'm'm'm'm'm'm'm'm"
+

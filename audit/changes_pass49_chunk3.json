@@ -1,0 +1,373 @@
+{
+ "1484": {
+  "a": {
+   "0": "registered at last, and was there room on their list?"
+  }
+ },
+ "1486": {
+  "a": {
+   "0": "hay fever again, does anything at the pharmacy help you?"
+  }
+ },
+ "1487": {
+  "a": {
+   "0": "a blood test at last, is anything worrying you about it?"
+  }
+ },
+ "1488": {
+  "a": {
+   "0": "the stairs are a cruel place, is the ankle swollen today?"
+  }
+ },
+ "1489": {
+  "a": {
+   "1": "same prescription then, and two years is a decent gap."
+  }
+ },
+ "1490": {
+  "a": {
+   "1": "slouching on a sofa all evening, so a cushion helps the back."
+  }
+ },
+ "1492": {
+  "a": {
+   "0": "a flu shot done already, was the line long there?"
+  }
+ },
+ "1493": {
+  "a": {
+   "0": "three weeks of waiting, have you chased the letter yet?"
+  }
+ },
+ "1495": {
+  "a": {
+   "0": "a parking ticket today, so where was the car parked?"
+  }
+ },
+ "1499": {
+  "a": {
+   "0": "a free spot outside is rare, did you check the signs twice?"
+  }
+ },
+ "1500": {
+  "a": {
+   "1": "a dead end after dark, and a farmer watching it all."
+  }
+ },
+ "1501": {
+  "a": {
+   "0": "nearly out of gas, was there a station close by?"
+  }
+ },
+ "1503": {
+  "a": {
+   "0": "a tractor ahead for ten miles, so no chance to pass?",
+   "1": "no straight stretch long enough, so the view got the attention."
+  }
+ },
+ "1504": {
+  "a": {
+   "1": "all the quotes matched, which makes it feel like a racket."
+  }
+ },
+ "1506": {
+  "a": {
+   "0": "empty roads at six thirty, so was the early start worth it?"
+  }
+ },
+ "1507": {
+  "a": {
+   "0": "back at the gym at last, was the first session hard?",
+   "1": "half the usual weights and three days of aching, that is fair."
+  }
+ },
+ "1512": {
+  "a": {
+   "1": "straight to the heavy weights is tempting, and we all do it."
+  }
+ },
+ "1516": {
+  "a": {
+   "0": "a pull up attempt that went nowhere, how many can you do?"
+  }
+ },
+ "1517": {
+  "a": {
+   "0": "knees complaining after a run, are the shoes worn out?",
+   "1": "two years is past due, and it never crosses your mind."
+  }
+ },
+ "1518": {
+  "a": {
+   "0": "a pickup team at work is a good move, what position?"
+  }
+ },
+ "1520": {
+  "a": {
+   "0": "the bill landed again, is the number higher this time?",
+   "1": "forty more for the same service, and nobody explains why."
+  }
+ },
+ "1521": {
+  "a": {
+   "0": "an hour of hold music, so did anyone pick up?"
+  }
+ },
+ "1522": {
+  "a": {
+   "0": "a driving license renewal, does it need a fresh photo too?"
+  }
+ },
+ "1523": {
+  "a": {
+   "1": "the next bill arrives and you forget again, so do it now."
+  }
+ },
+ "1527": {
+  "a": {
+   "0": "every two weeks is a stretch, has the bin overflowed yet?"
+  }
+ },
+ "1529": {
+  "a": {
+   "0": "a tax return after years away, do you keep the receipts?"
+  }
+ },
+ "1532": {
+  "a": {
+   "0": "rewiring is never cheap, how much did the first quote say?"
+  }
+ },
+ "1533": {
+  "a": {
+   "0": "a clutch on the way out is never cheap, what did he quote?"
+  }
+ },
+ "1534": {
+  "a": {
+   "0": "a morning lost to waiting, did he show up before noon?",
+   "1": "half past twelve with no apology, yet the fix took ten minutes."
+  }
+ },
+ "1537": {
+  "a": {
+   "0": "a fence job done properly is worth paying for, was it costly?",
+   "1": "four hundred for a side and a day of work is fair."
+  }
+ },
+ "1539": {
+  "a": {
+   "0": "borderline tires, so is it the front pair or all four?"
+  }
+ },
+ "1540": {
+  "a": {
+   "0": "a radiator that stays cold, have you bled the air out?",
+   "1": "air came out and nothing changed, so sludge is the likely cause."
+  }
+ },
+ "1541": {
+  "a": {
+   "1": "cheaper and done properly, so paying him beats a stranger."
+  }
+ },
+ "1548": {
+  "a": {
+   "0": "a driver who cannot find the place, did you walk out to him?"
+  }
+ },
+ "1549": {
+  "a": {
+   "1": "three meals from a single box is better value than it looks."
+  }
+ },
+ "1550": {
+  "a": {
+   "1": "a local baker costs more, and it tastes like actual cake."
+  }
+ },
+ "1551": {
+  "a": {
+   "1": "chicken swapped for quorn is a crime, and skimmed would be worse."
+  }
+ },
+ "1555": {
+  "a": {
+   "0": "a terrible game then, who was even playing in it?"
+  }
+ },
+ "1556": {
+  "a": {
+   "0": "a darts league, that is a commitment. are you any good at it?"
+  }
+ },
+ "1558": {
+  "a": {
+   "0": "cricket tickets for july, is it a full day in the sun?"
+  }
+ },
+ "1559": {
+  "a": {
+   "0": "chess every evening is a habit, are you winning much online?"
+  }
+ },
+ "1562": {
+  "a": {
+   "0": "a table tennis table in the office, does anyone actually play?"
+  }
+ },
+ "1563": {
+  "a": {
+   "0": "snooker with your dad is a fine tradition, is he still playing?",
+   "1": "twice a week keeps him sharp, and you never get a look in."
+  }
+ },
+ "1565": {
+  "a": {
+   "0": "american football has a lot of rules, how is it going?",
+   "1": "the running makes sense, and the rest is a blur of flags."
+  }
+ },
+ "1566": {
+  "a": {
+   "0": "rounders with the kids sounds like chaos, who kept score?"
+  }
+ },
+ "1567": {
+  "a": {
+   "0": "a new series already, what sort of thing is it?",
+   "1": "a small town detective again, and the plot is familiar but fine."
+  }
+ },
+ "1568": {
+  "a": {
+   "0": "cinema at last, was the screen busy for a change?"
+  }
+ },
+ "1572": {
+  "a": {
+   "0": "old music lately, what era have you been going back to?"
+  }
+ },
+ "1573": {
+  "a": {
+   "1": "a knob missing for months, so the same station plays on."
+  }
+ },
+ "1574": {
+  "a": {
+   "0": "deep sea fish are strange enough, did anything surprise you?",
+   "1": "fascinating and horrifying at once, and a few look invented."
+  }
+ },
+ "1575": {
+  "a": {
+   "0": "a comedy from years back, does the humor still land now?",
+   "1": "mostly it holds, though a few jokes landed badly in hindsight."
+  }
+ },
+ "1577": {
+  "a": {
+   "1": "an hour could go without damage, and three hours needs a reason."
+  }
+ },
+ "1578": {
+  "a": {
+   "0": "old quiz shows are a slippery slope, are they daytime ones?"
+  }
+ },
+ "1580": {
+  "a": {
+   "0": "a coat that fits badly is easy to return, was the refund quick?",
+   "1": "none, not a single question at the desk, which is rare."
+  }
+ },
+ "1582": {
+  "a": {
+   "0": "the thrift store came through then, did you come away loaded?",
+   "1": "eight bucks for wool is a steal. does it fit?"
+  },
+  "u": {
+   "1": "real wool coat for eight bucks. it is barely worn."
+  }
+ },
+ "1583": {
+  "a": {
+   "0": "ages in a post office line is a special misery, big parcel?"
+  }
+ },
+ "1584": {
+  "a": {
+   "1": "committed by the end is how every wobbly wheel wins."
+  }
+ },
+ "1585": {
+  "a": {
+   "0": "garden bits ordered already, was it from a proper nursery?"
+  }
+ },
+ "1588": {
+  "a": {
+   "0": "repairing shoes instead of replacing is the thrifty call, was it cheap?",
+   "1": "fifteen against eighty is no contest, so the repair wins easily."
+  },
+  "u": {
+   "1": "fifteen bucks against eighty for new ones. no contest."
+  }
+ },
+ "1590": {
+  "a": {
+   "0": "second hand is the slow way to upgrade, have you found much?"
+  }
+ },
+ "1611": {
+  "a": {
+   "0": "a sprint for the early train, was there a seat left?"
+  }
+ },
+ "1617": {
+  "a": {
+   "2": "escaping on purpose is a career move, and the boot is home."
+  }
+ },
+ "1622": {
+  "a": {
+   "1": "faintly on the hour is enough, and a year of quiet was odd."
+  }
+ },
+ "1669": {
+  "a": {
+   "2": "a double oven bought in spite, which is the best kind of upgrade."
+  }
+ },
+ "1679": {
+  "a": {
+   "0": "a dog that barks at everything, does it ever stop at night?"
+  }
+ },
+ "1680": {
+  "a": {
+   "0": "a wedding next month, are you traveling far for the day?"
+  }
+ },
+ "1683": {
+  "a": {
+   "0": "walking in instead of driving, how long does that take you?"
+  }
+ },
+ "1689": {
+  "a": {
+   "0": "a noisy spin cycle, is the machine drifting on the floor?"
+  }
+ },
+ "1691": {
+  "a": {
+   "0": "a day at the coast, was the weather kind to you?"
+  }
+ },
+ "1692": {
+  "a": {
+   "0": "another series going already, what got you to start it?"
+  }
+ }
+}

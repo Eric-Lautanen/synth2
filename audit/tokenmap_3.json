@@ -1,0 +1,377 @@
+{
+  "generated": "2026-10-07T13:57:11",
+  "corpus": {
+    "rows": 1043,
+    "assistant_turns": 1738,
+    "user_turns": 1738,
+    "files": {
+      "casual": 1043
+    }
+  },
+  "probe": {
+    "path": "runs/synth2/audit/probe_out3.txt",
+    "outputs": 60
+  },
+  "params": {
+    "top": 25,
+    "min_count": 8,
+    "max_n": 5,
+    "candidates": 80,
+    "derived_frames": [
+      "the the the the",
+      "a a a a",
+      "i'm'm a a a",
+      "i'm'm'm a a a"
+    ]
+  },
+  "headline": {
+    "the_opener": 0.0702,
+    "the_opener_user": 0.0742,
+    "copula_only": 0.015,
+    "registers_with_attractor": 0,
+    "registers": 1
+  },
+  "attractors": [],
+  "over_used": [
+    {
+      "ngram": "that is a good",
+      "n": 4,
+      "count": 8,
+      "pmi": 13.88
+    },
+    {
+      "ngram": "did you get",
+      "n": 3,
+      "count": 14,
+      "pmi": 11.4
+    },
+    {
+      "ngram": "what did you",
+      "n": 3,
+      "count": 8,
+      "pmi": 10.32
+    },
+    {
+      "ngram": "twenty minutes",
+      "n": 2,
+      "count": 17,
+      "pmi": 8.67
+    },
+    {
+      "ngram": "in the morning",
+      "n": 3,
+      "count": 8,
+      "pmi": 8.64
+    },
+    {
+      "ngram": "an hour",
+      "n": 2,
+      "count": 20,
+      "pmi": 8.55
+    },
+    {
+      "ngram": "is the best",
+      "n": 3,
+      "count": 9,
+      "pmi": 8.49
+    },
+    {
+      "ngram": "give it a",
+      "n": 3,
+      "count": 10,
+      "pmi": 8.46
+    },
+    {
+      "ngram": "same here",
+      "n": 2,
+      "count": 8,
+      "pmi": 8.03
+    },
+    {
+      "ngram": "ten minutes",
+      "n": 2,
+      "count": 12,
+      "pmi": 7.96
+    },
+    {
+      "ngram": "is a good",
+      "n": 3,
+      "count": 15,
+      "pmi": 7.83
+    },
+    {
+      "ngram": "tell me",
+      "n": 2,
+      "count": 8,
+      "pmi": 7.75
+    },
+    {
+      "ngram": "how many",
+      "n": 2,
+      "count": 12,
+      "pmi": 7.71
+    },
+    {
+      "ngram": "oh no",
+      "n": 2,
+      "count": 13,
+      "pmi": 7.52
+    },
+    {
+      "ngram": "my mum",
+      "n": 2,
+      "count": 9,
+      "pmi": 7.47
+    },
+    {
+      "ngram": "at least",
+      "n": 2,
+      "count": 14,
+      "pmi": 7.43
+    },
+    {
+      "ngram": "that is a",
+      "n": 3,
+      "count": 14,
+      "pmi": 7.38
+    },
+    {
+      "ngram": "better than",
+      "n": 2,
+      "count": 13,
+      "pmi": 6.86
+    },
+    {
+      "ngram": "too much",
+      "n": 2,
+      "count": 8,
+      "pmi": 6.73
+    },
+    {
+      "ngram": "next time",
+      "n": 2,
+      "count": 13,
+      "pmi": 6.68
+    },
+    {
+      "ngram": "more than",
+      "n": 2,
+      "count": 8,
+      "pmi": 6.67
+    },
+    {
+      "ngram": "i've been",
+      "n": 2,
+      "count": 26,
+      "pmi": 6.6
+    },
+    {
+      "ngram": "how far",
+      "n": 2,
+      "count": 8,
+      "pmi": 6.57
+    },
+    {
+      "ngram": "couple of",
+      "n": 2,
+      "count": 8,
+      "pmi": 6.54
+    },
+    {
+      "ngram": "much better",
+      "n": 2,
+      "count": 9,
+      "pmi": 6.48
+    }
+  ],
+  "fanout": {},
+  "openers": {
+    "assistant": {
+      "0": {
+        "the": 122,
+        "yeah": 65,
+        "a": 54,
+        "i": 48,
+        "that": 42,
+        "how": 42,
+        "haha": 40,
+        "not": 37,
+        "good": 37,
+        "that's": 34,
+        "no": 31,
+        "it": 29,
+        "what": 29,
+        "just": 26,
+        "did": 24,
+        "do": 20,
+        "same": 19,
+        "it's": 17,
+        "oh": 16,
+        "nothing": 14
+      },
+      "1": {
+        "the": 104,
+        "it": 102,
+        "a": 67,
+        "is": 56,
+        "i": 35,
+        "you": 35,
+        "did": 29,
+        "and": 25,
+        "one": 25,
+        "it's": 19,
+        "good": 18,
+        "them": 18,
+        "of": 17,
+        "no": 17,
+        "but": 14,
+        "bit": 13,
+        "know": 13,
+        "much": 12,
+        "do": 12,
+        "just": 12
+      },
+      "2": {
+        "the": 91,
+        "is": 56,
+        "i": 51,
+        "a": 51,
+        "it": 47,
+        "in": 33,
+        "and": 27,
+        "you": 25,
+        "on": 21,
+        "did": 17,
+        "was": 15,
+        "of": 15,
+        "to": 14,
+        "just": 13,
+        "about": 13,
+        "been": 13,
+        "are": 13,
+        "i'm": 13,
+        "i've": 12,
+        "or": 12
+      },
+      "last": {
+        "it": 113,
+        "again": 29,
+        "now": 25,
+        "you": 23,
+        "time": 22,
+        "out": 19,
+        "there": 19,
+        "one": 19,
+        "week": 18,
+        "day": 18,
+        "up": 16,
+        "me": 16,
+        "then": 15,
+        "in": 15,
+        "them": 14,
+        "good": 12,
+        "though": 11,
+        "anything": 10,
+        "first": 10,
+        "minutes": 10
+      }
+    },
+    "user": {
+      "0": {
+        "the": 129,
+        "did": 115,
+        "how's": 70,
+        "you": 69,
+        "i": 67,
+        "my": 57,
+        "what": 53,
+        "how": 45,
+        "a": 44,
+        "we": 32,
+        "haha": 27,
+        "that's": 27,
+        "our": 22,
+        "there": 21,
+        "that": 19,
+        "yeah": 19,
+        "what's": 17,
+        "just": 17,
+        "is": 17,
+        "it": 16
+      },
+      "1": {
+        "the": 153,
+        "you": 105,
+        "a": 62,
+        "was": 45,
+        "is": 36,
+        "are": 34,
+        "did": 32,
+        "it": 29,
+        "your": 28,
+        "to": 21,
+        "i": 16,
+        "have": 14,
+        "got": 13,
+        "my": 13,
+        "new": 12,
+        "went": 11,
+        "time": 10,
+        "on": 10,
+        "been": 10,
+        "that": 10
+      },
+      "2": {
+        "the": 91,
+        "a": 65,
+        "you": 50,
+        "is": 32,
+        "for": 24,
+        "get": 24,
+        "and": 23,
+        "in": 22,
+        "was": 20,
+        "i": 19,
+        "to": 18,
+        "one": 18,
+        "it": 17,
+        "my": 17,
+        "are": 16,
+        "on": 16,
+        "of": 14,
+        "new": 13,
+        "still": 13,
+        "has": 13
+      },
+      "last": {
+        "today": 37,
+        "weekend": 34,
+        "again": 34,
+        "week": 31,
+        "it": 29,
+        "up": 27,
+        "night": 24,
+        "going": 20,
+        "out": 20,
+        "now": 20,
+        "tonight": 19,
+        "saturday": 17,
+        "morning": 17,
+        "yet": 16,
+        "in": 16,
+        "alright": 15,
+        "done": 12,
+        "on": 12,
+        "sunday": 12,
+        "day": 11
+      }
+    }
+  },
+  "contractions": {
+    "corpus": 0.233,
+    "model": 0.35,
+    "per_register": {
+      "casual": 405
+    }
+  }
+}

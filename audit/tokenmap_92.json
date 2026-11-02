@@ -1,0 +1,864 @@
+{
+  "generated": "2026-10-24T14:33:22",
+  "corpus": {
+    "rows": 9102,
+    "assistant_turns": 11547,
+    "user_turns": 11547,
+    "files": {
+      "angry": 2000,
+      "casual": 2001,
+      "formal": 1054,
+      "lazy": 2001,
+      "sexy": 2046
+    }
+  },
+  "probe": {
+    "path": "C:\\github\\DBllm\\runs\\synth2\\audit\\probe_out92_final.txt",
+    "outputs": 60
+  },
+  "params": {
+    "top": 25,
+    "min_count": 8,
+    "max_n": 5,
+    "candidates": 80,
+    "derived_frames": [
+      "is the",
+      "the same",
+      "worth it",
+      "that is",
+      "was it",
+      "is a"
+    ]
+  },
+  "headline": {
+    "the_opener": 0.0596,
+    "the_opener_user": 0.1471,
+    "copula_only": 0.0076,
+    "registers_with_attractor": 5,
+    "registers": 5
+  },
+  "attractors": [
+    {
+      "phrase": "worth it",
+      "count": 68,
+      "corpus": 58.9,
+      "model": 7.0,
+      "amplify": 11.0,
+      "score": 0.3082,
+      "files": "casual 43, lazy 15, sexy 9",
+      "user": 9.5
+    },
+    {
+      "phrase": "was it",
+      "count": 83,
+      "corpus": 71.9,
+      "model": 7.0,
+      "amplify": 9.0,
+      "score": 0.2907,
+      "files": "casual 68, sexy 11, angry 4",
+      "user": 19.1
+    },
+    {
+      "phrase": "the same",
+      "count": 127,
+      "corpus": 110.0,
+      "model": 7.0,
+      "amplify": 6.0,
+      "score": 0.2547,
+      "files": "angry 34, casual 34, lazy 29",
+      "user": 120.4
+    },
+    {
+      "phrase": "that is",
+      "count": 166,
+      "corpus": 143.8,
+      "model": 7.0,
+      "amplify": 5.0,
+      "score": 0.233,
+      "files": "casual 96, lazy 26, sexy 25",
+      "user": 13.9
+    },
+    {
+      "phrase": "to sleep",
+      "count": 8,
+      "corpus": 6.9,
+      "model": 3.0,
+      "amplify": 48.0,
+      "score": 0.2206,
+      "files": "angry 3, casual 2, lazy 2",
+      "user": 7.8
+    },
+    {
+      "phrase": "the old one",
+      "count": 8,
+      "corpus": 6.9,
+      "model": 3.0,
+      "amplify": 48.0,
+      "score": 0.2206,
+      "files": "lazy 4, casual 2, angry 1",
+      "user": 5.2
+    },
+    {
+      "phrase": "i never",
+      "count": 8,
+      "corpus": 6.9,
+      "model": 3.0,
+      "amplify": 48.0,
+      "score": 0.2206,
+      "files": "casual 3, lazy 2, sexy 2",
+      "user": 32.0
+    },
+    {
+      "phrase": "nothing on",
+      "count": 9,
+      "corpus": 7.8,
+      "model": 3.0,
+      "amplify": 43.0,
+      "score": 0.2151,
+      "files": "casual 8, lazy 1",
+      "user": 0.9
+    },
+    {
+      "phrase": "are a",
+      "count": 67,
+      "corpus": 58.0,
+      "model": 5.0,
+      "amplify": 9.0,
+      "score": 0.2133,
+      "files": "lazy 45, angry 11, casual 8",
+      "user": 7.8
+    },
+    {
+      "phrase": "is the",
+      "count": 500,
+      "corpus": 433.0,
+      "model": 8.0,
+      "amplify": 2.0,
+      "score": 0.2123,
+      "files": "casual 292, lazy 116, angry 50",
+      "user": 79.7
+    },
+    {
+      "phrase": "how you",
+      "count": 10,
+      "corpus": 8.7,
+      "model": 3.0,
+      "amplify": 38.0,
+      "score": 0.2101,
+      "files": "casual 5, sexy 3, lazy 2",
+      "user": 0.9
+    },
+    {
+      "phrase": "and never",
+      "count": 10,
+      "corpus": 8.7,
+      "model": 3.0,
+      "amplify": 38.0,
+      "score": 0.2101,
+      "files": "casual 6, lazy 3, formal 1",
+      "user": 11.3
+    },
+    {
+      "phrase": "the apartment",
+      "count": 12,
+      "corpus": 10.4,
+      "model": 3.0,
+      "amplify": 32.0,
+      "score": 0.2016,
+      "files": "casual 7, sexy 4, lazy 1",
+      "user": 12.1
+    },
+    {
+      "phrase": "do the",
+      "count": 82,
+      "corpus": 71.0,
+      "model": 5.0,
+      "amplify": 7.0,
+      "score": 0.2004,
+      "files": "formal 30, casual 28, sexy 13",
+      "user": 8.7
+    },
+    {
+      "phrase": "are worth",
+      "count": 13,
+      "corpus": 11.3,
+      "model": 3.0,
+      "amplify": 30.0,
+      "score": 0.1979,
+      "files": "lazy 6, casual 3, sexy 3",
+      "user": 0.0
+    },
+    {
+      "phrase": "a real",
+      "count": 98,
+      "corpus": 84.9,
+      "model": 5.0,
+      "amplify": 6.0,
+      "score": 0.1892,
+      "files": "casual 75, angry 13, lazy 10",
+      "user": 34.6
+    },
+    {
+      "phrase": "they are",
+      "count": 19,
+      "corpus": 16.5,
+      "model": 3.0,
+      "amplify": 20.0,
+      "score": 0.1803,
+      "files": "casual 11, lazy 5, sexy 2",
+      "user": 5.2
+    },
+    {
+      "phrase": "is how",
+      "count": 22,
+      "corpus": 19.1,
+      "model": 3.0,
+      "amplify": 17.0,
+      "score": 0.1736,
+      "files": "angry 8, casual 7, lazy 4",
+      "user": 0.0
+    },
+    {
+      "phrase": "a walk",
+      "count": 22,
+      "corpus": 19.1,
+      "model": 3.0,
+      "amplify": 17.0,
+      "score": 0.1736,
+      "files": "casual 16, angry 2, lazy 2",
+      "user": 10.4
+    },
+    {
+      "phrase": "a quiet",
+      "count": 33,
+      "corpus": 28.6,
+      "model": 3.0,
+      "amplify": 12.0,
+      "score": 0.1554,
+      "files": "casual 13, formal 7, lazy 7",
+      "user": 4.3
+    },
+    {
+      "phrase": "a long",
+      "count": 33,
+      "corpus": 28.6,
+      "model": 3.0,
+      "amplify": 12.0,
+      "score": 0.1554,
+      "files": "casual 21, lazy 8, angry 3",
+      "user": 7.8
+    },
+    {
+      "phrase": "is a",
+      "count": 525,
+      "corpus": 454.7,
+      "model": 7.0,
+      "amplify": 1.0,
+      "score": 0.1535,
+      "files": "angry 222, casual 147, lazy 116",
+      "user": 68.4
+    },
+    {
+      "phrase": "the whole",
+      "count": 190,
+      "corpus": 164.5,
+      "model": 5.0,
+      "amplify": 3.0,
+      "score": 0.1507,
+      "files": "lazy 83, casual 57, angry 32",
+      "user": 112.6
+    },
+    {
+      "phrase": "it the",
+      "count": 45,
+      "corpus": 39.0,
+      "model": 3.0,
+      "amplify": 9.0,
+      "score": 0.1419,
+      "files": "casual 34, sexy 5, lazy 4",
+      "user": 11.3
+    },
+    {
+      "phrase": "it a",
+      "count": 45,
+      "corpus": 39.0,
+      "model": 3.0,
+      "amplify": 9.0,
+      "score": 0.1419,
+      "files": "casual 35, lazy 4, sexy 3",
+      "user": 10.4
+    }
+  ],
+  "over_used": [
+    {
+      "ngram": "are you going to",
+      "n": 4,
+      "count": 10,
+      "pmi": 16.9
+    },
+    {
+      "ngram": "faster than any",
+      "n": 3,
+      "count": 8,
+      "pmi": 16.51
+    },
+    {
+      "ngram": "on the first try",
+      "n": 4,
+      "count": 8,
+      "pmi": 16.35
+    },
+    {
+      "ngram": "in the middle of",
+      "n": 4,
+      "count": 9,
+      "pmi": 16.0
+    },
+    {
+      "ngram": "have you tried",
+      "n": 3,
+      "count": 15,
+      "pmi": 14.01
+    },
+    {
+      "ngram": "an early night",
+      "n": 3,
+      "count": 10,
+      "pmi": 13.79
+    },
+    {
+      "ngram": "at this point",
+      "n": 3,
+      "count": 12,
+      "pmi": 13.72
+    },
+    {
+      "ngram": "i have been",
+      "n": 3,
+      "count": 10,
+      "pmi": 12.73
+    },
+    {
+      "ngram": "ten minutes of",
+      "n": 3,
+      "count": 12,
+      "pmi": 12.69
+    },
+    {
+      "ngram": "did they say",
+      "n": 3,
+      "count": 8,
+      "pmi": 12.52
+    },
+    {
+      "ngram": "an hour of",
+      "n": 3,
+      "count": 19,
+      "pmi": 12.38
+    },
+    {
+      "ngram": "the front desk",
+      "n": 3,
+      "count": 14,
+      "pmi": 12.29
+    },
+    {
+      "ngram": "counts as a",
+      "n": 3,
+      "count": 12,
+      "pmi": 12.13
+    },
+    {
+      "ngram": "did they really",
+      "n": 3,
+      "count": 11,
+      "pmi": 12.13
+    },
+    {
+      "ngram": "two hours of",
+      "n": 3,
+      "count": 11,
+      "pmi": 12.12
+    },
+    {
+      "ngram": "feels like a",
+      "n": 3,
+      "count": 9,
+      "pmi": 12.09
+    },
+    {
+      "ngram": "how long has",
+      "n": 3,
+      "count": 9,
+      "pmi": 12.04
+    },
+    {
+      "ngram": "sounds like a",
+      "n": 3,
+      "count": 15,
+      "pmi": 11.9
+    },
+    {
+      "ngram": "have you got",
+      "n": 3,
+      "count": 15,
+      "pmi": 11.74
+    },
+    {
+      "ngram": "without a single",
+      "n": 3,
+      "count": 10,
+      "pmi": 11.62
+    },
+    {
+      "ngram": "ice cream",
+      "n": 2,
+      "count": 10,
+      "pmi": 11.49
+    },
+    {
+      "ngram": "for an hour",
+      "n": 3,
+      "count": 13,
+      "pmi": 11.42
+    },
+    {
+      "ngram": "falling asleep",
+      "n": 2,
+      "count": 9,
+      "pmi": 11.19
+    },
+    {
+      "ngram": "how long did",
+      "n": 3,
+      "count": 15,
+      "pmi": 11.19
+    },
+    {
+      "ngram": "and i am",
+      "n": 3,
+      "count": 11,
+      "pmi": 10.99
+    }
+  ],
+  "fanout": {
+    "worth it": {
+      "registers": 4,
+      "per_register": {
+        "angry": 1,
+        "casual": 43,
+        "lazy": 15,
+        "sexy": 9
+      }
+    },
+    "was it": {
+      "registers": 3,
+      "per_register": {
+        "angry": 4,
+        "casual": 68,
+        "sexy": 11
+      }
+    },
+    "the same": {
+      "registers": 5,
+      "per_register": {
+        "angry": 34,
+        "casual": 34,
+        "formal": 16,
+        "lazy": 29,
+        "sexy": 14
+      }
+    },
+    "that is": {
+      "registers": 5,
+      "per_register": {
+        "angry": 17,
+        "casual": 96,
+        "formal": 2,
+        "lazy": 26,
+        "sexy": 25
+      }
+    },
+    "to sleep": {
+      "registers": 4,
+      "per_register": {
+        "angry": 3,
+        "casual": 2,
+        "lazy": 2,
+        "sexy": 1
+      }
+    },
+    "the old one": {
+      "registers": 4,
+      "per_register": {
+        "angry": 1,
+        "casual": 2,
+        "formal": 1,
+        "lazy": 4
+      }
+    },
+    "i never": {
+      "registers": 4,
+      "per_register": {
+        "angry": 1,
+        "casual": 3,
+        "lazy": 2,
+        "sexy": 2
+      }
+    },
+    "nothing on": {
+      "registers": 2,
+      "per_register": {
+        "casual": 8,
+        "lazy": 1
+      }
+    },
+    "are a": {
+      "registers": 4,
+      "per_register": {
+        "angry": 11,
+        "casual": 8,
+        "lazy": 45,
+        "sexy": 3
+      }
+    },
+    "is the": {
+      "registers": 5,
+      "per_register": {
+        "angry": 50,
+        "casual": 292,
+        "formal": 26,
+        "lazy": 116,
+        "sexy": 16
+      }
+    },
+    "how you": {
+      "registers": 3,
+      "per_register": {
+        "casual": 5,
+        "lazy": 2,
+        "sexy": 3
+      }
+    },
+    "and never": {
+      "registers": 3,
+      "per_register": {
+        "casual": 6,
+        "formal": 1,
+        "lazy": 3
+      }
+    },
+    "the apartment": {
+      "registers": 3,
+      "per_register": {
+        "casual": 7,
+        "lazy": 1,
+        "sexy": 4
+      }
+    },
+    "do the": {
+      "registers": 5,
+      "per_register": {
+        "angry": 6,
+        "casual": 28,
+        "formal": 30,
+        "lazy": 5,
+        "sexy": 13
+      }
+    },
+    "are worth": {
+      "registers": 4,
+      "per_register": {
+        "casual": 3,
+        "formal": 1,
+        "lazy": 6,
+        "sexy": 3
+      }
+    },
+    "a real": {
+      "registers": 3,
+      "per_register": {
+        "angry": 13,
+        "casual": 75,
+        "lazy": 10
+      }
+    },
+    "they are": {
+      "registers": 4,
+      "per_register": {
+        "angry": 1,
+        "casual": 11,
+        "lazy": 5,
+        "sexy": 2
+      }
+    },
+    "is how": {
+      "registers": 4,
+      "per_register": {
+        "angry": 8,
+        "casual": 7,
+        "formal": 3,
+        "lazy": 4
+      }
+    },
+    "a walk": {
+      "registers": 5,
+      "per_register": {
+        "angry": 2,
+        "casual": 16,
+        "formal": 1,
+        "lazy": 2,
+        "sexy": 1
+      }
+    },
+    "a quiet": {
+      "registers": 4,
+      "per_register": {
+        "angry": 6,
+        "casual": 13,
+        "formal": 7,
+        "lazy": 7
+      }
+    },
+    "a long": {
+      "registers": 4,
+      "per_register": {
+        "angry": 3,
+        "casual": 21,
+        "formal": 1,
+        "lazy": 8
+      }
+    },
+    "is a": {
+      "registers": 5,
+      "per_register": {
+        "angry": 222,
+        "casual": 147,
+        "formal": 25,
+        "lazy": 116,
+        "sexy": 15
+      }
+    },
+    "the whole": {
+      "registers": 5,
+      "per_register": {
+        "angry": 32,
+        "casual": 57,
+        "formal": 5,
+        "lazy": 83,
+        "sexy": 13
+      }
+    },
+    "it the": {
+      "registers": 5,
+      "per_register": {
+        "angry": 1,
+        "casual": 34,
+        "formal": 1,
+        "lazy": 4,
+        "sexy": 5
+      }
+    },
+    "it a": {
+      "registers": 5,
+      "per_register": {
+        "angry": 2,
+        "casual": 35,
+        "formal": 1,
+        "lazy": 4,
+        "sexy": 3
+      }
+    }
+  },
+  "openers": {
+    "assistant": {
+      "0": {
+        "a": 1182,
+        "the": 688,
+        "how": 271,
+        "does": 269,
+        "did": 259,
+        "why": 207,
+        "that": 185,
+        "was": 171,
+        "who": 157,
+        "one": 140,
+        "an": 137,
+        "haha": 130,
+        "what": 125,
+        "two": 117,
+        "i": 117,
+        "three": 103,
+        "your": 102,
+        "is": 94,
+        "has": 83,
+        "no": 81
+      },
+      "1": {
+        "the": 1286,
+        "a": 236,
+        "is": 198,
+        "you": 184,
+        "does": 183,
+        "on": 103,
+        "in": 99,
+        "your": 99,
+        "minutes": 97,
+        "did": 96,
+        "it": 89,
+        "at": 87,
+        "for": 84,
+        "and": 81,
+        "that": 74,
+        "are": 66,
+        "to": 63,
+        "do": 59,
+        "of": 59,
+        "anyone": 49
+      },
+      "2": {
+        "the": 848,
+        "a": 351,
+        "is": 298,
+        "on": 223,
+        "of": 222,
+        "for": 214,
+        "are": 175,
+        "in": 163,
+        "and": 138,
+        "that": 124,
+        "at": 117,
+        "you": 107,
+        "with": 102,
+        "to": 97,
+        "one": 72,
+        "from": 61,
+        "your": 55,
+        "was": 52,
+        "it": 51,
+        "by": 49
+      },
+      "last": {
+        "it": 453,
+        "now": 172,
+        "you": 137,
+        "time": 136,
+        "one": 110,
+        "again": 98,
+        "day": 89,
+        "them": 83,
+        "out": 82,
+        "first": 80,
+        "too": 79,
+        "week": 77,
+        "then": 77,
+        "that": 72,
+        "yet": 72,
+        "up": 71,
+        "anyway": 71,
+        "us": 69,
+        "night": 64,
+        "there": 64
+      }
+    },
+    "user": {
+      "0": {
+        "the": 1698,
+        "my": 1106,
+        "our": 1029,
+        "i": 766,
+        "we": 688,
+        "you": 596,
+        "their": 337,
+        "that": 304,
+        "they": 287,
+        "a": 277,
+        "did": 259,
+        "how": 157,
+        "someone": 129,
+        "what": 128,
+        "this": 107,
+        "one": 95,
+        "how's": 86,
+        "he": 83,
+        "your": 67,
+        "it": 64
+      },
+      "1": {
+        "the": 361,
+        "you": 229,
+        "a": 185,
+        "is": 120,
+        "got": 114,
+        "was": 112,
+        "did": 103,
+        "are": 94,
+        "to": 88,
+        "have": 87,
+        "it": 73,
+        "new": 67,
+        "found": 52,
+        "and": 51,
+        "do": 51,
+        "i": 50,
+        "finally": 49,
+        "phone": 48,
+        "office": 47,
+        "my": 47
+      },
+      "2": {
+        "the": 907,
+        "a": 424,
+        "is": 186,
+        "my": 155,
+        "you": 145,
+        "in": 134,
+        "was": 134,
+        "has": 125,
+        "and": 124,
+        "to": 120,
+        "got": 112,
+        "on": 111,
+        "me": 97,
+        "one": 94,
+        "for": 92,
+        "at": 79,
+        "are": 68,
+        "of": 63,
+        "said": 62,
+        "i": 62
+      },
+      "last": {
+        "it": 253,
+        "again": 240,
+        "week": 135,
+        "now": 134,
+        "morning": 124,
+        "night": 119,
+        "today": 110,
+        "up": 98,
+        "year": 95,
+        "minutes": 86,
+        "out": 85,
+        "weekend": 83,
+        "me": 82,
+        "month": 73,
+        "day": 72,
+        "time": 72,
+        "tonight": 66,
+        "hour": 56,
+        "twice": 55,
+        "in": 55
+      }
+    }
+  },
+  "contractions": {
+    "corpus": 0.0365,
+    "model": 0.1667,
+    "per_register": {
+      "casual": 415,
+      "lazy": 1,
+      "sexy": 5
+    }
+  }
+}

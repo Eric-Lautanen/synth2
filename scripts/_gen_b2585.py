@@ -1,0 +1,86 @@
+#!/usr/bin/env python3
+"""Hand-written b2585 rewrites -> audit/changes_magpie11.json, then self-validate."""
+import json
+
+C = {
+ "1433": {"0": "water bill today, much higher than last time or about the same?"},
+ "1434": {"0": "car insurance up again, have you shopped around this year?",
+          "1": "renewing every time out of habit, give it half an hour online."},
+ "1435": {"0": "budget is set up, going well so far or too early to say?"},
+ "1436": {"0": "council tax letter today, the usual rise or has it gone up more?",
+          "1": "a bit more than last year, same as everyone, it always creeps up."},
+ "1437": {"0": "trying to cancel a subscription you forgot, which one is it?",
+          "1": "a streaming thing unused since march, is there a cancel button?"},
+ "1438": {"0": "remortgaging this month, is the rate better than what you had?"},
+ "1439": {"0": "payslip had a deduction you did not recognise, have you asked payroll?"},
+ "1440": {"1": "letting it ring out is best, they give up after a few weeks."},
+ "1441": {"0": "bank app locked you out again, did you fail the security questions?",
+          "1": "getting your own address wrong happens to everyone, a branch visit sorts it."},
+ "1442": {"0": "started saving for a new boiler, what are you putting by each month?",
+          "1": "two hundred a month, so a while yet, doing it slowly beats credit."},
+ "1443": {"0": "tax return due next week, nearly finished or still plenty to do?"},
+ "1444": {"0": "energy prices changed again, is it up or down this time round?"},
+ "1445": {"0": "wifi dropping in the back room, old router or the position?",
+          "1": "four years old, so probably due a change, a new one would help."},
+ "1446": {"0": "laptop fan going constantly, is it hot underneath at all or just warm?",
+          "1": "warm and full of dust, a can of air works wonders."},
+ "1447": {"0": "printer decided not to print again, is the screen showing anything useful?"},
+ "1448": {"0": "smart meter fitted today, did it go in easily enough?",
+          "1": "twenty minutes and he was gone, you will spot the greedy appliances fast."},
+ "1449": {"0": "doorbell camera alerting at night, is it foxes or the cat again?",
+          "1": "probably the cat, and next door's cat too, turn the sensitivity down."},
+ "1450": {"0": "meaning to sort out the heating timer, is it on the wrong schedule?",
+          "1": "heating coming on at three in the morning sounds about right."},
+ "1451": {"0": "phone storage completely full, is it photos again or something else?",
+          "1": "years of them and you never delete anything, move them to the cloud."},
+ "1452": {"0": "washing machine walking across the floor sounds like the feet.",
+          "1": "worse with the big towels, so an unbalanced load, try two smaller washes."},
+ "1453": {"0": "smart speaker working at last, what was the problem with it?",
+          "1": "password had a capital i in it, those little letters catch everyone."},
+ "1454": {"0": "battery lasts twenty minutes on the laptop, how many years has it done?",
+          "1": "four years is doing well, a replacement battery beats a new laptop."},
+ "1455": {"0": "broadband cutting out in the evenings, does it happen at the same time?",
+          "1": "always around eight when everyone is home, that is peak time congestion."},
+ "1456": {"0": "oven clock an hour out again, was there a power cut?",
+          "1": "briefly during the storm, so an easy fix, a two minute job."},
+ "1457": {"0": "little one started nursery this week, did the first day go ok?",
+          "1": "few tears at the door then fine, that is a normal first week."},
+ "1459": {"0": "school photos came home today, are there any decent ones this year?"},
+ "1460": {"0": "shift pattern changed at work, is it better or worse for you?",
+          "1": "worse for mornings but better for evenings, does it clash with school?"},
+ "1461": {"0": "team down to three of us now, has anyone been replaced yet?"},
+ "1463": {"0": "commute longer with the roadworks, how much extra time each way?",
+          "1": "extra twenty minutes each way adds up, is there a back route?"},
+ "1464": {"0": "started walking to the office, long walk or a short one?"},
+ "1465": {"0": "parents evening next tuesday, are you dreading it or is he fine?"},
+ "1466": {"0": "asked to mentor a new starter, is she settling in ok so far?",
+          "1": "she picks things up quickly, which makes it easy, do you get time?"},
+ "1467": {"0": "team lunch turned into a monthly thing, where do you go for it?",
+          "1": "same pub every time suits us, a regular spot is underrated."},
+ "1468": {"0": "baby finally started sleeping through, was it a long time coming?"},
+}
+
+path = "audit/changes_magpie11.json"
+json.dump(C, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+
+lines = [l for l in open("raw/small_talk_casual.jsonl", "rb").read().split(b"\r\n") if l.strip()]
+issues = []; n = 0; the_op = []
+for key, ch in C.items():
+    ln = int(key)
+    row = json.loads(lines[ln - 1])
+    asst = [t for t in row["turns"] if t["role"] == "assistant"]
+    for idx, txt in ch.items():
+        i = int(idx); n += 1
+        w = len(txt.split())
+        if not (10 <= w <= 13): issues.append((ln, i, "wordcount", w, txt))
+        if any(ord(c) > 127 for c in txt): issues.append((ln, i, "nonascii", txt))
+        if any(d in txt for d in ["\u2013", "\u2014", "\u2012", "\u2015"]): issues.append((ln, i, "dash", txt))
+        if "-" in txt: issues.append((ln, i, "hyphen", txt))
+        if any(0x2600 <= ord(c) <= 0x1FAFF for c in txt): issues.append((ln, i, "emoji", txt))
+        if i >= len(asst): issues.append((ln, i, "index-oob", len(asst)))
+        if txt.lower().startswith("the "): the_op.append((ln, i, txt))
+print(f"wrote {path}: rows={len(C)} replies={n}")
+print("issues:", len(issues))
+for it in issues: print("  ", it)
+print("the-openers:", len(the_op))
+for it in the_op: print("  ", it)

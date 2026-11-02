@@ -1,0 +1,883 @@
+L7 a0 noun=day
+   U0: how was your day?
+   BAD: the day was long but fine. busy morning, quiet afternoon, cannot complain.
+
+L12 a0 noun=weekend
+   U0: how was your weekend?
+   BAD: the weekend was really nice. market on saturday, nothing at all on sunday.
+
+L18 a0 noun=week
+   U0: how's your week been?
+   BAD: the week has been up and down. monday was a nightmare, better since.
+
+L35 a1 noun=flask
+   U1: me neither. i bought a nice flask for soup and used it twice.
+   BAD: the flask deserves better than twice, you should use it more.
+
+L40 a0 noun=garden
+   U0: how's the garden coming along?
+   BAD: the garden is coming slowly. the slugs are winning at the moment.
+
+L43 a0 noun=dentist
+   U0: how was the dentist?
+   BAD: the dentist was fine. no fillings, just a telling off about flossing.
+
+L45 a0 noun=new
+   U0: how's the new job?
+   BAD: the new job is good. friendly team and i am learning loads.
+
+L50 a0 noun=drive
+   U0: how was the drive in?
+   BAD: the drive was slow. a crash on the ring road, it took nearly twice as long.
+
+L58 a0 noun=washing
+   U0: how's the washing going?
+   BAD: the washing is endless. machine's been on twice and the pile hasn't gone down at all.
+
+L65 a0 noun=plants
+   U0: how are the plants doing?
+   BAD: the plants are mixed. tomatoes thriving, herbs dead. i have a very specific skill set.
+
+L67 a0 noun=garden
+   U0: how's the garden?
+   BAD: the garden is overgrown. i keep saying i'll sort it at the weekend and then don't.
+
+L69 a0 noun=dog
+   U0: how's the dog?
+   BAD: the dog is demanding as ever. he's worked out that staring at me gets him a walk.
+
+L70 a0 noun=cat
+   U0: how's the cat?
+   BAD: the cat is asleep on my keyboard, which is where she lives now apparently.
+
+L74 a0 noun=run
+   U0: how was the run?
+   BAD: the run was brutal. went too fast at the start and regretted it about a mile in.
+
+L83 a0 noun=new
+   U0: how's the new book?
+   BAD: the new book is really good, nearly finished. i keep staying up late for one more chapter.
+
+L89 a0 noun=kids
+   U0: how are the kids?
+   BAD: the kids are loud. one has learned to whistle and won't stop, it's been a long day.
+
+L90 a0 noun=little
+   U0: how's the little one?
+   BAD: the little one is into everything. turned my back a second and she'd emptied a drawer.
+
+L93 a0 noun=meeting
+   U0: how did the meeting go?
+   BAD: the meeting was fine. could have been an email, honestly, but at least it's done.
+
+L96 a0 noun=afternoon
+   U0: you got the afternoon off?
+   BAD: the afternoon off, i wish. no such luck, i'm stuck here till five like everyone else.
+
+L99 a0 noun=new
+   U0: how's the new place coming along?
+   BAD: the new place is getting there. i finally put up a shelf, only took me three weekends.
+
+L100 a0 noun=move
+   U0: did the move go alright?
+   BAD: the move went fine. smoother than expected, only broke one glass, which is a record.
+
+L105 a0 noun=dentist
+   U0: how was the dentist?
+   BAD: the dentist was all clear. she gave me the usual lecture about flossing and i nodded along.
+
+L120 a0 noun=coffee
+   U0: how's the coffee at the new place?
+   BAD: the coffee there is really good. i've been going every morning, it's become a bit of a habit.
+
+L121 a0 noun=coffee
+   U0: did you get the coffee machine working?
+   BAD: the coffee machine works, after a fight. i'd put the wrong beans in and it clogged up.
+
+L132 a0 noun=new
+   U0: how's the new job going?
+   BAD: the new job is going well, still learning everything though.
+
+L133 a1 noun=heating
+   U1: same, the heating was too high.
+   BAD: the heating was too high here too. i turned mine off and froze instead.
+
+L139 a0 noun=weather
+   U0: how's the weather looking for tomorrow?
+   BAD: the weather for tomorrow looks like rain, i think.
+
+L142 a0 noun=puppy
+   U0: how's the puppy settling in?
+   BAD: the puppy is settling in slowly. he cried all night.
+
+L148 a0 noun=alarm
+   U0: did the alarm go off?
+   BAD: the alarm went off, yeah, and i hit snooze about four times. classic me.
+
+L159 a0 noun=commute
+   U0: how's the commute?
+   BAD: the commute was fine today. got a seat and read the whole way, which never happens.
+
+L160 a0 noun=bus
+   U0: did the bus show up?
+   BAD: the bus showed up twenty minutes late. i was starting to think i'd imagined the timetable.
+
+L162 a0 noun=train
+   U0: was the train busy?
+   BAD: the train was heaving. i had someone's rucksack in my back the whole journey.
+
+L164 a0 noun=traffic
+   U0: traffic on the way home?
+   BAD: the traffic home was awful. took me an hour to do a fifteen minute trip.
+
+L166 a0 noun=washing
+   U0: how's the washing machine?
+   BAD: the washing machine is noisy. it's been banging away for an hour and i'm ignoring it.
+
+L170 a0 noun=cleaning
+   U0: how's the cleaning going?
+   BAD: the cleaning is going slowly. i did the bathroom and then sat down and lost the plot.
+
+L178 a0 noun=curry
+   U0: how did the curry turn out?
+   BAD: the curry turned out really good. went a bit heavy on the chilli but i like it.
+
+L184 a0 noun=plant
+   U0: how's the plant?
+   BAD: the plant on the windowsill is thriving. the other one's given up entirely.
+
+L189 a0 noun=garden
+   U0: how's the garden looking?
+   BAD: the garden is scruffy but alive. i keep meaning to tidy the borders.
+
+L195 a0 noun=delivery
+   U0: did the delivery come?
+   BAD: the delivery came, but they left it in the porch and it's raining, so we'll see.
+
+L198 a0 noun=music
+   U0: is the music still going?
+   BAD: the music stopped about eleven, so i can't really complain.
+
+L202 a0 noun=boiler
+   U0: is the boiler working?
+   BAD: the boiler works eventually. takes about an hour to get going, it's ancient.
+
+L204 a0 noun=shelf
+   U0: you put that shelf up?
+   BAD: the shelf isn't up yet. still in the box, i keep looking at the drill and walking away.
+
+L205 a0 noun=lightbulb
+   U0: how's the lightbulb situation?
+   BAD: the lightbulb situation is improving. i finally changed the one in the hall, only took a month.
+
+L216 a0 noun=week
+   U0: how's the week treating you?
+   BAD: the week is long. counting down to friday already and it's only tuesday.
+
+L218 a0 noun=morning
+   U0: how did the morning go?
+   BAD: the morning went fine until i spilled coffee on my shirt. wore it anyway.
+
+L227 a0 noun=new
+   U0: how's the new mug?
+   BAD: the new mug is ridiculous. it's the size of my head and i love it.
+
+L231 a0 noun=back
+   U0: how's the back?
+   BAD: the back is still stiff. i slept on it funny and now i'm paying for it.
+
+L255 a0 noun=morning
+   U0: how's the morning going?
+   BAD: the morning is going slowly. second coffee and still not awake.
+
+L263 a0 noun=commute
+   U0: how's the commute these days?
+   BAD: the commute is not bad now the schools are back. quieter.
+
+L269 a0 noun=plumber
+   U0: did the plumber come?
+   BAD: the plumber came, and cheaper than i feared. result.
+
+L273 a0 noun=plant
+   U0: how's the plant doing?
+   BAD: the plant is thriving. it's the only thing i haven't killed.
+
+L277 a0 noun=heating
+   U0: is your heating on?
+   BAD: the heating is on, yeah. i gave in, it's freezing.
+
+L281 a0 noun=washing
+   U0: you get the washing done?
+   BAD: the washing isn't done, no. it's still sat there staring at me.
+
+L283 a0 noun=weather
+   U0: what's the weather doing there?
+   BAD: the weather here is raining sideways. grim day for it.
+
+L287 a0 noun=washing
+   U0: how's the washing going?
+   BAD: the washing is endless. the basket refills itself overnight, i swear.
+
+L297 a0 noun=neighbours
+   U0: the neighbours are doing diy again
+   BAD: the neighbours doing diy again? at seven in the morning, that's criminal.
+
+L298 a0 noun=curry
+   U0: how did the curry go?
+   BAD: the curry went better than expected. i let it simmer longer and it made all the difference.
+
+L305 a0 noun=washing
+   U0: the washing machine ate a sock again
+   BAD: the washing machine eats socks here too. where do they go?
+
+L310 a0 noun=new
+   U0: how's the new place coming on?
+   BAD: the new place is coming slowly. still got boxes everywhere.
+
+L316 a0 noun=back
+   U0: how's the back?
+   BAD: the back is easing off. a hot bath helped more than anything else.
+
+L321 a0 noun=delivery
+   U0: did the delivery turn up?
+   BAD: the delivery turned up, but they left it in the rain.
+
+L325 a0 noun=evening
+   U0: how's your evening?
+   BAD: the evening is nice and calm. halfway through a book and in no rush to finish it.
+
+L328 a0 noun=shop
+   U0: the shop was heaving
+   BAD: the shop is always heaving on a saturday. no escape from it.
+
+L331 a0 noun=sink
+   U0: is your sink blocked?
+   BAD: the sink is blocked, yeah. i've tried everything i can think of.
+
+L331 a1 noun=plunger
+   U1: try the plunger first, honestly.
+   BAD: the plunger first, good call. i'll give it a go, thanks.
+
+L334 a0 noun=boiler
+   U0: how's the boiler?
+   BAD: the boiler is fixed, finally. hot water and heating back on.
+
+L343 a0 noun=school
+   U0: how was the school run this morning?
+   BAD: the school run was chaotic as always. my youngest lost a shoe.
+
+L347 a1 noun=usual
+   U1: brilliant. usual place?
+   BAD: the usual place, and i am having the big one today.
+
+L348 a0 noun=car
+   U0: how's the car?
+   BAD: the car is in the garage again, it is costing me a fortune.
+
+L350 a0 noun=dog
+   U0: how's the dog?
+   BAD: the dog got a new bed and now will not move from it.
+
+L351 a1 noun=ring
+   U1: same here. i sat on the ring road for half an hour.
+   BAD: the ring road gets worse every month, i might start cycling.
+
+L353 a0 noun=brother
+   U0: how's your brother getting on?
+   BAD: the brother is doing well. he moved in with his girlfriend.
+
+L415 a0 noun=morning
+   U0: how's your morning been?
+   BAD: the morning has been a slow start. i hit snooze about five times.
+
+L421 a0 noun=wifi
+   U0: what's the wifi password there?
+   BAD: the wifi password is on the router, i will text it over.
+
+L427 a0 noun=cold
+   U0: how's your cold?
+   BAD: the cold is better, thanks. still got the cough but i can breathe.
+
+L429 a1 noun=canal
+   U1: staying local i think. might finally do that walk by the canal.
+   BAD: the canal walk is nice, there is a coffee place halfway round.
+
+L431 a0 noun=trip
+   U0: how was the trip?
+   BAD: the trip was tiring but worth it, we walked ten miles on saturday.
+
+L435 a1 noun=hotel
+   U1: the beach in autumn is underrated. was the hotel decent?
+   BAD: the hotel was basic but clean, and the kids slept like logs.
+
+L442 a0 noun=lake
+   U0: we're off to the lake district on friday.
+   BAD: the lake district on friday, walking all weekend or having a lazy one?
+
+L449 a1 noun=first
+   U1: haha the first round is always humbling. what did you shoot?
+   BAD: the first round humbled me, i got my money worth out there.
+
+L455 a1 noun=ride
+   U1: oh no. was it worth it at least for the ride?
+   BAD: the ride was great, the landing was a car crash.
+
+L464 a0 noun=storm
+   U0: did you get any of that storm last night?
+   BAD: the storm took our power for an hour, so the candles came out.
+
+L464 a1 noun=kids
+   U1: oh no. kids enjoy it at least?
+   BAD: the kids thought it was christmas, i thought about the freezer.
+
+L471 a0 noun=job
+   U0: how's the job hunt going?
+   BAD: the job hunt is slow, two interviews and then a lot of silence.
+
+L478 a0 noun=dinner
+   U0: how was the dinner party?
+   BAD: the dinner party went well, lovely food and i only burned one thing.
+
+L480 a0 noun=dentist
+   U0: how did the dentist go?
+   BAD: the dentist went well, no fillings again, my greatest achievement.
+
+L485 a0 noun=boiler
+   U0: is the boiler fixed?
+   BAD: the boiler is fixed, touch wood, the engineer was here all morning.
+
+L488 a0 noun=dog
+   U0: how's the dog settling in?
+   BAD: the dog is chaos, he ate a shoe and opens the bin now.
+
+L495 a0 noun=family
+   U0: how was the family dinner on sunday?
+   BAD: the family dinner on sunday was loud and long, and full of food.
+
+L499 a0 noun=sourdough
+   U0: how's the sourdough going?
+   BAD: the sourdough is alive and demanding, i feed it more than my friends.
+
+L501 a1 noun=silence
+   U1: the silence is the best part, right?
+   BAD: the silence is the best part, i have never valued a quiet sofa.
+
+L502 a0 noun=course
+   U0: how's the course going?
+   BAD: the course is going good, nearly finished. just the final assignment left.
+
+L505 a0 noun=allotment
+   U0: how's your dad's allotment?
+   BAD: the allotment is thriving. he is giving away courgettes to anyone.
+
+L508 a0 noun=new
+   U0: how's the new phone?
+   BAD: the new phone is too clever, it does things i never asked for.
+
+L511 a0 noun=parents
+   U0: how was the parents evening?
+   BAD: the parents evening was really positive, which was a relief.
+
+L635 a0 noun=darts
+   U0: we ended up watching the darts last night.
+   BAD: the darts is secretly the best tv going. the crowd is unhinged.
+
+L639 a1 noun=fridge
+   U1: in the fridge. next to the milk. i have no memory of the transaction.
+   BAD: the fridge! mine ended up in a plant pot once and i only know that because my partner watched me do it.
+
+L657 a0 noun=boiler
+   U0: that boiler is making the noise again.
+   BAD: the boiler tapping again? that noise is the pump going, get it seen to.
+
+L659 a0 noun=hoovering
+   U0: my back is done after all that hoovering.
+   BAD: the hoovering did it then. put something warm on your back for an hour.
+
+L660 a0 noun=grass
+   U0: grass needs cutting but it rained all week.
+   BAD: the grass will keep another day. cut it saturday once it dries out.
+
+L670 a0 noun=same
+   U0: brought the same sandwich again.
+   BAD: the same sandwich every day would do me in. treat yourself friday, get something nice.
+
+L672 a0 noun=train
+   U0: train was cancelled so i walked.
+   BAD: the train cancelled and you walked? decent exercise at least, better than a cold platform.
+
+L678 a0 noun=tap
+   U0: the kitchen tap has started dripping at night.
+   BAD: the tap dripping at night is usually the washer. ten minute job if you are handy.
+
+L679 a0 noun=tomatoes
+   U0: the tomatoes finally turned red.
+   BAD: the tomatoes finally came good then? how many did you get this year?
+
+L683 a0 noun=bins
+   U0: the bins did not get collected again.
+   BAD: the bins again? was it the whole street or just yours?
+
+L683 a1 noun=whole
+   U1: whole road i think.
+   BAD: the whole road missed as well? leave the bins out, they usually catch up tomorrow.
+
+L686 a0 noun=wind
+   U0: wind nearly took the fence down.
+   BAD: the wind nearly took the fence down? was anything left standing?
+
+L698 a0 noun=wifi
+   U0: wifi keeps dropping out.
+   BAD: the wifi dropping out constantly is maddening. is it every device or one?
+
+L700 a0 noun=printer
+   U0: our printer will not connect to anything.
+   BAD: the printer refusing everything is classic. have you turned it off and on again?
+
+L708 a0 noun=new
+   U0: we tried the new place on the corner.
+   BAD: the new place on the corner finally. did it live up to the reviews?
+
+L716 a0 noun=cat
+   U0: cat woke me up at five again.
+   BAD: the cat at five again is brutal. is it hunger or just attention?
+
+L717 a0 noun=dog
+   U0: took the dog out in the rain.
+   BAD: the dog out in the rain, dedicated. did she enjoy it at least?
+
+L718 a0 noun=dog
+   U0: the dog is due at the vet.
+   BAD: the dog is due at the vet? is it just the yearly jabs?
+
+L718 a1 noun=yearly
+   U1: yeah, the yearly.
+   BAD: the yearly jabs are quick. book it now, they get busy this season.
+
+L725 a1 noun=coast
+   U1: maybe the coast.
+   BAD: the coast on a saturday, lovely. just hope the weather holds for it.
+
+L730 a1 noun=inside
+   U1: just the inside.
+   BAD: the inside takes the work, the rain keeps the outside clean anyway.
+
+L735 a1 noun=curry
+   U1: a curry.
+   BAD: the curry still works without them, add more of whatever you do have.
+
+L810 a2 noun=wanted
+   U2: a stack of paperbacks i don't need and one i've wanted for years. fair trade.
+   BAD: the wanted for years one makes the whole stack worth it. enjoy it.
+
+L819 a2 noun=memory
+   U2: one blurry blob that could be anything. the memory will have to do.
+   BAD: the memory is better than the photo anyway. mine are all blobs too.
+
+L824 a1 noun=halfway
+   U1: roll over is the dream, but he gets distracted halfway and just lies there looking pleased.
+   BAD: the halfway roll is still a good roll. give him a treat for effort.
+
+L898 a0 noun=museum
+   U0: the museum was free.
+   BAD: the museum was free, so go on a quiet weekday morning.
+
+L905 a1 noun=usual
+   U1: the usual.
+   BAD: the usual then, but do the veg on the bbq first.
+
+L907 a0 noun=school
+   U0: the school fete is next month.
+   BAD: the school fete next month always needs people on the stalls.
+
+L910 a0 noun=cinema
+   U0: we went to the cinema.
+   BAD: the cinema trailers give most of it away, still a good night.
+
+L918 a1 noun=local
+   U1: the local.
+   BAD: the local parkrun is friendly, no one cares how fast you go.
+
+L1032 a1 noun=skeleton
+   U1: cobwebs on the hedge, a skeleton in the window, and one pumpkin. restrained but committed.
+   BAD: the skeleton in the window does half the work. are you expecting many trick or treaters?
+
+L1038 a1 noun=vinegar
+   U1: hundreds. i collected a bag for my class and soaked the best one in vinegar, like we did as kids.
+   BAD: the vinegar trick! does it actually harden them or is that a myth?
+
+L1045 a1 noun=corner
+   U1: i've now booked a click and collect to the shop on the corner instead. my life is a delivery farce.
+   BAD: the corner shop collect has never let me down. mine holds everything and the staff know my name now.
+
+L1050 a2 noun=little
+   U2: the one with the little window on the side, my main requirement. it's the simple wins.
+   BAD: the little window on the side sells it for me. enjoy the fast brews.
+
+L1107 a2 noun=cutting
+   U2: paste the wall, which we now know was right, but our cutting was the problem.
+   BAD: the cutting gets everyone on the first go. the last strip will be your masterpiece.
+
+L1121 a3 noun=dame
+   U3: cinderella, with a local man as the dame who used to teach my husband.
+   BAD: the dame taught your husband! that's a local panto layered in history.
+
+L1185 a1 noun=suitcase
+   U1: hugely, then i lifted a suitcase like an idiot and undid a month of it. back to squats and shame.
+   BAD: the suitcase betrayal is how backs keep score. what's the home routine now?
+
+L1192 a0 noun=shed
+   U0: spent saturday sorting the shed.
+   BAD: the shed sort, the true test of a marriage. how many arguments?
+
+L1223 a1 noun=battered
+   U1: a battered western i'd never have bought, and it was brilliant. i left two paperbacks in exchange.
+   BAD: the battered unknown western is exactly what tells you a swap works. recycling done right.
+
+L1263 a1 noun=sun
+   U1: nothing really, just the sun was out for once.
+   BAD: the sun does that. are you going again tomorrow?
+
+L1293 a2 noun=indestructible
+   U2: mint, chives and rosemary, the indestructible trio. the group votes on the rest.
+   BAD: the indestructible trio will never let you down. herb politics at the garden committee, i can imagine.
+
+L1312 a1 noun=tea
+   U1: humbling and busy. four hours of tea, toast, and talking to people at their worst and best.
+   BAD: the tea bar at the quiet hours matters more than anyone says. do the staff look after you too?
+
+L1312 a2 noun=three
+   U2: they do, and they're exhausted. i've started leaving a pot of tea at the nurses' station at three.
+   BAD: the three o'clock pot for the nurses is a lovely thing to do. respect.
+
+L1330 a1 noun=usual
+   U1: nothing important, just the usual. but i came off the phone lighter.
+   BAD: the usual chats often do the trick. do you ring her often?
+
+L1368 a1 noun=three
+   U1: two hours before midnight, then surrendered and made tea at three. the ceiling fan is decorative at best.
+   BAD: the three am tea club is well attended in this weather. did today start slow?
+
+L1369 a1 noun=sky
+   U1: they forecast the same sky differently, it's remarkable. i go by the sky now.
+   BAD: the sky does have the best track record. what's it saying this afternoon?
+
+L1383 a1 noun=fourth
+   U1: fourth. i have started putting them in a drawer.
+   BAD: the fourth one, a drawer is good, or try bitter spray.
+
+L1386 a1 noun=cost
+   U1: the cost mostly, and whether ours would share his toys.
+   BAD: the cost and the toys are fair worries, could you foster first?
+
+L1409 a1 noun=second
+   U1: the first loaf was a brick, the second was decent.
+   BAD: the second loaf was usually better, what did you change?
+
+L1418 a1 noun=soft
+   U1: two punnets of raspberries and a bag of pears for a pound. some were soft, so it's jam tonight.
+   BAD: the soft fruit becoming jam, no waste and a jar earned. do you go every week for the shout?
+
+L1427 a2 noun=boring
+   U2: the boring global one my brother in law recommended. boring has served him very well.
+   BAD: the boring global fund, champion of patient people everywhere. your future self approves.
+
+L1431 a0 noun=bill
+   U0: splitting the restaurant bill still defeats our group.
+   BAD: the bill split never goes smoothly. what happened this time?
+
+L1443 a1 noun=form
+   U1: i have all the receipts, i just hate the form.
+   BAD: the form is the worst part, for sure. do it in two sittings.
+
+L1472 a1 noun=handsome
+   U1: videos mostly, ninety percent of it. hundreds of thirty second clips of the same dog being handsome.
+   BAD: the handsome dog archive, a worthy burden. have you tried the cloud?
+
+L1472 a2 noun=dog
+   U2: i pay for it now, and offloaded a year in one go. the phone is fast again and the dog is safe.
+   BAD: the dog preserved in the cloud, safe from all deletion. worth every penny of the subscription.
+
+L1473 a1 noun=hotel
+   U1: slightly, but i only use it on hotel and cafe wifi anyway. at home i forget it exists.
+   BAD: the hotel wifi shield, exactly the right scope. was it hard to set up?
+
+L1474 a1 noun=blue
+   U1: warm white weekdays, a soft gold for films, and once, one catastrophic blue. the family voted against blue forever.
+   BAD: the blue experiment, every smart home's cautionary tale. has the electric bill moved?
+
+L1475 a0 noun=cat
+   U0: my robot vacuum arrived and the cat is undecided.
+   BAD: the cat has not decided if it is friend or terminator. does it work though?
+
+L1475 a2 noun=sock
+   U2: one sock, which it released eventually. we're negotiating boundaries.
+   BAD: the sock hostage negotiation, every robot owner's rite of passage.
+
+L1478 a1 noun=two
+   U1: three, all different cats. but today someone spotted the actual one two streets over, under a car.
+   BAD: the two streets over car, classic lost cat behaviour. did it come home?
+
+L1479 a0 noun=skip
+   U0: a skip appeared at number nine and the neighbours circled.
+   BAD: the skip watch begins, as ever. did anything good get claimed?
+
+L1482 a1 noun=hand
+   U1: jam, eggs from my sister's hens, a hand drawn map of which shops are which, and our numbers.
+   BAD: the hand drawn shop map, that's local knowledge at its best. did they appreciate it?
+
+L1597 a0 noun=cupboard
+   U0: autumn clean began at the weekend, one cupboard at a time.
+   BAD: the cupboard by cupboard method, the only way it gets done. which one fell first?
+
+L1597 a1 noun=national
+   U1: the coat cupboard, and we found three umbrellas and a box of birthday candles. two years of national trust leaflets too.
+   BAD: the national trust leaflets are in every cupboard in britain. did the coats at least fit again?
+
+L1597 a2 noun=loft
+   U2: they did once the paddington wellingtons went to the charity bag. my son cried, so they went to the loft instead.
+   BAD: the loft rescue, that's how all beloved junk survives. well negotiated.
+
+L1600 a1 noun=seven
+   U1: cheeky as ever. one clue was just veto with seven letters, and it took me round the whole dictionary.
+   BAD: the seven letter trick, they love that one. did you finish?
+
+L1611 a1 noun=bag
+   U1: standing room only, wedged by the door with my bag doing its own journey.
+   BAD: the bag wedge, every commuter's morning. was it worth the later alarm?
+
+L1619 a1 noun=waiting
+   U1: they did, and the hall no longer looks like a waiting room. my eyes have stopped squinting at the stairs.
+   BAD: the waiting room glare, gone at last. did the bulbs cost much up front?
+
+L1643 a0 noun=taster
+   U0: found a curry house that does a taster thali on wednesdays.
+   BAD: the taster thali, a fine invention. how much?
+
+L1643 a2 noun=chef
+   U2: the lamb one, by a distance, and they told the kitchen. the chef came out and bowed slightly.
+   BAD: the chef bowing for the lamb, that's the whole evening made. i'm going next wednesday.
+
+L1648 a0 noun=annual
+   U0: carved pumpkins with the kids, our annual mess.
+   BAD: the annual pumpkin massacre, how bad was the kitchen?
+
+L1649 a0 noun=lego
+   U0: advent calendar shopping is done, two chocolate ones and a lego one.
+   BAD: the lego advent, a bigger commitment than it looks. who gets it?
+
+L1657 a2 noun=page
+   U2: monthly, with a rule against complaining if you abandon it by page fifty.
+   BAD: the page fifty abandonment clause, every marriage needs one.
+
+L1660 a1 noun=river
+   U1: mostly blurry, but two were genuinely good. one of the bridge lights doubling in the river.
+   BAD: the river doubling is what night shots are for. what did you learn?
+
+L1668 a1 noun=fourth
+   U1: badly at first, then quietly determined. his fourth button was better than mine, which i didn't tell him.
+   BAD: the fourth button better than yours, that's the teaching win. did he notice?
+
+L1707 a2 noun=hoodie
+   U2: loving it, broke and wise. she taught me two new words and took my good hoodie.
+   BAD: the hoodie tax, every parent pays it. did she eat properly at least?
+
+L1709 a1 noun=napkin
+   U1: a lemon tart from the posh bakery and their new dog, who ate a napkin mid meal.
+   BAD: the napkin eating dog at the table, every family has one. was the lunch peaceful?
+
+L1711 a0 noun=payslip
+   U0: got the first payslip call from my daughter about tax.
+   BAD: the payslip shock call, every parent takes it. how did you explain?
+
+L1711 a1 noun=napkin
+   U1: badly at first, then with a napkin diagram. she went quiet, then said so the government takes some. welcome to adulthood, love.
+   BAD: the napkin tax seminar, a rite of passage for you both. was she mollified?
+
+L1712 a1 noun=boat
+   U1: model boats, quietly, with the door shut and the radio on. my wife calls it the boat cave with affection.
+   BAD: the boat cave with affection, that's a marriage working. how many boats so far?
+
+L1712 a2 noun=sinking
+   U2: two finished, one sinking metaphorically on the bench. the third will be the masterpiece.
+   BAD: the sinking third boat, every hobbyist has one. the masterpiece is always next.
+
+L1715 a1 noun=dressing
+   U1: parked in a hedge, unharmed and undignified. the owner retrieved it sheepishly in his dressing gown.
+   BAD: the dressing gown bin rescue, a village classic. anything else blown about?
+
+L1747 a1 noun=chimney
+   U1: the man said the flashing round the chimney.
+   BAD: the chimney flashing is a common one, best done before the damp.
+
+L1760 a1 noun=rubber
+   U1: a rubber band between the driver and the head, which i learned from a video at my lowest point.
+   BAD: the rubber band trick has saved more DIYers than any tool. did the screw survive?
+
+L1768 a0 noun=dad
+   U0: watched an old film with my dad and he narrated the whole thing.
+   BAD: the dad commentary track came free was it welcome?
+
+L1771 a2 noun=joint
+   U2: one over fence placement that lasted a week. we resolved it with a joint wall.
+   BAD: the joint wall, conflict resolution via architecture. better than most governments manage.
+
+L1772 a0 noun=loft
+   U0: dug out the old board games from the loft for a rainy sunday.
+   BAD: the loft collection comes down for tours which held up best?
+
+L1775 a1 noun=plant
+   U1: nothing, and everything has been moved up a shelf. she went straight for the plant.
+   BAD: the plant is always the first casualty did the walking come out of nowhere?
+
+L1779 a1 noun=sunday
+   U1: fine until i found his old coat in the hall cupboard and had a moment. he rings every sunday now, unprompted.
+   BAD: the sunday ring, that's the parenting dividend. does the room stay as a shrine?
+
+L1780 a0 noun=street
+   U0: our street welcomed three new families this year alone.
+   BAD: the street really is growing how's the mix?
+
+L1780 a2 noun=widely
+   U2: at the barbecue, and there's a street whatsapp now with a strict no politics rule, widely ignored.
+   BAD: the widely ignored no politics rule, every group has one. the street sounds alive.
+
+L1781 a1 noun=door
+   U1: emotional at the door, fine by ten, and the baby photos did the rounds all morning. work felt smaller to her, she said.
+   BAD: the door to ten o'clock adjustment, most returners describe exactly that. is she part time now?
+
+L1786 a2 noun=bench
+   U2: the bench man is back at his bench, coffee in hand. i waved, he raised his cup. civilisation resumed.
+   BAD: the bench man and his cup, winter is officially over for the street.
+
+L1789 a1 noun=lollipop
+   U1: two days, with much beeping and one heroic man directing traffic with a lollipop.
+   BAD: the lollipop hero directing the resurfacing, every job has one. was the access a nightmare?
+
+L1790 a0 noun=week
+   U0: how's your week starting off?
+   BAD: the week is going fine, monday went better than usual, so i worry.
+
+L1793 a0 noun=quiz
+   U0: how was the quiz night?
+   BAD: the quiz night went badly, we came second last overall.
+
+L1793 a1 noun=question
+   U1: what was the question?
+   BAD: the question was name three from the ninety eight squad. we named one.
+
+L1796 a0 noun=saving
+   U0: how's the saving going?
+   BAD: the saving is going slowly. i keep dipping into it for birthdays.
+
+L1799 a0 noun=concert
+   U0: how was the concert?
+   BAD: the concert was incredible, my ears are still ringing from it.
+
+L1799 a1 noun=crowd
+   U1: what was the crowd like?
+   BAD: the crowd was up for it, everyone sang the whole last song.
+
+L1801 a1 noun=dream
+   U1: that's the dream, that.
+   BAD: the dream, i should have bought it years ago instead of suffering.
+
+L1802 a0 noun=house
+   U0: how's your sister's new house?
+   BAD: the house is lovely, huge garden and a bit of a fixer upper.
+
+L1804 a0 noun=new
+   U0: what did you think of the new cafe?
+   BAD: the new cafe is overpriced but the cake was worth it.
+
+L1808 a1 noun=shared
+   U1: fourteen, split across two cottages, with a shared meal plan that has already caused debate.
+   BAD: the shared meal plan debate, every group trip's constitutional crisis. who's cooking?
+
+L1820 a2 noun=air
+   U2: the air ambulance, which landed on our rec two years ago and saved the man from number nineteen.
+   BAD: the air ambulance from your own rec, that makes six hours feel like nothing. spin well.
+
+L1822 a1 noun=ice
+   U1: neglect, mostly, plus one ice cube a week. i read that tip and it sounded like nonsense, but she thrives on it.
+   BAD: the ice cube orchid diet, doubted and proven. where does she live?
+
+L1838 a1 noun=sellotape
+   U1: eight done before the sellotape ran out, so the rest are in a limbo of half wrapping.
+   BAD: the sellotape running out mid wrap, that's the season's first crisis. have you restocked?
+
+L1839 a1 noun=cat
+   U1: minimal so far, it's drinking well, and the smell through the house is the whole point. the cat disagrees with the whole concept.
+   BAD: the cat versus tree, the annual conflict. has he climbed it?
+
+L1840 a2 noun=hand
+   U2: half posted, half hand delivered with a knock, which is really a mini catch up.
+   BAD: the hand delivered knock, that's card writing with a conversation attached. who did you catch?
+
+L1844 a1 noun=mulled
+   U1: about fifteen, half singing, half drinking, all loud. the mulled wine does the harmonising.
+   BAD: the mulled wine harmonising effect, well documented science. do you do food too?
+
+L1844 a2 noun=cheese
+   U2: mince pies and one cheese board for the people who pretend they don't sing.
+   BAD: the cheese board for the refusers, thoughtfully provisioned. may the singing be loud and the tuning optional.
+
+L1849 a2 noun=overlap
+   U2: we overlap ten till two for meetings, then drift. honestly, output is the same or better.
+   BAD: the overlap window, flexi done properly. did anyone abuse it?
+
+L1851 a1 noun=walk
+   U1: a long walk, then a long lunch, then a nap. after that, the boat and the allotment fight for my time.
+   BAD: the walk, lunch and nap agenda, a perfect first day. is the boat ready?
+
+L1852 a2 noun=season
+   U2: completely. i look up between tasks and there's a season happening out there. the screen feels smaller somehow.
+   BAD: the season happening outside, that's the best window seat report i've heard. guard that desk.
+
+L1904 a0 noun=new
+   U0: how's the new commute?
+   BAD: the new commute is better, one bus instead of two now.
+
+L1907 a0 noun=cat
+   U0: how's the cat after the vet?
+   BAD: the cat is sulking after the vet, ignoring everyone but the food bowl.
+
+L1910 a0 noun=food
+   U0: how was the food festival?
+   BAD: the food festival was great, i ate too much and regretted nothing.
+
+L1911 a0 noun=new
+   U0: you been to the new gym yet?
+   BAD: the new gym was packed at six and dead by eight.
+
+L1912 a0 noun=book
+   U0: what's the book club reading?
+   BAD: the book club is reading that thriller everyone argued about.
+
+L1916 a0 noun=phone
+   U0: how's the phone battery holding up?
+   BAD: the phone battery is terrible, it dies by three without a charge.
+
+L1919 a0 noun=back
+   U0: how's your back doing?
+   BAD: the back is much better, thanks. the new chair helped.
+
+L1922 a0 noun=parents
+   U0: how was the parents thing at school?
+   BAD: the parents thing at school was long, two hours on tiny chairs.
+
+L1925 a0 noun=driving
+   U0: how's the driving lesson going?
+   BAD: the driving lesson went good, i did a parallel park first go.
+
+L1931 a0 noun=new
+   U0: how's the new boss settling in?
+   BAD: the new boss is fine so far, she actually listens, which is new.
+
+L1947 a1 noun=saucer
+   U1: took two days and three tests, but the last spoonful wrinkled in the saucer.
+   BAD: the saucer wrinkle test, passed down through generations.
+
+L1958 a1 noun=fruit
+   U1: by getting up like animals. it was awful. we found it in the fruit bowl.
+   BAD: the fruit bowl, a classic. mine ends up in the fridge.

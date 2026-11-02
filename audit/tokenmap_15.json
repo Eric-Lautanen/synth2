@@ -1,0 +1,791 @@
+{
+  "generated": "2026-10-10T22:15:33",
+  "corpus": {
+    "rows": 2063,
+    "assistant_turns": 4070,
+    "user_turns": 4070,
+    "files": {
+      "casual": 2001,
+      "ghetto": 62
+    }
+  },
+  "probe": {
+    "path": "C:\\github\\DBllm\\runs\\synth2\\audit\\probe_out15_final.txt",
+    "outputs": 60
+  },
+  "params": {
+    "top": 25,
+    "min_count": 8,
+    "max_n": 5,
+    "candidates": 80,
+    "derived_frames": [
+      "did the",
+      "did you",
+      "in the",
+      "is it",
+      "new neighbors",
+      "a good",
+      "do you"
+    ]
+  },
+  "headline": {
+    "the_opener": 0.0211,
+    "the_opener_user": 0.0796,
+    "copula_only": 0.0025,
+    "registers_with_attractor": 2,
+    "registers": 2
+  },
+  "attractors": [
+    {
+      "phrase": "did the",
+      "count": 125,
+      "corpus": 307.1,
+      "model": 12.0,
+      "amplify": 4.0,
+      "score": 0.3806,
+      "files": "casual 125",
+      "user": 98.3
+    },
+    {
+      "phrase": "in the",
+      "count": 176,
+      "corpus": 432.4,
+      "model": 10.0,
+      "amplify": 2.0,
+      "score": 0.2728,
+      "files": "casual 171, ghetto 5",
+      "user": 471.7
+    },
+    {
+      "phrase": "did you",
+      "count": 197,
+      "corpus": 484.0,
+      "model": 10.0,
+      "amplify": 2.0,
+      "score": 0.2616,
+      "files": "casual 192, ghetto 5",
+      "user": 348.9
+    },
+    {
+      "phrase": "is it",
+      "count": 100,
+      "corpus": 245.7,
+      "model": 8.0,
+      "amplify": 3.0,
+      "score": 0.2612,
+      "files": "casual 100",
+      "user": 41.8
+    },
+    {
+      "phrase": "the dog",
+      "count": 21,
+      "corpus": 51.6,
+      "model": 5.0,
+      "amplify": 10.0,
+      "score": 0.2209,
+      "files": "casual 21",
+      "user": 66.3
+    },
+    {
+      "phrase": "a good",
+      "count": 70,
+      "corpus": 172.0,
+      "model": 7.0,
+      "amplify": 4.0,
+      "score": 0.2191,
+      "files": "casual 69, ghetto 1",
+      "user": 22.1
+    },
+    {
+      "phrase": "do you",
+      "count": 75,
+      "corpus": 184.3,
+      "model": 7.0,
+      "amplify": 4.0,
+      "score": 0.2138,
+      "files": "casual 74, ghetto 1",
+      "user": 17.2
+    },
+    {
+      "phrase": "how did",
+      "count": 31,
+      "corpus": 76.2,
+      "model": 5.0,
+      "amplify": 7.0,
+      "score": 0.196,
+      "files": "casual 31",
+      "user": 22.1
+    },
+    {
+      "phrase": "it the",
+      "count": 34,
+      "corpus": 83.5,
+      "model": 5.0,
+      "amplify": 6.0,
+      "score": 0.1902,
+      "files": "casual 34",
+      "user": 19.7
+    },
+    {
+      "phrase": "did it",
+      "count": 34,
+      "corpus": 83.5,
+      "model": 5.0,
+      "amplify": 6.0,
+      "score": 0.1902,
+      "files": "casual 34",
+      "user": 17.2
+    },
+    {
+      "phrase": "the new",
+      "count": 35,
+      "corpus": 86.0,
+      "model": 5.0,
+      "amplify": 6.0,
+      "score": 0.1884,
+      "files": "casual 35",
+      "user": 90.9
+    },
+    {
+      "phrase": "what did",
+      "count": 41,
+      "corpus": 100.7,
+      "model": 5.0,
+      "amplify": 5.0,
+      "score": 0.1788,
+      "files": "casual 41",
+      "user": 51.6
+    },
+    {
+      "phrase": "my sister",
+      "count": 8,
+      "corpus": 19.7,
+      "model": 3.0,
+      "amplify": 17.0,
+      "score": 0.1722,
+      "files": "casual 8",
+      "user": 44.2
+    },
+    {
+      "phrase": "much did",
+      "count": 8,
+      "corpus": 19.7,
+      "model": 3.0,
+      "amplify": 17.0,
+      "score": 0.1722,
+      "files": "casual 8",
+      "user": 2.5
+    },
+    {
+      "phrase": "up the",
+      "count": 15,
+      "corpus": 36.9,
+      "model": 3.0,
+      "amplify": 9.0,
+      "score": 0.1443,
+      "files": "casual 15",
+      "user": 24.6
+    },
+    {
+      "phrase": "next time",
+      "count": 15,
+      "corpus": 36.9,
+      "model": 3.0,
+      "amplify": 9.0,
+      "score": 0.1443,
+      "files": "casual 15",
+      "user": 2.5
+    },
+    {
+      "phrase": "instead of",
+      "count": 17,
+      "corpus": 41.8,
+      "model": 3.0,
+      "amplify": 8.0,
+      "score": 0.1389,
+      "files": "casual 17",
+      "user": 24.6
+    },
+    {
+      "phrase": "i keep",
+      "count": 17,
+      "corpus": 41.8,
+      "model": 3.0,
+      "amplify": 8.0,
+      "score": 0.1389,
+      "files": "casual 17",
+      "user": 49.1
+    },
+    {
+      "phrase": "a long",
+      "count": 21,
+      "corpus": 51.6,
+      "model": 3.0,
+      "amplify": 6.0,
+      "score": 0.13,
+      "files": "casual 21",
+      "user": 14.7
+    },
+    {
+      "phrase": "at last",
+      "count": 24,
+      "corpus": 59.0,
+      "model": 3.0,
+      "amplify": 6.0,
+      "score": 0.1245,
+      "files": "casual 24",
+      "user": 71.3
+    },
+    {
+      "phrase": "well the",
+      "count": 25,
+      "corpus": 61.4,
+      "model": 3.0,
+      "amplify": 5.0,
+      "score": 0.1228,
+      "files": "casual 25",
+      "user": 0.0
+    },
+    {
+      "phrase": "from the",
+      "count": 27,
+      "corpus": 66.3,
+      "model": 3.0,
+      "amplify": 5.0,
+      "score": 0.1197,
+      "files": "casual 25, ghetto 2",
+      "user": 100.7
+    },
+    {
+      "phrase": "how much",
+      "count": 28,
+      "corpus": 68.8,
+      "model": 3.0,
+      "amplify": 5.0,
+      "score": 0.1182,
+      "files": "casual 25, ghetto 3",
+      "user": 12.3
+    },
+    {
+      "phrase": "and i",
+      "count": 29,
+      "corpus": 71.3,
+      "model": 3.0,
+      "amplify": 5.0,
+      "score": 0.1168,
+      "files": "casual 29",
+      "user": 196.6
+    },
+    {
+      "phrase": "for the",
+      "count": 138,
+      "corpus": 339.1,
+      "model": 5.0,
+      "amplify": 1.0,
+      "score": 0.1154,
+      "files": "casual 135, ghetto 3",
+      "user": 334.2
+    }
+  ],
+  "over_used": [
+    {
+      "ngram": "are you going to",
+      "n": 4,
+      "count": 8,
+      "pmi": 16.52
+    },
+    {
+      "ngram": "an early night",
+      "n": 3,
+      "count": 10,
+      "pmi": 15.53
+    },
+    {
+      "ngram": "best kind of",
+      "n": 3,
+      "count": 10,
+      "pmi": 14.21
+    },
+    {
+      "ngram": "the post office",
+      "n": 3,
+      "count": 8,
+      "pmi": 13.68
+    },
+    {
+      "ngram": "have you tried",
+      "n": 3,
+      "count": 15,
+      "pmi": 13.17
+    },
+    {
+      "ngram": "for an hour",
+      "n": 3,
+      "count": 8,
+      "pmi": 12.81
+    },
+    {
+      "ngram": "i have been",
+      "n": 3,
+      "count": 9,
+      "pmi": 11.62
+    },
+    {
+      "ngram": "the best kind",
+      "n": 3,
+      "count": 12,
+      "pmi": 11.51
+    },
+    {
+      "ngram": "a couple of",
+      "n": 3,
+      "count": 11,
+      "pmi": 11.47
+    },
+    {
+      "ngram": "how long did",
+      "n": 3,
+      "count": 9,
+      "pmi": 11.04
+    },
+    {
+      "ngram": "have you got",
+      "n": 3,
+      "count": 16,
+      "pmi": 11.01
+    },
+    {
+      "ngram": "did you find",
+      "n": 3,
+      "count": 9,
+      "pmi": 10.98
+    },
+    {
+      "ngram": "did you get",
+      "n": 3,
+      "count": 40,
+      "pmi": 10.86
+    },
+    {
+      "ngram": "has it been",
+      "n": 3,
+      "count": 8,
+      "pmi": 10.63
+    },
+    {
+      "ngram": "are you going",
+      "n": 3,
+      "count": 15,
+      "pmi": 10.48
+    },
+    {
+      "ngram": "these days",
+      "n": 2,
+      "count": 8,
+      "pmi": 9.97
+    },
+    {
+      "ngram": "post office",
+      "n": 2,
+      "count": 9,
+      "pmi": 9.94
+    },
+    {
+      "ngram": "a bit of",
+      "n": 3,
+      "count": 15,
+      "pmi": 9.89
+    },
+    {
+      "ngram": "do you go",
+      "n": 3,
+      "count": 8,
+      "pmi": 9.76
+    },
+    {
+      "ngram": "washing machine",
+      "n": 2,
+      "count": 11,
+      "pmi": 9.65
+    },
+    {
+      "ngram": "what did you",
+      "n": 3,
+      "count": 26,
+      "pmi": 9.49
+    },
+    {
+      "ngram": "on a saturday",
+      "n": 3,
+      "count": 9,
+      "pmi": 9.44
+    },
+    {
+      "ngram": "did you go",
+      "n": 3,
+      "count": 13,
+      "pmi": 9.37
+    },
+    {
+      "ngram": "was it worth",
+      "n": 3,
+      "count": 9,
+      "pmi": 9.34
+    },
+    {
+      "ngram": "in the end",
+      "n": 3,
+      "count": 14,
+      "pmi": 9.03
+    }
+  ],
+  "fanout": {
+    "did the": {
+      "registers": 1,
+      "per_register": {
+        "casual": 125
+      }
+    },
+    "in the": {
+      "registers": 2,
+      "per_register": {
+        "casual": 171,
+        "ghetto": 5
+      }
+    },
+    "did you": {
+      "registers": 2,
+      "per_register": {
+        "casual": 192,
+        "ghetto": 5
+      }
+    },
+    "is it": {
+      "registers": 1,
+      "per_register": {
+        "casual": 100
+      }
+    },
+    "the dog": {
+      "registers": 1,
+      "per_register": {
+        "casual": 21
+      }
+    },
+    "a good": {
+      "registers": 2,
+      "per_register": {
+        "casual": 69,
+        "ghetto": 1
+      }
+    },
+    "do you": {
+      "registers": 2,
+      "per_register": {
+        "casual": 74,
+        "ghetto": 1
+      }
+    },
+    "how did": {
+      "registers": 1,
+      "per_register": {
+        "casual": 31
+      }
+    },
+    "it the": {
+      "registers": 1,
+      "per_register": {
+        "casual": 34
+      }
+    },
+    "did it": {
+      "registers": 1,
+      "per_register": {
+        "casual": 34
+      }
+    },
+    "the new": {
+      "registers": 1,
+      "per_register": {
+        "casual": 35
+      }
+    },
+    "what did": {
+      "registers": 1,
+      "per_register": {
+        "casual": 41
+      }
+    },
+    "my sister": {
+      "registers": 1,
+      "per_register": {
+        "casual": 8
+      }
+    },
+    "much did": {
+      "registers": 1,
+      "per_register": {
+        "casual": 8
+      }
+    },
+    "up the": {
+      "registers": 1,
+      "per_register": {
+        "casual": 15
+      }
+    },
+    "next time": {
+      "registers": 1,
+      "per_register": {
+        "casual": 15
+      }
+    },
+    "instead of": {
+      "registers": 1,
+      "per_register": {
+        "casual": 17
+      }
+    },
+    "i keep": {
+      "registers": 1,
+      "per_register": {
+        "casual": 17
+      }
+    },
+    "a long": {
+      "registers": 1,
+      "per_register": {
+        "casual": 21
+      }
+    },
+    "at last": {
+      "registers": 1,
+      "per_register": {
+        "casual": 24
+      }
+    },
+    "well the": {
+      "registers": 1,
+      "per_register": {
+        "casual": 25
+      }
+    },
+    "from the": {
+      "registers": 2,
+      "per_register": {
+        "casual": 25,
+        "ghetto": 2
+      }
+    },
+    "how much": {
+      "registers": 2,
+      "per_register": {
+        "casual": 25,
+        "ghetto": 3
+      }
+    },
+    "and i": {
+      "registers": 1,
+      "per_register": {
+        "casual": 29
+      }
+    },
+    "for the": {
+      "registers": 2,
+      "per_register": {
+        "casual": 135,
+        "ghetto": 3
+      }
+    }
+  },
+  "openers": {
+    "assistant": {
+      "0": {
+        "a": 316,
+        "that": 145,
+        "haha": 144,
+        "the": 86,
+        "i": 82,
+        "is": 60,
+        "did": 57,
+        "your": 55,
+        "how": 53,
+        "no": 52,
+        "what": 46,
+        "good": 45,
+        "yeah": 42,
+        "two": 41,
+        "not": 34,
+        "oh": 33,
+        "one": 29,
+        "are": 29,
+        "that's": 28,
+        "was": 28
+      },
+      "1": {
+        "the": 489,
+        "a": 124,
+        "is": 113,
+        "you": 93,
+        "it": 71,
+        "and": 55,
+        "in": 40,
+        "are": 40,
+        "for": 36,
+        "minutes": 36,
+        "to": 35,
+        "on": 33,
+        "did": 29,
+        "at": 28,
+        "years": 27,
+        "of": 26,
+        "was": 26,
+        "that": 25,
+        "one": 23,
+        "real": 23
+      },
+      "2": {
+        "the": 299,
+        "is": 167,
+        "a": 113,
+        "of": 78,
+        "for": 66,
+        "and": 61,
+        "you": 55,
+        "in": 50,
+        "on": 47,
+        "to": 35,
+        "at": 35,
+        "that": 35,
+        "it": 33,
+        "one": 32,
+        "with": 32,
+        "are": 31,
+        "i": 30,
+        "was": 26,
+        "did": 25,
+        "out": 24
+      },
+      "last": {
+        "it": 225,
+        "now": 72,
+        "one": 64,
+        "time": 62,
+        "then": 57,
+        "again": 53,
+        "up": 42,
+        "you": 38,
+        "week": 37,
+        "back": 34,
+        "in": 33,
+        "out": 33,
+        "too": 29,
+        "all": 28,
+        "yet": 28,
+        "day": 26,
+        "them": 26,
+        "night": 25,
+        "first": 25,
+        "there": 25
+      }
+    },
+    "user": {
+      "0": {
+        "the": 324,
+        "i": 163,
+        "my": 160,
+        "a": 148,
+        "did": 141,
+        "how's": 86,
+        "you": 80,
+        "we": 74,
+        "our": 72,
+        "what": 69,
+        "that's": 52,
+        "how": 51,
+        "two": 46,
+        "got": 45,
+        "one": 44,
+        "it": 42,
+        "haha": 35,
+        "not": 32,
+        "just": 30,
+        "that": 30
+      },
+      "1": {
+        "the": 284,
+        "a": 178,
+        "you": 125,
+        "did": 71,
+        "is": 59,
+        "was": 57,
+        "it": 57,
+        "are": 50,
+        "to": 49,
+        "and": 49,
+        "i": 44,
+        "got": 40,
+        "my": 39,
+        "your": 33,
+        "have": 30,
+        "for": 26,
+        "in": 26,
+        "of": 25,
+        "one": 24,
+        "at": 22
+      },
+      "2": {
+        "the": 239,
+        "a": 154,
+        "and": 105,
+        "you": 69,
+        "is": 68,
+        "one": 61,
+        "in": 60,
+        "i": 57,
+        "has": 47,
+        "for": 44,
+        "of": 44,
+        "it": 43,
+        "on": 43,
+        "to": 43,
+        "was": 40,
+        "my": 37,
+        "at": 35,
+        "new": 33,
+        "got": 28,
+        "are": 27
+      },
+      "last": {
+        "it": 103,
+        "again": 86,
+        "week": 73,
+        "now": 70,
+        "today": 60,
+        "weekend": 57,
+        "morning": 49,
+        "night": 48,
+        "up": 46,
+        "year": 45,
+        "going": 30,
+        "out": 29,
+        "month": 29,
+        "saturday": 28,
+        "tonight": 26,
+        "in": 26,
+        "last": 26,
+        "off": 25,
+        "time": 23,
+        "yet": 22
+      }
+    }
+  },
+  "contractions": {
+    "corpus": 0.1263,
+    "model": 0.1333,
+    "per_register": {
+      "casual": 439,
+      "ghetto": 75
+    }
+  }
+}

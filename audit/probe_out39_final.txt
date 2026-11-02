@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs\synth2\final.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " not an hour of hand and a stir cleanos, which jobs are done??"
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " rained in on a week tomorrow, do you get an hour?"
+
+## [casual / errands] i still need to get groceries before the store closes.
+"i still need to get groceries before the store closes."
+  OUT: " speed boxes of the billing upward anyway, it is free this you you you are."
+
+## [casual / sleep] i could not fall asleep until like two last night.
+"i could not fall asleep until like two last night."
+  OUT: " a first well done now. how long did you get in?"
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " nothing to sleep, yeah, a bit. there's a back but i've been staring up then."
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " good, the weekend pays for the weekend. how long will he do it?"
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " cold day is the oneorgual, did theggggggons go too?"
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " no spot for a day number is a rough job for a slow."
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " you're right, that's no plan for the train. keep a drawer and then started."
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " dad's much better, first. she's up and it's been much, i have been sleeping from home then"
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " oh no, did the weather work or just cover in the end?"
+
+## [formal / general] how was your commute in this morning?
+"how was your commute in this morning?"
+  OUT: " that morning is fine, busy but the coffee is a good sign. just of it holds there."
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " absolute forare, yeah. it's alright, i'm sure? i might be the car."
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: " two hundredaps pre pre pre prefers right before bed gets anywhere, the email is bill."
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " have you tried the teacher a chair that went into theible timing."
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: " do you actually go, it that is work. it was, that's the whole point of a good walk."
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " good, it bags and the dog out, that's how you do one one."
+
+## [gloomy / general] nothing good on tv ever anymore.
+"nothing good on tv ever anymore."
+  OUT: " real idea how did you work, i get it out today?"
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " racks into three is just againwards you about them."
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " a midnight signal is no works for me."
+
+## [gossip / neighbors] did you hear about apartment nine upstairs?
+"did you hear about apartment nine upstairs?"
+  OUT: " yeah, this afternoon. there's always one part of the evening."
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: " billers fix at the fix is a small miracle worth noting."
+
+## [nostalgic / school] remember the candy store lines at recess?
+"remember the candy store lines at recess?"
+  OUT: " pils scout the door call right, the alarm sounds alive."
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " are coming off theeses will likeeah, go early then, well done twenty minutes."
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " my mom's is on a plan beforem while."
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " one car after the school, congratulations to the old one."
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " yeah, a bit. the hair has done, it has not gone am."
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " not much on, with the phone......"
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " which trash and checks, the the an early night stays on."
+
+## [supportive / bad news] i did not get the job, i am crushed.
+"i did not get the job, i am crushed."
+  OUT: " crushing a job job, how i do not to a."
+
+## [bored / nothing to do] i am so bored i have cleaned the whole apartment.
+"i am so bored i have cleaned the whole apartment."
+  OUT: " the evening acceptedial too much else is the whole choice."
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " your bit of tonight is a good, i've been on."
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " your car's done, he has got the best part, that is a good work."
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " real so so far. the game has been a while and a bit of a small victory."
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " i got it. you'll actuallyation and read i will bring my mos."
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " is it the kind to much or the dog?"
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " good news from the bush, quiet ones are the best an old into golfrilf after."
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " three days wait everything out the month right year"
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " tubbbbandalalal. is the son. ial the root finally passinging"
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " is theit livesualer absolutely, or getting in the storm?"
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " a new place is just coffee before bed like everyone else."
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " clips is thessing anywhere anywhere anywhere up, or gives the does up?"
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " did the school day get a nightmare, go back in yet?"
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " keeping the same time time,? what's the to do?"
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " i wait from everything and just needs a done. it a small victory at the first."
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " packed overdue is worth it, my brotheraV if you need one."
+
+## [petty / grudge] she still owes me twenty bucks from march.
+"she still owes me twenty bucks from march."
+  OUT: " twenty bucks is a good long sign for yourself. owners crossed, get the kids up."
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " earn their door take, the evening early, the counter will come out."
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: " a parcel that's real wear, a good sign. what did you get?"
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " your roof on the roof damage is the whole didn't feel better before it lasts."
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " long, a good night. i have been a long night."
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " i like that is a good one. do you get much of the days?"
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: " who is fine, give it a week, or a few days go?"
+
+## [dont_know / shrug] i have no clue, sorry.
+"i have no clue, sorry."
+  OUT: " noital pages is noital is about a classic move."
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: " for the day is the best one with the same idea, that is a good night."
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " what happens. the homework is, but it is usually quiet pans?"
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " up late on their shelf and nothing is worse than what you think."
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " how long did the new ones go for the line?"
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " oh no, i am doing doing doing doing them up to me down down down."
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " line is the drop up on sunday, not a test. good one to watch?"
+

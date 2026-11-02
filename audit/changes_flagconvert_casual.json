@@ -1,0 +1,358 @@
+{
+ "17": {
+  "a": {
+   "0": "not much new. same job, same apartment. i did start growing tomatoes though."
+  }
+ },
+ "37": {
+  "a": {
+   "0": "do not ask, i had fries for breakfast. the diet is going badly.",
+   "1": "fries for breakfast is fine, the diet starts monday as usual."
+  },
+  "u": {
+   "1": "breakfast fries are a strong choice honestly."
+  }
+ },
+ "63": {
+  "a": {
+   "0": "apartment's a state, honestly. i keep meaning to tidy and then find something else to do."
+  },
+  "u": {
+   "0": "how's the apartment looking?"
+  }
+ },
+ "295": {
+  "a": {
+   "0": "no word on the apartment yet. the landlord's slow with everything."
+  },
+  "u": {
+   "0": "any word on the apartment?"
+  }
+ },
+ "340": {
+  "a": {
+   "0": "impressive. the apartment must feel twice the size now."
+  },
+  "u": {
+   "0": "tidied the whole apartment"
+  }
+ },
+ "360": {
+  "a": {
+   "0": "cooking tonight, yeah, a stew. it's been on the hob since two and the apartment smells amazing."
+  }
+ },
+ "361": {
+  "u": {
+   "0": "is the apartment coming together?"
+  }
+ },
+ "368": {
+  "a": {
+   "0": "not been up to much. pottering about the apartment and catching up on sleep, it's been nice."
+  }
+ },
+ "394": {
+  "u": {
+   "0": "the apartment looking any better?"
+  }
+ },
+ "395": {
+  "a": {
+   "0": "not up to much today. a few bits around the apartment, then i'm free."
+  }
+ },
+ "412": {
+  "a": {
+   "1": "nice one indeed. a tidy kitchen makes the whole apartment feel better somehow."
+  },
+  "u": {
+   "0": "apartment looking better?"
+  }
+ },
+ "423": {
+  "a": {
+   "0": "i missed the game, i was on the train. how did we do?"
+  },
+  "u": {
+   "0": "did you watch the game?"
+  }
+ },
+ "433": {
+  "u": {
+   "0": "have you booked a summer vacation yet?"
+  }
+ },
+ "443": {
+  "a": {
+   "0": "no, i missed the game, tell me it was not boring nil nil.",
+   "1": "no way, five goals, i will watch the game highlights at lunch."
+  },
+  "u": {
+   "0": "did you see the game?"
+  }
+ },
+ "445": {
+  "a": {
+   "1": "someone with more knees left than us, that four hour game."
+  },
+  "u": {
+   "1": "i gave up and checked the score in bed. who wins a game that lasts four hours?"
+  }
+ },
+ "469": {
+  "a": {
+   "1": "about nine people asked about the vacation, i got bored of the story."
+  },
+  "u": {
+   "1": "glad it went okay. was everyone asking about your vacation?"
+  }
+ },
+ "507": {
+  "a": {
+   "0": "not yet, the vacation is in september when it is cheaper."
+  },
+  "u": {
+   "0": "you been on vacation this year?"
+  }
+ },
+ "525": {
+  "a": {
+   "1": "a real vacation next summer, if you don't see the money it stays."
+  },
+  "u": {
+   "1": "a real vacation next summer. if i don't see the money it doesn't get spent."
+  }
+ },
+ "647": {
+  "u": {
+   "2": "exactly. we packed up at four and i felt like i'd been on vacation."
+  }
+ },
+ "690": {
+  "a": {
+   "0": "bread coming out apartment is usually the yeast. was the yeast fresh?"
+  }
+ },
+ "798": {
+  "a": {
+   "0": "who do you share the elevator to work with then?"
+  }
+ },
+ "806": {
+  "u": {
+   "1": "cod, fries, and those scraps they throw in if you ask nicely."
+  }
+ },
+ "807": {
+  "a": {
+   "1": "mill road it is then. loyalty ends where soggy fries begin."
+  },
+  "u": {
+   "1": "the batter's gone thick and greasy and the fries sit under a lamp for hours. i've defected to the one on mill road."
+  }
+ },
+ "822": {
+  "a": {
+   "0": "a secondhand guitar, the midlife instrument move, how bad does it cool?"
+  }
+ },
+ "847": {
+  "a": {
+   "1": "leave the filler overnight, then sand the holes apartment before paint."
+  }
+ },
+ "913": {
+  "a": {
+   "0": "did we win the game last night, it has been a while."
+  },
+  "u": {
+   "0": "the game was on last night."
+  }
+ },
+ "1019": {
+  "a": {
+   "1": "first go is lucky, keep the jump cables in the trunk."
+  }
+ },
+ "1020": {
+  "a": {
+   "0": "is there anything useful left in the trunk at all?",
+   "1": "doubtful is right, empty the trunk and see what is in there."
+  },
+  "u": {
+   "0": "trunk is full of junk."
+  }
+ },
+ "1100": {
+  "a": {
+   "1": "weekdays only, so the trash sits in the trunk all week."
+  }
+ },
+ "1114": {
+  "u": {
+   "1": "rested properly. i turned my phone off and read in bed till noon, like a functioning adult on vacation."
+  }
+ },
+ "1133": {
+  "a": {
+   "1": "two missed collections is a serious backlog. does the council do a catch up run after the vacations?"
+  }
+ },
+ "1188": {
+  "u": {
+   "1": "three years late, book same week as the reminder. the nurse talked about vacations the whole time and it was over before i noticed."
+  }
+ },
+ "1191": {
+  "u": {
+   "1": "both. i found towels from my student apartment at the back. some have never been used."
+  }
+ },
+ "1203": {
+  "u": {
+   "1": "for real. the scraper has moved from the trunk to the glovebox, that's how serious it was."
+  }
+ },
+ "1210": {
+  "u": {
+   "0": "elevator sharing with a colleague from two streets over."
+  }
+ },
+ "1215": {
+  "u": {
+   "2": "two tubes, a mini pump, and a mood that is finally calm about apartments."
+  }
+ },
+ "1230": {
+  "a": {
+   "0": "watched the game last night, did you stay up or catch the highlights?"
+  },
+  "u": {
+   "0": "did you watch the game last night?"
+  }
+ },
+ "1231": {
+  "a": {
+   "1": "fries after explains the loyalty, do you play the same night weekly?"
+  },
+  "u": {
+   "1": "yeah, mostly because we all go for fries after."
+  }
+ },
+ "1244": {
+  "u": {
+   "1": "a few years, but the hills are new. i might stick to the apartment for a bit."
+  }
+ },
+ "1254": {
+  "a": {
+   "1": "ugh, top floor and no elevator. did you get much done in town?"
+  },
+  "u": {
+   "1": "i did, top floor, and the elevator was broken."
+  }
+ },
+ "1302": {
+  "a": {
+   "1": "fries as fuel and a headland view as wages. that's cycling done right. was the path busy?"
+  },
+  "u": {
+   "1": "eighteen miles of it, with two stops for fries. the headland climb is brutal but the view is the payment."
+  }
+ },
+ "1390": {
+  "a": {
+   "1": "a smaller breed suits a apartment, how much room have you got?"
+  },
+  "u": {
+   "1": "a few, but i need to be sensible about the apartment."
+  }
+ },
+ "1469": {
+  "u": {
+   "1": "vacations. four paperbacks in a suitcase versus one thin device in a pocket. the math beat my romance."
+  }
+ },
+ "1481": {
+  "a": {
+   "0": "after all that, what finally handled the noise from the apartment above?"
+  },
+  "u": {
+   "0": "noise from the apartment above finally got handled."
+  }
+ },
+ "1484": {
+  "a": {
+   "0": "finally registered with a doctor near the new apartment, did they have space?"
+  },
+  "u": {
+   "0": "finally registered with a doctor near the new apartment."
+  }
+ },
+ "1548": {
+  "a": {
+   "0": "driver could not find the apartment, did you go down to meet him?"
+  },
+  "u": {
+   "0": "delivery driver could not find the apartment."
+  }
+ },
+ "1555": {
+  "a": {
+   "0": "watched the game on saturday, terrible game, who was playing?"
+  },
+  "u": {
+   "0": "watched the game on saturday, terrible game."
+  }
+ },
+ "1557": {
+  "a": {
+   "1": "mud is the price of rugby. do you watch the games?"
+  }
+ },
+ "1637": {
+  "a": {
+   "1": "old cool beating new picture, a classic trade. will you replace it when it dies?"
+  }
+ },
+ "1640": {
+  "a": {
+   "1": "years without real fish and fries deserve this. does she go every friday?"
+  },
+  "u": {
+   "1": "my sister says indistinguishable, and she's a harsh judge after years without fish and fries. the line agrees, it's busy."
+  }
+ },
+ "1691": {
+  "a": {
+   "1": "fries in the car on a cold beach is a real day out."
+  },
+  "u": {
+   "1": "bright but freezing, we ate fries in the car."
+  }
+ },
+ "1716": {
+  "a": {
+   "2": "a rainbow over the apartments after a soaking, that's the day paying you back."
+  },
+  "u": {
+   "2": "beautiful, actually. the rainbow came out over the apartments just as the sun came back."
+  }
+ },
+ "1776": {
+  "a": {
+   "1": "booking the vacation before the results, that's confidence and insurance in one. was the exam the last hurdle?"
+  }
+ },
+ "1812": {
+  "u": {
+   "0": "the vacation photos are finally printed and in an album."
+  }
+ },
+ "1852": {
+  "a": {
+   "1": "watching a heron commute from your desk, that's a workplace perk no salary games. has it changed your days?"
+  }
+ }
+}

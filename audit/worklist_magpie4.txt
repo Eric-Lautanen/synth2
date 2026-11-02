@@ -1,0 +1,432 @@
+== line 429 b2135 [synth2-rower]
+U: got anything planned this weekend?
+A0: maybe a trip to my parents if the trains behave. you?   [11w ov=[]]
+U: staying local i think. might finally do that walk by the canal.
+A1: the canal walk is nice, there's a coffee place at the half way point.   [14w ov=['canal', 'walk']]
+
+== line 430 b2135 [synth2-rower]
+U: do you ever go anywhere on sundays?
+A0: mostly the park and the corner shop for a paper. it's become a ritual.   [14w ov=[]]
+U: that sounds nice actually. i might steal the idea.
+A1: steal away. the paper is optional, the sitting around is the fun part.   [13w ov=['steal']]
+
+== line 431 b2135 [synth2-rower]
+U: how was the trip?
+A0: tiring but worth it. we walked about ten miles on saturday and i felt it all sunday.   [17w ov=[]]
+U: ten miles is impressive. i get tired just reading that.
+A1: same. i've been walking like a penguin since sunday.   [9w ov=[]]
+
+== line 432 b2135 [synth2-rower]
+U: going anywhere for the bank holiday?
+A0: nowhere exciting. my partner's family do a big lunch so we're on hosting duty.   [14w ov=[]]
+U: hosting is work but at least there's food.
+A1: exactly. the dishwasher does most of the work anyway.   [9w ov=['work']]
+
+== line 433 b2135 [synth2-rower]
+U: have you booked a summer holiday yet?
+A0: we keep arguing between a cottage and a beach resort.   [10w ov=[]]
+U: just pick one before the prices climb.
+A1: you're right. booking it tonight before i talk myself out of it again.   [13w ov=['before']]
+
+== line 434 b2135 [synth2-rower]
+U: how was the airport?
+A0: chaos, as always. two hour queue for security and my bag got searched.   [13w ov=[]]
+U: brutal. was it the full pat down too?
+A1: yep, and the man found a forgotten pair of scissors. confiscated, of course.   [13w ov=[]]
+
+== line 435 b2135 [synth2-rower]
+U: did you get away for half term?
+A0: we took the kids to the coast for three days. windy but brilliant.   [13w ov=[]]
+U: the beach in autumn is underrated. was the hotel decent?
+A1: basic but clean. and the kids slept like logs, which is the real luxury.   [14w ov=[]]
+
+== line 436 b2135 [synth2-rower]
+U: what did you do with the long weekend?
+A0: saturday was chores, sunday we drove out to the hills, monday i did nothing at all.   [16w ov=[]]
+U: that's the correct ratio. chores saturday so the rest actually feels like rest.
+A1: exactly. sunday was hills, monday was horizontal.   [7w ov=[]]
+
+== line 437 b2135 [synth2-rower]
+U: any plans for easter?
+A0: my sister hosts this year so i just have to show up with dessert.   [14w ov=[]]
+U: the easiest job at the table. what are you bringing?
+A1: probably that lemon thing i make. my nephew calls it the good cake.   [13w ov=[]]
+
+== line 438 b2135 [synth2-rower]
+U: did you manage to get train tickets?
+A0: barely. ended up paying a fortune for a seat facing backwards.   [11w ov=[]]
+U: at least you're going. i gave up and i'm staying put.
+A1: thanks. i'll think of you while facing the wrong way.   [10w ov=[]]
+
+== line 439 b2135 [synth2-rower]
+U: how was camping?
+A0: cold the first night, then we figured out the tent and it was great.   [14w ov=[]]
+U: every camping trip has that one night of suffering.
+A1: true. after that it was just the rain we had to negotiate with.   [13w ov=[]]
+
+== line 440 b2135 [synth2-rower]
+U: are you doing anything for your birthday?
+A0: just a curry with a few friends. i'm too old for a big night out.   [15w ov=[]]
+U: a curry with friends beats a big night out anyway. less hangover, more nan bread.
+A1: exactly. and someone else does the washing up.   [8w ov=[]]
+
+== line 441 b2135 [synth2-rower]
+U: did you visit your nan?
+A0: yeah, took her shopping saturday and she made me stay for dinner. she's sneaky like that.   [16w ov=[]]
+U: haha she's got the system down. how's she doing?
+A1: sharp as ever. she beat me at cards twice.   [9w ov=[]]
+
+== line 442 b2135 [synth2-rower]
+U: we're off to the lake district on friday.
+A0: oh nice. are you walking the whole weekend or having a lazy one?   [13w ov=[]]
+U: mix of both. one big walk, then a pub day.
+A1: the pub day is what makes the walking bearable.   [9w ov=['day', 'pub']]
+
+== line 443 b2135 [synth2-rower]
+U: did you see the match?
+A0: no, i was out. tell me it wasn't another boring nil nil.   [12w ov=[]]
+U: it was actually a cracker. five goals and a missed penalty.
+A1: no way. i'll watch the highlights at lunch.   [8w ov=[]]
+
+== line 444 b2135 [synth2-rower]
+U: did your team play at the weekend?
+A0: yeah, we lost three one and i'm not discussing it.   [10w ov=[]]
+U: that bad huh. alright, moving on then.
+A1: wise. let's talk about literally anything else.   [7w ov=[]]
+
+== line 445 b2135 [synth2-rower]
+U: watch the tennis yesterday?
+A0: some of it. that semi final went on forever.   [9w ov=[]]
+U: i gave up and checked the score in bed. who wins a match that lasts four hours?
+A1: someone with more knees left than both of us.   [9w ov=[]]
+
+== line 446 b2135 [synth2-rower]
+U: are you watching the grand final on sunday?
+A0: i'll have it on while doing the dishes.   [8w ov=[]]
+U: that's the correct level of commitment.
+A1: it's how i've watched sport my whole life. the dishes come first.   [12w ov=[]]
+
+== line 447 b2135 [synth2-rower]
+U: did you catch the boxing on saturday?
+A0: tried to but the stream kept freezing.   [7w ov=[]]
+U: classic. did you end up watching it at all?
+A1: about half. then i just read the result and got on with my night.   [14w ov=[]]
+
+== line 448 b2135 [synth2-rower]
+U: how's your team doing this season?
+A0: mid table, no complaints. i'd take boring and stable over another relegation fight.   [13w ov=[]]
+U: very sensible. i'd take anything over last season's chaos.
+A1: deal. you can borrow some of my calm any weekend.   [10w ov=[]]
+
+== line 449 b2135 [synth2-rower]
+U: did you play golf on sunday?
+A0: yeah, first round of the year. i've never been so bad at something i love.   [15w ov=[]]
+U: haha the first round is always humbling. what did you shoot?
+A1: let's just say i got my money's worth out of the course.   [12w ov=[]]
+
+== line 450 b2135 [synth2-rower]
+U: anybody watching the snooker?
+A0: it's on in the background. i find it weirdly calming.   [10w ov=[]]
+U: same. it's the sport equivalent of a hot water bottle.
+A1: exactly. i doze off happy every single year.   [8w ov=[]]
+
+== line 451 b2135 [synth2-rower]
+U: did you see the race?
+A0: i fell asleep before the pit stops, again.   [8w ov=[]]
+U: every year. you should just record it and skip to the end.
+A1: i know, but then i feel like i cheated.   [9w ov=[]]
+
+== line 452 b2135 [synth2-rower]
+U: what have you been watching?
+A0: a documentary series about the deep sea. terrifying and brilliant.   [10w ov=[]]
+U: oh i couldn't. the ocean at night gives me the shivers.
+A1: fair. i watch it with all the lights on.   [9w ov=[]]
+
+== line 453 b2135 [synth2-rower]
+U: have you seen that new comedy everyone mentions?
+A0: started it last night. laughed out loud twice, which is rare for me.   [13w ov=[]]
+U: that's a good sign. i'll give it a go tonight.
+A1: do, but don't expect much from the first episode. it warms up.   [12w ov=[]]
+
+== line 454 b2135 [synth2-rower]
+U: what are you reading at the moment?
+A0: a big fat history book about rome. it's slow going but i like it.   [14w ov=[]]
+U: doesn't sound like a page turner.
+A1: it's not, but i learn a thing a night and that keeps me going.   [14w ov=[]]
+
+== line 455 b2135 [synth2-rower]
+U: did you finish that thriller?
+A0: i did, and the ending made no sense. three hours of my life gone.   [14w ov=[]]
+U: oh no. was it worth it at least for the ride?
+A1: the ride was great, the landing was a car crash.   [10w ov=['ride']]
+
+== line 456 b2135 [synth2-rower]
+U: any good podcasts lately?
+A0: i've got into one about everyday mysteries, like why we yawn.   [11w ov=[]]
+U: ooh that sounds like my kind of thing. what's the name?
+A1: i'll send you a link later. it's good background listening for chores.   [12w ov=[]]
+
+== line 457 b2135 [synth2-rower]
+U: did you watch the documentary about the volcano?
+A0: yeah, i had it on while ironing. now i'm slightly worried about volcanoes.   [13w ov=[]]
+U: that's the thing with those shows. they leave you with a new fear every week.
+A1: mine left me scared of sharks. different fears, same problem.   [10w ov=[]]
+
+== line 458 b2135 [synth2-rower]
+U: been to the cinema recently?
+A0: actually yes, first time in months. the seats recline now. when did that happen?   [14w ov=[]]
+U: haha cinemas got fancy while we weren't looking. what did you see?
+A1: that new heist film. silly, loud, exactly what i wanted.   [10w ov=[]]
+
+== line 459 b2135 [synth2-rower]
+U: what's on telly tonight?
+A0: the quiz final at eight, then i'll probably just put on some old episodes of something.   [16w ov=[]]
+U: the quiz final! i forgot. we should both watch and text each other the answers.
+A1: deal. loser buys coffee.   [4w ov=[]]
+
+== line 460 b2135 [synth2-rower]
+U: are you still listening to audiobooks on your walks?
+A0: every day. i'm on a long one about the arctic, fourteen hours in.   [13w ov=[]]
+U: fourteen hours, that's a lot of walking.
+A1: that's about a month of walks. the book has to last.   [11w ov=["that's"]]
+
+== line 461 b2135 [synth2-rower]
+U: have you read anything light lately?
+A0: just a cosy detective series set in a bookshop. zero stress, all tea and gossip.   [15w ov=[]]
+U: that sounds perfect for right now. is it a series?
+A1: yeah, about eight of them. i'm rationing myself.   [8w ov=[]]
+
+== line 462 b2135 [synth2-rower]
+U: raining there too?
+A0: it hasn't stopped since tuesday. my shoes have given up.   [10w ov=[]]
+U: same here. i've accepted that damp socks are just october now.
+A1: that's the spirit. i've started leaving two pairs by the door.   [11w ov=["i've"]]
+
+== line 463 b2135 [synth2-rower]
+U: proper cold this morning, isn't it?
+A0: freezing. i could see my breath waiting for the bus.   [10w ov=[]]
+U: winter's arrived early then. time to dig out the big coat.
+A1: already done. i look like a duvet with legs but i'm warm.   [12w ov=[]]
+
+== line 464 b2135 [synth2-rower]
+U: did you get any of that storm last night?
+A0: we lost power for about an hour. the candles came out.   [11w ov=[]]
+U: oh no. kids enjoy it at least?
+A1: they thought it was christmas. i thought about the freezer contents.   [11w ov=[]]
+
+== line 465 b2135 [synth2-rower]
+U: nice day for it, eh?
+A0: beautiful. i've eaten my lunch outside just to make the most of it.   [13w ov=[]]
+U: good for you. i've been staring at it through the office window.
+A1: come out next door, there's a bench with your name on it.   [12w ov=[]]
+
+== line 466 b2135 [synth2-rower]
+U: is it still foggy out your way?
+A0: thick as anything this morning. the bus took twice as long.   [11w ov=[]]
+U: glad i don't drive in that. did you get in late?
+A1: twenty minutes late, but nobody at work noticed so we'll say nothing.   [12w ov=['late']]
+
+== line 467 b2135 [synth2-rower]
+U: how's the heatwave treating you?
+A0: badly. my flat turns into an oven by two in the afternoon.   [12w ov=[]]
+U: mine's the same. i've been sleeping on top of the covers like a lizard.
+A1: exactly. the fan and i are inseparable at the moment.   [10w ov=[]]
+
+== line 468 b2135 [synth2-rower]
+U: work busy this week?
+A0: slammed. three deadlines landed on the same day.   [8w ov=[]]
+U: brutal. any of them moveable?
+A1: one got pushed to next week, so there's light at the end.   [12w ov=[]]
+
+== line 469 b2135 [synth2-rower]
+U: how was your first day back?
+A0: fine, actually. inbox was horrible but the tea rounds helped.   [10w ov=[]]
+U: glad it went okay. was everyone asking about your holiday?
+A1: only about nine people. i got bored of the story by the second telling.   [14w ov=[]]
+
+== line 470 b2135 [synth2-rower]
+U: did you get that promotion you were up for?
+A0: i did! found out friday. still grinning.   [7w ov=[]]
+U: that's brilliant news, well done. are they moving you to a new team?
+A1: same team but more money and one difficult person to manage. worth it.   [13w ov=['team']]
+
+== line 471 b2135 [synth2-rower]
+U: how's the job hunt going?
+A0: slow. i've had two interviews and a lot of silence.   [10w ov=[]]
+U: that's the worst part, the silence. anything else lined up?
+A1: one more next week. fingers crossed it's the one.   [9w ov=[]]
+
+== line 472 b2135 [synth2-rower]
+U: are you still doing the four day week?
+A0: yes and i'll never go back. friday is for errands and long lunches.   [13w ov=[]]
+U: that's the dream. did you have to fight for it?
+A1: a bit. i showed them i got the same work done, which was true.   [14w ov=[]]
+
+== line 473 b2135 [synth2-rower]
+U: how was the team meeting?
+A0: long. an hour that could have been three emails.   [9w ov=[]]
+U: the classic. did anyone bring up the holiday rota?
+A1: no, and i wasn't going to volunteer to sort it out either.   [12w ov=[]]
+
+== line 474 b2135 [synth2-rower]
+U: working from home today?
+A0: yeah, it's raining and the office radiator makes a horror film noise.   [12w ov=[]]
+U: haha a very valid reason. productive day so far?
+A1: decent. three meetings, one of which i declined to make tea during.   [12w ov=[]]
+
+== line 475 b2135 [synth2-rower]
+U: heads up, my job is sending me to bristol on monday.
+A0: oh fun, or is it a drag?   [7w ov=[]]
+U: it's fine, one night in a hotel and a nice expense dinner.
+A1: honestly the hotel breakfast alone makes it worth it.   [9w ov=['hotel']]
+
+== line 476 b2135 [synth2-rower]
+U: did you try that new ramen place?
+A0: yeah, last friday. it's tiny and you queue outside but it's worth it.   [13w ov=[]]
+U: how much are we talking?
+A1: about fourteen quid a bowl. not cheap but i'd go again.   [11w ov=[]]
+
+== line 477 b2135 [synth2-rower]
+U: fancy a pub lunch on saturday?
+A0: yes, i've been craving a proper roast all week.   [9w ov=[]]
+U: the one by the station does a good one. shall i book?
+A1: please do, otherwise we'll be eating at four like last time.   [11w ov=[]]
+
+== line 478 b2135 [synth2-rower]
+U: how was the dinner party?
+A0: lovely food, and i only burned one thing. progress.   [9w ov=[]]
+U: haha that's a win in my book. what did you make?
+A1: a lasagne and a lemon tart. the tart nearly didn't set but nobody noticed.   [14w ov=[]]
+
+== line 479 b2135 [synth2-rower]
+U: did you get your haircut?
+A0: yeah, she took off more than i asked but it actually suits me.   [13w ov=[]]
+U: sometimes you have to trust the barber. how short are we talking?
+A1: above the ears. i've spent the morning catching people off guard.   [11w ov=[]]
+
+== line 480 b2135 [synth2-rower]
+U: how did the dentist go?
+A0: no fillings again. i consider this my greatest life achievement.   [10w ov=[]]
+U: haha same. did they nag you about flossing?
+A1: briefly. i nodded in all the right places.   [8w ov=[]]
+
+== line 481 b2135 [synth2-rower]
+U: how was the doctor's appointment?
+A0: fine, just a routine check. my blood pressure is apparently very boring.   [12w ov=[]]
+U: boring is exactly what you want there.
+A1: that's what i told my mum and she didn't believe me.   [11w ov=[]]
+
+== line 482 b2135 [synth2-rower]
+U: did the washing machine get fixed?
+A0: yes, eventually. it was just a blocked filter, forty quid for the privilege.   [13w ov=[]]
+U: forty quid to pull some fluff out. the trades have us over a barrel.
+A1: tell me about it. but the machine works so i'll take the loss.   [13w ov=[]]
+
+== line 483 b2135 [synth2-rower]
+U: how's the painting coming along?
+A0: one wall done. it's harder than it looks on those videos.   [11w ov=[]]
+U: haha everything is. what colour did you go for?
+A1: a pale green. looks calm now, will look nervous once the kids get markers out.   [15w ov=[]]
+
+== line 484 b2135 [synth2-rower]
+U: did you put up those shelves?
+A0: i did, all by myself. only one extra hole in the wall.   [12w ov=[]]
+U: that's basically a diy success. what did you hang on them?
+A1: books and a plant that will probably die anyway.   [9w ov=[]]
+
+== line 485 b2135 [synth2-rower]
+U: is the boiler fixed?
+A0: touch wood, yes. the engineer was here all morning.   [9w ov=[]]
+U: thank goodness. was it expensive?
+A1: parts and labour it came to a bit, but cheaper than a cold house.   [14w ov=[]]
+
+== line 486 b2135 [synth2-rower]
+U: how's the flat hunting going?
+A0: we've seen six places and i've hated five of them.   [10w ov=[]]
+U: classic. was there anything close?
+A1: one was nice but the kitchen was basically a cupboard with a kettle.   [13w ov=[]]
+
+== line 487 b2135 [synth2-rower]
+U: did you manage to fix the leaking tap?
+A0: i watched two videos and bought a washer and yes, i fixed it.   [13w ov=[]]
+U: look at you. any leaks left?
+A1: none that i know about, which either means i'm good or i've missed it.   [14w ov=[]]
+
+== line 488 b2135 [synth2-rower]
+U: how's the dog settling in?
+A0: chaos. he's eaten a shoe and learned to open the bin.   [11w ov=[]]
+U: haha that's a smart dog problem. walkies going okay?
+A1: twice a day whether it rains or not. my step count has never been better.   [15w ov=[]]
+
+== line 489 b2135 [synth2-rower]
+U: is your cat still ignoring everyone?
+A0: she's warmed up to my flatmate and now ignores me specifically.   [11w ov=[]]
+U: cats pick the least available person, always.
+A1: she's determined to prove that theory right.   [7w ov=[]]
+
+== line 490 b2135 [synth2-rower]
+U: did you get a fish tank in the end?
+A0: we did, tropical ones. very relaxing to watch at night.   [10w ov=[]]
+U: how many have you got?
+A1: nine. we named the biggest one kevin. he bullies the others.   [11w ov=[]]
+
+== line 491 b2135 [synth2-rower]
+U: still walking the dog along the river?
+A0: every morning. he's got a best friend now, a labrador called moose.   [12w ov=[]]
+U: haha moose. does he live nearby?
+A1: two streets over. the owners have become friends by default.   [10w ov=[]]
+
+== line 492 b2135 [synth2-rower]
+U: did you hear from your brother?
+A0: he called yesterday. the baby's walking now, so nothing in that house is safe.   [14w ov=[]]
+U: haha that stage goes fast. how's he coping with it?
+A1: tired but happy. he sends videos that are ninety percent furniture falling over.   [13w ov=[]]
+
+== line 493 b2135 [synth2-rower]
+U: how's your dad doing after the operation?
+A0: much better, he's driving again and complaining about everything, which is his normal.   [13w ov=[]]
+U: that's the best sign possible. give him my best.
+A1: will do, he'll pretend he doesn't remember you but he will.   [11w ov=[]]
+
+== line 494 b2135 [synth2-rower]
+U: anything new with your sister?
+A0: she's learning the piano at forty two and she's actually good.   [11w ov=[]]
+U: good for her. has she played for you yet?
+A1: over the phone, badly, on purpose. she's got a great sense of humour about it.   [15w ov=[]]
+
+== line 495 b2135 [synth2-rower]
+U: how was the family dinner on sunday?
+A0: loud, long and full of food. my uncle told his kennedy story again.   [13w ov=[]]
+U: haha you all let him?
+A1: we timed it. seven minutes without breathing. it's tradition now.   [10w ov=[]]
+
+== line 496 b2135 [synth2-rower]
+U: did your mum like the present?
+A0: she loved it. she's already worn the scarf to the shops twice.   [12w ov=[]]
+U: that's a hit then. how's she keeping otherwise?
+A1: very well. she's got more social plans than me.   [9w ov=[]]
+
+== line 497 b2135 [synth2-rower]
+U: are you still going to that pottery class?
+A0: yeah, tuesdays. i've made four bowls, all slightly wonky.   [9w ov=[]]
+U: wonky bowls are the best kind. are you eating out of them?
+A1: absolutely. food tastes more earned out of a wonky bowl.   [10w ov=['out', 'wonky']]
+
+== line 498 b2135 [synth2-rower]
+U: did you ever get back into running?
+A0: sort of. twice a week, short runs, no races.   [9w ov=[]]
+U: that's the sustainable way. still hating it?
+A1: less than before. there's one hill i still hate with my whole heart.   [13w ov=['still']]
+
+== line 499 b2135 [synth2-rower]
+U: how's the sourdough going?
+A0: alive and demanding. i feed it more often than i text my friends.   [13w ov=[]]
+U: haha that's commitment. is the bread any good?
+A1: third loaf was genuinely good. the first two were doorstops.   [10w ov=['good']]
+
+== line 500 b2135 [synth2-rower]
+U: still doing the crosswords?
+A0: every sunday with my coffee. i got stuck on a bird one for an hour.   [15w ov=[]]
+U: what was it?
+A1: a four letter bird i've never heard of. i looked it up and felt cheated.   [15w ov=[]]
+

@@ -1,0 +1,51 @@
+batch 2645 zero pairs: 50
+1555|0|watched the match on saturday, terrible game.|who was playing?
+1556|0|joined a darts league at the pub.|are you any good?
+1557|0|my son has started playing rugby.|is he enjoying it?
+1558|0|tickets for the cricket in july arrived.|a whole day of it?
+1559|0|playing chess online most evenings now.|are you winning?
+1560|0|the football was called off for rain.|did you travel far for it?
+1560|1|forty minutes each way, and they called it off ten minutes before kick off.|that is gutting after the drive. will it be replayed?
+1561|0|started watching the cycling tour.|do you follow it properly?
+1562|0|we have a table tennis table at work now.|anyone actually use it?
+1563|0|went to the snooker club with my dad.|he still playing?
+1563|1|twice a week, and he still beats me comfortably.|he has had the practice. do you go often?
+1564|0|my team lost on penalties again.|watch it live?
+1565|0|trying to learn the rules of american football.|how is that going?
+1565|1|badly. i understand the running and not much else.|it takes a while. do you watch it with someone who knows?
+1566|0|played rounders with the kids in the park.|win or lose?
+1567|0|started a new series last night.|what is it about?
+1567|1|some detective in a small town. i have seen the plot before but i do not mind.|comfort viewing has its place. how many episodes?
+1568|0|went to the cinema for the first time in ages.|see anything good?
+1569|0|podcast backlog has got out of hand.|how far behind are you?
+1570|0|the book i am reading has stalled.|is it not gripping you?
+1571|0|they have cancelled the show i liked.|was it on a cliffhanger?
+1571|1|mid story, yes. no ending, just gone.|cancellations like that are infuriating. will you watch anything else of theirs?
+1572|0|listening to a lot of old music lately.|which era?
+1572|1|things from when i was at school. it is pure nostalgia and i know it.|nothing wrong with that. do you have it on vinyl?
+1573|0|the radio in the car is stuck on one station.|can you not change it?
+1573|1|knob came off months ago and i have never got round to it.|you have got used to it then. what station is it?
+1574|0|watched a documentary about deep sea fish.|learn anything new?
+1574|1|fascinating, and slightly horrifying. some of them look made up.|it is basically another planet down there. would you watch more?
+1575|0|i am rewatching a comedy from years ago.|it still hold up?
+1575|1|mostly, though a few jokes have not aged well.|that happens to the best of them. how far in are you?
+1576|0|new record player for my birthday.|have you got many records?
+1577|0|the film was three hours long.|worth the length?
+1577|1|not really. an hour could have gone and nothing lost.|three hours needs to earn it. did you stay to the end?
+1578|0|i have got into watching old quiz shows.|on in the afternoon, are they?
+1578|1|those, yes. i answer them out loud and get most of them wrong.|shouting at the telly is half the fun. do you have a favourite?
+1579|0|did the big shop this morning.|busy in there?
+1580|0|returned a coat that did not fit.|any trouble with the refund?
+1580|1|none at all. they did not even ask why.|that is how it should be. did you get something else?
+1581|1|none. either they are ugly or they cost a fortune.|boots are always one or the other. will you keep looking?
+1582|0|the charity shop had a real bargain today.|come away with much?
+1583|0|spent ages in the queue at the post office.|big parcel?
+1584|0|my trolley had a wobbly wheel.|did you swap it?
+1584|1|not until the end, and by then i was too committed.|a wobbly trolley all the way round is annoying. what did you buy?
+1585|0|ordered some bits for the garden.|from a proper nursery?
+1586|0|the supermarket was out of the bread i like.|get a substitute?
+1587|0|i always forget something on the list.|which one this time?
+1588|0|had my shoes repaired instead of replacing them.|was that cheaper?
+1588|1|fifteen pounds against eighty for new ones. no contest.|repairing is nearly always worth it. did they do a good job?
+1589|0|the market was heaving on saturday.|get much?
+1590|0|i am slowly replacing things with second hand.|bought anything nice?

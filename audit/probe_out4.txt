@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs/synth2/best.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " the whole time. the one is still still not not not not good."
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " a good ones? that's one to be the one one the one one the one one the one one the one one"
+
+## [ghetto / greeting] yo you good? long time no see.
+"yo you good? long time no see."
+  OUT: " that's a good good. the one is always a good good good good."
+
+## [ghetto / money] they taxed my whole paycheck again.
+"they taxed my whole paycheck again."
+  OUT: " did you get a good? that's one to do, i'm not a good one."
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " yeah, it's been a good good good good one. i'm not a good one."
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " good good good. it's been on it and i'm not not not not good."
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " do it is a good. it's been a good good good good."
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " did you get a good? that's good good. get a good good good good."
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " good. it is still out for the one. i'm been on the one in it."
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " yeah, i've been up and i'm not good for it."
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " did you get? that's been on the one and the whole time."
+
+## [formal / general] how was your journey in this morning?
+"how was your journey in this morning?"
+  OUT: " yeah, i'm not not a good one. i'm not a good one."
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " that is a good? that's the one, i'm not a good one. how's the one are it in"
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: "? the whole time is a good ones?, a good one in the whole time."
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " good? i'm not good. i've been been on the one to that way."
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: ""
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " that is still a good good. i'm been been a good good good."
+
+## [gloomy / general] nothing good on telly ever anymore.
+"nothing good on telly ever anymore."
+  OUT: " i'll be it?, which is the one. i'm not a good one."
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " did the whole time? i'm not good. that is the one to do it."
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " how's it? it's in the one. i'm not not not not good for it."
+
+## [gossip / neighbours] did you hear about flat nine upstairs?
+"did you hear about flat nine upstairs?"
+  OUT: " i've got, which is still not a good one. i'm got the one to do and i'm not not"
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: " you get a good ones? that's the one i'm not good one."
+
+## [nostalgic / school] remember the tuck shop queues at break?
+"remember the tuck shop queues at break?"
+  OUT: " that's been a bit of the whole time. i'm not good for it."
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " a good. i'm not good for it. i'm not a good one to do?"
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " yeah, the whole. i'm up and it's been on my mum to do on."
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " yeah, i've been up and i'm not not a good one."
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " yeah, it's been a good good good good good."
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " i'm not a good one. i'm not good for it."
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " i'm on a good one. it's a good good good good."
+
+## [supportive / bad news] i did not get the job, i am gutted.
+"i did not get the job, i am gutted."
+  OUT: " the whole time? that's the one i'm not a good one."
+
+## [bored / nothing to do] i am so bored i have cleaned the whole flat.
+"i am so bored i have cleaned the whole flat."
+  OUT: " good ones is it? that's that. the whole problem."
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " how's in it? i'm not a good one. that's the one you will be be be be a good"
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " the one one one onely. the one are are be a good good one for me."
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " that's it. i'm not not not not not good for it."
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " i'm, and i'm on. i'm not a good one to the one."
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " good. i'm not a good one to do?"
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " good ones is it not not not good. how's the one?"
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " how did you get? that's the one. the one are are do it on."
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " a good. the whole time in a good. the whole time is a good good one."
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " the whole time? that's the one out of the one the one the one the one the one that's that i"
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " how did you get? that's it i'm not good."
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " how's the one?, that's the one did you're're still on."
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " good ones are in it, it's a good night."
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " good? that's been on the one of the one."
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " yeah, just a good good. i'm not good for it."
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " i'm not a good. i'm not good, but i'm not a good one."
+
+## [petty / grudge] she still owes me twenty quid from march.
+"she still owes me twenty quid from march."
+  OUT: " haha the whole time is the whole time for the one."
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " the whole time?"
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: " a good ones? that's good good good. be be be be a good good good good."
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " haha the whole time? i'm not good. good of them out."
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " yeah, that's on. good good good good good good good."
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " good? that's that good. not the one is a good good good good."
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: " i'm not, i've been on the one and it's been, i'm not a good one."
+
+## [dont_know / shrug] i have not got a clue, sorry.
+"i have not got a clue, sorry."
+  OUT: " good good. it is in the one of it. i'm been up and it's been on the one of the"
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: " how did you get? that's the one one that i'm not a good one."
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " did you get? that's good. be be be be be be be be a good good good."
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " did you get a good ones? that's good ones. good good ones are it."
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " good ones is the whole time? that's on my mum than i'm not good."
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " you will be be be be be the one one one one one one one one one one one one one one one or"
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " how many many many many many many many many many many many many many many many many many many many many many many many"
+

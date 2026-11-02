@@ -1,0 +1,1459 @@
+{
+ "updated": "2026-10-26 01:15:40",
+ "current_category": "formal",
+ "counts": {
+  "casual": 2001,
+  "lazy": 2001,
+  "angry": 2000,
+  "sexy": 2046,
+  "formal": 1677,
+  "sarcastic": 0,
+  "excited": 0,
+  "gloomy": 0,
+  "anxious": 0,
+  "gossip": 0,
+  "nostalgic": 0,
+  "philosophical": 0,
+  "teasing": 0,
+  "supportive": 0,
+  "bored": 0,
+  "curious": 0,
+  "deflecting": 0,
+  "ranting": 0,
+  "flirty": 0,
+  "sullen": 0,
+  "celebratory": 0,
+  "confused": 0,
+  "petty": 0,
+  "weird": 0,
+  "greetings": 0,
+  "dont_know": 0,
+  "thanks": 0,
+  "apology": 0,
+  "goodbye": 0
+ },
+ "min_rows_per_file": 2000,
+ "last_append": {
+  "category": "formal",
+  "rows": 25,
+  "batch_no": 4970,
+  "writer": "fable",
+  "time": "2026-10-26 01:15:40"
+ },
+ "history": [
+  {
+   "category": "casual",
+   "rows": 20,
+   "batch_no": 2000,
+   "writer": "curator",
+   "time": "2026-10-07 12:17:26"
+  },
+  {
+   "category": "casual",
+   "rows": 12,
+   "batch_no": 2015,
+   "writer": "curator",
+   "time": "2026-10-07 12:35:26"
+  },
+  {
+   "category": "casual",
+   "rows": 13,
+   "batch_no": 2030,
+   "writer": "curator",
+   "time": "2026-10-07 12:50:04"
+  },
+  {
+   "category": "casual",
+   "rows": 100,
+   "batch_no": 2045,
+   "writer": "Fable",
+   "time": "2026-10-07 12:51:40"
+  },
+  {
+   "category": "casual",
+   "rows": 106,
+   "batch_no": 2060,
+   "writer": "Fable",
+   "time": "2026-10-07 12:55:20"
+  },
+  {
+   "category": "casual",
+   "rows": 89,
+   "batch_no": 2075,
+   "writer": "Fable",
+   "time": "2026-10-07 12:59:39"
+  },
+  {
+   "category": "casual",
+   "rows": 14,
+   "batch_no": 2090,
+   "writer": "curator",
+   "time": "2026-10-07 12:59:41"
+  },
+  {
+   "category": "casual",
+   "rows": 60,
+   "batch_no": 2105,
+   "writer": "Fable",
+   "time": "2026-10-07 13:01:41"
+  },
+  {
+   "category": "casual",
+   "rows": 14,
+   "batch_no": 2120,
+   "writer": "curator",
+   "time": "2026-10-07 13:09:07"
+  },
+  {
+   "category": "casual",
+   "rows": 72,
+   "batch_no": 2135,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 13:11:41"
+  },
+  {
+   "category": "casual",
+   "rows": 13,
+   "batch_no": 2150,
+   "writer": "curator",
+   "time": "2026-10-07 13:17:43"
+  },
+  {
+   "category": "casual",
+   "rows": 45,
+   "batch_no": 2165,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 13:21:19"
+  },
+  {
+   "category": "casual",
+   "rows": 72,
+   "batch_no": 2180,
+   "writer": "Fable",
+   "time": "2026-10-07 13:24:52"
+  },
+  {
+   "category": "casual",
+   "rows": 26,
+   "batch_no": 2195,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 13:29:17"
+  },
+  {
+   "category": "casual",
+   "rows": 72,
+   "batch_no": 2210,
+   "writer": "Fable",
+   "time": "2026-10-07 13:31:49"
+  },
+  {
+   "category": "casual",
+   "rows": 72,
+   "batch_no": 2225,
+   "writer": "Fable",
+   "time": "2026-10-07 13:36:36"
+  },
+  {
+   "category": "casual",
+   "rows": 38,
+   "batch_no": 2240,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 13:38:36"
+  },
+  {
+   "category": "casual",
+   "rows": 82,
+   "batch_no": 2255,
+   "writer": "Fable",
+   "time": "2026-10-07 13:44:24"
+  },
+  {
+   "category": "casual",
+   "rows": 30,
+   "batch_no": 2270,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 13:46:33"
+  },
+  {
+   "category": "casual",
+   "rows": 17,
+   "batch_no": 2285,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 13:52:28"
+  },
+  {
+   "category": "casual",
+   "rows": 60,
+   "batch_no": 2300,
+   "writer": "Fable",
+   "time": "2026-10-07 13:52:28"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2315,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 13:55:57"
+  },
+  {
+   "category": "casual",
+   "rows": 21,
+   "batch_no": 2330,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:11:56"
+  },
+  {
+   "category": "casual",
+   "rows": 40,
+   "batch_no": 2345,
+   "writer": "Fable",
+   "time": "2026-10-07 14:14:26"
+  },
+  {
+   "category": "casual",
+   "rows": 20,
+   "batch_no": 2360,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:16:26"
+  },
+  {
+   "category": "casual",
+   "rows": 17,
+   "batch_no": 2375,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:21:01"
+  },
+  {
+   "category": "casual",
+   "rows": 40,
+   "batch_no": 2390,
+   "writer": "Fable",
+   "time": "2026-10-07 14:22:18"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2405,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:24:18"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2420,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:29:13"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2435,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:31:30"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2450,
+   "writer": "Fable",
+   "time": "2026-10-07 14:36:51"
+  },
+  {
+   "category": "casual",
+   "rows": 15,
+   "batch_no": 2465,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:38:51"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2480,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:41:32"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2495,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 14:48:59"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2510,
+   "writer": "Fable",
+   "time": "2026-10-07 14:51:18"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2525,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 15:00:33"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2540,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 15:08:30"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2555,
+   "writer": "Fable",
+   "time": "2026-10-07 15:08:40"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2570,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 15:14:44"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2585,
+   "writer": "Fable",
+   "time": "2026-10-07 15:16:02"
+  },
+  {
+   "category": "casual",
+   "rows": 14,
+   "batch_no": 2600,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 15:20:38"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2615,
+   "writer": "Fable",
+   "time": "2026-10-07 15:23:30"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2630,
+   "writer": "Fable",
+   "time": "2026-10-07 15:36:04"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2645,
+   "writer": "Fable",
+   "time": "2026-10-07 15:42:08"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2660,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 15:47:50"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2675,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 15:55:36"
+  },
+  {
+   "category": "casual",
+   "rows": 15,
+   "batch_no": 2690,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:00:46"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2705,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:04:35"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2720,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:07:13"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2735,
+   "writer": "Fable",
+   "time": "2026-10-07 16:07:18"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2750,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:14:23"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2765,
+   "writer": "Fable",
+   "time": "2026-10-07 16:19:35"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2780,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:21:58"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2795,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:32:36"
+  },
+  {
+   "category": "casual",
+   "rows": 15,
+   "batch_no": 2810,
+   "writer": "curator",
+   "time": "2026-10-07 16:36:02"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2825,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:38:29"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2840,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:41:06"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2855,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 16:44:07"
+  },
+  {
+   "category": "casual",
+   "rows": 15,
+   "batch_no": 2870,
+   "writer": "curator",
+   "time": "2026-10-07 16:56:52"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2885,
+   "writer": "Fable",
+   "time": "2026-10-07 16:59:41"
+  },
+  {
+   "category": "casual",
+   "rows": 15,
+   "batch_no": 2900,
+   "writer": "curator",
+   "time": "2026-10-07 17:06:02"
+  },
+  {
+   "category": "casual",
+   "rows": 14,
+   "batch_no": 2915,
+   "writer": "curator",
+   "time": "2026-10-07 17:14:58"
+  },
+  {
+   "category": "casual",
+   "rows": 17,
+   "batch_no": 2930,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 17:46:13"
+  },
+  {
+   "category": "casual",
+   "rows": 16,
+   "batch_no": 2945,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 17:49:54"
+  },
+  {
+   "category": "casual",
+   "rows": 36,
+   "batch_no": 2960,
+   "writer": "Fable",
+   "time": "2026-10-07 17:51:53"
+  },
+  {
+   "category": "ghetto",
+   "rows": 15,
+   "batch_no": 2975,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 18:05:03"
+  },
+  {
+   "category": "ghetto",
+   "rows": 14,
+   "batch_no": 2990,
+   "writer": "synth2-rower",
+   "time": "2026-10-07 18:11:08"
+  },
+  {
+   "category": "ghetto",
+   "rows": 33,
+   "batch_no": 3005,
+   "writer": "fable",
+   "time": "2026-10-10 19:29:44"
+  },
+  {
+   "category": "lazy",
+   "rows": 60,
+   "batch_no": 2975,
+   "writer": "fable",
+   "time": "2026-10-11 00:19:23"
+  },
+  {
+   "category": "lazy",
+   "rows": 65,
+   "batch_no": 2990,
+   "writer": "fable",
+   "time": "2026-10-11 00:36:47"
+  },
+  {
+   "category": "lazy",
+   "rows": 65,
+   "batch_no": 3005,
+   "writer": "fable",
+   "time": "2026-10-11 00:58:48"
+  },
+  {
+   "category": "lazy",
+   "rows": 65,
+   "batch_no": 3020,
+   "writer": "fable",
+   "time": "2026-10-11 01:11:13"
+  },
+  {
+   "category": "lazy",
+   "rows": 65,
+   "batch_no": 3035,
+   "writer": "fable",
+   "time": "2026-10-11 01:23:30"
+  },
+  {
+   "category": "lazy",
+   "rows": 66,
+   "batch_no": 3050,
+   "writer": "fable",
+   "time": "2026-10-11 13:28:43"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3065,
+   "writer": "fable",
+   "time": "2026-10-11 14:34:58"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3080,
+   "writer": "fable",
+   "time": "2026-10-11 15:03:38"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3095,
+   "writer": "fable",
+   "time": "2026-10-11 15:26:51"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3110,
+   "writer": "fable",
+   "time": "2026-10-11 16:16:23"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3125,
+   "writer": "fable",
+   "time": "2026-10-11 16:33:00"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3140,
+   "writer": "fable",
+   "time": "2026-10-11 17:37:14"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3155,
+   "writer": "fable",
+   "time": "2026-10-11 17:37:15"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3170,
+   "writer": "fable",
+   "time": "2026-10-14 20:57:10"
+  },
+  {
+   "category": "lazy",
+   "rows": 63,
+   "batch_no": 3185,
+   "writer": "fable",
+   "time": "2026-10-14 21:04:13"
+  },
+  {
+   "category": "lazy",
+   "rows": 60,
+   "batch_no": 3200,
+   "writer": "fable",
+   "time": "2026-10-14 21:25:07"
+  },
+  {
+   "category": "lazy",
+   "rows": 61,
+   "batch_no": 3215,
+   "writer": "fable",
+   "time": "2026-10-14 21:45:36"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3230,
+   "writer": "fable",
+   "time": "2026-10-14 22:30:54"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3245,
+   "writer": "fable",
+   "time": "2026-10-14 23:07:16"
+  },
+  {
+   "category": "lazy",
+   "rows": 63,
+   "batch_no": 3260,
+   "writer": "fable",
+   "time": "2026-10-14 23:30:55"
+  },
+  {
+   "category": "lazy",
+   "rows": 66,
+   "batch_no": 3275,
+   "writer": "fable",
+   "time": "2026-10-15 00:24:07"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3290,
+   "writer": "fable",
+   "time": "2026-10-15 00:46:36"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3305,
+   "writer": "fable",
+   "time": "2026-10-15 01:01:52"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3320,
+   "writer": "fable",
+   "time": "2026-10-15 01:43:16"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3335,
+   "writer": "fable",
+   "time": "2026-10-15 02:06:20"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3350,
+   "writer": "fable",
+   "time": "2026-10-15 02:19:35"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3365,
+   "writer": "fable",
+   "time": "2026-10-15 03:22:20"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3380,
+   "writer": "fable",
+   "time": "2026-10-15 03:52:29"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3395,
+   "writer": "fable",
+   "time": "2026-10-15 04:10:50"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3410,
+   "writer": "fable",
+   "time": "2026-10-15 04:57:30"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3425,
+   "writer": "fable",
+   "time": "2026-10-15 05:34:09"
+  },
+  {
+   "category": "lazy",
+   "rows": 62,
+   "batch_no": 3440,
+   "writer": "fable",
+   "time": "2026-10-15 05:50:30"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3455,
+   "writer": "Fable2",
+   "time": "2026-10-15 05:52:32"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3470,
+   "writer": "Fable2",
+   "time": "2026-10-15 05:52:42"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3485,
+   "writer": "fable",
+   "time": "2026-10-15 06:42:06"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3500,
+   "writer": "fable",
+   "time": "2026-10-15 07:05:59"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3515,
+   "writer": "fable",
+   "time": "2026-10-15 08:22:17"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3530,
+   "writer": "fable",
+   "time": "2026-10-15 11:40:38"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3545,
+   "writer": "fable",
+   "time": "2026-10-15 13:43:41"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3560,
+   "writer": "fable",
+   "time": "2026-10-15 14:17:44"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3575,
+   "writer": "fable",
+   "time": "2026-10-15 15:14:11"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3590,
+   "writer": "fable",
+   "time": "2026-10-15 17:40:40"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3605,
+   "writer": "fable",
+   "time": "2026-10-15 18:41:04"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3620,
+   "writer": "fable",
+   "time": "2026-10-15 19:15:56"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3635,
+   "writer": "fable",
+   "time": "2026-10-16 02:06:15"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3650,
+   "writer": "fable",
+   "time": "2026-10-16 02:29:17"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3665,
+   "writer": "fable",
+   "time": "2026-10-16 03:12:23"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3680,
+   "writer": "fable",
+   "time": "2026-10-16 03:36:03"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3695,
+   "writer": "fable",
+   "time": "2026-10-16 05:19:23"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3710,
+   "writer": "fable",
+   "time": "2026-10-16 07:02:50"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3725,
+   "writer": "fable",
+   "time": "2026-10-16 08:24:18"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3740,
+   "writer": "fable",
+   "time": "2026-10-16 08:59:49"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3755,
+   "writer": "fable",
+   "time": "2026-10-16 10:02:53"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3770,
+   "writer": "fable",
+   "time": "2026-10-16 10:36:45"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3785,
+   "writer": "fable",
+   "time": "2026-10-16 11:41:15"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3800,
+   "writer": "fable",
+   "time": "2026-10-16 12:16:05"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3815,
+   "writer": "fable",
+   "time": "2026-10-16 14:49:25"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3830,
+   "writer": "fable",
+   "time": "2026-10-16 15:29:58"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3845,
+   "writer": "fable",
+   "time": "2026-10-16 16:41:28"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3860,
+   "writer": "fable",
+   "time": "2026-10-16 17:13:29"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3875,
+   "writer": "fable",
+   "time": "2026-10-16 17:50:26"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3890,
+   "writer": "fable",
+   "time": "2026-10-16 19:31:32"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3905,
+   "writer": "fable",
+   "time": "2026-10-17 04:49:35"
+  },
+  {
+   "category": "angry",
+   "rows": 62,
+   "batch_no": 3920,
+   "writer": "fable",
+   "time": "2026-10-17 06:32:18"
+  },
+  {
+   "category": "angry",
+   "rows": 16,
+   "batch_no": 3935,
+   "writer": "fable",
+   "time": "2026-10-17 06:55:00"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 3950,
+   "writer": "fable",
+   "time": "2026-10-17 09:21:42"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 3965,
+   "writer": "fable",
+   "time": "2026-10-17 10:27:58"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 3980,
+   "writer": "fable",
+   "time": "2026-10-17 10:28:07"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 3995,
+   "writer": "fable",
+   "time": "2026-10-17 13:07:22"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4010,
+   "writer": "fable",
+   "time": "2026-10-17 15:36:17"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4025,
+   "writer": "fable",
+   "time": "2026-10-17 18:18:46"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4040,
+   "writer": "fable",
+   "time": "2026-10-17 21:28:59"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4055,
+   "writer": "fable",
+   "time": "2026-10-18 00:30:47"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4070,
+   "writer": "fable",
+   "time": "2026-10-18 03:07:07"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4085,
+   "writer": "fable",
+   "time": "2026-10-18 06:01:37"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4100,
+   "writer": "fable",
+   "time": "2026-10-18 08:57:34"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4115,
+   "writer": "fable",
+   "time": "2026-10-18 12:17:17"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4130,
+   "writer": "fable",
+   "time": "2026-10-18 15:44:27"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4145,
+   "writer": "fable",
+   "time": "2026-10-18 19:25:00"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4160,
+   "writer": "fable",
+   "time": "2026-10-18 22:33:30"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4175,
+   "writer": "fable",
+   "time": "2026-10-19 01:02:05"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4190,
+   "writer": "fable",
+   "time": "2026-10-19 03:16:40"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4205,
+   "writer": "fable",
+   "time": "2026-10-19 05:53:59"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4220,
+   "writer": "fable",
+   "time": "2026-10-19 08:02:18"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4235,
+   "writer": "fable",
+   "time": "2026-10-19 10:45:14"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4250,
+   "writer": "fable",
+   "time": "2026-10-20 05:59:27"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4265,
+   "writer": "fable",
+   "time": "2026-10-20 08:22:51"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4280,
+   "writer": "fable",
+   "time": "2026-10-20 11:40:29"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4295,
+   "writer": "fable",
+   "time": "2026-10-20 14:10:14"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4310,
+   "writer": "fable",
+   "time": "2026-10-20 16:31:43"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4325,
+   "writer": "fable",
+   "time": "2026-10-20 19:11:11"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4340,
+   "writer": "fable",
+   "time": "2026-10-20 22:21:30"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4355,
+   "writer": "fable",
+   "time": "2026-10-21 01:50:19"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4370,
+   "writer": "fable",
+   "time": "2026-10-21 11:14:36"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4385,
+   "writer": "fable",
+   "time": "2026-10-21 13:54:01"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4400,
+   "writer": "fable",
+   "time": "2026-10-21 16:39:02"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4415,
+   "writer": "fable",
+   "time": "2026-10-21 20:34:57"
+  },
+  {
+   "category": "sexy",
+   "rows": 62,
+   "batch_no": 4430,
+   "writer": "fable",
+   "time": "2026-10-21 23:54:21"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4445,
+   "writer": "fable",
+   "time": "2026-10-22 03:29:51"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4460,
+   "writer": "fable",
+   "time": "2026-10-22 07:16:11"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4475,
+   "writer": "fable",
+   "time": "2026-10-22 10:28:51"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4490,
+   "writer": "fable",
+   "time": "2026-10-22 15:43:16"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4505,
+   "writer": "fable",
+   "time": "2026-10-22 19:05:23"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4520,
+   "writer": "fable",
+   "time": "2026-10-22 23:01:56"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4535,
+   "writer": "fable",
+   "time": "2026-10-23 02:54:12"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4550,
+   "writer": "fable",
+   "time": "2026-10-23 06:33:59"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4565,
+   "writer": "fable",
+   "time": "2026-10-23 10:04:19"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4580,
+   "writer": "fable",
+   "time": "2026-10-23 13:52:27"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4595,
+   "writer": "fable",
+   "time": "2026-10-23 17:21:13"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4610,
+   "writer": "fable",
+   "time": "2026-10-23 21:16:39"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4625,
+   "writer": "fable",
+   "time": "2026-10-24 00:04:31"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4640,
+   "writer": "fable",
+   "time": "2026-10-24 02:40:11"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4655,
+   "writer": "fable",
+   "time": "2026-10-24 05:56:53"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4670,
+   "writer": "fable",
+   "time": "2026-10-24 08:50:25"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4685,
+   "writer": "fable",
+   "time": "2026-10-24 12:05:36"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4700,
+   "writer": "fable",
+   "time": "2026-10-24 14:52:27"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4715,
+   "writer": "fable",
+   "time": "2026-10-24 14:58:00"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4730,
+   "writer": "fable",
+   "time": "2026-10-24 21:52:59"
+  },
+  {
+   "category": "formal",
+   "rows": 62,
+   "batch_no": 4745,
+   "writer": "fable",
+   "time": "2026-10-25 01:10:07"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4760,
+   "writer": "fable",
+   "time": "2026-10-25 01:10:10"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4775,
+   "writer": "fable",
+   "time": "2026-10-25 01:10:13"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4790,
+   "writer": "fable",
+   "time": "2026-10-25 05:20:11"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4805,
+   "writer": "fable",
+   "time": "2026-10-25 05:20:14"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4820,
+   "writer": "fable",
+   "time": "2026-10-25 08:49:01"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4835,
+   "writer": "fable",
+   "time": "2026-10-25 08:49:02"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4850,
+   "writer": "fable",
+   "time": "2026-10-25 11:45:23"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4865,
+   "writer": "fable",
+   "time": "2026-10-25 14:12:08"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4880,
+   "writer": "fable",
+   "time": "2026-10-25 14:12:10"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4895,
+   "writer": "fable",
+   "time": "2026-10-25 16:31:39"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4910,
+   "writer": "fable",
+   "time": "2026-10-25 16:33:31"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4925,
+   "writer": "fable",
+   "time": "2026-10-25 18:58:05"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4940,
+   "writer": "fable",
+   "time": "2026-10-25 21:33:36"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4955,
+   "writer": "fable",
+   "time": "2026-10-26 01:13:35"
+  },
+  {
+   "category": "formal",
+   "rows": 25,
+   "batch_no": 4970,
+   "writer": "fable",
+   "time": "2026-10-26 01:15:40"
+  }
+ ]
+}

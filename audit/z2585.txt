@@ -1,0 +1,56 @@
+batch 2585 zero pairs: 55
+1433|0|got the water bill today.|much higher than last time, or about the same?
+1434|0|car insurance has gone up again.|shopped around this year?
+1434|1|not yet. i just renew it every time out of habit.|give it half an hour on a comparison site. it usually pays.
+1435|0|finally set up a proper budget.|going well so far, or too early to say?
+1436|0|council tax letter came today.|the usual rise, or has it gone up more?
+1436|1|a bit more than last year, same as everyone.|it always creeps up. did they give you the payment dates?
+1437|0|trying to cancel a subscription i forgot about.|which one have you been paying for?
+1437|1|a streaming thing i have not used since march.|they make it hard on purpose. is there a cancel button?
+1438|0|we are remortgaging this month.|is the rate better than what you had before?
+1439|0|payslip had a deduction i did not recognise.|have you asked payroll about it?
+1440|1|it is. i have started letting it ring out.|best thing. they give up after a few weeks.
+1441|0|bank app has locked me out again.|did you fail the security questions?
+1441|1|i got my own address wrong, apparently.|happens to everyone. a branch visit sorts it fastest.
+1442|0|started saving for a new boiler.|what are you putting by each month?
+1442|1|two hundred a month, so a while yet.|doing it slowly beats credit, if you can.
+1443|0|tax return is due next week.|nearly finished, or still plenty to do?
+1444|0|energy prices have changed again.|up or down this time round?
+1445|0|wifi keeps dropping in the back room.|old router, is it, or the position?
+1445|1|about four years, so probably due a change.|new one would help. try moving it away from the wall.
+1446|0|laptop fan is going constantly.|hot underneath at all, or just warm?
+1446|1|warm, yes. it might be full of dust.|a can of air and a careful clean works wonders.
+1447|0|printer has decided not to print again.|screen showing anything useful?
+1448|0|we had a smart meter fitted today.|go in easily enough?
+1448|1|yes, twenty minutes and he was gone.|handy thing. you will spot the greedy appliances fast.
+1449|0|doorbell camera keeps alerting at night.|foxes, or the cat again?
+1449|1|probably the cat, and next door's too.|turn the sensitivity down a notch and it settles.
+1450|0|been meaning to sort out the heating timer.|on the wrong schedule, is it?
+1450|1|the heating comes on at three in the morning.|sounds about right. the timer is usually a simple menu.
+1451|0|phone storage is completely full.|photos again, or something else?
+1451|1|years of them. i never delete anything.|move them to the cloud and you get the space back.
+1452|0|washing machine has started walking across the floor.|that sounds like the feet or the load.
+1452|1|worse with the big towels.|unbalanced load. try two smaller washes instead.
+1453|0|got the smart speaker working at last.|what was the problem with it?
+1453|1|the password had a capital i in it.|those little letters catch everyone. is it useful now?
+1454|0|battery lasts about twenty minutes on the laptop.|how many years has it done?
+1454|1|four, so it has done well.|replacement battery is cheaper than a new laptop.
+1455|0|broadband keeps cutting out in the evenings.|does it happen at the same time?
+1455|1|always around eight, when everyone is home.|peak time congestion, most likely. log the drops and see.
+1456|0|oven clock is an hour out again.|was there a power cut?
+1456|1|yes, briefly, during the storm.|easy fix. it is a two minute job on the panel.
+1457|0|our little one has started nursery this week.|did the first day go ok?
+1457|1|a few tears at the door, then fine.|that is a normal first week. does she nap there?
+1459|0|school photos came home today.|any decent ones this year?
+1460|0|shift pattern has changed at work.|better or worse for you?
+1460|1|worse for the mornings, better for the evenings.|mixed bag then. does it clash with the school run?
+1461|0|team is down to three of us now.|has anyone been replaced yet?
+1463|0|commute has got longer with the roadworks.|how much extra time each way?
+1463|1|an extra twenty minutes each way.|that adds up over a week. is there a back route?
+1464|0|started walking to the office instead.|long walk, is it, or a short one?
+1465|0|parents evening is next tuesday.|are you dreading it, or is he fine?
+1466|0|been asked to mentor a new starter.|settling in ok so far?
+1466|1|well, she picks things up quickly.|that makes it easy. do you get time set aside for it?
+1467|0|team lunch has turned into a monthly thing.|where do you go for it?
+1467|1|the same pub every time, which suits us.|a regular spot is underrated. does everyone turn up?
+1468|0|our baby has finally started sleeping through.|long time coming, was it?

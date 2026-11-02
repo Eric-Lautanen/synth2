@@ -1,0 +1,72 @@
+{
+ "284": {
+  "a": {
+   "0": "dishes done already? mine are still stacked up in the sink here."
+  },
+  "u": {
+   "0": "just finished the dishes"
+  }
+ },
+ "432": {
+  "a": {
+   "0": "hosting duty instead, so the long weekend is mostly cooking."
+  },
+  "u": {
+   "0": "going anywhere for the long weekend?"
+  }
+ },
+ "435": {
+  "a": {
+   "0": "got away for the break, three days by the ocean with the kids."
+  },
+  "u": {
+   "0": "any plans to get away for the school break?"
+  }
+ },
+ "440": {
+  "a": {
+   "1": "exactly, a curry with friends and someone else does the dishes."
+  }
+ },
+ "442": {
+  "a": {
+   "0": "off to the mountains friday, walking all weekend or having a lazy one?"
+  },
+  "u": {
+   "0": "we're off to the mountains on friday."
+  }
+ },
+ "475": {
+  "a": {
+   "0": "the portland work trip, fun or a bit of a drag?",
+   "1": "honestly, the hotel breakfast alone makes the portland trip worth it."
+  },
+  "u": {
+   "0": "heads up, my job is sending me to portland on monday."
+  }
+ },
+ "504": {
+  "a": {
+   "0": "thinking of the beach for the long weekend, if the traffic is okay."
+  },
+  "u": {
+   "0": "any plans for the long weekend?"
+  }
+ },
+ "505": {
+  "a": {
+   "1": "the usual problem then, and he is still handing them out."
+  },
+  "u": {
+   "1": "haha the usual community garden problem."
+  }
+ },
+ "517": {
+  "a": {
+   "0": "what time does the band kick off at the tavern?"
+  },
+  "u": {
+   "0": "fancy a night out saturday? there's a band on at the tavern."
+  }
+ }
+}

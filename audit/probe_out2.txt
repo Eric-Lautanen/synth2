@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs/synth2/best.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [ghetto / greeting] yo you good? long time no see.
+"yo you good? long time no see."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [ghetto / money] they taxed my whole paycheck again.
+"they taxed my whole paycheck again."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [formal / general] how was your journey in this morning?
+"how was your journey in this morning?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [gloomy / general] nothing good on telly ever anymore.
+"nothing good on telly ever anymore."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [gossip / neighbours] did you hear about flat nine upstairs?
+"did you hear about flat nine upstairs?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [nostalgic / school] remember the tuck shop queues at break?
+"remember the tuck shop queues at break?"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [supportive / bad news] i did not get the job, i am gutted.
+"i did not get the job, i am gutted."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [bored / nothing to do] i am so bored i have cleaned the whole flat.
+"i am so bored i have cleaned the whole flat."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [petty / grudge] she still owes me twenty quid from march.
+"she still owes me twenty quid from march."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " i'm a a a a a a a a a a a a a a a a a a a a a a"
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [dont_know / shrug] i have not got a clue, sorry.
+"i have not got a clue, sorry."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " the the the the the the the the the the the the the the the the the the the the the the the the"
+

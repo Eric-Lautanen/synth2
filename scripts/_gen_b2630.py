@@ -1,0 +1,84 @@
+#!/usr/bin/env python3
+"""Hand-written b2630 rewrites -> audit/changes_magpie12.json, then self-validate.
+Also lifts the terse-7.8 DRIFT (all replies 10-13 words)."""
+import json
+
+C = {
+ "1519": {"0": "finally sorted your passport renewal online, was the photo the awkward bit?"},
+ "1520": {"0": "council tax bill landed this morning, is it up again this year?",
+          "1": "forty quid more for the same services, no explanation with it."},
+ "1521": {"0": "spent an hour on hold to the tax office, did you get through?"},
+ "1522": {"0": "driving licence needs renewing before it expires, is an eye test needed?"},
+ "1523": {"0": "water bill being estimated, have you sent them a reading yet?",
+          "1": "keep meaning to and forgetting until the next one arrives, do it today."},
+ "1524": {"0": "house insurance renewing is a nightmare every year, do you use a broker?"},
+ "1525": {"0": "registering for self assessment this year, is it your first time doing it?"},
+ "1526": {"0": "sorting your mum's paperwork after the move, is there much to get through?"},
+ "1527": {"0": "bin collection changed to every two weeks, has it caused problems?",
+          "1": "recycling fine but the general bin full by day ten, that is tight."},
+ "1528": {"0": "finally got the parking permit, was there a long wait for it?"},
+ "1529": {"0": "tax return for the first time in ages, do you keep the receipts?"},
+ "1531": {"0": "boiler packed in last night, is there no hot water at all?",
+          "1": "plumber coming this afternoon is quicker than you feared, good that."},
+ "1532": {"0": "quote came in for rewiring the kitchen, how much did they want?"},
+ "1533": {"0": "mechanic says the clutch is going, what did he quote you?"},
+ "1534": {"0": "waited in all morning for the electrician, did he turn up on time?",
+          "1": "half past twelve, no apology, but he fixed it in ten minutes."},
+ "1535": {"0": "washing machine leaking again, is it from the door or underneath?"},
+ "1536": {"0": "mot due next month, have you any worries about it passing?",
+          "1": "brakes were advisory last year and you ignored them, worth acting on."},
+ "1537": {"0": "got a bloke to sort the garden fence, was it expensive?",
+          "1": "four hundred for the whole side is fair for a day's work."},
+ "1538": {"0": "drain outside blocked again, have you tried the rods yet?",
+          "1": "clears for a week then backs up again, needs a camera on it."},
+ "1539": {"0": "garage says the tyres are borderline, all four or just the front?"},
+ "1540": {"0": "back room radiator never gets warm, have you bled it yet?",
+          "1": "air came out but it is no better, so it sounds like sludge."},
+ "1541": {"0": "your mate the joiner doing the shelves, is it mates rates?",
+          "1": "a bit less and he does it properly, better than a stranger."},
+ "1543": {"0": "curry turned up cold, are you going to ring them about it?"},
+ "1544": {"0": "takeaway app charged you twice, have you asked for a refund?",
+          "1": "twice now and they blamed the bank, their problem to fix not yours."},
+ "1545": {"0": "parcel meant to arrive tuesday, what is the tracking showing now?",
+          "1": "out for delivery for three days is the worst status there is."},
+ "1546": {"0": "food shop delivery missing the milk, was it taken off the bill?",
+          "1": "refunded without you asking, quite impressed, do you use them weekly?"},
+ "1548": {"0": "driver could not find the flat, did you go down to meet him?",
+          "1": "twice round the block then standing on the corner waving, happens a lot."},
+ "1549": {"0": "trying those recipe boxes then, are the portions any good?",
+          "1": "three meals out of one box is generous, better value than it looks."},
+ "1550": {"0": "birthday cake for saturday, is it a proper baker or a supermarket?",
+          "1": "a local one not a supermarket, costs more but tastes like cake."},
+ "1551": {"0": "supermarket substituted half your order, did they swap anything good?",
+          "1": "chicken for quorn and full fat for skimmed, not what you would choose."},
+ "1552": {"0": "tea went cold waiting for the driver, how late was he?",
+          "1": "forty minutes past the estimate and you ate it lukewarm, so patient."},
+ "1553": {"0": "chinese takeaway on friday, did you order the usual again?"},
+ "1554": {"0": "milkman still delivers on your street, does anyone else use him?",
+          "1": "six houses and cheaper than the shop, proper service that, eggs too?"},
+}
+
+path = "audit/changes_magpie12.json"
+json.dump(C, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+
+lines = [l for l in open("raw/small_talk_casual.jsonl", "rb").read().split(b"\r\n") if l.strip()]
+issues = []; n = 0; the_op = []
+for key, ch in C.items():
+    ln = int(key)
+    row = json.loads(lines[ln - 1])
+    asst = [t for t in row["turns"] if t["role"] == "assistant"]
+    for idx, txt in ch.items():
+        i = int(idx); n += 1
+        w = len(txt.split())
+        if not (10 <= w <= 13): issues.append((ln, i, "wordcount", w, txt))
+        if any(ord(c) > 127 for c in txt): issues.append((ln, i, "nonascii", txt))
+        if any(d in txt for d in ["\u2013", "\u2014", "\u2012", "\u2015"]): issues.append((ln, i, "dash", txt))
+        if "-" in txt: issues.append((ln, i, "hyphen", txt))
+        if any(0x2600 <= ord(c) <= 0x1FAFF for c in txt): issues.append((ln, i, "emoji", txt))
+        if i >= len(asst): issues.append((ln, i, "index-oob", len(asst)))
+        if txt.lower().startswith("the "): the_op.append((ln, i, txt))
+print(f"wrote {path}: rows={len(C)} replies={n}")
+print("issues:", len(issues))
+for it in issues: print("  ", it)
+print("the-openers:", len(the_op))
+for it in the_op: print("  ", it)

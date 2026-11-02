@@ -1,0 +1,27 @@
+# Agent/session state (not part of the run)
+.freebuff/
+
+# Pre-run corpus snapshots
+backups/
+
+# Generated/pilot corpora produced by scripts/gen_compose.py, gen_worked.py, pilot_gate.py
+gen/
+
+# Model weights and everything else the training run writes into this folder.
+# These are rebuilt by scripts/train_synth2.bat + the tokenizer/split pipeline.
+*.bin
+*.ids
+*.map
+*.mask
+*.exids
+train.jsonl
+train.pid
+train.port
+train_stdout.log
+train_stderr.log
+loss.log
+samples.ids
+
+# Python bytecode
+__pycache__/
+*.pyc

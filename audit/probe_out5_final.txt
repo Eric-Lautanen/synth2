@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs/synth2/final.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " not a good night. i've been been on the whole time."
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " how many? that's the one one one one one one one one or the whole whole time."
+
+## [ghetto / greeting] yo you good? long time no see.
+"yo you good? long time no see."
+  OUT: " how many? i'm not not not not on i'm not much better."
+
+## [ghetto / money] they taxed my whole paycheck again.
+"they taxed my whole paycheck again."
+  OUT: " how many? i got them on and a bit of my mum and be the whole time."
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " yeah, it's been on the one. the whole time was not a good one to be much."
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " how that's the whole week, or just be a good one?"
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " did you get a good? what's what, that's the whole week."
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " do itle of the first, a good one? it's been on the whole time."
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " you get? i've been been been a good onesal the one."
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " yeah, a bit of proper haha that's one. they are the one one one one one one one"
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " how did it do?"
+
+## [formal / general] how was your journey in this morning?
+"how was your journey in this morning?"
+  OUT: " a good good night. it's been been been on my mum is not good."
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " how many? i'm going to the one and a good one. a good one?"
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: " haha the whole time. it's a good nightmmmmmmmmmmmm"
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " good, they get on my mum one."
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: " i do it, i'll be to it."
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " in the whole time? i did one one one one one one or the whole whole whole whole time."
+
+## [gloomy / general] nothing good on telly ever anymore.
+"nothing good on telly ever anymore."
+  OUT: " the whole time, are are just a good one or just been a good nightmmare one and the whole time"
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " did you get it? that's the one or just be be be be and i'm not on the one."
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " haha the whole time. it's a good one you'll be the one of the one."
+
+## [gossip / neighbours] did you hear about flat nine upstairs?
+"did you hear about flat nine upstairs?"
+  OUT: " yeah, i've been up the one the one the one that's just be and it's been on my mum"
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: " you are the whole time. i'm not not much much a good nightmmmmmmmmm"
+
+## [nostalgic / school] remember the tuck shop queues at break?
+"remember the tuck shop queues at break?"
+  OUT: " yeah, a good night. it's been been been a good nightmmmmmmmmm"
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " i did the whole part of the whole part. the wholeeah, which was a good one."
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " a a bit, a good night. it's been been on the one an hour and it's been been a good"
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " not a good one. it's been been on the first one one one one one one in the whole time."
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " yeah, just the whole time. it's been a good nightmmmmmmmmmm"
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " i'm not much to the end of the one. how it's the one one one one one one or the whole"
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " i'm a good one, and i've been been been a good night to it."
+
+## [supportive / bad news] i did not get the job, i am gutted.
+"i did not get the job, i am gutted."
+  OUT: " what?, which is just a bit."
+
+## [bored / nothing to do] i am so bored i have cleaned the whole flat.
+"i am so bored i have cleaned the whole flat."
+  OUT: " good. how many are you go, whicheah, that's the one?"
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " how many? i do it but i'm not good in."
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " it's been a good one. it's been a good one to do out of the whole time."
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " yeah, just a bit of week. the whole part is always always much a good night."
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " the the the the the one are in the one. it's been been a good nightmmare one one of"
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " for is it the whole time of a bit. is a bit ofcccccccccc"
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " was the whole time. it's been been a good nightmmmare one of the first."
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " they are just be a good one or just be be be and i'm not on the whole week."
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " a good? that's just be and a good one. it's been been a good one to do."
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " the whole time it's been a good nightmmmmmmmmmmmmmmm"
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " how many? i do it, just a proper good?"
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " haha the whole time timeccccccccccccccccc"
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " i do it, i'll be to it."
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " i've got. it was not good and it will be much much much."
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " not. i've been on the whole time. i've been a good night, it's a good one to do"
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " i did, but it's a good one, and it's been been a good one to do."
+
+## [petty / grudge] she still owes me twenty quid from march.
+"she still owes me twenty quid from march."
+  OUT: " good. the whole time of a good night. it's been been been on the whole time."
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " they are they going to the whole time, or got a good one?"
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: ", the whole time. do you get a good one or just be but i'm not much a good one, and"
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " do it in the whole time. that's the whole time, will be the one or or got the whole time?"
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " not much, which i'm not a good one, but i'm on it out and i'm not good and i"
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " i got for in? i did, one one one one one one one one of your whole time."
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: " do you go week at the one? it's been on the one one one one one one or the whole time?"
+
+## [dont_know / shrug] i have not got a clue, sorry.
+"i have not got a clue, sorry."
+  OUT: " good. it is just a good one on the whole time."
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: " the whole time was out. that is that and then i'm not good in?"
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " are they one? i'm a a bit of a good one, but i'm not good and i'm not on"
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " how's it do? i do and it's been a good one of the first time."
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " how many many many many many many many many many many many many many many many many many many many many many many many"
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " how's the whole time, will do or just been a good?"
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " good, they are just a good one for an hour. the whole whole whole time of picicicicic"
+

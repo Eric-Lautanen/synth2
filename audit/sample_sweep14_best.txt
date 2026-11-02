@@ -1,0 +1,41 @@
+SAMPLE SWEEP: 60 prompts x 32 tokens, temps [0.5, 0.7, 0.9, 1.0], topks [0, 10, 40, 100]
+  (temp 0 = greedy baseline; topk 0 = no truncation)
+    temp    topk   loops    eos    echo   selfrep
+    0.00       -       8     60   0.096     0.013
+    0.50       0       4     59   0.088     0.004
+    0.50      10       7     58   0.102     0.014
+    0.50      40       2     60   0.099     0.002
+    0.50     100       4     60   0.098     0.001
+    0.70       0       0     57   0.093     0.000
+    0.70      10       2     60   0.088     0.004
+    0.70      40       2     59   0.080     0.003
+    0.70     100       3     60   0.091     0.006
+    0.90       0       0     59   0.091     0.000
+    0.90      10       2     59   0.093     0.002
+    0.90      40       1     60   0.096     0.000
+    0.90     100       2     60   0.088     0.002
+    1.00       0       1     53   0.075     0.001
+    1.00      10       4     60   0.082     0.003
+    1.00      40       1     59   0.096     0.004
+    1.00     100       1     60   0.078     0.002
+
+GREEDY baseline: loops 8/60  eos 60  echo 0.096  selfrep 0.013
+BEST cell with loops <= greedy: temp 0.50 topk 10 -> echo 0.102 (vs 0.096 greedy, +0.006), selfrep 0.014, loops 7/60
+
+DECODED, best cell (first 8 prompts):
+  [0] so what is going on with you this weekend?
+       just a lot. last week. i'll be everything and be the, which is typical.
+  [1] it rained the whole way in today.
+       back the raining out is the r. did you get much warm up overgage this year?
+  [2] yo you good? long time no see.
+       haha the sets you go, every night's one. give it a week out the year and the shops do then.
+  [3] they taxed my whole paycheck again.
+       new ones this week, the. did you get a she'll?
+  [4] you up to anything today?
+       nothing planned this weekend, yeah. i've got a bit, that's lunch came out there.
+  [5] the weekend came and went so fast.
+       i'm in one service in the same day. i'll be the best thing.
+  [6] my order came cold and half missing.
+       do the gym their chesss the quiz, or just a bit this time?
+  [7] someone took my parking spot again.
+       do the gardenenenenenengege anything good then, then?

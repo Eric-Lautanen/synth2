@@ -1,0 +1,137 @@
+BASELINE  loops 3/60  eos 59/60  echo 0.097  selfrep 0.019
+sweep: 6 layers x 384 neurons = 2304 configs, mode "zero", screen 8 probes x 20 tokens
+layer 0 done (338s elapsed)
+layer 1 done (677s elapsed)
+layer 2 done (1023s elapsed)
+layer 3 done (1445s elapsed)
+layer 4 done (1787s elapsed)
+layer 5 done (2114s elapsed)
+
+TOP 20 by Loops (screen):
+  layer neuron   score loops     eos     echo   selfrep
+      0      0  -0.000     0       8    0.039     0.000
+      0      1  -0.000     0       5    0.055     0.000
+      0      2  -0.000     0       8    0.061     0.000
+      0      3  -0.000     0       7    0.049     0.000
+      0      4  -0.000     0       7    0.070     0.000
+      0      5  -0.000     0       8    0.056     0.000
+      0      6  -0.000     0       8    0.062     0.000
+      0      7  -0.000     0       7    0.063     0.000
+      0      8  -0.000     0       8    0.069     0.000
+      0      9  -0.000     0       7    0.031     0.000
+      0     10  -0.000     0       5    0.047     0.000
+      0     11  -0.000     0       8    0.119     0.000
+      0     12  -0.000     0       6    0.035     0.000
+      0     13  -0.000     0       7    0.072     0.000
+      0     14  -0.000     0       6    0.057     0.000
+      0     15  -0.000     0       8    0.059     0.000
+      0     16  -0.000     0       6    0.057     0.000
+      0     17  -0.000     0       6    0.069     0.000
+      0     18  -0.000     0       6    0.057     0.000
+      0     19  -0.000     0       6    0.063     0.000
+
+CONFIRM (full 60 prompts x 32 tokens):
+
+  == layer 0 neuron 0  loops 1/60  eos 60  echo 0.097  selfrep 0.003  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateate everything out of hand, how is the mix?
+
+  == layer 0 neuron 1  loops 3/60  eos 59  echo 0.103  selfrep 0.017  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 2  loops 3/60  eos 59  echo 0.095  selfrep 0.021  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 3  loops 3/60  eos 59  echo 0.100  selfrep 0.018  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 4  loops 3/60  eos 59  echo 0.090  selfrep 0.013  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateate everything out of hand, how long were they done?
+
+  == layer 0 neuron 5  loops 3/60  eos 60  echo 0.098  selfrep 0.007  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateate then? how many okay?
+
+  == layer 0 neuron 6  loops 3/60  eos 60  echo 0.096  selfrep 0.012  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateate everything out of hand, how long were they done in town?
+
+  == layer 0 neuron 7  loops 2/60  eos 60  echo 0.098  selfrep 0.011  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateate everything out of hand, how long were they done?
+
+  == layer 0 neuron 8  loops 4/60  eos 59  echo 0.092  selfrep 0.028  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 9  loops 2/60  eos 60  echo 0.103  selfrep 0.004  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the big stuffright, are the lovely ones the day. does the carving go in the day?
+
+  == layer 0 neuron 10  loops 3/60  eos 59  echo 0.095  selfrep 0.021  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 11  loops 4/60  eos 58  echo 0.098  selfrep 0.025  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 12  loops 3/60  eos 60  echo 0.102  selfrep 0.012  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateate everything out of hand, how is the mix?
+
+  == layer 0 neuron 13  loops 5/60  eos 58  echo 0.099  selfrep 0.029  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 14  loops 2/60  eos 59  echo 0.098  selfrep 0.017  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 15  loops 2/60  eos 59  echo 0.096  selfrep 0.020  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 16  loops 3/60  eos 60  echo 0.102  selfrep 0.006  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateate again? that's how day. long has the quiet of usment is up?
+
+  == layer 0 neuron 17  loops 2/60  eos 59  echo 0.098  selfrep 0.018  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+  == layer 0 neuron 18  loops 2/60  eos 60  echo 0.100  selfrep 0.005  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag walk this morning, was it busy out there?
+
+  == layer 0 neuron 19  loops 3/60  eos 58  echo 0.100  selfrep 0.026  (baseline loops 3/60 echo 0.097)
+    [10] "lovely weather we are having this week."
+      base:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+      edit:  the good bag sateateateateateateateateateateateateateateateateateateateateateateateateateateateate
+
+wrote runs/synth2/audit/neuron_sweep13_zero.tsv
+
+baseline loops 3/60 -- total sweep 2266s

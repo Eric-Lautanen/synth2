@@ -1,0 +1,287 @@
+# the <noun> frame-opener violations -- live corpus raw/small_talk_casual.jsonl
+# shape: line | batch | pair_idx | noun | USER | ASSISTANT
+
+7	2000	0	day	how was your day?	the day was long but fine. busy morning, quiet afternoon, cannot complain.
+12	2000	0	weekend	how was your weekend?	the weekend was really nice. market on saturday, nothing at all on sunday.
+18	2000	0	week	how's your week been?	the week has been up and down. monday was a nightmare, better since.
+31	2015	0	holiday	how was your holiday?	the holiday was brilliant. did nothing but sit by the pool and read.
+35	2030	1	flask	me neither. i bought a nice flask for soup and used it twice.	the flask deserves better than twice, you should use it more.
+40	2030	0	garden	how's the garden coming along?	the garden is coming slowly. the slugs are winning at the moment.
+43	2030	0	dentist	how was the dentist?	the dentist was fine. no fillings, just a telling off about flossing.
+45	2030	0	new	how's the new job?	the new job is good. friendly team and i am learning loads.
+50	2045	0	drive	how was the drive in?	the drive was slow. a crash on the ring road, it took nearly twice as long.
+58	2045	0	washing	how's the washing going?	the washing is endless. machine's been on twice and the pile hasn't gone down at all.
+61	2045	0	parcel	did the parcel turn up?	the parcel turned up, left with the neighbour again. i'll grab it off them later.
+65	2045	0	plants	how are the plants doing?	the plants are mixed. tomatoes thriving, herbs dead. i have a very specific skill set.
+67	2045	0	garden	how's the garden?	the garden is overgrown. i keep saying i'll sort it at the weekend and then don't.
+69	2045	0	dog	how's the dog?	the dog is demanding as ever. he's worked out that staring at me gets him a walk.
+70	2045	0	cat	how's the cat?	the cat is asleep on my keyboard, which is where she lives now apparently.
+74	2045	0	run	how was the run?	the run was brutal. went too fast at the start and regretted it about a mile in.
+75	2045	0	weather	weather holding up?	the weather is grey and drizzly. the kind of day you just stay in if you can.
+79	2045	0	evening	how's your evening going?	the evening is quiet. telly on, phone in hand, nothing much happening. it's nice actually.
+83	2045	0	new	how's the new book?	the new book is really good, nearly finished. i keep staying up late for one more chapter.
+89	2045	0	kids	how are the kids?	the kids are loud. one has learned to whistle and won't stop, it's been a long day.
+90	2045	0	little	how's the little one?	the little one is into everything. turned my back a second and she'd emptied a drawer.
+93	2045	0	meeting	how did the meeting go?	the meeting was fine. could have been an email, honestly, but at least it's done.
+96	2045	0	afternoon	you got the afternoon off?	the afternoon off, i wish. no such luck, i'm stuck here till five like everyone else.
+99	2045	0	new	how's the new place coming along?	the new place is getting there. i finally put up a shelf, only took me three weekends.
+100	2045	0	move	did the move go alright?	the move went fine. smoother than expected, only broke one glass, which is a record.
+101	2045	0	neighbour	how's the neighbour situation?	the neighbour situation is fine mostly. upstairs plays music late sometimes, nothing drastic.
+102	2045	0	landlord	did the landlord sort that out?	the landlord sorted it, surprisingly fast. someone came round tuesday and fixed it in ten minutes.
+105	2045	0	dentist	how was the dentist?	the dentist was all clear. she gave me the usual lecture about flossing and i nodded along.
+120	2045	0	coffee	how's the coffee at the new place?	the coffee there is really good. i've been going every morning, it's become a bit of a habit.
+121	2045	0	coffee	did you get the coffee machine working?	the coffee machine works, after a fight. i'd put the wrong beans in and it clogged up.
+129	2045	0	weekend	how was your weekend?	the weekend was good thanks, a quiet one.
+132	2045	0	new	how's the new job going?	the new job is going well, still learning everything though.
+133	2045	1	heating	same, the heating was too high.	the heating was too high here too. i turned mine off and froze instead.
+137	2045	0	flat	did you get the flat tidy?	the flat is mostly tidy. the bedroom's still a mess though.
+139	2045	0	weather	how's the weather looking for tomorrow?	the weather for tomorrow looks like rain, i think.
+142	2045	0	puppy	how's the puppy settling in?	the puppy is settling in slowly. he cried all night.
+148	2060	0	alarm	did the alarm go off?	the alarm went off, yeah, and i hit snooze about four times. classic me.
+159	2060	0	commute	how's the commute?	the commute was fine today. got a seat and read the whole way, which never happens.
+160	2060	0	bus	did the bus show up?	the bus showed up twenty minutes late. i was starting to think i'd imagined the timetable.
+162	2060	0	train	was the train busy?	the train was heaving. i had someone's rucksack in my back the whole journey.
+164	2060	0	traffic	traffic on the way home?	the traffic home was awful. took me an hour to do a fifteen minute trip.
+166	2060	0	washing	how's the washing machine?	the washing machine is noisy. it's been banging away for an hour and i'm ignoring it.
+170	2060	0	cleaning	how's the cleaning going?	the cleaning is going slowly. i did the bathroom and then sat down and lost the plot.
+178	2060	0	curry	how did the curry turn out?	the curry turned out really good. went a bit heavy on the chilli but i like it.
+184	2060	0	plant	how's the plant?	the plant on the windowsill is thriving. the other one's given up entirely.
+187	2060	0	tomato	how's the tomato plant?	the tomato plant is still going. got three off it this week, a proper harvest.
+189	2060	0	garden	how's the garden looking?	the garden is scruffy but alive. i keep meaning to tidy the borders.
+193	2060	0	cost	how much did that cost?	the cost, don't ask. went in for three things and came out forty quid lighter.
+195	2060	0	delivery	did the delivery come?	the delivery came, but they left it in the porch and it's raining, so we'll see.
+198	2060	0	music	is the music still going?	the music stopped about eleven, so i can't really complain.
+201	2060	0	flat	how's the flat?	the flat is cold. the heating's on and it's still not warming up properly.
+202	2060	0	boiler	is the boiler working?	the boiler works eventually. takes about an hour to get going, it's ancient.
+204	2060	0	shelf	you put that shelf up?	the shelf isn't up yet. still in the box, i keep looking at the drill and walking away.
+205	2060	0	lightbulb	how's the lightbulb situation?	the lightbulb situation is improving. i finally changed the one in the hall, only took a month.
+216	2060	0	week	how's the week treating you?	the week is long. counting down to friday already and it's only tuesday.
+218	2060	0	morning	how did the morning go?	the morning went fine until i spilled coffee on my shirt. wore it anyway.
+222	2060	0	evening	how's your evening?	the evening is quiet, just how i like it. cup of tea and something rubbish on telly.
+227	2060	0	new	how's the new mug?	the new mug is ridiculous. it's the size of my head and i love it.
+231	2060	0	back	how's the back?	the back is still stiff. i slept on it funny and now i'm paying for it.
+255	2075	0	morning	how's the morning going?	the morning is going slowly. second coffee and still not awake.
+263	2075	0	commute	how's the commute these days?	the commute is not bad now the schools are back. quieter.
+269	2075	0	plumber	did the plumber come?	the plumber came, and cheaper than i feared. result.
+270	2075	0	flat's	the flat's a tip again	the flat's a tip here too. i tidy one room and the rest fall apart.
+273	2075	0	plant	how's the plant doing?	the plant is thriving. it's the only thing i haven't killed.
+277	2075	0	heating	is your heating on?	the heating is on, yeah. i gave in, it's freezing.
+281	2075	0	washing	you get the washing done?	the washing isn't done, no. it's still sat there staring at me.
+283	2075	0	weather	what's the weather doing there?	the weather here is raining sideways. grim day for it.
+287	2075	0	washing	how's the washing going?	the washing is endless. the basket refills itself overnight, i swear.
+297	2075	0	neighbours	the neighbours are doing diy again	the neighbours doing diy again? at seven in the morning, that's criminal.
+298	2075	0	curry	how did the curry go?	the curry went better than expected. i let it simmer longer and it made all the difference.
+304	2075	0	cupboard	sorted the cupboard under the sink	the cupboard under the sink sorted, that's a job and a half. well done.
+305	2075	0	washing	the washing machine ate a sock again	the washing machine eats socks here too. where do they go?
+310	2075	0	new	how's the new place coming on?	the new place is coming slowly. still got boxes everywhere.
+316	2075	0	back	how's the back?	the back is easing off. a hot bath helped more than anything else.
+318	2075	0	tap	is the tap fixed?	the tap is fixed, yes, finally. it was driving me mad.
+320	2075	1	park	just round the park.	the park loop is nice for a walk. flat the whole way round.
+321	2075	0	delivery	did the delivery turn up?	the delivery turned up, but they left it in the rain.
+325	2075	0	evening	how's your evening?	the evening is nice and calm. halfway through a book and in no rush to finish it.
+328	2075	0	shop	the shop was heaving	the shop is always heaving on a saturday. no escape from it.
+330	2075	0	neighbours'	got the neighbours' parcel again	the neighbours' parcel again? that's the third time this week.
+331	2075	0	sink	is your sink blocked?	the sink is blocked, yeah. i've tried everything i can think of.
+331	2075	1	plunger	try the plunger first, honestly.	the plunger first, good call. i'll give it a go, thanks.
+334	2075	0	boiler	how's the boiler?	the boiler is fixed, finally. hot water and heating back on.
+343	2090	0	school	how was the school run this morning?	the school run was chaotic as always. my youngest lost a shoe.
+347	2090	1	usual	brilliant. usual place?	the usual place, and i am having the big one today.
+348	2090	0	car	how's the car?	the car is in the garage again, it is costing me a fortune.
+350	2090	0	dog	how's the dog?	the dog got a new bed and now will not move from it.
+351	2090	1	ring	same here. i sat on the ring road for half an hour.	the ring road gets worse every month, i might start cycling.
+353	2090	0	brother	how's your brother getting on?	the brother is doing well. he moved in with his girlfriend.
+415	2120	0	morning	how's your morning been?	the morning has been a slow start. i hit snooze about five times.
+419	2120	0	wedding	how was the wedding?	the wedding was lovely, really lovely. the food was incredible.
+421	2120	0	wifi	what's the wifi password there?	the wifi password is on the router, i will text it over.
+425	2120	0	flat	how's the flat hunt going?	the flat hunt is slow. everything is either tiny or miles away.
+425	2120	1	ones	have you tried the ones by the park?	the ones by the park are gone in a day. it is brutal.
+427	2120	0	cold	how's your cold?	the cold is better, thanks. still got the cough but i can breathe.
+429	2135	1	canal	staying local i think. might finally do that walk by the canal.	the canal walk is nice, there is a coffee place halfway round.
+431	2135	0	trip	how was the trip?	the trip was tiring but worth it, we walked ten miles on saturday.
+434	2135	0	airport	how was the airport?	the airport was chaos as always, a two hour security queue.
+435	2135	1	hotel	the beach in autumn is underrated. was the hotel decent?	the hotel was basic but clean, and the kids slept like logs.
+442	2135	0	lake	we're off to the lake district on friday.	the lake district on friday, walking all weekend or having a lazy one?
+449	2135	1	first	haha the first round is always humbling. what did you shoot?	the first round humbled me, i got my money worth out there.
+455	2135	1	ride	oh no. was it worth it at least for the ride?	the ride was great, the landing was a car crash.
+464	2135	0	storm	did you get any of that storm last night?	the storm took our power for an hour, so the candles came out.
+464	2135	1	kids	oh no. kids enjoy it at least?	the kids thought it was christmas, i thought about the freezer.
+467	2135	0	heatwave	how's the heatwave treating you?	the heatwave is treating me badly, my flat is an oven by two.
+471	2135	0	job	how's the job hunt going?	the job hunt is slow, two interviews and then a lot of silence.
+473	2135	0	team	how was the team meeting?	the team meeting was long, an hour that could have been three emails.
+478	2135	0	dinner	how was the dinner party?	the dinner party went well, lovely food and i only burned one thing.
+480	2135	0	dentist	how did the dentist go?	the dentist went well, no fillings again, my greatest achievement.
+482	2135	1	trades	forty quid to pull some fluff out. the trades have us over a barrel.	the trades have us over a barrel, but the machine works, so fine.
+483	2135	0	painting	how's the painting coming along?	the painting is coming along, one wall done, harder than the videos.
+483	2135	1	colour	haha everything is. what colour did you go for?	the colour is a pale green, calm until the kids get markers.
+485	2135	0	boiler	is the boiler fixed?	the boiler is fixed, touch wood, the engineer was here all morning.
+486	2135	0	flat	how's the flat hunting going?	the flat hunting is going, we have seen six and hated five.
+488	2135	0	dog	how's the dog settling in?	the dog is chaos, he ate a shoe and opens the bin now.
+495	2135	0	family	how was the family dinner on sunday?	the family dinner on sunday was loud and long, and full of food.
+499	2135	0	sourdough	how's the sourdough going?	the sourdough is alive and demanding, i feed it more than my friends.
+501	2150	1	silence	the silence is the best part, right?	the silence is the best part, i have never valued a quiet sofa.
+502	2150	0	course	how's the course going?	the course is going good, nearly finished. just the final assignment left.
+505	2150	0	allotment	how's your dad's allotment?	the allotment is thriving. he is giving away courgettes to anyone.
+508	2150	0	new	how's the new phone?	the new phone is too clever, it does things i never asked for.
+510	2150	0	best	what's the best thing you've eaten this week?	the best thing was a lamb dish my mate made on sunday.
+511	2150	0	parents	how was the parents evening?	the parents evening was really positive, which was a relief.
+635	2195	0	darts	we ended up watching the darts last night.	the darts is secretly the best tv going. the crowd is unhinged.
+639	2195	1	fridge	in the fridge. next to the milk. i have no memory of the transaction.	the fridge! mine ended up in a plant pot once and i only know that because my partner watched me do it.
+650	2195	2	bin	mine too. i've gone with the bin bag covering plan instead.	the bin bag gambit, bold. let me know how it holds up under inspection.
+654	2195	1	lamp	secondhand monitor, a lamp, and a plant that may or may not survive. it already feels more official.	the lamp is what makes it feel real somehow. is the plant named yet?
+657	2210	0	boiler	that boiler is making the noise again.	the boiler tapping again? that noise is the pump going, get it seen to.
+659	2210	0	hoovering	my back is done after all that hoovering.	the hoovering did it then. put something warm on your back for an hour.
+660	2210	0	grass	grass needs cutting but it rained all week.	the grass will keep another day. cut it saturday once it dries out.
+670	2210	0	same	brought the same sandwich again.	the same sandwich every day would do me in. treat yourself friday, get something nice.
+672	2210	0	train	train was cancelled so i walked.	the train cancelled and you walked? decent exercise at least, better than a cold platform.
+678	2210	0	tap	the kitchen tap has started dripping at night.	the tap dripping at night is usually the washer. ten minute job if you are handy.
+679	2210	0	tomatoes	the tomatoes finally turned red.	the tomatoes finally came good then? how many did you get this year?
+683	2210	0	bins	the bins did not get collected again.	the bins again? was it the whole street or just yours?
+683	2210	1	whole	whole road i think.	the whole road missed as well? leave the bins out, they usually catch up tomorrow.
+686	2210	0	wind	wind nearly took the fence down.	the wind nearly took the fence down? was anything left standing?
+698	2210	0	wifi	wifi keeps dropping out.	the wifi dropping out constantly is maddening. is it every device or one?
+700	2210	0	printer	our printer will not connect to anything.	the printer refusing everything is classic. have you turned it off and on again?
+708	2210	0	new	we tried the new place on the corner.	the new place on the corner finally. did it live up to the reviews?
+713	2210	1	recycling	the recycling.	the recycling one then, yeah. put the bin out tonight before you forget.
+715	2210	0	drill	lent my neighbour the drill.	the drill to the neighbour is brave. did you get it back yet?
+716	2210	0	cat	cat woke me up at five again.	the cat at five again is brutal. is it hunger or just attention?
+717	2210	0	dog	took the dog out in the rain.	the dog out in the rain, dedicated. did she enjoy it at least?
+718	2210	0	dog	the dog is due at the vet.	the dog is due at the vet? is it just the yearly jabs?
+718	2210	1	yearly	yeah, the yearly.	the yearly jabs are quick. book it now, they get busy this season.
+720	2210	0	kids	the kids are back at school.	the kids are back at school then? how did the first day go?
+725	2210	1	coast	maybe the coast.	the coast on a saturday, lovely. just hope the weather holds for it.
+726	2210	1	usual	yeah, the usual sites.	the usual sites get the eyes. does any of the stuff actually sell?
+730	2225	1	inside	just the inside.	the inside takes the work, the rain keeps the outside clean anyway.
+735	2225	1	curry	a curry.	the curry still works without them, add more of whatever you do have.
+810	2240	2	wanted	a stack of paperbacks i don't need and one i've wanted for years. fair trade.	the wanted for years one makes the whole stack worth it. enjoy it.
+819	2240	2	memory	one blurry blob that could be anything. the memory will have to do.	the memory is better than the photo anyway. mine are all blobs too.
+824	2240	1	halfway	roll over is the dream, but he gets distracted halfway and just lies there looking pleased.	the halfway roll is still a good roll. give him a treat for effort.
+836	2240	1	spice	three tins with no labels and a spice mix from a holiday in 2018.	the 2018 spice mix is either a keepsake or a biohazard. which cupboard got the treatment?
+898	2255	0	museum	the museum was free.	the museum was free, so go on a quiet weekday morning.
+905	2255	1	usual	the usual.	the usual then, but do the veg on the bbq first.
+907	2255	0	school	the school fete is next month.	the school fete next month always needs people on the stalls.
+910	2255	0	cinema	we went to the cinema.	the cinema trailers give most of it away, still a good night.
+918	2255	1	local	the local.	the local parkrun is friendly, no one cares how fast you go.
+952	2285	1	whole	everything. tonight is a beef thing that makes the whole house smell like a pub.	the whole house smelling like a pub, that's a good sign. is it a cheap cut thing?
+957	2285	2	lying	yes, weirdly. the lying down at the end alone was worth the ticket.	the lying down at the end sold me completely. welcome to the fold.
+961	2285	2	top	i can pass in a straight line, which already puts me in the top half.	the top half of walking football is still an achievement worth a drink after.
+966	2285	1	moon	we found the moon, which sounds basic, but the craters were stunning through the lens.	the moon through a proper lens stops people talking, every time. anything else?
+1032	2315	1	skeleton	cobwebs on the hedge, a skeleton in the window, and one pumpkin. restrained but committed.	the skeleton in the window does half the work. are you expecting many trick or treaters?
+1038	2315	1	vinegar	hundreds. i collected a bag for my class and soaked the best one in vinegar, like we did as kids.	the vinegar trick! does it actually harden them or is that a myth?
+1045	2330	1	corner	i've now booked a click and collect to the shop on the corner instead. my life is a delivery farce.	the corner shop collect has never let me down. mine holds everything and the staff know my name now.
+1050	2330	2	little	the one with the little window on the side, my main requirement. it's the simple wins.	the little window on the side sells it for me. enjoy the fast brews.
+1107	2360	2	cutting	paste the wall, which we now know was right, but our cutting was the problem.	the cutting gets everyone on the first go. the last strip will be your masterpiece.
+1121	2360	3	dame	cinderella, with a local man as the dame who used to teach my husband.	the dame taught your husband! that's a local panto layered in history.
+1185	2405	1	suitcase	hugely, then i lifted a suitcase like an idiot and undid a month of it. back to squats and shame.	the suitcase betrayal is how backs keep score. what's the home routine now?
+1192	2405	0	shed	spent saturday sorting the shed.	the shed sort, the true test of a marriage. how many arguments?
+1204	2420	0	named	they've named the next storm after a person again.	the named storms make it feel personal. which one is it this year?
+1223	2435	1	battered	a battered western i'd never have bought, and it was brilliant. i left two paperbacks in exchange.	the battered unknown western is exactly what tells you a swap works. recycling done right.
+1263	2450	1	sun	nothing really, just the sun was out for once.	the sun does that. are you going again tomorrow?
+1283	2480	0	let	booked a holiday let instead of a hotel this year.	the let with the washing machine, the family favourite. was it well kitted out?
+1293	2480	2	indestructible	mint, chives and rosemary, the indestructible trio. the group votes on the rest.	the indestructible trio will never let you down. herb politics at the garden committee, i can imagine.
+1312	2495	1	tea	humbling and busy. four hours of tea, toast, and talking to people at their worst and best.	the tea bar at the quiet hours matters more than anyone says. do the staff look after you too?
+1312	2495	2	three	they do, and they're exhausted. i've started leaving a pot of tea at the nurses' station at three.	the three o'clock pot for the nurses is a lovely thing to do. respect.
+1330	2510	1	usual	nothing important, just the usual. but i came off the phone lighter.	the usual chats often do the trick. do you ring her often?
+1360	2525	0	paper	the paper still comes, delivered by the same man since 2019.	the paper man, a dying breed. does he still cycle?
+1368	2540	1	three	two hours before midnight, then surrendered and made tea at three. the ceiling fan is decorative at best.	the three am tea club is well attended in this weather. did today start slow?
+1369	2540	1	sky	they forecast the same sky differently, it's remarkable. i go by the sky now.	the sky does have the best track record. what's it saying this afternoon?
+1373	2540	1	runt	one is, one is a runt with personality. they've turned proper orange in the fortnight of sun we finally got.	the runt gets a name and a reprieve. are you carving or eating the big one?
+1376	2540	1	torch	classical. eggshells, a torch patrol at ten, and a move to pots this autumn. the slugs are winning on points.	the torch patrol is grim but honest work. do the eggshells do anything?
+1383	2555	1	fourth	fourth. i have started putting them in a drawer.	the fourth one, a drawer is good, or try bitter spray.
+1386	2555	1	cost	the cost mostly, and whether ours would share his toys.	the cost and the toys are fair worries, could you foster first?
+1409	2555	1	second	the first loaf was a brick, the second was decent.	the second loaf was usually better, what did you change?
+1418	2570	1	soft	two punnets of raspberries and a bag of pears for a pound. some were soft, so it's jam tonight.	the soft fruit becoming jam, no waste and a jar earned. do you go every week for the shout?
+1427	2570	2	boring	the boring global one my brother in law recommended. boring has served him very well.	the boring global fund, champion of patient people everywhere. your future self approves.
+1431	2570	0	bill	splitting the restaurant bill still defeats our group.	the bill split never goes smoothly. what happened this time?
+1443	2585	1	form	i have all the receipts, i just hate the form.	the form is the worst part, for sure. do it in two sittings.
+1472	2600	1	handsome	videos mostly, ninety percent of it. hundreds of thirty second clips of the same dog being handsome.	the handsome dog archive, a worthy burden. have you tried the cloud?
+1472	2600	2	dog	i pay for it now, and offloaded a year in one go. the phone is fast again and the dog is safe.	the dog preserved in the cloud, safe from all deletion. worth every penny of the subscription.
+1473	2600	1	hotel	slightly, but i only use it on hotel and cafe wifi anyway. at home i forget it exists.	the hotel wifi shield, exactly the right scope. was it hard to set up?
+1474	2600	1	blue	warm white weekdays, a soft gold for films, and once, one catastrophic blue. the family voted against blue forever.	the blue experiment, every smart home's cautionary tale. has the electric bill moved?
+1475	2600	0	cat	my robot vacuum arrived and the cat is undecided.	the cat has not decided if it is friend or terminator. does it work though?
+1475	2600	2	sock	one sock, which it released eventually. we're negotiating boundaries.	the sock hostage negotiation, every robot owner's rite of passage.
+1477	2600	2	council	nobody. the council website settled it and nobody thanked the council.	the council solving it anonymously, the most thankless job. graham has gone quiet.
+1478	2600	1	two	three, all different cats. but today someone spotted the actual one two streets over, under a car.	the two streets over car, classic lost cat behaviour. did it come home?
+1479	2600	0	skip	a skip appeared at number nine and the neighbours circled.	the skip watch begins, as ever. did anything good get claimed?
+1482	2600	1	hand	jam, eggs from my sister's hens, a hand drawn map of which shops are which, and our numbers.	the hand drawn shop map, that's local knowledge at its best. did they appreciate it?
+1594	2660	1	cutlery	it is, surprisingly. though i've had to teach the twins that bowls go in bowls, not the cutlery drawer.	the cutlery drawer discovery, every parent's tale. did the schooling work?
+1597	2660	0	cupboard	autumn clean began at the weekend, one cupboard at a time.	the cupboard by cupboard method, the only way it gets done. which one fell first?
+1597	2660	1	national	the coat cupboard, and we found three umbrellas and a box of birthday candles. two years of national trust leaflets too.	the national trust leaflets are in every cupboard in britain. did the coats at least fit again?
+1597	2660	2	loft	they did once the paddington wellingtons went to the charity bag. my son cried, so they went to the loft instead.	the loft rescue, that's how all beloved junk survives. well negotiated.
+1600	2660	1	seven	cheeky as ever. one clue was just veto with seven letters, and it took me round the whole dictionary.	the seven letter trick, they love that one. did you finish?
+1603	2660	1	good	six, so the good pot and two kinds of biscuits. i've got the milk in the good jug, it all adds up.	the good jug doing service, that's proper hosting. what teas?
+1605	2660	1	dog	gloriously. the dog was flat out in front of it within ten minutes, an expert on these matters.	the dog as fire consultant, correct. did the wood burn clean?
+1611	2675	1	bag	standing room only, wedged by the door with my bag doing its own journey.	the bag wedge, every commuter's morning. was it worth the later alarm?
+1619	2675	1	waiting	they did, and the hall no longer looks like a waiting room. my eyes have stopped squinting at the stairs.	the waiting room glare, gone at last. did the bulbs cost much up front?
+1630	2690	1	warm	a dimmable one with a warm bulb. i read for an hour last night and slept better for it.	the warm light before bed genuinely helps sleep. was it pricey?
+1636	2690	1	one	bags to charity, shoes to owners, and a camping stove to my brother, who was thrilled. the door now closes with one push.	the one push door close, the true measure of a sorted cupboard. does it stay shut?
+1641	2705	1	garden	full works at the garden centre cafe, of all places. the sausages were local and the tea came in a proper pot.	the garden centre cafe league, quietly the best breakfasts in the country. was it queued?
+1643	2705	0	taster	found a curry house that does a taster thali on wednesdays.	the taster thali, a fine invention. how much?
+1643	2705	2	chef	the lamb one, by a distance, and they told the kitchen. the chef came out and bowed slightly.	the chef bowing for the lamb, that's the whole evening made. i'm going next wednesday.
+1648	2705	0	annual	carved pumpkins with the kids, our annual mess.	the annual pumpkin massacre, how bad was the kitchen?
+1649	2705	0	lego	advent calendar shopping is done, two chocolate ones and a lego one.	the lego advent, a bigger commitment than it looks. who gets it?
+1651	2705	1	house	the first tray sulked, the second was lovely. twelve in the freezer already and my house smells like december.	the house smelling of december in november, that's an investment in mood. did you use a recipe or improvise?
+1657	2720	2	page	monthly, with a rule against complaining if you abandon it by page fifty.	the page fifty abandonment clause, every marriage needs one.
+1660	2720	1	river	mostly blurry, but two were genuinely good. one of the bridge lights doubling in the river.	the river doubling is what night shots are for. what did you learn?
+1668	2720	1	fourth	badly at first, then quietly determined. his fourth button was better than mine, which i didn't tell him.	the fourth button better than yours, that's the teaching win. did he notice?
+1707	2750	2	hoodie	loving it, broke and wise. she taught me two new words and took my good hoodie.	the hoodie tax, every parent pays it. did she eat properly at least?
+1709	2750	1	napkin	a lemon tart from the posh bakery and their new dog, who ate a napkin mid meal.	the napkin eating dog at the table, every family has one. was the lunch peaceful?
+1711	2750	0	payslip	got the first payslip call from my daughter about tax.	the payslip shock call, every parent takes it. how did you explain?
+1711	2750	1	napkin	badly at first, then with a napkin diagram. she went quiet, then said so the government takes some. welcome to adulthood, love.	the napkin tax seminar, a rite of passage for you both. was she mollified?
+1712	2750	1	boat	model boats, quietly, with the door shut and the radio on. my wife calls it the boat cave with affection.	the boat cave with affection, that's a marriage working. how many boats so far?
+1712	2750	2	sinking	two finished, one sinking metaphorically on the bench. the third will be the masterpiece.	the sinking third boat, every hobbyist has one. the masterpiece is always next.
+1715	2750	1	dressing	parked in a hedge, unharmed and undignified. the owner retrieved it sheepishly in his dressing gown.	the dressing gown bin rescue, a village classic. anything else blown about?
+1747	2765	1	chimney	the man said the flashing round the chimney.	the chimney flashing is a common one, best done before the damp.
+1760	2780	1	rubber	a rubber band between the driver and the head, which i learned from a video at my lowest point.	the rubber band trick has saved more DIYers than any tool. did the screw survive?
+1768	2780	0	dad	watched an old film with my dad and he narrated the whole thing.	the dad commentary track came free was it welcome?
+1771	2780	2	joint	one over fence placement that lasted a week. we resolved it with a joint wall.	the joint wall, conflict resolution via architecture. better than most governments manage.
+1772	2780	0	loft	dug out the old board games from the loft for a rainy sunday.	the loft collection comes down for tours which held up best?
+1773	2780	0	tribute	went to see a tribute band on a whim.	the tribute circuit, good honest fun. were they close?
+1775	2795	1	plant	nothing, and everything has been moved up a shelf. she went straight for the plant.	the plant is always the first casualty did the walking come out of nowhere?
+1779	2795	1	sunday	fine until i found his old coat in the hall cupboard and had a moment. he rings every sunday now, unprompted.	the sunday ring, that's the parenting dividend. does the room stay as a shrine?
+1780	2795	0	street	our street welcomed three new families this year alone.	the street really is growing how's the mix?
+1780	2795	2	widely	at the barbecue, and there's a street whatsapp now with a strict no politics rule, widely ignored.	the widely ignored no politics rule, every group has one. the street sounds alive.
+1781	2795	1	door	emotional at the door, fine by ten, and the baby photos did the rounds all morning. work felt smaller to her, she said.	the door to ten o'clock adjustment, most returners describe exactly that. is she part time now?
+1786	2795	2	bench	the bench man is back at his bench, coffee in hand. i waved, he raised his cup. civilisation resumed.	the bench man and his cup, winter is officially over for the street.
+1789	2795	1	lollipop	two days, with much beeping and one heroic man directing traffic with a lollipop.	the lollipop hero directing the resurfacing, every job has one. was the access a nightmare?
+1790	2810	0	week	how's your week starting off?	the week is going fine, monday went better than usual, so i worry.
+1793	2810	0	quiz	how was the quiz night?	the quiz night went badly, we came second last overall.
+1793	2810	1	question	what was the question?	the question was name three from the ninety eight squad. we named one.
+1796	2810	0	saving	how's the saving going?	the saving is going slowly. i keep dipping into it for birthdays.
+1799	2810	0	concert	how was the concert?	the concert was incredible, my ears are still ringing from it.
+1799	2810	1	crowd	what was the crowd like?	the crowd was up for it, everyone sang the whole last song.
+1801	2810	1	dream	that's the dream, that.	the dream, i should have bought it years ago instead of suffering.
+1802	2810	0	house	how's your sister's new house?	the house is lovely, huge garden and a bit of a fixer upper.
+1804	2810	0	new	what did you think of the new cafe?	the new cafe is overpriced but the cake was worth it.
+1808	2825	1	shared	fourteen, split across two cottages, with a shared meal plan that has already caused debate.	the shared meal plan debate, every group trip's constitutional crisis. who's cooking?
+1814	2825	1	forever	ninety percent, and the last ten percent is mine to maintain with the band exercises, forever, apparently.	the forever band, the fine print of every physio discharge. are you actually doing them?
+1819	2825	2	nodding	twice, early sessions, and the regulars are all still there nodding at each other. the community survived the refurbishment.	the nodding regulars, the true measure of a pool. i'll try the flume when the children allow it.
+1820	2825	2	air	the air ambulance, which landed on our rec two years ago and saved the man from number nineteen.	the air ambulance from your own rec, that makes six hours feel like nothing. spin well.
+1822	2840	1	ice	neglect, mostly, plus one ice cube a week. i read that tip and it sounded like nonsense, but she thrives on it.	the ice cube orchid diet, doubted and proven. where does she live?
+1829	2840	1	dog	one per month, all family, and december is the dog in a santa hat because rules are rules.	the dog in december, that's the law of calendars. did she cry?
+1829	2840	2	postman	on the phone, about july's photo of the grandchildren on the beach. she's already shown the postman.	the postman preview, that's a five star review. were the prints good quality?
+1834	2840	2	kids	a whole van load, and the kids sorted it into bundles themselves. they took it seriously.	the kids sorting bundles, that's the lesson landing properly. a van load is a great haul.
+1838	2855	1	sellotape	eight done before the sellotape ran out, so the rest are in a limbo of half wrapping.	the sellotape running out mid wrap, that's the season's first crisis. have you restocked?
+1839	2855	1	cat	minimal so far, it's drinking well, and the smell through the house is the whole point. the cat disagrees with the whole concept.	the cat versus tree, the annual conflict. has he climbed it?
+1840	2855	2	hand	half posted, half hand delivered with a knock, which is really a mini catch up.	the hand delivered knock, that's card writing with a conversation attached. who did you catch?
+1841	2855	0	october	made the christmas cake in october like a proper person.	the october cake, feeding it brandy weekly. how is it maturing?
+1841	2855	2	royal	mid december, marzipan first, then a royal icing battle with my sister.	the royal icing battle, sibling tradition as sport. who usually wins?
+1844	2855	1	mulled	about fifteen, half singing, half drinking, all loud. the mulled wine does the harmonising.	the mulled wine harmonising effect, well documented science. do you do food too?
+1844	2855	2	cheese	mince pies and one cheese board for the people who pretend they don't sing.	the cheese board for the refusers, thoughtfully provisioned. may the singing be loud and the tuning optional.
+1847	2855	1	evidence	above, actually. i'd prepared a folder of evidence, which my manager said was the most organised thing she'd seen.	the evidence folder wins again, preparation beats charm. what will you spend it on?
+1849	2855	2	overlap	we overlap ten till two for meetings, then drift. honestly, output is the same or better.	the overlap window, flexi done properly. did anyone abuse it?
+1851	2855	1	walk	a long walk, then a long lunch, then a nap. after that, the boat and the allotment fight for my time.	the walk, lunch and nap agenda, a perfect first day. is the boat ready?
+1852	2855	2	season	completely. i look up between tasks and there's a season happening out there. the screen feels smaller somehow.	the season happening outside, that's the best window seat report i've heard. guard that desk.
+1904	2900	0	new	how's the new commute?	the new commute is better, one bus instead of two now.
+1907	2900	0	cat	how's the cat after the vet?	the cat is sulking after the vet, ignoring everyone but the food bowl.
+1910	2900	0	food	how was the food festival?	the food festival was great, i ate too much and regretted nothing.
+1911	2900	0	new	you been to the new gym yet?	the new gym was packed at six and dead by eight.
+1912	2900	0	book	what's the book club reading?	the book club is reading that thriller everyone argued about.
+1913	2900	0	allotment	how's the allotment neighbour situation?	the allotment situation is better since we split the plot in half.
+1916	2900	0	phone	how's the phone battery holding up?	the phone battery is terrible, it dies by three without a charge.
+1919	2915	0	back	how's your back doing?	the back is much better, thanks. the new chair helped.
+1922	2915	0	parents	how was the parents thing at school?	the parents thing at school was long, two hours on tiny chairs.
+1925	2915	0	driving	how's the driving lesson going?	the driving lesson went good, i did a parallel park first go.
+1928	2915	0	extension	how's the neighbour's extension going?	the extension is nearly done, the scaffolding is finally coming down.
+1931	2915	0	new	how's the new boss settling in?	the new boss is fine so far, she actually listens, which is new.
+1947	2930	1	saucer	took two days and three tests, but the last spoonful wrinkled in the saucer.	the saucer wrinkle test, passed down through generations.
+1958	2945	1	fruit	by getting up like animals. it was awful. we found it in the fruit bowl.	the fruit bowl, a classic. mine ends up in the fridge.

@@ -1,0 +1,742 @@
+== line 1 b2000 [curator]
+U: hey, how's it going?
+A0: pretty good. just got back from the shop. you?   [9w ov=[]]
+
+== line 2 b2000 [curator]
+U: not much, you?
+A0: same here really. been a lazy one. any plans for later?   [11w ov=[]]
+
+== line 3 b2000 [curator]
+U: morning! coffee yet?
+A0: two cups in. i did not sleep great so the coffee is doing heavy lifting today.   [16w ov=['coffee']]
+
+== line 4 b2000 [curator]
+U: what did you get up to this weekend?
+A0: not a lot honestly. cleaned the kitchen, watched a film, went for a walk. needed the rest if i'm being honest.   [21w ov=[]]
+
+== line 5 b2000 [curator]
+U: how's the weather over there?
+A0: raining again. i gave up on my umbrella and just got wet. how about you?   [15w ov=[]]
+
+== line 6 b2000 [curator]
+U: any plans for the weekend?
+A0: nothing set in stone. maybe see my sister if she's free. you doing anything?   [14w ov=[]]
+
+== line 7 b2000 [curator]
+U: how was your day?
+A0: long, but fine. busy morning, quiet afternoon. can't complain. how was yours?   [12w ov=[]]
+
+== line 8 b2000 [curator]
+U: did you eat yet?
+A0: yeah, had some pasta about an hour ago. still full honestly. you?   [12w ov=[]]
+
+== line 9 b2000 [curator]
+U: what are you up to?
+A0: just watching telly and folding washing. very exciting stuff. what about you?   [12w ov=[]]
+
+== line 10 b2000 [curator]
+U: how's work going?
+A0: same as always really. busy but nothing dramatic. counting down to friday though.   [13w ov=[]]
+
+== line 11 b2000 [curator]
+U: you good?
+A0: yeah i'm good. bit tired but who isn't. how are you doing?   [12w ov=['good']]
+
+== line 12 b2000 [curator]
+U: how was your weekend?
+A0: really nice actually. went to the market on saturday and did nothing at all on sunday. perfect balance.   [18w ov=[]]
+
+== line 13 b2000 [curator]
+U: what have you been watching lately?
+A0: that cooking show everyone talks about. i'm three episodes in and i already want to quit my job and open a bakery.   [22w ov=[]]
+
+== line 14 b2000 [curator]
+U: did you do anything fun?
+A0: does food shopping count? no not really. had a nice long phone call with my mum though, that was good.   [20w ov=[]]
+
+== line 15 b2000 [curator]
+U: how's the family?
+A0: all good. my brother's got a new job so he won't shut up about it. how's yours?   [17w ov=["how's"]]
+
+== line 16 b2000 [curator]
+U: you seem cheerful today
+A0: do i? must be the sun. it's the first dry day all week and it's gone straight to my head.   [20w ov=[]]
+
+== line 17 b2000 [curator]
+U: what's new with you?
+A0: not much. same job, same flat. oh, i started growing tomatoes on the balcony though. one of them is alive.   [20w ov=[]]
+
+== line 18 b2000 [curator]
+U: how's your week been?
+A0: up and down. monday was a nightmare but it got better. nearly the weekend now, that's the main thing.   [19w ov=[]]
+
+== line 19 b2000 [curator]
+U: fancy a chat?
+A0: sure, i've got time. nothing good on telly anyway. what's on your mind?   [13w ov=[]]
+
+== line 20 b2000 [curator]
+U: how have you been?
+A0: not bad, not bad. bit run off my feet but getting there. how about you, you keeping well?   [18w ov=[]]
+
+== line 21 b2015 [curator]
+U: how's it going?
+A0: alright, can't complain. just making dinner. what about you?   [9w ov=[]]
+U: just got home myself. what are you making?
+A1: nothing fancy, just a stir fry. i always end up with too many noodles though.   [15w ov=[]]
+U: same here. i always cook for about six people by accident.
+A2: me too. leftovers for days then.   [6w ov=[]]
+
+== line 22 b2015 [curator]
+U: what did you think of the game last night?
+A0: gutting. we were two up with ten minutes left. i turned it off before the equaliser, couldn't watch.   [18w ov=[]]
+U: smart. i sat through all of it and regretted every second.
+A1: i'm not watching the highlights either. some things you just have to pretend didn't happen.   [15w ov=[]]
+
+== line 23 b2015 [curator]
+U: did you have a good weekend?
+A0: yeah really good. we went to that new cafe on the high street.   [13w ov=['good']]
+U: oh what's it like? i keep walking past it.
+A1: honestly? bit pricey but the coffee is proper good. i'd go again for a treat.   [15w ov=[]]
+
+== line 24 b2015 [curator]
+U: you look tired
+A0: that obvious huh. the baby was up at four and never went back down.   [14w ov=[]]
+U: oh no. mine used to do that. it does end, i promise.
+A1: i'm holding you to that. coffee is my best friend this week.   [12w ov=[]]
+
+== line 25 b2015 [curator]
+U: any plans tonight?
+A0: not really. might have a bath and an early night if i'm honest.   [13w ov=[]]
+U: that sounds perfect actually. i might steal that idea.
+A1: go for it. friday can wait, sleep first.   [8w ov=[]]
+
+== line 26 b2015 [curator]
+U: how's the new place?
+A0: love it. still got boxes everywhere but the kitchen's sorted, and that's what matters.   [14w ov=[]]
+U: haha fair. how long till you're properly unpacked?
+A1: knowing me? about six months. there's a box marked important that i haven't opened once.   [15w ov=[]]
+
+== line 27 b2015 [curator]
+U: what have you been up to?
+A0: oh, the usual. work, walk, telly. oh, i started a jigsaw on sunday.   [13w ov=[]]
+U: how big?
+A1: a thousand pieces. it's a map of the london underground. i've done the river and that's it so far.   [19w ov=[]]
+
+== line 28 b2015 [curator]
+U: lovely day out, isn't it?
+A0: proper lovely. i've had the windows open all morning.   [9w ov=['lovely']]
+U: i went for a walk at lunch and nearly got a sunburn. in october, can you believe it.
+A1: i know. i'll take it though. it'll be freezing in a month.   [12w ov=[]]
+
+== line 29 b2015 [curator]
+U: how's your mum doing?
+A0: much better thanks, she's back to her old self. driving my dad mad again, so all good.   [17w ov=[]]
+U: haha that's good to hear. give her my best.
+A1: will do. she says hello by the way, and asked if you're eating properly.   [14w ov=[]]
+
+== line 30 b2015 [curator]
+U: did you watch that thing everyone was on about?
+A0: i tried. gave it twenty minutes and turned it off.   [10w ov=[]]
+U: me too! everyone keeps saying it gets good after episode four.
+A1: who has time for that? if it's not good in twenty minutes, life's too short.   [15w ov=['good']]
+
+== line 31 b2015 [curator]
+U: how was your holiday?
+A0: honestly brilliant. did nothing but sit by the pool and read.   [11w ov=[]]
+U: that sounds like heaven. got any photos?
+A1: hundreds. i'll show you tomorrow, i've got a good one of a cat that adopted us at breakfast every morning.   [20w ov=[]]
+
+== line 32 b2015 [curator]
+U: what are you doing this weekend?
+A0: not sure yet. weather looks decent so maybe a walk somewhere.   [11w ov=[]]
+U: nice. we're thinking of the beach if the rain holds off.
+A1: do it. this might be the last warm one before winter kicks in.   [13w ov=[]]
+
+== line 33 b2030 [curator]
+U: morning! how are you today?
+A0: good thanks. slept properly for once, so i feel like a new person. you?   [14w ov=[]]
+
+== line 34 b2030 [curator]
+U: hey, long time no speak!
+A0: i know! how have you been?   [6w ov=[]]
+U: not bad. busy with work but good busy. what about you?
+A1: same here. we should catch up properly soon, it's been ages.   [11w ov=[]]
+
+== line 35 b2030 [curator]
+U: what are you having for lunch?
+A0: probably just a sandwich. i keep saying i'll meal prep and it never happens.   [14w ov=[]]
+U: me neither. i bought a nice flask for soup and used it twice.
+A1: haha the flask deserves better.   [5w ov=['flask']]
+
+== line 36 b2030 [curator]
+U: did you sleep okay?
+A0: not really. my neighbour's dog was up half the night barking at nothing.   [13w ov=[]]
+U: oh no. is it the one that does it every full moon?
+A1: that's the one. i'm thinking of leaving a polite note. or an impolite one, depends on my mood.   [18w ov=['one']]
+
+== line 37 b2030 [curator]
+U: how's the diet going?
+A0: don't ask. i had chips for breakfast.   [7w ov=[]]
+U: breakfast chips are a strong choice honestly.
+A1: it's fine, the diet starts monday. it always starts monday.   [10w ov=[]]
+
+== line 38 b2030 [curator]
+U: what's the plan for tonight?
+A0: nothing exciting. leftovers and a bit of telly. you?   [9w ov=[]]
+U: same. i might ring my nan, she's been asking about me.
+A1: that's nice. give her a ring, she'll love it.   [9w ov=['ring']]
+
+== line 39 b2030 [curator]
+U: you free this weekend?
+A0: i think so, why what's up?   [6w ov=[]]
+U: was thinking of a bbq if the weather holds.
+A1: count me in. i'll bring the sausages and zero skills.   [10w ov=[]]
+
+== line 40 b2030 [curator]
+U: how's the garden coming along?
+A0: slowly. the slugs are winning at the moment.   [8w ov=[]]
+U: welcome to gardening. beer traps, that's my only advice.
+A1: does that actually work?   [4w ov=[]]
+U: mostly it just gets you drunk slugs, but yes, it works.
+A2: good, i'll try anything at this point.   [7w ov=[]]
+
+== line 41 b2030 [curator]
+U: did you hear about the roadworks on the high street?
+A0: yeah, started monday. the bus now takes about ten years.   [10w ov=[]]
+U: i know, my commute's gone up by twenty minutes.
+A1: apparently it's for the new broadband. better be fast after all this.   [12w ov=[]]
+
+== line 42 b2030 [curator]
+U: what have you been reading?
+A0: one of those crime books set in a small village. everyone's a suspect, even the vicar.   [16w ov=[]]
+U: haha sounds right up my street. is it good?
+A1: proper page turner. i stayed up till one finishing it and now i'm paying for it.   [16w ov=['up']]
+
+== line 43 b2030 [curator]
+U: how was the dentist?
+A0: fine actually. no fillings, just a telling off about flossing.   [10w ov=[]]
+U: that's a win in my book.
+A1: right? i walked out feeling like i'd got away with something.   [11w ov=[]]
+
+== line 44 b2030 [curator]
+U: you seen the forecast?
+A0: rain all week apparently. typical.   [5w ov=[]]
+U: i saw that. i was going to wash the car as well.
+A1: don't bother, it'll rain wash it for free. silver linings.   [10w ov=['wash']]
+
+== line 45 b2030 [curator]
+U: how's the new job?
+A0: really good, thanks for asking. the team's friendly and i'm learning loads.   [12w ov=[]]
+U: that's great. better commute too, right?
+A1: so much better. i can walk it in twenty minutes now.   [11w ov=['better']]
+
+== line 341 b2090 [curator]
+U: hey you, how's things?
+A0: good, good. counting down to the weekend. what about you?   [10w ov=[]]
+
+== line 342 b2090 [curator]
+U: what did you have for tea?
+A0: just beans on toast. i couldn't be bothered to cook properly.   [11w ov=[]]
+U: sometimes that's exactly what you need.
+A1: right? no shame in the bean life.   [7w ov=[]]
+
+== line 343 b2090 [curator]
+U: how was the school run this morning?
+A0: chaotic as always. my youngest lost a shoe and we found it in the fridge.   [15w ov=[]]
+U: the fridge? how does that even happen.
+A1: no idea. i've stopped asking questions at this point.   [9w ov=[]]
+
+== line 344 b2090 [curator]
+U: you alright?
+A0: yeah just a bit stressed with work. it'll pass.   [9w ov=[]]
+U: anything i can do?
+A1: no, it helps just saying it out loud actually. thanks.   [10w ov=[]]
+
+== line 345 b2090 [curator]
+U: what are you listening to at the moment?
+A0: that podcast about old crimes. you know the one everyone's obsessed with.   [12w ov=[]]
+U: oh i've heard of it. is it worth starting?
+A1: only if you're ready for your commute to disappear. it's proper addictive.   [12w ov=[]]
+
+== line 346 b2090 [curator]
+U: did the parcel turn up in the end?
+A0: finally, yeah. three days late and the box was battered.   [10w ov=[]]
+U: typical. was the stuff okay inside?
+A1: luckily yes. i've never been so relieved to see a toaster.   [11w ov=[]]
+
+== line 347 b2090 [curator]
+U: fancy a coffee later?
+A0: oh go on then. i've got nothing else on.   [9w ov=[]]
+U: brilliant. usual place?
+A1: usual place. i'm having the big one today, i've earned it.   [11w ov=['place', 'usual']]
+
+== line 348 b2090 [curator]
+U: how's the car?
+A0: in the garage again. it's costing me a fortune.   [9w ov=[]]
+U: what's wrong with it this time?
+A1: something to do with the exhaust. i just nod and pay at this point.   [14w ov=[]]
+
+== line 349 b2090 [curator]
+U: you seen any good films lately?
+A0: watched one about a chef last night. proper good, made me hungry.   [12w ov=['good']]
+U: haha what's it called? i need something for the weekend.
+A1: i'll send you the name. fair warning, you'll order takeaway halfway through.   [12w ov=[]]
+
+== line 350 b2090 [curator]
+U: how's the dog?
+A0: living his best life. he's got a new bed and now refuses to move from it.   [16w ov=[]]
+U: haha good for him.
+A1: honestly, i want his life. eat, sleep, get walked. that's the dream.   [12w ov=[]]
+
+== line 351 b2090 [curator]
+U: what time did you finish work?
+A0: about six. the traffic was awful on the way home.   [10w ov=[]]
+U: same here. i sat on the ring road for half an hour.
+A1: it's getting worse every month. i might start cycling again.   [10w ov=[]]
+
+== line 352 b2090 [curator]
+U: did you manage to get that appointment?
+A0: yeah, thursday at ten. i had to wait three weeks for it.   [12w ov=[]]
+U: that's not bad these days.
+A1: true. i was expecting a lot worse.   [7w ov=[]]
+
+== line 353 b2090 [curator]
+U: how's your brother getting on?
+A0: really well. he's moved in with his girlfriend and they seem happy.   [12w ov=[]]
+U: that's lovely. has he settled in okay?
+A1: mostly. he still can't work the washing machine, but she's teaching him.   [12w ov=[]]
+
+== line 354 b2090 [curator]
+U: what's for dinner tonight?
+A0: trying something new. a curry from scratch.   [7w ov=[]]
+U: ooh brave. first time?
+A1: second time. the first one was mostly smoke. this time i'm following the recipe properly.   [15w ov=['first', 'time']]
+
+== line 415 b2120 [curator]
+U: how's your morning been?
+A0: slow start. i hit snooze about five times.   [8w ov=[]]
+U: i did the same. we're both guilty then.
+A1: no regrets. the bed was too comfortable to leave.   [9w ov=[]]
+
+== line 416 b2120 [curator]
+U: what are you doing for your birthday?
+A0: nothing fancy. just a meal with a few friends.   [9w ov=[]]
+U: nice. where are you going?
+A1: that italian place by the station. i've been dropping hints for weeks so someone better book it.   [17w ov=[]]
+
+== line 417 b2120 [curator]
+U: did you get the shopping done?
+A0: mostly. they'd sold out of bread again.   [7w ov=[]]
+U: how do they sell out of bread? it's a supermarket.
+A1: exactly. i asked and the guy just shrugged. i took it personally.   [12w ov=[]]
+
+== line 418 b2120 [curator]
+U: you look nice today
+A0: thanks! i actually ironed this shirt, which is a big deal.   [11w ov=[]]
+U: haha living the high life.
+A1: you'd be amazed what a working iron does for a person.   [11w ov=[]]
+
+== line 419 b2120 [curator]
+U: how was the wedding?
+A0: lovely, really lovely. the food was incredible.   [7w ov=[]]
+U: what did they serve?
+A1: proper roast dinner, none of those tiny fancy plates. best wedding food i've had.   [14w ov=[]]
+
+== line 420 b2120 [curator]
+U: any news from your end?
+A0: not much. oh, my sister's pregnant again.   [7w ov=[]]
+U: congratulations! how's she feeling?
+A1: tired and sick, but happy. she says this one better be the last.   [13w ov=[]]
+
+== line 421 b2120 [curator]
+U: what's the wifi password there?
+A0: it's on the back of the router. i'll text it to you.   [12w ov=[]]
+U: perfect. the guest one keeps cutting out.
+A1: yeah it does that. just restart it, that usually fixes it for a bit.   [14w ov=[]]
+
+== line 422 b2120 [curator]
+U: how was the gym?
+A0: don't. i went once and i can still feel it three days later.   [13w ov=[]]
+U: haha that's how you know it worked.
+A1: no, that's how you know i'm never going back.   [9w ov=['know', "that's"]]
+
+== line 423 b2120 [curator]
+U: did you watch the match?
+A0: missed it, i was on the train. how did we do?   [11w ov=[]]
+U: lost two one. we were terrible apparently.
+A1: typical. i'm glad i missed it then.   [7w ov=[]]
+
+== line 424 b2120 [curator]
+U: what are you reading at the minute?
+A0: a book about a lighthouse keeper. it's dead quiet but i can't stop.   [13w ov=[]]
+U: that's the best kind.
+A1: right? nothing happens and i'm completely hooked.   [7w ov=[]]
+
+== line 425 b2120 [curator]
+U: how's the flat hunt going?
+A0: slow. everything's either tiny or miles away.   [7w ov=[]]
+U: have you tried the ones by the park?
+A1: they're all gone in a day. it's brutal out there.   [10w ov=[]]
+
+== line 426 b2120 [curator]
+U: you doing anything for halloween?
+A0: probably just answering the door with sweets. you?   [8w ov=[]]
+U: same. i've bought the big bag so i can eat whatever's left.
+A1: smart. that's the real reason anyone buys the big bag.   [10w ov=['bag', 'big']]
+
+== line 427 b2120 [curator]
+U: how's your cold?
+A0: better thanks. still got the cough but i can breathe again.   [11w ov=[]]
+U: glad to hear it. that one's been going round.
+A1: everyone at work has it. we're all just coughing over each other.   [12w ov=[]]
+
+== line 428 b2120 [curator]
+U: what time do you finish today?
+A0: half four if i'm lucky. why?   [6w ov=[]]
+U: was thinking of a quick pint after work.
+A1: say no more. i'll be there.   [6w ov=[]]
+
+== line 501 b2150 [curator]
+U: what are you up to this evening?
+A0: not much. kids are in bed so i'm having a cup of tea in silence.   [15w ov=[]]
+U: the silence is the best part, right?
+A1: you have no idea. i've never valued a quiet sofa so much.   [12w ov=[]]
+
+== line 502 b2150 [curator]
+U: how's the course going?
+A0: good, nearly finished. just the final assignment left.   [8w ov=[]]
+U: that's brilliant. when's it due?
+A1: end of the month. i'll be living in the library for two weeks.   [13w ov=[]]
+
+== line 503 b2150 [curator]
+U: did you sort the boiler out?
+A0: finally. the plumber came this morning. we have hot water again.   [11w ov=[]]
+U: what was wrong with it?
+A1: a valve apparently. he fixed it in twenty minutes after i waited a week for him.   [16w ov=[]]
+
+== line 504 b2150 [curator]
+U: any plans for the bank holiday?
+A0: thinking of the seaside if the traffic isn't too bad.   [10w ov=[]]
+U: which one?
+A1: the beach one with the donkeys, about an hour up the coast. the kids love it, and the chips are proper good there.   [23w ov=['one']]
+
+== line 505 b2150 [curator]
+U: how's your dad's allotment?
+A0: thriving. he's giving away courgettes to anyone who makes eye contact.   [11w ov=[]]
+U: haha the classic allotment problem.
+A1: we've got a drawer full. i'm hiding them in everything i cook.   [12w ov=[]]
+
+== line 506 b2150 [curator]
+U: what did you think of the finale?
+A0: mixed feelings. glad it's over but i'll miss it.   [9w ov=[]]
+U: same. what do we watch now?
+A1: no idea. i might just rewatch something comfortable instead of starting anything new.   [13w ov=[]]
+
+== line 507 b2150 [curator]
+U: you been on holiday this year?
+A0: not yet. we're off in september when it's cheaper.   [9w ov=[]]
+U: smart. where are you going?
+A1: portugal. a little apartment near the beach, nothing fancy.   [9w ov=[]]
+
+== line 508 b2150 [curator]
+U: how's the new phone?
+A0: honestly it's too clever. it keeps doing things i didn't ask for.   [12w ov=[]]
+U: haha like what?
+A1: it rearranged my photos into albums. i didn't ask for that. i was fine with the mess.   [17w ov=[]]
+
+== line 509 b2150 [curator]
+U: did you get your hair cut?
+A0: yeah, finally. it was getting out of control.   [8w ov=[]]
+U: looks good. where do you go?
+A1: that little barbers by the post office. cheap and he always does a proper job.   [15w ov=[]]
+
+== line 510 b2150 [curator]
+U: what's the best thing you've eaten this week?
+A0: my mate made this lamb thing on sunday. i've been thinking about it since.   [14w ov=['thing']]
+U: send me the recipe?
+A1: already asked for it. i'll forward it when he sends it over.   [12w ov=[]]
+
+== line 511 b2150 [curator]
+U: how was the parents evening?
+A0: really positive, which was a relief.   [6w ov=[]]
+U: what did they say?
+A1: she's doing great at reading, needs to talk less in class.   [11w ov=[]]
+U: haha that sounds about right.
+A2: the teacher said it very politely but we knew what she meant.   [12w ov=[]]
+
+== line 512 b2150 [curator]
+U: you alright for saturday?
+A0: should be. what time?   [4w ov=[]]
+U: two o'clock at mine. bring nothing, we've got too much food already.
+A1: perfect. see you then.   [4w ov=[]]
+
+== line 513 b2150 [curator]
+U: what do you do on your lunch break?
+A0: usually a walk and a sandwich at my desk.   [9w ov=[]]
+U: same. i feel like we're the only two who leave the building.
+A1: everyone else eats at their screens. i need the fresh air or i go mad.   [15w ov=[]]
+
+== line 1790 b2810 [curator]
+U: how's your week starting off?
+A0: not bad. monday went better than usual, so i'm suspicious.   [10w ov=[]]
+U: careful, that's how they get you.
+A1: i know. i'm waiting for the catch.   [7w ov=[]]
+
+== line 1791 b2810 [curator]
+U: did you get the barbecue sorted?
+A0: yeah, borrowed one off my brother. it's massive.   [8w ov=[]]
+U: nice. what are you cooking on it?
+A1: burgers, sausages, and my mate's bringing some chicken he swears by his marinade.   [13w ov=[]]
+
+== line 1792 b2810 [curator]
+U: what's the most useless thing you've bought lately?
+A0: a banana holder. it holds exactly one banana.   [8w ov=[]]
+U: why did you buy that?
+A1: it was next to the till and i was weak. never again.   [12w ov=[]]
+
+== line 1793 b2810 [curator]
+U: how was the quiz night?
+A0: we came second last. one question about football ruined us.   [10w ov=[]]
+U: what was the question?
+A1: name three players from the ninety eight squad. we named one and made up the rest.   [16w ov=[]]
+
+== line 1794 b2810 [curator]
+U: you look like you've been in the sun
+A0: i have! spent the whole day in the garden.   [9w ov=[]]
+U: lucky you. did you at least wear sunscreen?
+A1: for the first hour. then i forgot and now my arms are two different colours.   [15w ov=[]]
+
+== line 1795 b2810 [curator]
+U: what's happening on your street lately?
+A0: they're finally fixing the pothole. it only took two years.   [10w ov=[]]
+U: the big one by the corner?
+A1: that's the one. i've watched three cars lose a hubcap in it.   [12w ov=['one']]
+
+== line 1796 b2810 [curator]
+U: how's the saving going?
+A0: slowly. i keep dipping into it for birthdays.   [8w ov=[]]
+U: it all counts though.
+A1: tell that to my savings account. it's more of a suggestion at this point.   [14w ov=[]]
+
+== line 1797 b2810 [curator]
+U: did you try that recipe i sent?
+A0: yeah! it was really good, thanks.   [6w ov=[]]
+U: did you change anything?
+A1: i added more garlic. i always add more garlic.   [9w ov=[]]
+
+== line 1798 b2810 [curator]
+U: what are you growing this year?
+A0: tomatoes and some herbs. the snails got the lettuce again.   [10w ov=[]]
+U: do the copper tape thing, it actually works.
+A1: i'll give it a go. i'm sick of feeding the snails.   [11w ov=[]]
+
+== line 1799 b2810 [curator]
+U: how was the concert?
+A0: incredible. my ears are still ringing.   [6w ov=[]]
+U: what was the crowd like?
+A1: proper up for it. everyone sang the whole last song.   [10w ov=[]]
+
+== line 1800 b2810 [curator]
+U: any plans for the long weekend?
+A0: just a day trip somewhere. maybe the mountains if the weather's kind.   [12w ov=[]]
+U: take a jacket anyway, you know what it's like.
+A1: good call. i've been caught out too many times.   [9w ov=[]]
+
+== line 1801 b2810 [curator]
+U: what's the best purchase you've made this year?
+A0: honestly, a good pillow. changed my whole life.   [8w ov=[]]
+U: that's the dream, that.
+A1: i should have done it years ago. i was suffering for nothing.   [12w ov=[]]
+
+== line 1802 b2810 [curator]
+U: how's your sister's new house?
+A0: lovely. huge garden, bit of a fixer upper.   [8w ov=[]]
+U: are they doing it themselves?
+A1: mostly. her husband watches the videos and then does it wrong anyway.   [12w ov=[]]
+
+== line 1803 b2810 [curator]
+U: did you hear the neighbours finally moved?
+A0: yeah, the moving van came saturday.   [6w ov=[]]
+U: it'll be quiet without their music.
+A1: i know. i almost miss it. almost.   [7w ov=[]]
+
+== line 1804 b2810 [curator]
+U: what did you think of the new cafe?
+A0: overpriced but the cake was worth it.   [7w ov=[]]
+U: which one did you have?
+A1: the lemon one, obviously. i've thought about it every day since.   [11w ov=['one']]
+
+== line 1904 b2900 [curator]
+U: how's the new commute?
+A0: actually better. one bus instead of two.   [7w ov=[]]
+U: that's a win. how long?
+A1: twenty five minutes if the traffic behaves, which it never does, but still.   [13w ov=[]]
+
+== line 1905 b2900 [curator]
+U: what are you doing this sunday?
+A0: roast at my mum's. she's doing pork.   [7w ov=[]]
+U: oh that's good. does she do the crackling?
+A1: she does the best crackling. i've already stopped eating to save room.   [12w ov=['crackling']]
+
+== line 1906 b2900 [curator]
+U: did you finish the puzzle?
+A0: finally. the last piece was under the sofa.   [8w ov=[]]
+U: no way. how long was it missing?
+A1: about a week. i nearly bought a whole new puzzle out of spite.   [13w ov=[]]
+
+== line 1907 b2900 [curator]
+U: how's the cat after the vet?
+A0: sulking. she's ignoring everyone except the food bowl.   [8w ov=[]]
+U: that's cats for you.
+A1: she'll forgive me by friday. or she won't. it's her decision.   [11w ov=[]]
+
+== line 1908 b2900 [curator]
+U: what did you think of the debate last night?
+A0: i lasted ten minutes. just people talking over each other.   [10w ov=[]]
+U: i gave it five.
+A1: we're both better informed than we deserve to be.   [9w ov=[]]
+
+== line 1909 b2900 [curator]
+U: any luck with the job hunt?
+A0: two interviews this week, so fingers crossed.   [7w ov=[]]
+U: that's brilliant. what are they?
+A1: one's at the hospital, one's at a school. both beat my current place anyway.   [14w ov=[]]
+
+== line 1910 b2900 [curator]
+U: how was the food festival?
+A0: great. i ate too much and regretted nothing.   [8w ov=[]]
+U: what was the best thing?
+A1: this pulled pork roll. i'm still thinking about it.   [9w ov=[]]
+
+== line 1911 b2900 [curator]
+U: you been to the new gym yet?
+A0: once. it was packed at six, dead by eight.   [9w ov=[]]
+U: go at eight then.
+A1: that's the plan. i just have to survive the guilt of not going at six.   [15w ov=[]]
+
+== line 1912 b2900 [curator]
+U: what's the book club reading?
+A0: that thriller everyone argued about last year.   [7w ov=[]]
+U: are you enjoying it?
+A1: loving it. i stayed up till midnight two nights running.   [10w ov=[]]
+
+== line 1913 b2900 [curator]
+U: how's the allotment neighbour situation?
+A0: better since we split the plot in half.   [8w ov=[]]
+U: did you draw a line?
+A1: literally. there's a string down the middle now. very cold war.   [11w ov=[]]
+
+== line 1914 b2900 [curator]
+U: did you get the tickets?
+A0: yes! front row, somehow.   [4w ov=[]]
+U: how did you manage that?
+A1: pure luck. i refreshed the page at the right second.   [10w ov=[]]
+
+== line 1915 b2900 [curator]
+U: what's your plans for tonight?
+A0: early night. i've got an early start tomorrow.   [8w ov=[]]
+U: boring but sensible.
+A1: that's my whole personality these days, honestly.   [7w ov=[]]
+
+== line 1916 b2900 [curator]
+U: how's the phone battery holding up?
+A0: terrible. it dies by three if i don't charge it at lunch.   [12w ov=[]]
+U: mine's the same. they design them like that, i swear.
+A1: planned obsolescence, but for phones it's just tuesday.   [8w ov=[]]
+
+== line 1917 b2900 [curator]
+U: did you hear the church bells this morning?
+A0: yeah, they were going for ages. wedding, apparently.   [8w ov=[]]
+U: oh nice. did you see the guests?
+A1: just the cars. everyone looked very fancy.   [7w ov=[]]
+
+== line 1918 b2900 [curator]
+U: what are you doing for the half term?
+A0: taking the kids to my parents. free childcare and they get to spoil them.   [14w ov=[]]
+U: everyone wins.
+A1: exactly. i get a nap, nan gets to feed them sweets all day.   [13w ov=[]]
+
+== line 1919 b2915 [curator]
+U: how's your back doing?
+A0: much better, thanks. the new chair helped.   [7w ov=[]]
+U: was it worth the money?
+A1: every penny. i should have done it when it first started hurting.   [12w ov=[]]
+
+== line 1920 b2915 [curator]
+U: what are you listening to on the way in?
+A0: that true crime podcast again. i'm on series four.   [9w ov=[]]
+U: you're going to be an expert soon.
+A1: i already don't trust anyone at the bus stop.   [9w ov=[]]
+
+== line 1921 b2915 [curator]
+U: did the parcel from your mum arrive?
+A0: yeah, a box of stuff from the loft. old photos mostly.   [11w ov=[]]
+U: any good ones?
+A1: one of me at seven in a cowboy outfit. i'm having it framed.   [13w ov=[]]
+
+== line 1922 b2915 [curator]
+U: how was the parents thing at school?
+A0: long. two hours of sitting on tiny chairs.   [8w ov=[]]
+U: did you learn anything?
+A1: that my daughter is bossy but organised. we knew this.   [10w ov=[]]
+
+== line 1923 b2915 [curator]
+U: you doing anything for bonfire night?
+A0: the common, if it's not raining.   [6w ov=[]]
+U: wrap up warm, it gets freezing there.
+A1: we take a flask of soup now. we've learned the hard way.   [12w ov=[]]
+
+== line 1924 b2915 [curator]
+U: what's for tea?
+A0: i'm doing that tray bake thing with the sausages.   [9w ov=[]]
+U: oh nice. do you do the honey ones?
+A1: always. the kids won't eat them any other way now.   [10w ov=[]]
+
+== line 1925 b2915 [curator]
+U: how's the driving lesson going?
+A0: good. i did a parallel park first go today.   [9w ov=[]]
+U: that's better than me. i still avoid them.
+A1: my instructor says i'm ready for the test. i'm not so sure.   [12w ov=[]]
+
+== line 1926 b2915 [curator]
+U: did you watch the bake off?
+A0: yeah. that bread week was a disaster.   [7w ov=[]]
+U: i felt so bad for the one with the raw loaf.
+A1: same. i was shouting at the telly like it was football.   [11w ov=[]]
+
+== line 1927 b2915 [curator]
+U: what are you reading?
+A0: a book about a woman who walks the whole coast.   [10w ov=[]]
+U: is it good?
+A1: really good. it makes me want to quit everything and buy walking boots.   [13w ov=['good']]
+
+== line 1928 b2915 [curator]
+U: how's the neighbour's extension going?
+A0: nearly done. the scaffolding's finally coming down.   [7w ov=[]]
+U: was it as bad as you thought?
+A1: the dust was worse. but they were actually pretty reasonable about hours.   [12w ov=[]]
+
+== line 1929 b2915 [curator]
+U: you got your flu jab yet?
+A0: got it this morning. arm's a bit sore.   [8w ov=[]]
+U: mine's booked for friday.
+A1: worth it though. i had proper flu two years ago, never again.   [12w ov=[]]
+
+== line 1930 b2915 [curator]
+U: what did you do with your day off?
+A0: absolutely nothing and it was perfect.   [6w ov=[]]
+U: did you even get dressed?
+A1: define dressed.   [2w ov=['dressed']]
+
+== line 1931 b2915 [curator]
+U: how's the new boss settling in?
+A0: fine so far. she actually listens, which is new.   [9w ov=['new']]
+U: long may it last.
+A1: i'm giving it a month before i believe it.   [9w ov=[]]
+
+== line 1932 b2915 [curator]
+U: any plans for the weekend?
+A0: car boot sale on saturday morning.   [6w ov=[]]
+U: looking for anything specific?
+A1: nothing and everything. that's the whole point of a car boot.   [11w ov=[]]
+

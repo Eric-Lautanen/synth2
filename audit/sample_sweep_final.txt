@@ -1,0 +1,41 @@
+SAMPLE SWEEP: 60 prompts x 32 tokens, temps [0.5, 0.7, 0.9, 1.0], topks [0, 10, 40, 100]
+  (temp 0 = greedy baseline; topk 0 = no truncation)
+    temp    topk   loops    eos    echo   selfrep
+    0.00       -       3     59   0.097     0.019
+    0.50       0       4     59   0.088     0.003
+    0.50      10       2     60   0.090     0.001
+    0.50      40       2     60   0.096     0.001
+    0.50     100       4     58   0.087     0.006
+    0.70       0       2     59   0.087     0.006
+    0.70      10       4     60   0.092     0.009
+    0.70      40       2     60   0.093     0.005
+    0.70     100       1     60   0.097     0.001
+    0.90       0       1     56   0.077     0.002
+    0.90      10       3     59   0.093     0.000
+    0.90      40       1     59   0.087     0.000
+    0.90     100       3     60   0.093     0.002
+    1.00       0       2     55   0.076     0.003
+    1.00      10       2     59   0.084     0.002
+    1.00      40       3     60   0.086     0.001
+    1.00     100       1     60   0.081     0.001
+
+GREEDY baseline: loops 3/60  eos 59  echo 0.097  selfrep 0.019
+BEST cell with loops <= greedy: temp 0.70 topk 100 -> echo 0.097 (vs 0.097 greedy, +0.000), selfrep 0.001, loops 1/60
+
+DECODED, best cell (first 8 prompts):
+  [0] so what is going on with you this weekend?
+       after years it, swable and everything, so much better than a rest.
+  [1] it rained the whole way in today.
+       is the first ladol work wrong shelves you at all?
+  [2] yo you good? long time no see.
+       my car chimney proper, we're thinking about a stops apparently.
+  [3] they taxed my whole paycheck again.
+       did you find anything good that, something never packed of them, again?
+  [4] you up to anything today?
+       nothing good. my mum has to?
+  [5] the weekend came and went so fast.
+       a curry north ref was one under the alling enough for saturday tough?
+  [6] my order came cold and half missing.
+       well, the has had you started a takemesation in the kitchen?
+  [7] someone took my parking spot again.
+       in all street, still still had a hall this time.

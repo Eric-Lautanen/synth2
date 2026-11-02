@@ -1,0 +1,53 @@
+batch 2630 zero pairs: 52
+1519|0|finally sorted my passport renewal online.|was the photo the awkward bit?
+1520|0|the council tax bill landed this morning.|up again this year?
+1520|1|forty quid more. same services, more money, no explanation with it.|they never explain. are you paying it monthly?
+1521|0|spent an hour on hold to the tax office.|get through in the end?
+1522|0|my driving licence needs renewing before it expires.|eye test needed for that one?
+1523|0|got a letter about the water bill being estimated.|sent them a reading yet?
+1523|1|not yet. i keep meaning to and then forgetting until the next one arrives.|do it today, it takes two minutes. is it much higher than usual?
+1524|0|renewing the house insurance is a nightmare every year.|do you go through a broker?
+1525|0|i have to register for self assessment this year.|first time doing it?
+1526|0|sorting out my mum's paperwork after the move.|much to get through?
+1527|0|the bin collection changed to every two weeks.|has it caused problems?
+1527|1|the recycling is fine but the general bin is full by day ten.|two weeks is tight for a family. did you ring the council?
+1528|0|finally got the parking permit for the residents bay.|long wait for it?
+1529|0|i am doing a tax return for the first time in ages.|do you keep all the receipts?
+1531|0|boiler packed in last night, no hot water.|none at all, or just the heating?
+1531|1|both. i have got a plumber coming this afternoon, which is quicker than i feared.|good that he could come today. is the boiler old?
+1532|0|quote came in for rewiring the kitchen.|much did they want?
+1533|0|mechanic says the clutch is going.|what did he quote you?
+1534|0|waited in all morning for the electrician.|turn up on time?
+1534|1|half past twelve, no apology, but he fixed it in ten minutes.|at least it is done. what was wrong with it?
+1535|0|washing machine is leaking again.|from the door or underneath?
+1536|0|my MOT is due next month.|any worries about it passing?
+1536|1|the brakes, maybe. they were advisory last year and i ignored them.|advisories are worth acting on. will you get it looked at first?
+1537|0|got a bloke to sort the garden fence.|was it expensive?
+1537|1|not bad, four hundred for the whole side. he did it in a day.|fair price for a day's work. does it need painting?
+1538|0|drain outside is blocked again.|tried the rods?
+1538|1|i have, twice. it clears for a week and then backs up again.|needs someone with a camera. are you ringing a drain firm?
+1539|0|garage says the tyres are borderline.|all four, or just the front?
+1540|0|back room radiator never gets warm.|bled it yet?
+1540|1|i did, and a bit of air came out, but it is no better.|sounds like sludge in the system. are you getting someone in?
+1541|0|my mate is a joiner and he is doing the shelves.|mates rates, is it?
+1541|1|a bit less, and he does it properly. i would rather pay him than a stranger.|knowing the work is good matters. when is he starting?
+1543|0|ordered a curry and it turned up cold.|ring them about it?
+1544|0|takeaway app charged me twice.|asked for a refund?
+1544|1|twice now. the second time they said it was a bank thing.|their problem to fix, not yours. did the money come back?
+1545|0|waiting on a parcel that was meant to arrive tuesday.|what is the tracking showing?
+1545|1|it says out for delivery, and it has said that for three days.|worst status there is. have you rung the courier?
+1546|0|my food shop delivery was missing the milk.|taken off the bill?
+1546|1|they did, without me asking. i was quite impressed actually.|as it should be. do you use them every week?
+1548|0|delivery driver could not find the flat.|had to go down and meet him?
+1548|1|twice round the block and then i stood on the corner waving.|happens a lot with new builds. did the food survive?
+1549|0|i am trying those recipe boxes.|good portions?
+1549|1|generous, actually. i have got three meals out of one box this week.|better value than it looks. will you keep it on?
+1550|0|ordered a birthday cake for saturday.|proper baker or a supermarket?
+1550|1|a local one, not a supermarket. it costs more but it tastes like cake.|proper bakers are worth it. what flavour did you pick?
+1551|0|supermarket substituted half my order.|swap anything good?
+1551|1|chicken for quorn and full fat for skimmed. not what i would have chosen.|substitutions are always a gamble. did you keep it all?
+1552|0|my tea went cold while i was waiting for the driver.|how late was he?
+1552|1|forty minutes past the estimate. i ate it lukewarm and said nothing.|you are more patient than me. did you leave a review?
+1553|0|had a chinese takeaway on friday.|order the usual?
+1554|0|milkman still delivers on our street.|does anyone else use him?
+1554|1|about six houses. it is cheaper than the shop and it comes to the door.|proper service, that. do you get eggs as well?

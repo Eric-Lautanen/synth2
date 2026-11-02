@@ -1,0 +1,87 @@
+# run 98 per-eval heldout series (extracted from train_stdout.log before the next run overwrites it)
+# extracted 2026-10-25 17:38 UTC
+# NOTE (Fable2 msg 269): the frozen tail RE-EVALUATES THE SAME CHECKPOINT -- the last eval
+# line(s) repeat the final measurement, one measurement printed twice, not a flat plateau.
+# Dedupe on the checkpoint, not the step, when reading the series.
+# Standing tool: the lead extracts this file at every cycle, before firing the next run;
+# Fable2 verifies it landed (the second pair of eyes).
+
+eval step 0 train(tok) n/a heldout(macro) 8.3386
+eval step 4268 train(tok) 5.3745 heldout(macro) 4.7895
+  heldout(macro) small_talk_lazy.jsonl n=146  4.9633
+  heldout(macro) small_talk_angry.jsonl n=142  4.7860
+  heldout(macro) small_talk_formal.jsonl n=99   4.7501
+  heldout(macro) small_talk_sexy.jsonl n=148  4.7363
+  heldout(macro) small_talk_casual.jsonl n=141  4.6965
+  heldout gen 0.0007 (patience, bar 0.050 x3)
+eval step 8536 train(tok) 4.8066 heldout(macro) 4.5037
+  heldout(macro) small_talk_lazy.jsonl n=146  4.6425
+  heldout(macro) small_talk_formal.jsonl n=99   4.5496
+  heldout(macro) small_talk_casual.jsonl n=141  4.4899
+  heldout(macro) small_talk_angry.jsonl n=142  4.4552
+  heldout(macro) small_talk_sexy.jsonl n=148  4.3958
+  heldout gen 0.0007 (patience, bar 0.050 x3)
+eval step 12804 train(tok) 4.4039 heldout(macro) 4.4735
+  heldout(macro) small_talk_lazy.jsonl n=146  4.6122
+  heldout(macro) small_talk_formal.jsonl n=99   4.5804
+  heldout(macro) small_talk_casual.jsonl n=141  4.5071
+  heldout(macro) small_talk_angry.jsonl n=142  4.4097
+  heldout(macro) small_talk_sexy.jsonl n=148  4.2945
+  heldout gen 0.0006 (patience, bar 0.050 x3)
+eval step 17072 train(tok) 4.0647 heldout(macro) 4.6605
+  heldout(macro) small_talk_lazy.jsonl n=146  4.8266
+  heldout(macro) small_talk_formal.jsonl n=99   4.7752
+  heldout(macro) small_talk_casual.jsonl n=141  4.7361
+  heldout(macro) small_talk_angry.jsonl n=142  4.6059
+  heldout(macro) small_talk_sexy.jsonl n=148  4.4003
+  heldout gen 0.0007 (patience, bar 0.050 x3)
+eval step 21340 train(tok) 3.7664 heldout(macro) 4.9750
+  heldout(macro) small_talk_lazy.jsonl n=146  5.1541
+  heldout(macro) small_talk_formal.jsonl n=99   5.1247
+  heldout(macro) small_talk_casual.jsonl n=141  5.0623
+  heldout(macro) small_talk_angry.jsonl n=142  4.9146
+  heldout(macro) small_talk_sexy.jsonl n=148  4.6729
+  heldout gen 0.0010 (patience, bar 0.050 x3)
+eval step 25608 train(tok) 3.4998 heldout(macro) 5.2719
+  heldout(macro) small_talk_lazy.jsonl n=146  5.4955
+  heldout(macro) small_talk_formal.jsonl n=99   5.4433
+  heldout(macro) small_talk_casual.jsonl n=141  5.4290
+  heldout(macro) small_talk_angry.jsonl n=142  5.1246
+  heldout(macro) small_talk_sexy.jsonl n=148  4.9281
+  heldout gen 0.0012 (patience, bar 0.050 x3)
+eval step 29876 train(tok) 3.2569 heldout(macro) 5.5939
+  heldout(macro) small_talk_casual.jsonl n=141  5.7814
+  heldout(macro) small_talk_lazy.jsonl n=146  5.7787
+  heldout(macro) small_talk_formal.jsonl n=99   5.7701
+  heldout(macro) small_talk_angry.jsonl n=142  5.4487
+  heldout(macro) small_talk_sexy.jsonl n=148  5.2546
+  heldout gen 0.0012 (patience, bar 0.050 x3)
+eval step 34144 train(tok) 3.0363 heldout(macro) 5.8565
+  heldout(macro) small_talk_casual.jsonl n=141  6.0956
+  heldout(macro) small_talk_lazy.jsonl n=146  6.0780
+  heldout(macro) small_talk_formal.jsonl n=99   6.0299
+  heldout(macro) small_talk_angry.jsonl n=142  5.6649
+  heldout(macro) small_talk_sexy.jsonl n=148  5.4779
+  heldout gen 0.0011 (patience, bar 0.050 x3)
+eval step 38412 train(tok) 2.8429 heldout(macro) 6.0157
+  heldout(macro) small_talk_casual.jsonl n=141  6.2741
+  heldout(macro) small_talk_lazy.jsonl n=146  6.2434
+  heldout(macro) small_talk_formal.jsonl n=99   6.1903
+  heldout(macro) small_talk_angry.jsonl n=142  5.8052
+  heldout(macro) small_talk_sexy.jsonl n=148  5.6300
+  heldout gen 0.0010 (patience, bar 0.050 x3)
+eval step 42680 train(tok) 2.6801 heldout(macro) 6.0412
+  heldout(macro) small_talk_casual.jsonl n=141  6.2949
+  heldout(macro) small_talk_lazy.jsonl n=146  6.2694
+  heldout(macro) small_talk_formal.jsonl n=99   6.2196
+  heldout(macro) small_talk_angry.jsonl n=142  5.8342
+  heldout(macro) small_talk_sexy.jsonl n=148  5.6535
+  heldout gen 0.0010 (patience, bar 0.050 x3)
+eval step 44894 train(tok) 2.6073 heldout(macro) 6.0412
+  heldout(macro) small_talk_casual.jsonl n=141  6.2949
+  heldout(macro) small_talk_lazy.jsonl n=146  6.2694
+  heldout(macro) small_talk_formal.jsonl n=99   6.2196
+  heldout(macro) small_talk_angry.jsonl n=142  5.8342
+  heldout(macro) small_talk_sexy.jsonl n=148  5.6535
+  heldout gen 0.0010 (patience, bar 0.050 x3)
+done: 44894 steps, best heldout(gen (bar + patience)) 0.0010

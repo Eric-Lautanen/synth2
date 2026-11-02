@@ -1,0 +1,2991 @@
+{
+ "100": {
+  "0": "fine move. smoother than expected, only broke one glass, which is a record."
+ },
+ "101": {
+  "a": {
+   "0": "your neighbor situation is fine mostly. upstairs plays music late sometimes, nothing drastic."
+  },
+  "u": {
+   "0": "how's the neighbor situation?"
+  }
+ },
+ "1010": {
+  "2": "i suppose, you find a favorite spot and someone beats you to it."
+ },
+ "1014": {
+  "a": {
+   "0": "was the gas station packed at the morning rush again?",
+   "1": "fill up on the way home, the gas station is quieter then."
+  },
+  "u": {
+   "0": "the gas station was packed."
+  }
+ },
+ "1016": {
+  "a": {
+   "0": "was the tire pressure all fine on the car then?"
+  },
+  "u": {
+   "0": "checked the tire pressure."
+  }
+ },
+ "102": {
+  "0": "your landlord took care of it, surprisingly fast. someone came by tuesday and fixed it in ten minutes."
+ },
+ "1023": {
+  "a": {
+   "0": "how long was the line at the taxi rank then?"
+  },
+  "u": {
+   "0": "taxi rank had a long line."
+  }
+ },
+ "1026": {
+  "0": "do the season ticket early, the office line is grim."
+ },
+ "1032": {
+  "1": "that skeleton in the window does half the work. are you expecting many trick or treaters?"
+ },
+ "1033": {
+  "a": {
+   "1": "five bucks under the stars is unbeatable. is it the one with blankets actually needed?"
+  },
+  "u": {
+   "1": "an old classic, and you bring your own chairs and blankets. it's five bucks for charity."
+  }
+ },
+ "1035": {
+  "u": {
+   "0": "my neighbor's hedge has grown over the path again."
+  }
+ },
+ "1038": {
+  "1": "that vinegar trick! does it actually harden them or is that a myth?"
+ },
+ "1040": {
+  "a": {
+   "0": "what do you do with an apple tree that went crazy, cider?"
+  },
+  "u": {
+   "0": "our apple tree went crazy this year."
+  }
+ },
+ "1043": {
+  "a": {
+   "0": "did the neighbors come to the garage sale or total strangers?",
+   "2": "a hundred and twenty bucks, half the junk gone, three new neighbors."
+  },
+  "u": {
+   "2": "a hundred and twenty bucks, half the junk gone, and i met three neighbors i'd only ever waved at."
+  }
+ },
+ "1045": {
+  "1": "that corner shop collect has never let me down. mine holds everything and the staff know my name now."
+ },
+ "1046": {
+  "u": {
+   "2": "that's the one i now repeat to my mom daily. she nearly paid one last spring."
+  }
+ },
+ "1049": {
+  "u": {
+   "1": "i mostly watch couriers approach the bin. it also caught my neighbor's cat sat on my step for an hour."
+  }
+ },
+ "105": {
+  "0": "all clear at the dentist. she gave me the usual lecture about flossing and i nodded along."
+ },
+ "1050": {
+  "2": "that little window on the side sells it for me. enjoy the fast brews."
+ },
+ "1054": {
+  "a": {
+   "1": "sixty bucks for a moment of lorry blindness. did you do the speed awareness course instead?"
+  },
+  "u": {
+   "1": "the very one. i was doing thirty six in a thirty, distracted by a lorry. sixty bucks and three points arriving soon."
+  }
+ },
+ "1055": {
+  "u": {
+   "0": "gas's gone up again."
+  }
+ },
+ "1056": {
+  "a": {
+   "0": "classic GPS. how far in did you get?"
+  },
+  "u": {
+   "0": "the GPS sent me down a farm track on sunday."
+  }
+ },
+ "1057": {
+  "u": {
+   "0": "highway services food has got better, i have to say."
+  }
+ },
+ "1061": {
+  "a": {
+   "0": "booked a table at the garden center cafe, her actual favorite. plus flowers and a card from the good shop."
+  },
+  "u": {
+   "0": "mother's day handled?",
+   "1": "the garden center cafe is the mother's day capital of the country. is it booked solid?"
+  }
+ },
+ "1065": {
+  "a": {
+   "0": "was the post office line for a parcel or sending something?"
+  },
+  "u": {
+   "0": "the post office line went out the door today."
+  }
+ },
+ "109": {
+  "0": "quiet because i'm beat. didn't sleep well and i've been dragging myself round all day."
+ },
+ "1098": {
+  "1": "they shredded every leaf, hostas are just their favorite, sadly."
+ },
+ "1100": {
+  "a": {
+   "0": "what day is the dump open, or weekends at all?",
+   "1": "weekdays only, so the trash sits in the boot all week.",
+   "2": "good luck with the dump line on your day off."
+  },
+  "u": {
+   "0": "the dump was closed when we got there."
+  }
+ },
+ "1103": {
+  "a": {
+   "0": "did you make the flight after the security line in the end?"
+  },
+  "u": {
+   "0": "got stuck in an enormous line at security."
+  }
+ },
+ "1107": {
+  "2": "that cutting gets everyone on the first go. the last strip will be your masterpiece."
+ },
+ "1109": {
+  "a": {
+   "0": "a draft under the back door, brush strip or the old sausage dog?",
+   "2": "haha the sausage dog retires with honors. three degrees is a win worth celebrating."
+  },
+  "u": {
+   "0": "there's a draft under the back door you could post letters through."
+  }
+ },
+ "1110": {
+  "a": {
+   "2": "secondhand for ninety bucks and the motor works, well earned."
+  },
+  "u": {
+   "2": "secondhand again, ninety bucks off a local group. the motor works and everything."
+  }
+ },
+ "1111": {
+  "a": {
+   "2": "four hundred bucks and a fishing trip fund, nineteen years deserves tears."
+  },
+  "u": {
+   "2": "four hundred bucks and a fishing trip fund. he cried, we all pretended we hadn't."
+  }
+ },
+ "1119": {
+  "u": {
+   "0": "the school bake sale raised six hundred bucks."
+  }
+ },
+ "1120": {
+  "a": {
+   "0": "open mic kind or a proper act at the arts center, comedy night?"
+  },
+  "u": {
+   "0": "we went to a comedy night at the arts center."
+  }
+ },
+ "1121": {
+  "3": "that dame taught your husband! that is a small town layered in history."
+ },
+ "1122": {
+  "a": {
+   "0": "well done, two streaming services canceled, did you miss any?",
+   "1": "three subscriptions for one screen is crazy. cancel two, save a curry a month."
+  },
+  "u": {
+   "0": "i canceled two streaming services this month.",
+   "2": "exactly my math. if i miss something i'll resubscribe for a month and cancel again."
+  }
+ },
+ "1126": {
+  "a": {
+   "1": "nine bucks for visible eyes, a bargain. i keep meaning to book one myself."
+  },
+  "u": {
+   "1": "always. i can see properly and i look less startled. nine bucks well spent."
+  }
+ },
+ "1129": {
+  "a": {
+   "0": "after the last disaster of the pants too short?"
+  },
+  "u": {
+   "2": "ninety bucks for four days including the shirt. i'll take it, buying one would be four times that."
+  }
+ },
+ "1130": {
+  "a": {
+   "0": "eight bucks for a battery you can buy for a pound. did they fit it while you waited?"
+  },
+  "u": {
+   "0": "a watch battery, eight bucks."
+  }
+ },
+ "1133": {
+  "u": {
+   "2": "they claim so. i've got a trash bag pyramid to prove the need."
+  }
+ },
+ "1138": {
+  "1": "twice a year is minimal viable ironing. my mom would faint.",
+  "2": "my mom irons tea towels too, another universe. you've made peace with your level, that's what counts."
+ },
+ "1141": {
+  "u": {
+   "1": "one sweater with holes in a very artistic pattern, the rest saved after a full cupboard clear out and cedar blocks everywhere.",
+   "2": "both, plus the sweater has gone to a repair cafe on saturday. they fix things for donations."
+  }
+ },
+ "1164": {
+  "0": "every receipt for the tax return, very organized. do you sort by month or keep one pile?"
+ },
+ "1173": {
+  "1": "a water bill does it, they only want the zip code."
+ },
+ "1175": {
+  "1": "usage and the heating, that adds up fast. put a sweater on and bleed the radiators."
+ },
+ "1181": {
+  "a": {
+   "1": "a few bucks, nothing huge, but still annoying. that is your money vanishing."
+  },
+  "u": {
+   "1": "a few bucks, nothing huge."
+  }
+ },
+ "1184": {
+  "u": {
+   "0": "my mom's been waiting eleven months for her knee operation."
+  }
+ },
+ "1185": {
+  "1": "that suitcase betrayal is how backs keep score. what is the home routine now?"
+ },
+ "1186": {
+  "a": {
+   "1": "haha the squint reveal, didn't realize how much until you stopped."
+  },
+  "u": {
+   "1": "transformative. i didn't realize how much i was squinting until i stopped."
+  }
+ },
+ "1192": {
+  "0": "that shed sort, the true test of a marriage. how many arguments?"
+ },
+ "1193": {
+  "u": {
+   "2": "easier than expected, though the neighbor suggested a gutter brush for next year. i'm ordering one."
+  }
+ },
+ "1196": {
+  "a": {
+   "1": "six bucks and a fitting job. did you manage it without removing the whole frame?"
+  },
+  "u": {
+   "1": "into the tomato bed, neatly, like it planned it. replacement pane is cut and waiting, six bucks from the glass place."
+  }
+ },
+ "1199": {
+  "u": {
+   "1": "smooth soled sneakers on a wet pavement. i did the penguin shuffle the whole way and still nearly went twice."
+  }
+ },
+ "12": {
+  "0": "good weekend actually. market on saturday, nothing at all on sunday."
+ },
+ "120": {
+  "0": "really good coffee there. i have been going every morning, it has become a bit of a habit."
+ },
+ "1200": {
+  "1": "clay boot day, that's a proper winter walk. does the clay come out or do you just accept the new color?"
+ },
+ "1201": {
+  "a": {
+   "1": "nothing helps a low sun at windshield height. slow down and accept it, that's the law."
+  },
+  "u": {
+   "1": "two pairs now, after last year's squint strategy failed. it doesn't help much when it's at windshield height."
+  }
+ },
+ "1203": {
+  "u": {
+   "0": "scraped the windshield for the first time this autumn."
+  }
+ },
+ "1204": {
+  "0": "those named storms make it feel personal. which one is it this year?",
+  "1": "haha the named ones always cool like uncles. have you had fence damage before?"
+ },
+ "1207": {
+  "a": {
+   "1": "six bucks for a coffee you drink standing up. the platform premium is real."
+  },
+  "u": {
+   "0": "platform coffee is six bucks now."
+  }
+ },
+ "1208": {
+  "a": {
+   "1": "haha the math holds even when it stings. do you read on the bus?"
+  },
+  "u": {
+   "1": "monthly, and it's gone up again, but still cheaper than parking. i've done the math more than once."
+  }
+ },
+ "121": {
+  "0": "working now, after a fight. i had put the wrong beans in the coffee machine and it clogged up."
+ },
+ "1212": {
+  "u": {
+   "0": "the neighbor's cat has moved into my conservatory again."
+  }
+ },
+ "1216": {
+  "a": {
+   "2": "sixty bucks for mechanical peace of mind. some jobs are best left to the shop."
+  },
+  "u": {
+   "2": "the shop, sixty bucks, and worth every penny. i have accepted my mechanical limits."
+  }
+ },
+ "1218": {
+  "1": "haha the colander shake, my mom swears by that too. how long do they go in?"
+ },
+ "1219": {
+  "u": {
+   "2": "canceled, but i kept eating the two recipes and i buy the marinated fish ready to go now."
+  }
+ },
+ "122": {
+  "a": {
+   "0": "TV is the same trash as always. i keep watching things i don't even like."
+  },
+  "u": {
+   "0": "how's the TV treating you?"
+  }
+ },
+ "1223": {
+  "0": "the station book swap, civilization in miniature. what have you taken lately?",
+  "1": "that battered unknown western is exactly what tells you a swap works. recycling done right."
+ },
+ "1224": {
+  "a": {
+   "0": "six bucks! a genuine collectable or just an old book?"
+  },
+  "u": {
+   "0": "found a first edition in the secondhand shop for six bucks."
+  }
+ },
+ "1227": {
+  "a": {
+   "1": "neighbors saying nothing means peace or waiting. good hands is the teacher compliment that matters.",
+   "2": "practicing unprompted is the golden ticket, well done him. proper progress."
+  },
+  "u": {
+   "1": "mostly. the neighbors have said nothing, which either means peace or waiting. his teacher says he's got good hands.",
+   "2": "he practices without being told twice, which i didn't do at his age at all. proud of that."
+  }
+ },
+ "1231": {
+  "a": {
+   "0": "pickup game team lost again, sixth week running, still enjoying it?"
+  },
+  "u": {
+   "0": "our pickup game team lost again, sixth week running."
+  }
+ },
+ "1241": {
+  "a": {
+   "0": "mom got you into a quiz show, the general knowledge one?",
+   "1": "shouting answers at the TV, we do the same, does she win more?"
+  },
+  "u": {
+   "0": "my mom got me into a quiz show on weekday evenings.",
+   "1": "that is the one. we shout the answers at the TV."
+  }
+ },
+ "1248": {
+  "u": {
+   "0": "the neighbors have started a kitchen refit."
+  }
+ },
+ "1256": {
+  "a": {
+   "1": "smart, photographing the line. have you heard back?"
+  },
+  "u": {
+   "1": "i did, with a photo of the line at the machine."
+  }
+ },
+ "1257": {
+  "a": {
+   "0": "highway closed on the way home, were you stuck for long?"
+  },
+  "u": {
+   "0": "the highway was closed on the way home."
+  }
+ },
+ "1262": {
+  "a": {
+   "1": "a two weeks of it and running on fumes, that is a long time."
+  },
+  "u": {
+   "1": "i am not sure. about a two weeks now, and i am running on fumes."
+  }
+ },
+ "1263": {
+  "1": "that is what the sun does. are you going again tomorrow?"
+ },
+ "1268": {
+  "a": {
+   "0": "proper wool ones itch at first, that icelandic sweater will soften."
+  },
+  "u": {
+   "0": "bought an icelandic sweater at the craft market."
+  }
+ },
+ "1274": {
+  "0": "is that the climbing wall up at the leisure center, good club?"
+ },
+ "1278": {
+  "2": "haha the fairy upped her service standards. two bucks is generous these days."
+ },
+ "128": {
+  "0": "got the shopping eventually, yeah. the line was massive though."
+ },
+ "1281": {
+  "2": "porridge on a camping stove at eight is civilization restored. respect the october campers."
+ },
+ "1283": {
+  "a": {
+   "0": "your let with the washing machine, the family favorite. was it well kitted out?",
+   "1": "a real coffee machine and working wifi, that beats a hotel."
+  },
+  "u": {
+   "0": "booked a vacation let instead of a hotel this year.",
+   "1": "everything worked, even the wifi, and there was a real coffee machine. we barely left the kitchen some mornings."
+  }
+ },
+ "1285": {
+  "u": {
+   "2": "the platform coffee, six bucks, part of the whole experience."
+  }
+ },
+ "129": {
+  "0": "your weekend sounds like it was a good one, nice and quiet.",
+  "1": "quiet is underrated, honestly. i barely left the apartment all weekend. how about you?"
+ },
+ "1293": {
+  "2": "that indestructible trio will never let you down. herb politics at the garden committee, i can imagine."
+ },
+ "1305": {
+  "u": {
+   "1": "center row, and i weeded for a week before. a stranger complimented my onions, which made the entire summer worthwhile."
+  }
+ },
+ "1308": {
+  "u": {
+   "1": "watercolors, and my first attempt at a boat looks like a shoe. the teacher says everyone's boat starts as a shoe."
+  }
+ },
+ "1310": {
+  "a": {
+   "2": "controlled sighs and good cheese, that's bridge handled. mine brings cake instead."
+  },
+  "u": {
+   "0": "bridge night at the neighbors' is now a monthly fixture."
+  }
+ },
+ "1312": {
+  "1": "that tea bar at the quiet hours matters more than anyone says. do the staff look after you too?",
+  "2": "that three o'clock pot for the nurses is a lovely thing to do. respect."
+ },
+ "1315": {
+  "a": {
+   "0": "takeout turned up an hour late and cold, did you ring the restaurant?"
+  },
+  "u": {
+   "0": "our takeout turned up an hour late and cold."
+  }
+ },
+ "1317": {
+  "1": "sitting in the hall and you keep forgetting it, neighborly thing to do."
+ },
+ "132": {
+  "0": "going well, the new job, still learning everything though."
+ },
+ "133": {
+  "1": "same here, heating was too high. i turned mine off and froze instead."
+ },
+ "1330": {
+  "1": "those usual chats often do the trick. do you call her often?"
+ },
+ "1340": {
+  "1": "clearing everything out is the worst bit. have you picked a color?"
+ },
+ "1348": {
+  "1": "he might just say keep it. what color is it?"
+ },
+ "1349": {
+  "a": {
+   "1": "a worn valve replaced for fifty bucks, the autumn service pays off."
+  },
+  "u": {
+   "1": "a worn valve, replaced on the spot, fifty bucks. cheaper than a december emergency callout, that's for sure."
+  }
+ },
+ "135": {
+  "a": {
+   "0": "my mom's alright, thanks for asking. she keeps busy."
+  },
+  "u": {
+   "0": "how's your mom?"
+  }
+ },
+ "1353": {
+  "a": {
+   "0": "that time of year, did the summer tires go to winters yourself?",
+   "1": "haha the icy lane changes everyone's mind about winter tires. do you notice much difference?",
+   "2": "braking on ice is the whole argument. eighty bucks is cheap insurance for that."
+  },
+  "u": {
+   "0": "swapped the summer tires for winters at the weekend.",
+   "1": "garage, eighty bucks including balancing. worth it on the lane at the top of our road, which turns to glass in january."
+  }
+ },
+ "1354": {
+  "u": {
+   "2": "the neighbors all pitch in on icy mornings, and one man refills his own bucket from it for his drive."
+  }
+ },
+ "1358": {
+  "a": {
+   "2": "dressing gown and slippers at dawn, the best start to any day. tomorrow's probably gray now."
+  },
+  "u": {
+   "2": "dressing gown and slippers, out there like a proper philosopher. tomorrow's probably gray now."
+  }
+ },
+ "1359": {
+  "a": {
+   "2": "half five with a head flashlight, there's a whole quiet world at that hour."
+  },
+  "u": {
+   "2": "straight out at half five, head flashlight on, and honestly it's growing on me. the streets are mine."
+  }
+ },
+ "1360": {
+  "0": "your paper man, a dying breed. does he still cycle?",
+  "2": "the christmas refusal dance, every real paper man does it. long may he cycle."
+ },
+ "1363": {
+  "a": {
+   "0": "nice to finally chat on trash day. what did they say?"
+  },
+  "u": {
+   "1": "asked about our hedge, which they admire weekly. proper guys. i gave them a box of chocolates left over from christmas."
+  }
+ },
+ "1367": {
+  "u": {
+   "0": "wind turbines on the ridge have been turning like crazy today."
+  }
+ },
+ "1368": {
+  "1": "that three am tea club is well attended in this weather. did today start slow?"
+ },
+ "1369": {
+  "1": "that sky does have the best track record. what is it saying this afternoon?"
+ },
+ "137": {
+  "a": {
+   "0": "your apartment is mostly tidy. the bedroom's still a mess though."
+  },
+  "u": {
+   "0": "did you get the apartment tidy?"
+  }
+ },
+ "1373": {
+  "a": {
+   "1": "that runt gets a name and a reprieve. are you carving or eating the big one?"
+  },
+  "u": {
+   "1": "one is, one is a runt with personality. they've turned really orange in the two weeks of sun we finally got."
+  }
+ },
+ "1375": {
+  "u": {
+   "1": "about four kilos in one week. chutney has been made, soup has been made, and the neighbors have been fortified."
+  }
+ },
+ "1376": {
+  "a": {
+   "1": "your flashlight patrol is grim but honest work. do the eggshells do anything?"
+  },
+  "u": {
+   "1": "classical. eggshells, a flashlight patrol at ten, and a move to pots this autumn. the slugs are winning on points."
+  }
+ },
+ "1377": {
+  "u": {
+   "1": "sparrows in a line, a pair of blackbirds, and one squabbling starling gang. the water's changed daily."
+  }
+ },
+ "1383": {
+  "1": "that fourth one, a drawer is good, or try bitter spray."
+ },
+ "1386": {
+  "1": "both the cost and the toys are fair worries, could you foster first?"
+ },
+ "139": {
+  "0": "looks like rain tomorrow, by the look of the weather."
+ },
+ "1393": {
+  "a": {
+   "0": "so what are the new neighbors like then, friendly enough?"
+  },
+  "u": {
+   "0": "we met the new neighbors over the weekend."
+  }
+ },
+ "1397": {
+  "a": {
+   "0": "handy of the neighbor to lend you the ladder today."
+  },
+  "u": {
+   "0": "borrowed a ladder from the neighbor today."
+  }
+ },
+ "1399": {
+  "a": {
+   "0": "was the note about the bins from a neighbor or the council?",
+   "1": "a polite neighbor note, was it about the recycling again?"
+  },
+  "u": {
+   "1": "a neighbor, quite polite about it."
+  }
+ },
+ "14": {
+  "0": "nothing fun really, just food shopping. a long call with my mom though."
+ },
+ "140": {
+  "0": "no word on the thing yet. it's driving me crazy."
+ },
+ "1400": {
+  "a": {
+   "0": "do you check in on your unwell neighbor much, then?"
+  },
+  "u": {
+   "0": "our neighbor has been unwell lately."
+  }
+ },
+ "1401": {
+  "a": {
+   "0": "are you sad to see the neighbors moving out next month?"
+  },
+  "u": {
+   "0": "our neighbors are moving out next month."
+  }
+ },
+ "1407": {
+  "a": {
+   "1": "mint always goes crazy, have you tried the basil and mint in tea?"
+  },
+  "u": {
+   "1": "basil and mint, both going crazy."
+  }
+ },
+ "1409": {
+  "1": "that second loaf was usually better, what did you change?"
+ },
+ "1418": {
+  "1": "that soft fruit becoming jam, no waste and a jar earned. do you go every week for the shout?"
+ },
+ "142": {
+  "0": "settling in slowly, the puppy. he cried all night."
+ },
+ "1422": {
+  "1": "twelve pounds for months of rice, the math is unbeatable. did they have spices too?"
+ },
+ "1426": {
+  "u": {
+   "1": "seven days, direct debits moved over, two hundred bucks landing. the banks do want our business after all."
+  }
+ },
+ "1427": {
+  "2": "that boring global fund, champion of patient people everywhere. your future self approves."
+ },
+ "1428": {
+  "a": {
+   "1": "your aunt wins twenty bucks twice a year, so the odds exist."
+  },
+  "u": {
+   "1": "nothing in six months, but my aunt wins twenty bucks about twice a year, so the odds exist."
+  }
+ },
+ "1429": {
+  "u": {
+   "1": "the engineer callout alone is ninety bucks, and mine is eight years old. the math eventually convinced me."
+  }
+ },
+ "1431": {
+  "0": "that bill split never goes smoothly. what happened this time?"
+ },
+ "1443": {
+  "1": "that form is the worst part, for sure. do it in two sittings."
+ },
+ "1458": {
+  "u": {
+   "0": "work has gone crazy since the new manager arrived."
+  }
+ },
+ "1469": {
+  "a": {
+   "1": "hard to argue with that math. does it feel like reading?",
+   "2": "three books in a two weeks, the thing has paid for itself. any regrets?"
+  },
+  "u": {
+   "1": "holidays. four paperbacks in a suitcase versus one thin device in a pocket. the math beat my romance.",
+   "2": "after ten pages, i forgot the device entirely. i've read three books in a two weeks."
+  }
+ },
+ "1472": {
+  "1": "that handsome dog archive, a worthy burden. have you tried the cloud?",
+  "2": "that dog preserved in the cloud, safe from all deletion. worth every penny of the subscription."
+ },
+ "1473": {
+  "1": "that hotel wifi shield, exactly the right scope. was it hard to set up?"
+ },
+ "1474": {
+  "0": "app controlled lighting era, do you use the smart bulb colors?",
+  "1": "that blue experiment, every smart home's cautionary tale. has the electric bill moved?"
+ },
+ "1475": {
+  "0": "that cat has not decided if it is friend or terminator. does it work though?",
+  "2": "that sock hostage negotiation, every robot owner's rite of passage."
+ },
+ "1476": {
+  "u": {
+   "0": "new neighbors moved in at number four last week.",
+   "2": "very, once they'd slept. she said she hadn't spoken to an adult in four days and looked slightly crazy saying it."
+  }
+ },
+ "1477": {
+  "a": {
+   "0": "great recurring argument, what is the trash day flashpoint this time?",
+   "2": "getting the council to solve it anonymously, the most thankless job. graham has gone quiet."
+  },
+  "u": {
+   "0": "our street whatsapp group has descended into trash day debates again."
+  }
+ },
+ "1478": {
+  "1": "that two streets over car, classic lost cat behavior. did it come home?"
+ },
+ "1479": {
+  "a": {
+   "0": "dumpster watch begins, as ever. did anything good get claimed?"
+  },
+  "u": {
+   "0": "a dumpster appeared at number nine and the neighbors circled."
+  }
+ },
+ "148": {
+  "0": "yeah, the alarm went off and i hit snooze about four times. classic me."
+ },
+ "1480": {
+  "1": "a joint quote, that's neighborly diplomacy done right. how big a job?"
+ },
+ "1481": {
+  "a": {
+   "0": "after all that, what finally handled the noise from the flat above?"
+  },
+  "u": {
+   "0": "noise from the flat above finally got handled."
+  }
+ },
+ "1482": {
+  "1": "that hand drawn shop map, that is local knowledge at its best. did they appreciate it?"
+ },
+ "1483": {
+  "u": {
+   "1": "just the six month check. last time they found a tiny cavity and it cost me ninety bucks."
+  }
+ },
+ "1492": {
+  "0": "flu jab at the chemist on saturday, quick job or a long line?"
+ },
+ "1494": {
+  "u": {
+   "0": "mom has got a scan next week and she is nervous."
+  }
+ },
+ "1495": {
+  "u": {
+   "0": "got a parking ticket this morning, bummed."
+  }
+ },
+ "1497": {
+  "a": {
+   "1": "grinding and worse off the highway sounds like the pads to me."
+  },
+  "u": {
+   "1": "grinding, mainly. it is worse when i come off the highway."
+  }
+ },
+ "150": {
+  "a": {
+   "0": "a trash night, oh no. what happened? mine was fine, just far too short."
+  },
+  "u": {
+   "0": "i had a trash night"
+  }
+ },
+ "1500": {
+  "a": {
+   "0": "GPS sent you down a farm track, useful or a dead end?"
+  },
+  "u": {
+   "0": "GPS sent me down a farm track yesterday."
+  }
+ },
+ "1501": {
+  "a": {
+   "0": "nearly ran out of gas on the way home, cutting it fine?"
+  },
+  "u": {
+   "0": "nearly ran out of gas on the way home."
+  }
+ },
+ "1504": {
+  "a": {
+   "0": "insurance up forty bucks this year, did you shop around first?"
+  },
+  "u": {
+   "0": "insurance went up forty bucks this year."
+  }
+ },
+ "1518": {
+  "a": {
+   "0": "joined a pickup game team at work, what position do you play?"
+  },
+  "u": {
+   "0": "joined a pickup game team at work.",
+   "1": "wherever they put me, usually defense. i am not fast but i can read the game."
+  }
+ },
+ "1519": {
+  "a": {
+   "0": "finally handled your passport renewal online, was the photo the awkward bit?"
+  },
+  "u": {
+   "0": "finally handled my passport renewal online."
+  }
+ },
+ "1520": {
+  "a": {
+   "1": "forty bucks more for the same services, no explanation with it."
+  },
+  "u": {
+   "1": "forty bucks more. same services, more money, no explanation with it."
+  }
+ },
+ "1521": {
+  "1": "worse than the wait, that music. did you get it handled?"
+ },
+ "1522": {
+  "a": {
+   "0": "driving license needs renewing before it expires, is an eye test needed?"
+  },
+  "u": {
+   "0": "my driving license needs renewing before it expires."
+  }
+ },
+ "1526": {
+  "a": {
+   "0": "sorting your mom's paperwork after the move, is there much to get through?"
+  },
+  "u": {
+   "0": "sorting out my mom's paperwork after the move."
+  }
+ },
+ "1537": {
+  "a": {
+   "0": "got a guy to sort the garden fence, was it expensive?"
+  },
+  "u": {
+   "0": "got a guy to sort the garden fence."
+  }
+ },
+ "1539": {
+  "a": {
+   "0": "garage says the tires are borderline, all four or just the front?"
+  },
+  "u": {
+   "0": "garage says the tires are borderline."
+  }
+ },
+ "1542": {
+  "u": {
+   "1": "just a bulb, ten bucks, but i had to pay for a retest anyway."
+  }
+ },
+ "1544": {
+  "a": {
+   "0": "takeout app charged you twice, have you asked for a refund?"
+  },
+  "u": {
+   "0": "takeout app charged me twice."
+  }
+ },
+ "1553": {
+  "a": {
+   "0": "chinese takeout on friday, did you order the usual again?"
+  },
+  "u": {
+   "0": "had a chinese takeout on friday."
+  }
+ },
+ "1566": {
+  "1": "home made rules always favor the house. did you play all afternoon?"
+ },
+ "1571": {
+  "a": {
+   "0": "canceled the show you liked, was it left on a cliffhanger?"
+  },
+  "u": {
+   "0": "they have canceled the show i liked."
+  }
+ },
+ "1575": {
+  "a": {
+   "1": "mostly, though a few hilarious have not aged well, happens to the best."
+  },
+  "u": {
+   "1": "mostly, though a few hilarious have not aged well."
+  }
+ },
+ "1578": {
+  "1": "answering out loud and getting most wrong, shouting at the TV is fun."
+ },
+ "1579": {
+  "a": {
+   "1": "one trolley and a long line is the classic. did you get everything?"
+  },
+  "u": {
+   "1": "rammed. i lined up for twenty minutes behind one trolley."
+  }
+ },
+ "1583": {
+  "a": {
+   "0": "spent ages in the line at the post office, big parcel?"
+  },
+  "u": {
+   "0": "spent ages in the line at the post office."
+  }
+ },
+ "159": {
+  "0": "fine commute today. got a seat and read the whole way, which never happens."
+ },
+ "1594": {
+  "0": "school vacation arithmetic is brutal. is the machine keeping up?",
+  "1": "that cutlery drawer discovery, every parent's tale. did the schooling work?"
+ },
+ "1597": {
+  "a": {
+   "0": "that cupboard by cupboard method, the only way it gets done. which one fell first?",
+   "1": "those national trust leaflets are in every cupboard in britain. did the coats at least fit again?",
+   "2": "that loft rescue, that is how all beloved junk survives. well negotiated."
+  },
+  "u": {
+   "0": "fall clean began on the weekend, one cupboard at a time.",
+   "2": "they did once the paddington rain boots went to the charity bag. my son cried, so they went to the loft instead."
+  }
+ },
+ "160": {
+  "0": "showed up twenty minutes late, the bus. i was starting to think i had imagined the timetable."
+ },
+ "1600": {
+  "a": {
+   "1": "that seven letter trick, they love that one. did you finish?"
+  },
+  "u": {
+   "0": "crossword by the fire, my favorite hour."
+  }
+ },
+ "1601": {
+  "u": {
+   "0": "TV's been a treat this week, two proper dramas on."
+  }
+ },
+ "1602": {
+  "a": {
+   "1": "briefing the family on cookie law, wise. did they respect the emergency line?"
+  },
+  "u": {
+   "0": "cookie tin has been refilled for the week ahead."
+  }
+ },
+ "1603": {
+  "a": {
+   "1": "your good jug doing service, that's real hosting. what teas?"
+  },
+  "u": {
+   "0": "got the tea rounds organized for tomorrow's visitors.",
+   "1": "six, so the good pot and two kinds of cookies. i've got the milk in the good jug, it all adds up."
+  }
+ },
+ "1605": {
+  "a": {
+   "1": "your dog as fire consultant, correct. did the wood burn clean?",
+   "2": "half a box will vanish in a two weeks. order the winter load now while the farm delivery still runs."
+  },
+  "u": {
+   "1": "gloriously. the dog was apartment out in front of it within ten minutes, an expert on these matters."
+  }
+ },
+ "1608": {
+  "u": {
+   "1": "battery, tires, antifreeze and wipers for forty bucks. cheap peace of mind on dark mornings."
+  }
+ },
+ "1611": {
+  "1": "that bag wedge, every commuter's morning. was it worth the later alarm?"
+ },
+ "1612": {
+  "a": {
+   "0": "oh the unreliable friend, canceled twice this week, how did you get in?"
+  },
+  "u": {
+   "0": "the 8:12 has been canceled twice this week."
+  }
+ },
+ "1617": {
+  "a": {
+   "1": "a two day cookie holiday. did he go home quietly?"
+  },
+  "u": {
+   "1": "two days, living well on a cookie she'd lost weeks ago apparently."
+  }
+ },
+ "1619": {
+  "1": "that waiting room glare, gone at last. did the bulbs cost much up front?"
+ },
+ "162": {
+  "0": "packed train. i had someone's backpack in my back the whole journey."
+ },
+ "1625": {
+  "u": {
+   "1": "eight of us, every two weeks, rain or shine. we've had two years of it and it's the anchor of my month now."
+  }
+ },
+ "1627": {
+  "u": {
+   "1": "about a dozen, half in santa hats, ending at a pub with a fire. it's my favorite tradition of the whole year."
+  }
+ },
+ "1628": {
+  "u": {
+   "1": "her beetroot one is genuinely better and i've accepted it. mine won last year with plum, so honors are even over a decade."
+  }
+ },
+ "1629": {
+  "u": {
+   "1": "mine, and i've been planning the menu for a two weeks. i'm doing the full roast, which is either brave or crazy."
+  }
+ },
+ "1630": {
+  "a": {
+   "0": "two years of flashlight reading, your eyes deserve better. what did you go for?",
+   "1": "your warm light before bed genuinely helps sleep. was it pricey?"
+  },
+  "u": {
+   "0": "finally bought a real bedside lamp after two years of the phone flashlight."
+  }
+ },
+ "1634": {
+  "a": {
+   "2": "so the dog blanket arms race continues. everyone's winter is handled."
+  },
+  "u": {
+   "1": "thirty minutes pre warm, then off, so i'm not sleeping on a heater. the best three bucks a year in electricity i spend."
+  }
+ },
+ "1636": {
+  "a": {
+   "1": "a door that closes with one push, the true measure of a handled cupboard. does it stay shut?"
+  },
+  "u": {
+   "0": "handled the hall cupboard at last, coats only."
+  }
+ },
+ "1637": {
+  "u": {
+   "0": "our TV is twenty years old and still going."
+  }
+ },
+ "164": {
+  "0": "awful traffic home. took me an hour to do a fifteen minute trip."
+ },
+ "1640": {
+  "u": {
+   "1": "my sister says indistinguishable, and she's a harsh judge after years without fish and chips. the line agrees, it's busy."
+  }
+ },
+ "1641": {
+  "a": {
+   "1": "your garden center cafe league, quietly the best breakfasts in the country. was it busy?"
+  },
+  "u": {
+   "1": "full works at the garden center cafe, of all places. the sausages were local and the tea came in a real pot."
+  }
+ },
+ "1643": {
+  "0": "that taster thali, a fine invention. how much?",
+  "2": "that chef bowing for the lamb, that is the whole evening made. i am going next wednesday."
+ },
+ "1644": {
+  "a": {
+   "1": "a builder line like that tells you everything. does he do food?",
+   "2": "receipts loyalty, beautifully low tech. that's my new route to work handled."
+  },
+  "u": {
+   "1": "the line of builders told me. four bucks, huge cup, and he remembers everyone's order."
+  }
+ },
+ "1645": {
+  "u": {
+   "2": "doubled. people who brought packed lunches for years are first in the line now."
+  }
+ },
+ "1648": {
+  "0": "that annual pumpkin massacre, how bad was the kitchen?"
+ },
+ "1649": {
+  "0": "that lego advent, a bigger commitment than it looks. who gets it?"
+ },
+ "1651": {
+  "a": {
+   "1": "your house smelling like december in november, that's an investment in mood. did you use a recipe or improvise?"
+  },
+  "u": {
+   "2": "my mom's, with her secret splash of something in the mincemeat. she'll never tell me what it is."
+  }
+ },
+ "1655": {
+  "u": {
+   "0": "started a jigsaw podcast crossover evening with my neighbor.",
+   "2": "my neighbor chose a map of the world, which is mostly blue and therefore cruel."
+  }
+ },
+ "1657": {
+  "2": "that page fifty abandonment clause, every marriage needs one."
+ },
+ "166": {
+  "0": "noisy washing machine. it has been banging away for an hour and i am ignoring it."
+ },
+ "1660": {
+  "1": "that river doubling is what night shots are for. what did you learn?"
+ },
+ "1661": {
+  "u": {
+   "1": "several. the bird my mom calls a seagull is apparently four different species and none are seagulls."
+  }
+ },
+ "1665": {
+  "2": "that built up dread always strikes again. travel handled then?"
+ },
+ "1666": {
+  "a": {
+   "2": "complaining about TV is the official recovery marker. good work."
+  },
+  "u": {
+   "0": "bought my neighbor's shopping while she had flu.",
+   "2": "slowly, but she was up and complaining about TV by friday, so she's turning the corner."
+  }
+ },
+ "1667": {
+  "u": {
+   "0": "left a note and twenty bucks for the window cleaner before we went away."
+  }
+ },
+ "1668": {
+  "1": "that fourth button better than yours, that is the teaching win. did he notice?"
+ },
+ "1678": {
+  "0": "thinking of painting the hall, what color are you leaning toward?"
+ },
+ "168": {
+  "0": "didn't sort the laundry fully. i separated the colors and then forgot to put it on."
+ },
+ "1692": {
+  "a": {
+   "0": "started a new series on the TV, what is it about?"
+  },
+  "u": {
+   "0": "started a new series on the TV."
+  }
+ },
+ "170": {
+  "0": "slow cleaning day. i did the bathroom and then sat down and lost the plot."
+ },
+ "1703": {
+  "1": "back and the second one this month, worth checking the tire itself."
+ },
+ "1706": {
+  "u": {
+   "1": "no politics at dinner, dad fixed the gate without being asked, and mom only reorganised one cupboard.",
+   "2": "the airing cupboard, rearranged by size and color. i've been told not to disturb the system."
+  }
+ },
+ "1707": {
+  "2": "that hoodie tax, every parent pays it. did she eat properly at least?"
+ },
+ "1708": {
+  "u": {
+   "1": "nothing and everything, football on the TV, a curry, and talking till three like teenagers."
+  }
+ },
+ "1709": {
+  "1": "that napkin eating dog at the table, every family has one. was the lunch peaceful?"
+ },
+ "1710": {
+  "u": {
+   "2": "that clause was in the contract. mostly honored, occasionally bribed with pudding."
+  }
+ },
+ "1711": {
+  "0": "that payslip shock call, every parent takes it. how did you explain?",
+  "1": "that napkin tax seminar, a rite of passage for you both. was she mollified?"
+ },
+ "1712": {
+  "1": "that boat cave with affection, that is a marriage working. how many boats so far?",
+  "2": "that sinking third boat, every hobbyist has one. the masterpiece is always next."
+ },
+ "1715": {
+  "1": "that dressing gown bin rescue, a village classic. anything else blown about?"
+ },
+ "1718": {
+  "1": "a happy lamp on the desk, the modern light defense. does it work?"
+ },
+ "1719": {
+  "1": "a cellar trickle needs watching. did you get it handled?"
+ },
+ "1720": {
+  "a": {
+   "0": "a two weeks of it then. are you stocked up?"
+  },
+  "u": {
+   "0": "that cold snap is forecast to last a two weeks.",
+   "2": "antifreeze topped and winter tires on since last month. i've become one of those people."
+  }
+ },
+ "1721": {
+  "a": {
+   "2": "a posing dog at sunset, the camera had no defense. that's a photo to print."
+  },
+  "u": {
+   "1": "the whole valley went orange, then pink, then that strange green gray after. ten minutes, no phone out for most of it."
+  }
+ },
+ "1723": {
+  "a": {
+   "0": "have you met the new neighbors in number twelve yet?"
+  },
+  "u": {
+   "0": "we've got new neighbors in number twelve."
+  }
+ },
+ "1733": {
+  "a": {
+   "0": "was the post office line out the door, did you give up?"
+  },
+  "u": {
+   "0": "post office line was out the door."
+  }
+ },
+ "174": {
+  "a": {
+   "0": "no vacuum yet. the carpet's seen better days but i'll get to it."
+  },
+  "u": {
+   "0": "did you vacuum?"
+  }
+ },
+ "1744": {
+  "a": {
+   "1": "just a tire and a wiper is cheap, some years it is worse."
+  },
+  "u": {
+   "1": "just a tire and a wiper, thankfully."
+  }
+ },
+ "1746": {
+  "a": {
+   "0": "what is your mom's favorite flavor for the birthday cake?"
+  },
+  "u": {
+   "0": "baking a cake for my mom's birthday."
+  }
+ },
+ "1747": {
+  "1": "that chimney flashing is a common one, best done before the damp."
+ },
+ "1754": {
+  "a": {
+   "0": "does the neighbor tree drop much on your side of the fence?"
+  },
+  "u": {
+   "0": "neighbor's tree hangs over our fence."
+  }
+ },
+ "1756": {
+  "a": {
+   "0": "what recipe did you get off the neighbors, anything good?"
+  },
+  "u": {
+   "0": "swapped recipes with the neighbors."
+  }
+ },
+ "1757": {
+  "u": {
+   "0": "we've been going round in circles about the kitchen for weeks now, because the units we liked have been discontinued and the fitter can only do certain weeks, so we're either waiting until spring for something we actually want or picking a cheaper set we don't love just to get it finished sooner, and it's driving us both a bit crazy to be honest."
+  }
+ },
+ "1760": {
+  "1": "that rubber band trick has saved more DIYers than any tool. did the screw survive?"
+ },
+ "1764": {
+  "u": {
+   "0": "borrowed my neighbor's ladder trimmer for the hedge.",
+   "1": "it's square for the first time in its life. two hours and my shoulders are in a different zip code."
+  }
+ },
+ "1768": {
+  "0": "that dad commentary track came free, was it welcome?"
+ },
+ "1771": {
+  "2": "that joint wall, conflict resolution via architecture. better than most governments manage."
+ },
+ "1772": {
+  "0": "that loft collection comes down for tours, which held up best?"
+ },
+ "1773": {
+  "a": {
+   "0": "that tribute circuit, good honest fun. were they close?"
+  },
+  "u": {
+   "1": "alarmingly close to the real thing, same instruments, same between song hilarious. we danced like it was 1995."
+  }
+ },
+ "1775": {
+  "1": "that plant is always the first casualty, did the walking come out of nowhere?"
+ },
+ "1777": {
+  "u": {
+   "1": "the trees we planted as saplings now block the upstairs windows, and three neighbors have come and gone. the fence is on its fourth life."
+  }
+ },
+ "1779": {
+  "1": "that sunday call, that is the parenting dividend. does the room stay as a shrine?"
+ },
+ "178": {
+  "0": "good curry. went a bit heavy on the chili but i like it."
+ },
+ "1780": {
+  "0": "that street really is growing, how is the mix?",
+  "2": "that widely ignored no politics rule, every group has one. the street sounds alive."
+ },
+ "1781": {
+  "1": "that door to ten o'clock adjustment, most returners describe exactly that. is she part time now?"
+ },
+ "1782": {
+  "2": "eleven pounds of pavement math, a good night's work. were the carols tuneful?"
+ },
+ "1786": {
+  "a": {
+   "2": "that bench man and his cup, winter is officially over for the street."
+  },
+  "u": {
+   "2": "the bench man is back at his bench, coffee in hand. i waved, he raised his cup. civilization resumed."
+  }
+ },
+ "1788": {
+  "u": {
+   "1": "a smiley face, apparently, visible only from the bank near the school. the council has a sense of humor after all."
+  }
+ },
+ "1789": {
+  "1": "that lollipop hero directing the resurfacing, every job has one. was the access a nightmare?"
+ },
+ "1790": {
+  "0": "good week so far, monday went better than usual, so i worry."
+ },
+ "1791": {
+  "a": {
+   "0": "yeah, i got the barbecue handled, borrowed one off my brother."
+  },
+  "u": {
+   "0": "did you get the barbecue handled?"
+  }
+ },
+ "1793": {
+  "0": "that quiz night went badly, we came second last overall.",
+  "1": "that question was name three from the ninety eight squad. we named one."
+ },
+ "1796": {
+  "0": "that saving is going slowly. i keep dipping into it for birthdays."
+ },
+ "1799": {
+  "0": "that concert was incredible, my ears are still ringing from it.",
+  "1": "that crowd was up for it, everyone sang the whole last song."
+ },
+ "18": {
+  "0": "up and down week. monday was a nightmare, better since."
+ },
+ "1801": {
+  "1": "that dream, i should have bought it years ago instead of suffering."
+ },
+ "1802": {
+  "0": "that house is lovely, huge garden and a bit of a fixer upper."
+ },
+ "1803": {
+  "a": {
+   "0": "yeah, the neighbors moved on saturday, the van came early."
+  },
+  "u": {
+   "0": "did you hear the neighbors finally moved?"
+  }
+ },
+ "1804": {
+  "0": "that new cafe is overpriced but the cake was worth it."
+ },
+ "1808": {
+  "1": "that shared meal plan debate, every group trip's constitutional crisis. who is cooking?"
+ },
+ "1809": {
+  "u": {
+   "2": "june, for ten nights. we've done it five years running and the neighbors on pitch eleven are now friends."
+  }
+ },
+ "1812": {
+  "u": {
+   "2": "my mom, on sunday, with tea and unlimited time. she'll want the story for every single one anyway."
+  }
+ },
+ "1814": {
+  "0": "discharged from shoulder trunk camp at last is it fully fixed?",
+  "1": "your forever band, the fine print of every physical therapy discharge. are you actually doing them?",
+  "2": "ten minutes of tedium versus a bad shoulder, the math holds. congratulations on the discharge."
+ },
+ "1819": {
+  "2": "your nodding regulars, the true measure of a pool. i'll try the flume when the children let me."
+ },
+ "1820": {
+  "2": "that air ambulance from your own rec, that makes six hours feel like nothing. spin well."
+ },
+ "1822": {
+  "1": "that ice cube orchid diet, doubted and proven. where does she live?"
+ },
+ "1823": {
+  "u": {
+   "2": "my neighbor's died, my sister's thrives, and my daughter's went to university and came back healthier."
+  }
+ },
+ "1829": {
+  "a": {
+   "1": "your dog in december, that's the law of calendars. did she cry?",
+   "2": "your postman preview, that's a five star review. were the prints good quality?"
+  },
+  "u": {
+   "0": "made a photo calendar for my mom's christmas present."
+  }
+ },
+ "1831": {
+  "u": {
+   "2": "next month, and my mom has already rung the hotel to ask for the same room."
+  }
+ },
+ "1833": {
+  "1": "a beard you don't have and great shoes, that's the artist's license. where does it live now?"
+ },
+ "1834": {
+  "a": {
+   "2": "your kids sorting bundles, that's the lesson landing properly. a van load is a great haul."
+  },
+  "u": {
+   "1": "the good stuff, not the dregs, because that's the point. real coffee, chocolate, and toiletries worth receiving.",
+   "2": "a whole van load, and the kids handled it into bundles themselves. they took it seriously."
+  }
+ },
+ "1836": {
+  "0": "a themed secret santa, organized at last. what's the theme?"
+ },
+ "1838": {
+  "a": {
+   "1": "scotch tape running out mid wrap, that is the season's first crisis. have you restocked?"
+  },
+  "u": {
+   "1": "eight done before the scotch tape ran out, so the rest are in a limbo of half wrapping."
+  }
+ },
+ "1839": {
+  "1": "that cat versus tree, the annual conflict. has he climbed it?"
+ },
+ "184": {
+  "0": "thriving on the windowsill. the other plant has given up entirely."
+ },
+ "1840": {
+  "2": "that hand delivered knock, that is card writing with a conversation attached. who did you catch?"
+ },
+ "1841": {
+  "a": {
+   "0": "your october cake, feeding it brandy weekly. how is it maturing?",
+   "1": "a friday fed cake, that's real project baking. when do you ice it?",
+   "2": "your royal icing battle, sibling tradition as sport. who usually wins?"
+  },
+  "u": {
+   "0": "made the christmas cake in october like a real person."
+  }
+ },
+ "1842": {
+  "a": {
+   "1": "mom's soap loyalty driving the panto economy, as tradition demands. when do you go?"
+  },
+  "u": {
+   "1": "a soap actor as the dame, which my mom is thrilled about for reasons she can't explain.",
+   "2": "boxing day, to walk off the turkey. the kids still believe the dame's hilarious are new."
+  }
+ },
+ "1843": {
+  "u": {
+   "0": "got the winter coats for the kids handled early this year."
+  }
+ },
+ "1844": {
+  "1": "that mulled wine harmonising effect, well documented science. do you do food too?",
+  "2": "that cheese board for the refusers, thoughtfully provisioned. may the singing be loud and the tuning optional."
+ },
+ "1847": {
+  "a": {
+   "1": "your evidence folder wins again, preparation beats charm. what will you spend it on?"
+  },
+  "u": {
+   "1": "above, actually. i'd prepared a folder of evidence, which my manager said was the most organized thing she'd seen.",
+   "2": "boringly, half goes to savings and half to a real winter vacation somewhere warm."
+  }
+ },
+ "1848": {
+  "a": {
+   "1": "color coded tools, chaos with good intentions. is he improving?"
+  },
+  "u": {
+   "1": "keen but chaotic, he reorganised my tool wall by color, which is madness but enthusiasm counts."
+  }
+ },
+ "1849": {
+  "2": "that overlap window, flexi done properly. did anyone abuse it?"
+ },
+ "1850": {
+  "0": "comedy instead of the disco, interesting pivot. who organized it?"
+ },
+ "1851": {
+  "a": {
+   "1": "that walk, lunch and nap agenda, a perfect first day. is the boat ready?"
+  },
+  "u": {
+   "1": "a long walk, then a long lunch, then a nap. after that, the boat and the garden fight for my time."
+  }
+ },
+ "1852": {
+  "2": "that season happening outside, that is the best window seat report i have heard. guard that desk."
+ },
+ "1857": {
+  "1": "mostly boats, some waves, the occasional storm. perfect sunday TV."
+ },
+ "186": {
+  "0": "nothing flowering yet. the roses are done, but the herbs have gone crazy."
+ },
+ "1860": {
+  "0": "lunch is the soup place, if the line is not crazy."
+ },
+ "187": {
+  "0": "your tomato plant is still going. got three off it this week, a good haul."
+ },
+ "1875": {
+  "0": "new cafe, been in yet? i give them a month before the lines die down."
+ },
+ "1877": {
+  "a": {
+   "0": "four new tires on the car is a chunk of money. worth it before winter though."
+  },
+  "u": {
+   "0": "car's got four new tires on."
+  }
+ },
+ "1883": {
+  "0": "a long muddy walk on sunday, rain boots or boots? boots are the only thing for that clay."
+ },
+ "1884": {
+  "a": {
+   "0": "a slow stove, nice. what have you done in it? stews are the obvious one, porridge too."
+  },
+  "u": {
+   "0": "got a slow stove now."
+  }
+ },
+ "1886": {
+  "1": "ring them then. stick a brick on top of the bin lid till it's handled."
+ },
+ "1888": {
+  "a": {
+   "0": "rain boots splitting at the heel, annoying. heels always go at the worst time."
+  },
+  "u": {
+   "0": "rain boots have split at the heel."
+  }
+ },
+ "189": {
+  "0": "scruffy garden but alive. i keep meaning to tidy the borders."
+ },
+ "1894": {
+  "0": "a new coat, what color did you go for?"
+ },
+ "19": {
+  "0": "sure, i have got time for a chat. nothing good on TV anyway."
+ },
+ "1900": {
+  "a": {
+   "0": "a takeout curry last night, was it a good one?"
+  },
+  "u": {
+   "0": "we got a takeout curry last night."
+  }
+ },
+ "1904": {
+  "0": "that new commute is better, one bus instead of two now."
+ },
+ "1905": {
+  "0": "a roast at my mom's on sunday. she is doing pork."
+ },
+ "1907": {
+  "0": "that cat is sulking after the vet, ignoring everyone but the food bowl."
+ },
+ "191": {
+  "0": "busy, packed. i lined up for ages and the self checkout kept shouting at me."
+ },
+ "1910": {
+  "0": "that food festival was great, i ate too much and regretted nothing."
+ },
+ "1911": {
+  "0": "that new gym was packed at six and dead by eight."
+ },
+ "1912": {
+  "0": "that book club is reading that thriller everyone argued about."
+ },
+ "1913": {
+  "a": {
+   "0": "your allotment situation is better since we split the plot in half."
+  },
+  "u": {
+   "0": "how's the allotment neighbor situation?"
+  }
+ },
+ "1916": {
+  "0": "that phone battery is terrible, it dies by three without a charge."
+ },
+ "1919": {
+  "0": "that back is much better, thanks. the new chair helped."
+ },
+ "1921": {
+  "u": {
+   "0": "did the parcel from your mom arrive?"
+  }
+ },
+ "1922": {
+  "0": "that parents thing at school was long, two hours on tiny chairs.",
+  "1": "i did not learn anything new, my daughter is bossy but organized."
+ },
+ "1925": {
+  "0": "that driving lesson went good, i did a parallel park first go."
+ },
+ "1928": {
+  "a": {
+   "0": "your extension is nearly done, the scaffolding is finally coming down."
+  },
+  "u": {
+   "0": "how's the neighbor's extension going?"
+  }
+ },
+ "193": {
+  "0": "don't ask about the cost. went in for three things and came out forty bucks lighter."
+ },
+ "1931": {
+  "0": "that new boss is fine so far, she actually listens, which is new."
+ },
+ "1935": {
+  "u": {
+   "1": "went away for a weekend and it got a gray liquid layer on top. thought it was done for."
+  }
+ },
+ "1936": {
+  "u": {
+   "0": "canceled another streaming service today, that's three gone this year.",
+   "1": "not one. i was paying for programs i kept meaning to watch."
+  }
+ },
+ "1937": {
+  "a": {
+   "1": "he's worked out you're the best food source in the neighborhood.",
+   "2": "poor neighbor gets nothing, birds clearly keep score on that street."
+  },
+  "u": {
+   "2": "clearly. my neighbor gets nothing and he's sulky about it."
+  }
+ },
+ "1943": {
+  "a": {
+   "2": "ten bucks a term covering servicing and handles, cheap at the price."
+  },
+  "u": {
+   "2": "ten bucks each a term, covers servicing and new handles."
+  }
+ },
+ "1944": {
+  "a": {
+   "0": "number plate recognition at the leisure center, mine does that too."
+  },
+  "u": {
+   "0": "car park at the leisure center now has number plate recognition."
+  }
+ },
+ "1946": {
+  "a": {
+   "2": "haha like your head lost a sweater, give it a week."
+  },
+  "u": {
+   "2": "completely, like my head lost a sweater."
+  }
+ },
+ "1947": {
+  "1": "that saucer wrinkle test, passed down through generations."
+ },
+ "1949": {
+  "a": {
+   "1": "no more taxi mom duties, but the insurance quote will sting."
+  },
+  "u": {
+   "1": "he is, and so is my sister, no more taxi mom duties."
+  }
+ },
+ "195": {
+  "0": "showed up, the delivery, but they left it on the porch and it is raining, so we will see."
+ },
+ "1951": {
+  "u": {
+   "1": "the pastries are excellent but the lines are out the door. twenty minutes for a croissant.",
+   "3": "three bucks, which stings, but the whole thing came in under a fiver."
+  }
+ },
+ "1952": {
+  "a": {
+   "0": "recycling collection changed color, blue bin only now, what about the green ones?",
+   "2": "two weeks running and the neighbors very patient, they did not report you."
+  },
+  "u": {
+   "0": "our recycling collection has changed color, blue bin only now.",
+   "2": "two weeks running. the neighbors have been very patient about it."
+  }
+ },
+ "1953": {
+  "1": "opposite of what you assumed, any hardware shop, a few bucks for graphite."
+ },
+ "1954": {
+  "a": {
+   "0": "neighbor's kid started a car washing round, how much is he charging?",
+   "1": "four bucks is honest money at that age. did you book him in?",
+   "2": "saturday morning and the car not that clean since last summer, good guy."
+  },
+  "u": {
+   "0": "the neighbor's kid has started a car washing round.",
+   "1": "four bucks a car, and he does a proper job, wheels and all."
+  }
+ },
+ "1956": {
+  "2": "worth a go before buying new, a fiver of descaler saves forty bucks."
+ },
+ "1957": {
+  "u": {
+   "2": "gray but windy, which is apparently ideal. fingers crossed."
+  }
+ },
+ "1958": {
+  "1": "that fruit bowl, a classic. mine ends up in the fridge."
+ },
+ "1964": {
+  "a": {
+   "0": "mom doing her christmas shopping already in october, she does this every year."
+  },
+  "u": {
+   "0": "my mom is doing her christmas shopping already, in october. again."
+  }
+ },
+ "1967": {
+  "0": "cat flap took ours a two weeks before she'd use it."
+ },
+ "1968": {
+  "0": "a bus pass renewal is a line. the office lines are grim, give yourself an hour."
+ },
+ "197": {
+  "a": {
+   "0": "the new neighbors seem nice. they said hello and everything."
+  },
+  "u": {
+   "0": "how are the neighbors?"
+  }
+ },
+ "198": {
+  "0": "stopped around eleven, so no complaints about the music."
+ },
+ "1988": {
+  "a": {
+   "0": "line at the dump, weekends are the worst for it."
+  },
+  "u": {
+   "0": "line at the dump was enormous."
+  }
+ },
+ "2001": {
+  "a": {
+   "0": "venue canceling is a nightmare. finding the date again is the hard part."
+  },
+  "u": {
+   "0": "venue we booked for my brother's wedding has canceled on us, and it's only ten weeks away, so now we're ringing round every place in the county trying to find something for that date, and the ones that are free are either miles away or twice the price, so we're weighing up whether to move the whole thing or just pay it."
+  }
+ },
+ "201": {
+  "a": {
+   "0": "your apartment is cold. the heating's on and it's still not warming up properly."
+  },
+  "u": {
+   "0": "how's the apartment?"
+  }
+ },
+ "202": {
+  "0": "it works eventually. takes about an hour to get going, the boiler is ancient."
+ },
+ "203": {
+  "0": "fixed the tap, yes. one washer and twenty minutes of swearing and it's handled."
+ },
+ "204": {
+  "0": "still in the box, the shelf. i keep looking at the drill and walking away."
+ },
+ "205": {
+  "0": "better lightbulb situation. i finally changed the one in the hall, only took a month."
+ },
+ "216": {
+  "0": "long week. counting down to friday already and it is only tuesday."
+ },
+ "218": {
+  "0": "good morning until i spilled coffee on my shirt. wore it anyway."
+ },
+ "22": {
+  "0": "bummed. the game was ours, two up with ten minutes left."
+ },
+ "222": {
+  "0": "your evening sounds quiet, just how i like it. cup of tea and some trash on TV."
+ },
+ "227": {
+  "0": "ridiculous new mug. it is the size of my head and i love it."
+ },
+ "231": {
+  "0": "stiff back still. i slept on it funny and now i am paying for it."
+ },
+ "236": {
+  "0": "how cold it's got is crazy. it was warm last week and now it's freezing."
+ },
+ "240": {
+  "a": {
+   "0": "my mom's fine, she's been round for tea. brought cake, so no complaints."
+  },
+  "u": {
+   "0": "how's your mom?"
+  }
+ },
+ "245": {
+  "0": "what did i get up to? honestly nothing. cleaned, ate, watched some TV."
+ },
+ "250": {
+  "a": {
+   "0": "handled. it was easier than i'd built it up to be in my head."
+  },
+  "u": {
+   "0": "you handled it?"
+  }
+ },
+ "253": {
+  "0": "no plans set for the weekend. might see my mom on sunday."
+ },
+ "255": {
+  "0": "slow morning. second coffee and still not awake."
+ },
+ "26": {
+  "0": "how's the new place? loving it, boxes everywhere but the kitchen is handled."
+ },
+ "263": {
+  "0": "fine now the schools are back, the commute. quieter."
+ },
+ "265": {
+  "0": "busy today, crazy. back to back since nine and no break yet."
+ },
+ "269": {
+  "0": "cheaper than i feared, the plumber. result."
+ },
+ "27": {
+  "0": "not up to much, work and TV. i started a jigsaw on sunday."
+ },
+ "270": {
+  "a": {
+   "0": "your apartment's a tip here too. i tidy one room and the rest fall apart."
+  },
+  "u": {
+   "0": "the apartment's a tip again"
+  }
+ },
+ "272": {
+  "a": {
+   "0": "crazy at work here too. mine didn't stop either."
+  },
+  "u": {
+   "0": "work was crazy today"
+  }
+ },
+ "273": {
+  "0": "thriving plant. it is the only thing i have not killed."
+ },
+ "275": {
+  "a": {
+   "0": "you handled the cupboard, about time! what was in there?"
+  },
+  "u": {
+   "0": "so i finally handled the cupboard"
+  }
+ },
+ "277": {
+  "0": "on, yeah, the heating. i gave in, it is freezing."
+ },
+ "281": {
+  "0": "not done, the washing, no. it is still sitting there staring at me."
+ },
+ "283": {
+  "0": "raining sideways, the weather here. grim day for it."
+ },
+ "287": {
+  "0": "endless washing. the basket refills itself overnight, i swear."
+ },
+ "29": {
+  "a": {
+   "0": "how's your mom? mine is much better, back to her old self."
+  },
+  "u": {
+   "0": "how's your mom doing?"
+  }
+ },
+ "290": {
+  "a": {
+   "0": "your train canceled, typical. it's always the one you need that goes."
+  },
+  "u": {
+   "0": "my train was canceled"
+  }
+ },
+ "291": {
+  "0": "a bit of sleep, yeah. the neighbors had people round late."
+ },
+ "294": {
+  "0": "out of milk again, it's always the milk. never the cookies."
+ },
+ "297": {
+  "a": {
+   "0": "neighbors doing diy again? at seven in the morning, that is criminal."
+  },
+  "u": {
+   "0": "the neighbors are doing diy again"
+  }
+ },
+ "298": {
+  "0": "better than expected, the curry. i let it simmer longer and it made all the difference."
+ },
+ "300": {
+  "0": "got the parcel, yeah. left with the neighbor again."
+ },
+ "301": {
+  "0": "cooking at home more is the plan here too. i start well then order a takeout."
+ },
+ "304": {
+  "a": {
+   "0": "getting the cupboard under the sink done, that's a job and a half. well done."
+  },
+  "u": {
+   "0": "handled the cupboard under the sink"
+  }
+ },
+ "305": {
+  "0": "eats socks here too, the washing machine. where do they go?"
+ },
+ "306": {
+  "a": {
+   "0": "in the end i did vacuum, yes. it took no time once i actually started."
+  },
+  "u": {
+   "0": "did you vacuum in the end?"
+  }
+ },
+ "31": {
+  "a": {
+   "0": "your vacation was brilliant. did nothing but sit by the pool and read."
+  },
+  "u": {
+   "0": "how was your vacation?"
+  }
+ },
+ "310": {
+  "0": "coming slowly, the new place. still got boxes everywhere."
+ },
+ "316": {
+  "0": "easing off now, the back. a hot bath helped more than anything else."
+ },
+ "318": {
+  "0": "your tap is fixed, yes, finally. it was driving me crazy."
+ },
+ "320": {
+  "1": "that park loop is nice for a walk. totally flat the whole way round."
+ },
+ "321": {
+  "0": "turned up, the delivery, but they left it in the rain."
+ },
+ "325": {
+  "0": "nice and calm, the evening. halfway through a book and in no rush to finish it."
+ },
+ "328": {
+  "a": {
+   "0": "always packed on a saturday, the shop. no escape from it.",
+   "1": "twenty minutes lined up, that's why i go early now."
+  },
+  "u": {
+   "1": "i lined up twenty minutes."
+  }
+ },
+ "329": {
+  "0": "handled the internet out finally. the router just needed a reset."
+ },
+ "330": {
+  "a": {
+   "0": "your neighbors' parcel again? that's the third time this week.",
+   "1": "one favor owed for sure. i'm practically their post office at this point."
+  },
+  "u": {
+   "0": "got the neighbors' parcel again"
+  }
+ },
+ "331": {
+  "0": "blocked, yeah, the sink. i have tried everything i can think of.",
+  "1": "try the plunger first, good call. i will give it a go, thanks."
+ },
+ "334": {
+  "0": "fixed, finally, the boiler. hot water and heating back on."
+ },
+ "343": {
+  "0": "chaotic as always, the school run. my youngest lost a shoe."
+ },
+ "347": {
+  "1": "same place as always, and i am having the big one today."
+ },
+ "348": {
+  "0": "in the garage again, the car. it is costing me a fortune."
+ },
+ "35": {
+  "1": "that flask deserves better than twice, you should use it more."
+ },
+ "350": {
+  "0": "got a new bed and will not move from it, the dog."
+ },
+ "351": {
+  "1": "worse every month, the ring road. i might start cycling."
+ },
+ "353": {
+  "0": "doing well, the brother. he moved in with his girlfriend."
+ },
+ "357": {
+  "0": "weather's gray and damp here. heating's on low to take the chill off."
+ },
+ "36": {
+  "0": "not really, i did not sleep well. the neighbor dog barked all night."
+ },
+ "364": {
+  "a": {
+   "0": "neighbors are fine, no complaints. they had people over at the weekend, done by eleven."
+  },
+  "u": {
+   "0": "neighbors behaving?"
+  }
+ },
+ "366": {
+  "0": "at the weekend, not much, which was the point. saw my mom saturday, nothing on sunday."
+ },
+ "377": {
+  "0": "i did relax, a bit. a long bath and trash TV, my idea of a good evening."
+ },
+ "38": {
+  "0": "no plan really, leftovers and a bit of TV tonight."
+ },
+ "384": {
+  "0": "cooking, i think. i've got everything in and i'm getting bored of takeout anyway."
+ },
+ "388": {
+  "a": {
+   "0": "boiler's handled, touch wood. plumber bled the radiators and it's been fine since."
+  },
+  "u": {
+   "0": "is the boiler handled?"
+  }
+ },
+ "40": {
+  "0": "slow going in the garden. the slugs are winning at the moment."
+ },
+ "409": {
+  "0": "treating me alright. steady rather than crazy, and i've left on time twice."
+ },
+ "412": {
+  "0": "looking better, getting there. i finally handled the kitchen out."
+ },
+ "415": {
+  "0": "slow start, the morning. i hit snooze about five times."
+ },
+ "419": {
+  "0": "your wedding was lovely, really lovely. the food was incredible.",
+  "1": "a real roast dinner, that is the way to serve wedding food."
+ },
+ "421": {
+  "0": "on the router, the wifi password. i will text it over."
+ },
+ "425": {
+  "a": {
+   "0": "your apartment hunt is slow. everything is either tiny or miles away.",
+   "1": "anything by the park goes in a day. it is brutal."
+  },
+  "u": {
+   "0": "how's the apartment hunt going?"
+  }
+ },
+ "427": {
+  "0": "better now, the cold. still got the cough but i can breathe."
+ },
+ "429": {
+  "1": "nice walk, the canal. there is a coffee place halfway round."
+ },
+ "43": {
+  "0": "all clear at the dentist. no fillings, just a lecture about flossing."
+ },
+ "431": {
+  "0": "tiring but worth it, the trip. we walked ten miles on saturday."
+ },
+ "434": {
+  "0": "sounds like the airport was chaos as always, a two hour security line."
+ },
+ "435": {
+  "a": {
+   "1": "clean but basic, the hotel, and the kids slept like logs."
+  },
+  "u": {
+   "1": "the beach in the fall is underrated. was the hotel decent?"
+  }
+ },
+ "442": {
+  "0": "off to the lake district friday, walking all weekend or having a lazy one?"
+ },
+ "449": {
+  "1": "that first round humbled me, i got my money worth out there."
+ },
+ "45": {
+  "0": "loving the new job. friendly team and i am learning loads."
+ },
+ "455": {
+  "1": "great ride, the landing was a car crash."
+ },
+ "459": {
+  "a": {
+   "0": "tonight on TV, the quiz final at eight, then some old episodes."
+  },
+  "u": {
+   "0": "what's on TV tonight?"
+  }
+ },
+ "464": {
+  "0": "took our power for an hour, the storm, so the candles came out.",
+  "1": "thought it was christmas, the kids. i thought about the freezer."
+ },
+ "467": {
+  "0": "this heatwave is treating me badly, my apartment is an oven by two."
+ },
+ "471": {
+  "0": "slow going, the job hunt. two interviews and then a lot of silence."
+ },
+ "473": {
+  "a": {
+   "0": "that team meeting was long, an hour that could have been three emails.",
+   "1": "no one brought up the vacation rota and i was not volunteering."
+  },
+  "u": {
+   "1": "the classic. did anyone bring up the vacation rota?"
+  }
+ },
+ "476": {
+  "0": "yeah, tried the new ramen place, tiny and you line outside.",
+  "1": "we are talking fourteen bucks a bowl, not cheap but worth it."
+ },
+ "478": {
+  "0": "went well, the dinner party. lovely food and i only burned one thing."
+ },
+ "480": {
+  "0": "went well, the dentist. no fillings again, my greatest achievement."
+ },
+ "481": {
+  "1": "boring is exactly what i wanted, but my mom did not believe me."
+ },
+ "482": {
+  "a": {
+   "0": "yes, the washing machine is fixed, a blocked filter cost forty bucks.",
+   "1": "those trades have us over a barrel, but the machine works, so fine."
+  },
+  "u": {
+   "1": "forty bucks to pull some fluff out. the trades have us over a barrel."
+  }
+ },
+ "483": {
+  "a": {
+   "0": "your painting is coming along, one wall done, harder than the videos.",
+   "1": "pale green is the color, calm until the kids get markers."
+  },
+  "u": {
+   "1": "haha everything is. what color did you go for?"
+  }
+ },
+ "485": {
+  "0": "fixed, touch wood, the boiler. the engineer was here all morning."
+ },
+ "486": {
+  "a": {
+   "0": "your apartment hunting is going, we have seen six and hated five.",
+   "1": "one apartment was close, nice, but the kitchen was a cupboard."
+  },
+  "u": {
+   "0": "how's the apartment hunting going?"
+  }
+ },
+ "488": {
+  "0": "chaos, the dog. he ate a shoe and opens the bin now."
+ },
+ "495": {
+  "0": "loud and long, the family dinner on sunday, and full of food."
+ },
+ "496": {
+  "a": {
+   "0": "my mom loved the present, she has worn the scarf to the shops."
+  },
+  "u": {
+   "0": "did your mom like the present?"
+  }
+ },
+ "499": {
+  "0": "alive and demanding, the sourdough. i feed it more than my friends."
+ },
+ "50": {
+  "0": "slow drive. a crash on the highway, it took nearly twice as long."
+ },
+ "501": {
+  "1": "best part, the silence. i have never valued a quiet sofa."
+ },
+ "502": {
+  "0": "going good, the course, nearly finished. just the final assignment left."
+ },
+ "503": {
+  "0": "finally, the boiler is handled. the plumber came this morning."
+ },
+ "505": {
+  "a": {
+   "0": "thriving garden, and he is giving away zucchini to anyone."
+  },
+  "u": {
+   "0": "how's your dad's garden?"
+  }
+ },
+ "508": {
+  "0": "too clever, the new phone. it does things i never asked for."
+ },
+ "510": {
+  "0": "the lamb dish my friend made on sunday was the best thing."
+ },
+ "511": {
+  "0": "really positive, the parents evening, which was a relief."
+ },
+ "519": {
+  "u": {
+   "0": "my neighbor's kid started drum lessons."
+  }
+ },
+ "520": {
+  "a": {
+   "0": "birthday shopping for a mom who buys herself everything, i know the type."
+  },
+  "u": {
+   "0": "birthday shopping for my mom is impossible."
+  }
+ },
+ "524": {
+  "a": {
+   "1": "same policy here. sweaters and early nights, the free heating."
+  },
+  "u": {
+   "1": "about a third more than last winter, same usage. i've started wearing a sweater indoors as policy now."
+  }
+ },
+ "525": {
+  "a": {
+   "0": "old school, twenty bucks a week in a jar, what's it for?"
+  },
+  "u": {
+   "0": "i've started putting twenty bucks a week in a jar."
+  }
+ },
+ "527": {
+  "u": {
+   "1": "a bit of both, but i found four subscriptions i'd forgotten about. canceled three on the spot."
+  }
+ },
+ "53": {
+  "0": "a bit of sleep. the neighbors were up late so it took ages to drop off."
+ },
+ "532": {
+  "a": {
+   "0": "proper life skill, did changing the tire go smoothly or was there blood?"
+  },
+  "u": {
+   "0": "learned to change a tire at the weekend."
+  }
+ },
+ "542": {
+  "u": {
+   "0": "i finally handled out my pension paperwork."
+  }
+ },
+ "550": {
+  "0": "can't tonight, i'm picking my mom up, but a pint tomorrow works."
+ },
+ "556": {
+  "u": {
+   "0": "my trash day moved to wednesday and i keep forgetting."
+  }
+ },
+ "569": {
+  "a": {
+   "0": "slow stove is worth it, i use mine twice a week before work."
+  },
+  "u": {
+   "0": "worth getting a slow stove?"
+  }
+ },
+ "576": {
+  "a": {
+   "0": "mom's cutting took, it has two new leaves and i am weirdly proud."
+  },
+  "u": {
+   "0": "did your mom's cutting take?"
+  }
+ },
+ "577": {
+  "u": {
+   "1": "poor guy. does he get treats still?"
+  }
+ },
+ "58": {
+  "0": "endless washing. machine has been on twice and the pile has not gone down at all."
+ },
+ "585": {
+  "a": {
+   "0": "wind last night was crazy, i thought the bins would end up gone."
+  },
+  "u": {
+   "0": "the wind last night was crazy"
+  }
+ },
+ "601": {
+  "1": "she had a girl. my mom is beside herself."
+ },
+ "602": {
+  "0": "seeing my parents this weekend for sunday lunch, mom already asked."
+ },
+ "603": {
+  "1": "he is doing the exercises when he remembers, my mom has to nag."
+ },
+ "605": {
+  "0": "moved out in the spring. my mom's still getting used to it."
+ },
+ "607": {
+  "u": {
+   "0": "did the sneakers turn up in your size?"
+  }
+ },
+ "609": {
+  "a": {
+   "0": "presents are nearly handled, just the one awkward person left."
+  },
+  "u": {
+   "0": "presents handled yet?"
+  }
+ },
+ "61": {
+  "0": "your parcel turned up, left with the neighbor again. i'll grab it from them later."
+ },
+ "62": {
+  "a": {
+   "0": "it is trash day and i completely forgot. heard the truck and ran out in my socks."
+  },
+  "u": {
+   "0": "trash day today?"
+  }
+ },
+ "627": {
+  "1": "little and often is the way, learning one song and driving them crazy."
+ },
+ "631": {
+  "u": {
+   "0": "the vet bill came to ninety bucks for a checkup."
+  }
+ },
+ "633": {
+  "a": {
+   "0": "is the new takeout any good, corner places are hit or miss?"
+  },
+  "u": {
+   "0": "that new takeout on the corner opened."
+  }
+ },
+ "635": {
+  "0": "secretly the best tv going, the darts. the crowd is unhinged."
+ },
+ "636": {
+  "u": {
+   "1": "the muddy one, obviously. i've accepted my fate and bought four pairs of cheap rain boots in advance."
+  }
+ },
+ "638": {
+  "a": {
+   "2": "ha, forty bucks says they say no, then you get to be annoyed."
+  },
+  "u": {
+   "1": "no, i parked half over the dropped curb by about an inch. the warden was clearly having a proactive morning.",
+   "2": "did that this morning. forty bucks says they say no anyway."
+  }
+ },
+ "639": {
+  "1": "ha, the fridge! mine ended up in a plant pot once and i only know that because my partner watched me do it."
+ },
+ "64": {
+  "a": {
+   "0": "i did vacuum, in the end. took ten minutes after i'd put it off for a week."
+  },
+  "u": {
+   "0": "did you vacuum in the end?"
+  }
+ },
+ "65": {
+  "0": "mixed bag on the plants. tomatoes thriving, herbs dead. i have a very specific skill set."
+ },
+ "650": {
+  "a": {
+   "1": "haha the closed door strategy. my mom opens doors. it's her superpower.",
+   "2": "that trash bag gambit, bold. let me know how it holds up under inspection."
+  },
+  "u": {
+   "2": "mine too. i've gone with the trash bag covering plan instead."
+  }
+ },
+ "652": {
+  "a": {
+   "0": "just because, a plate of scones from the neighbor, no reason?",
+   "1": "now you owe her a favor of unknown size, probably the recycling bins."
+  },
+  "u": {
+   "0": "my neighbor brought over a plate of scones.",
+   "1": "just because. and now i owe her a favor of unknown size, probably the recycling bins when i'm out."
+  }
+ },
+ "654": {
+  "0": "a real monitor and everything, the home office setup sounds done.",
+  "1": "your lamp is what makes it feel real somehow. is the plant named yet?"
+ },
+ "656": {
+  "u": {
+   "1": "paper, my mom's old ones from the seventies. some fantastic haircuts in there, genuinely jaw dropping."
+  }
+ },
+ "657": {
+  "0": "tapping again, the boiler? that noise is the pump going, get it seen to."
+ },
+ "659": {
+  "a": {
+   "0": "vacuuming did it then. put something warm on your back for an hour."
+  },
+  "u": {
+   "0": "my back is done after all that vacuuming."
+  }
+ },
+ "660": {
+  "0": "will keep another day, the grass. cut it saturday once it dries out."
+ },
+ "67": {
+  "0": "overgrown garden. i keep saying i will deal with it on the weekend and then do not."
+ },
+ "670": {
+  "0": "eating the same sandwich every day would do me in. treat yourself friday, get something nice."
+ },
+ "672": {
+  "a": {
+   "0": "canceled train and you walked? decent exercise at least, better than a cold platform."
+  },
+  "u": {
+   "0": "train was canceled so i walked."
+  }
+ },
+ "678": {
+  "0": "dripping at night is usually the washer, the tap. ten minute job if you are handy."
+ },
+ "679": {
+  "0": "finally came good then, the tomatoes? how many did you get this year?"
+ },
+ "682": {
+  "1": "three weeks for a phone call is crazy. at least you have one booked now."
+ },
+ "683": {
+  "0": "again, the bins? was it the whole street or just yours?",
+  "1": "so the whole road missed it too? leave the bins out, they usually catch up tomorrow."
+ },
+ "684": {
+  "a": {
+   "0": "still meaning to call your mom? how long has it been now?"
+  },
+  "u": {
+   "0": "keep meaning to call my mom."
+  }
+ },
+ "686": {
+  "0": "nearly took the fence down, the wind? was anything left standing?"
+ },
+ "69": {
+  "0": "demanding dog as ever. he has worked out that staring at me gets him a walk."
+ },
+ "692": {
+  "a": {
+   "0": "lines out the door on a saturday are normal. did you wait or leave?"
+  },
+  "u": {
+   "0": "lines were right out the door on saturday."
+  }
+ },
+ "694": {
+  "a": {
+   "1": "probably the bag then. empty the vacuum and check the filter."
+  },
+  "u": {
+   "0": "our vacuum has lost all its suction."
+  }
+ },
+ "696": {
+  "a": {
+   "0": "locked out again? did a neighbor have a spare key this time?",
+   "1": "lucky the neighbor had one. give a spare to someone closer, it saves drama."
+  },
+  "u": {
+   "1": "with my neighbor luckily."
+  }
+ },
+ "698": {
+  "0": "dropping out constantly is maddening, the wifi. is it every device or one?"
+ },
+ "7": {
+  "0": "long day but fine. busy morning, quiet afternoon, cannot complain."
+ },
+ "70": {
+  "0": "asleep on my keyboard, which is where the cat lives now apparently."
+ },
+ "700": {
+  "0": "refusing everything is classic, the printer. have you turned it off and on again?"
+ },
+ "703": {
+  "a": {
+   "1": "air in the tires is a start. oil the chain while you are at it."
+  },
+  "u": {
+   "1": "needed air in the tires."
+  }
+ },
+ "705": {
+  "a": {
+   "0": "nothing on TV tonight either? it is all repeats this time of year."
+  },
+  "u": {
+   "0": "there is nothing on TV tonight."
+  }
+ },
+ "708": {
+  "0": "on the corner finally, the new place. did it live up to the reviews?"
+ },
+ "709": {
+  "a": {
+   "0": "takeout instead of cooking is the right call sometimes. what did you get?"
+  },
+  "u": {
+   "0": "ordered a takeout instead of cooking."
+  }
+ },
+ "711": {
+  "a": {
+   "0": "sale sweaters are the best kind of bargain. how much did you get off?"
+  },
+  "u": {
+   "0": "bought a sweater in the sale."
+  }
+ },
+ "713": {
+  "a": {
+   "0": "trash day already? which bin is it tomorrow, recycling or general?",
+   "1": "right, recycling then. put the bin out tonight before you forget."
+  },
+  "u": {
+   "0": "is it trash day tomorrow?"
+  }
+ },
+ "715": {
+  "a": {
+   "0": "lending the drill to the neighbor is brave. did you get it back yet?"
+  },
+  "u": {
+   "0": "lent my neighbor the drill."
+  }
+ },
+ "716": {
+  "0": "at five again is brutal, the cat. is it hunger or just attention?"
+ },
+ "717": {
+  "0": "took the dog out in the rain, dedicated. did she enjoy it at least?"
+ },
+ "718": {
+  "0": "is the dog due at the vet? just the yearly shots?",
+  "1": "those yearly shots are quick. book it now, they get busy this season."
+ },
+ "720": {
+  "0": "so the kids are back at school? how did the first day go?",
+  "1": "no tears is a real win. the school mornings will get easier soon."
+ },
+ "721": {
+  "0": "homework with your son for an hour is a long stretch. was it math?"
+ },
+ "723": {
+  "a": {
+   "0": "your mom's birthday is on friday? have you got her anything yet?"
+  },
+  "u": {
+   "0": "it is my mom's birthday on friday."
+  }
+ },
+ "725": {
+  "1": "a coast trip on a saturday, lovely. just hope the weather holds for it."
+ },
+ "726": {
+  "0": "selling the old stuff online or at a car trunk? where is it listed?",
+  "1": "your usual sites get the eyes. does any of the stuff actually sell?"
+ },
+ "727": {
+  "a": {
+   "0": "a new fence on the neighbor's side? is he paying for it himself?"
+  },
+  "u": {
+   "0": "the neighbor is getting a new fence."
+  }
+ },
+ "730": {
+  "1": "doing the inside takes the work, the rain keeps the outside clean anyway."
+ },
+ "735": {
+  "1": "that curry still works without them, add more of whatever you do have."
+ },
+ "74": {
+  "0": "brutal run. went too fast at the start and regretted it about a mile in."
+ },
+ "742": {
+  "1": "a level is worth the two bucks, the shelves will wobble less."
+ },
+ "749": {
+  "1": "do it tonight then, i think the office line is always awful."
+ },
+ "75": {
+  "0": "sounds like the weather is gray and drizzly, the kind of day you just stay in."
+ },
+ "756": {
+  "a": {
+   "0": "was the pharmacy line that bad on a saturday again?"
+  },
+  "u": {
+   "0": "there was a line out the door at the pharmacy."
+  }
+ },
+ "76": {
+  "0": "freezing, properly cold. heating's been on since six and i'm still in a sweater."
+ },
+ "773": {
+  "a": {
+   "0": "did the neighbor send you an invite for the housewarming?"
+  },
+  "u": {
+   "0": "my neighbor is having a housewarming."
+  }
+ },
+ "775": {
+  "0": "same here, a sweater saves a fortune on the heating bill."
+ },
+ "777": {
+  "1": "lovely, an extra hour in bed, do not forget the stove clock."
+ },
+ "786": {
+  "a": {
+   "0": "was the post office line that bad at lunchtime again?"
+  },
+  "u": {
+   "0": "post office line was round the block."
+  }
+ },
+ "79": {
+  "0": "your evening sounds quiet. TV on, phone in hand, nothing much happening. it's nice actually."
+ },
+ "793": {
+  "a": {
+   "0": "do the front pair of tires together, it keeps the wear even."
+  },
+  "u": {
+   "0": "tires need replacing."
+  }
+ },
+ "798": {
+  "a": {
+   "1": "that is a good idea, sharing with a neighbor halves the cost."
+  },
+  "u": {
+   "1": "a neighbor."
+  }
+ },
+ "803": {
+  "a": {
+   "0": "do you still need players, i've missed pickup game since the break?"
+  },
+  "u": {
+   "0": "pickup game is back on thursday nights."
+  }
+ },
+ "805": {
+  "0": "the rubber band ones? my mom swears by them."
+ },
+ "810": {
+  "2": "finding the one you wanted for years makes the whole stack worth it. enjoy it."
+ },
+ "813": {
+  "a": {
+   "2": "then you're covered, a mom as stylist knows what suits you."
+  },
+  "u": {
+   "2": "that's the plan, and my mom has already appointed herself stylist."
+  }
+ },
+ "814": {
+  "a": {
+   "2": "same day line, same tradition. happy anniversary for next week."
+  },
+  "u": {
+   "2": "not yet. i'll be in the shop line on the day as tradition demands."
+  }
+ },
+ "819": {
+  "2": "that memory is better than the photo anyway. mine are all blobs too."
+ },
+ "824": {
+  "1": "that halfway roll is still a good roll. give him a treat for effort."
+ },
+ "83": {
+  "0": "really good new book, nearly finished. i keep staying up late for one more chapter."
+ },
+ "836": {
+  "a": {
+   "1": "that 2018 spice mix is either a keepsake or a biohazard. which cupboard got the treatment?"
+  },
+  "u": {
+   "1": "three tins with no labels and a spice mix from a vacation in 2018."
+  }
+ },
+ "85": {
+  "a": {
+   "0": "yeah, i spoke to my mom. long chat, mostly her telling me to eat more vegetables."
+  },
+  "u": {
+   "0": "did you speak to your mom?"
+  }
+ },
+ "866": {
+  "a": {
+   "0": "is the moth hole in your sweater a big one or small?"
+  },
+  "u": {
+   "0": "found a moth hole in my sweater."
+  }
+ },
+ "876": {
+  "u": {
+   "0": "need to mend a hem on these pants."
+  }
+ },
+ "885": {
+  "0": "a rug ties the front room together and keeps the draft out."
+ },
+ "89": {
+  "0": "loud kids. one has learned to whistle and will not stop, it has been a long day."
+ },
+ "898": {
+  "0": "free museum, so go on a quiet weekday morning."
+ },
+ "9": {
+  "0": "just watching TV and folding washing. not up to much, very exciting."
+ },
+ "90": {
+  "0": "into everything now, the little one. turned my back a second and she had emptied a drawer."
+ },
+ "905": {
+  "1": "same as usual then, but do the veg on the bbq first."
+ },
+ "907": {
+  "0": "that school fete next month always needs people on the stalls."
+ },
+ "910": {
+  "0": "trailers at the cinema give most of it away, still a good night."
+ },
+ "918": {
+  "1": "that local parkrun is friendly, no one cares how fast you go."
+ },
+ "920": {
+  "a": {
+   "0": "are you playing chess online now, or with a neighbor?",
+   "1": "playing chess with a neighbor is a nice way to pass an evening."
+  },
+  "u": {
+   "1": "with my neighbor."
+  }
+ },
+ "929": {
+  "a": {
+   "0": "panic mode, a cat sitter canceling last minute before the trip?"
+  },
+  "u": {
+   "0": "our cat sitter canceled last minute before the trip."
+  }
+ },
+ "93": {
+  "0": "fine meeting. could have been an email, honestly, but at least it is done."
+ },
+ "937": {
+  "2": "a fox down the arm, that'll look great. did our mom faint when she saw it?",
+  "3": "haha over the phone and audibly, the mom faint is final approval."
+ },
+ "940": {
+  "a": {
+   "1": "forty bucks and an empty loft is a double win. the lamp hagglers are everywhere, they travel in packs."
+  },
+  "u": {
+   "1": "selling, and i made forty bucks and got rid of the loft boxes. one man haggled over a two pound lamp."
+  }
+ },
+ "947": {
+  "0": "god, those double glazing guys, how long did the salesman stay?"
+ },
+ "952": {
+  "a": {
+   "0": "slow stove earning its keep, what are you making in it?",
+   "1": "your whole house smelling like a pub, that's a good sign. is it a cheap cut thing?"
+  },
+  "u": {
+   "0": "my slow stove is earning its keep this winter."
+  }
+ },
+ "957": {
+  "a": {
+   "0": "a yoga class at the community center, the real thing or a video kind?",
+   "2": "that lying down at the end sold me completely. welcome to the fold."
+  },
+  "u": {
+   "0": "i tried a yoga class at the community center."
+  }
+ },
+ "96": {
+  "0": "off this afternoon? i wish. no such luck, i am stuck here till five like everyone else."
+ },
+ "961": {
+  "a": {
+   "0": "walking football on thursdays, is it real rules or a slow kickabout?",
+   "2": "your top half of walking football is still an achievement worth a drink after."
+  },
+  "u": {
+   "1": "real rules, no running, and some of those men are vicious in the tackle. age means nothing."
+  }
+ },
+ "966": {
+  "1": "seeing the moon through a good lens stops people talking, every time. anything else?"
+ },
+ "967": {
+  "0": "swimming in the lake at this time of year, are you crazy?",
+  "2": "a thermos after a cold swim is civilization. that i can believe in."
+ },
+ "973": {
+  "1": "even better, leftover soup tastes nicer once the flavors settle."
+ },
+ "978": {
+  "a": {
+   "0": "any idea who has eaten all the cookies this time?"
+  },
+  "u": {
+   "0": "cookies have all gone."
+  }
+ },
+ "99": {
+  "0": "getting there, the new place. i finally put up a shelf, only took me three weekends."
+ }
+}

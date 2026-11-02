@@ -1,0 +1,397 @@
+{
+  "generated": "2026-10-07T13:21:40",
+  "corpus": {
+    "rows": 558,
+    "assistant_turns": 791,
+    "user_turns": 791,
+    "files": {
+      "casual": 558
+    }
+  },
+  "probe": {
+    "path": "C:\\github\\DBllm\\runs\\synth2\\audit\\probe_out1.txt",
+    "outputs": 60
+  },
+  "params": {
+    "top": 25,
+    "min_count": 8,
+    "max_n": 5,
+    "candidates": 80,
+    "derived_frames": [
+      "yeah i'm",
+      "i'm'm'm'm'm'm'm'm'm'm'm i'm'm'm'm'm'm'm'm'm'm",
+      "i'm i'm'm'm'm'm'm'm'm'm'm'm i'm'm'm'm'm'm'm",
+      "i'm'm'm'm'm'm'm'm'm'm'm'm i'm'm'm'm'm'm'm'm'm",
+      "i'm i'm'm'm'm'm'm'm'm'm'm'm'm i'm'm'm'm'm'm",
+      "i'm i'm'm'm'm'm'm'm'm'm'm'm'm'm i'm'm'm'm'm"
+    ]
+  },
+  "headline": {
+    "the_opener": 0.0329,
+    "the_opener_user": 0.0493,
+    "copula_only": 0.0025,
+    "registers_with_attractor": 1,
+    "registers": 1
+  },
+  "attractors": [
+    {
+      "phrase": "a bit",
+      "count": 23,
+      "corpus": 290.8,
+      "model": 2.0,
+      "amplify": 1.0,
+      "score": 0.0276,
+      "files": "casual 23",
+      "user": 37.9
+    }
+  ],
+  "over_used": [
+    {
+      "ngram": "twenty minutes",
+      "n": 2,
+      "count": 13,
+      "pmi": 8.74
+    },
+    {
+      "ngram": "an hour",
+      "n": 2,
+      "count": 13,
+      "pmi": 8.69
+    },
+    {
+      "ngram": "oh no",
+      "n": 2,
+      "count": 9,
+      "pmi": 6.86
+    },
+    {
+      "ngram": "not bad",
+      "n": 2,
+      "count": 8,
+      "pmi": 6.69
+    },
+    {
+      "ngram": "most of",
+      "n": 2,
+      "count": 8,
+      "pmi": 6.23
+    },
+    {
+      "ngram": "which is",
+      "n": 2,
+      "count": 23,
+      "pmi": 6.17
+    },
+    {
+      "ngram": "i've been",
+      "n": 2,
+      "count": 21,
+      "pmi": 5.82
+    },
+    {
+      "ngram": "on sunday",
+      "n": 2,
+      "count": 8,
+      "pmi": 5.78
+    },
+    {
+      "ngram": "not really",
+      "n": 2,
+      "count": 9,
+      "pmi": 5.47
+    },
+    {
+      "ngram": "i've got",
+      "n": 2,
+      "count": 17,
+      "pmi": 5.46
+    },
+    {
+      "ngram": "i keep",
+      "n": 2,
+      "count": 14,
+      "pmi": 5.09
+    },
+    {
+      "ngram": "i think",
+      "n": 2,
+      "count": 13,
+      "pmi": 4.9
+    },
+    {
+      "ngram": "a bit",
+      "n": 2,
+      "count": 23,
+      "pmi": 4.84
+    },
+    {
+      "ngram": "it's been",
+      "n": 2,
+      "count": 16,
+      "pmi": 4.8
+    },
+    {
+      "ngram": "i know",
+      "n": 2,
+      "count": 16,
+      "pmi": 4.76
+    },
+    {
+      "ngram": "did you",
+      "n": 2,
+      "count": 9,
+      "pmi": 4.67
+    },
+    {
+      "ngram": "and then",
+      "n": 2,
+      "count": 21,
+      "pmi": 4.42
+    },
+    {
+      "ngram": "to do",
+      "n": 2,
+      "count": 8,
+      "pmi": 4.41
+    },
+    {
+      "ngram": "a proper",
+      "n": 2,
+      "count": 12,
+      "pmi": 4.31
+    },
+    {
+      "ngram": "i'm not",
+      "n": 2,
+      "count": 8,
+      "pmi": 4.12
+    },
+    {
+      "ngram": "i had",
+      "n": 2,
+      "count": 9,
+      "pmi": 3.87
+    },
+    {
+      "ngram": "i did",
+      "n": 2,
+      "count": 16,
+      "pmi": 3.83
+    },
+    {
+      "ngram": "the weekend",
+      "n": 2,
+      "count": 8,
+      "pmi": 3.82
+    },
+    {
+      "ngram": "than i",
+      "n": 2,
+      "count": 9,
+      "pmi": 3.81
+    },
+    {
+      "ngram": "by the",
+      "n": 2,
+      "count": 9,
+      "pmi": 3.69
+    }
+  ],
+  "fanout": {
+    "a bit": {
+      "registers": 1,
+      "per_register": {
+        "casual": 23
+      }
+    }
+  },
+  "openers": {
+    "assistant": {
+      "0": {
+        "yeah": 60,
+        "i": 35,
+        "not": 34,
+        "the": 26,
+        "no": 26,
+        "a": 21,
+        "just": 17,
+        "good": 17,
+        "that's": 16,
+        "nothing": 13,
+        "same": 12,
+        "fine": 12,
+        "oh": 12,
+        "really": 11,
+        "haha": 10,
+        "yes": 10,
+        "it": 9,
+        "that": 8,
+        "honestly": 8,
+        "it's": 8
+      },
+      "1": {
+        "i": 31,
+        "the": 29,
+        "and": 20,
+        "it": 20,
+        "did": 20,
+        "a": 18,
+        "it's": 15,
+        "but": 14,
+        "know": 13,
+        "no": 13,
+        "i've": 11,
+        "really": 11,
+        "bit": 11,
+        "good": 10,
+        "just": 10,
+        "of": 10,
+        "one": 10,
+        "much": 9,
+        "as": 8,
+        "bad": 7
+      },
+      "2": {
+        "the": 43,
+        "i": 41,
+        "it": 21,
+        "a": 13,
+        "in": 12,
+        "and": 12,
+        "on": 12,
+        "about": 11,
+        "i've": 11,
+        "been": 11,
+        "i'm": 11,
+        "was": 10,
+        "just": 9,
+        "you": 9,
+        "it's": 9,
+        "actually": 8,
+        "my": 8,
+        "thanks": 8,
+        "of": 8,
+        "but": 8
+      },
+      "last": {
+        "it": 44,
+        "again": 17,
+        "you": 16,
+        "now": 12,
+        "me": 12,
+        "day": 10,
+        "out": 10,
+        "there": 10,
+        "week": 8,
+        "up": 7,
+        "though": 6,
+        "then": 6,
+        "night": 6,
+        "time": 6,
+        "first": 5,
+        "sunday": 5,
+        "morning": 5,
+        "properly": 5,
+        "point": 5,
+        "that": 5
+      }
+    },
+    "user": {
+      "0": {
+        "did": 101,
+        "you": 69,
+        "how's": 68,
+        "what": 50,
+        "how": 40,
+        "the": 39,
+        "i": 24,
+        "haha": 23,
+        "that's": 21,
+        "what's": 16,
+        "my": 16,
+        "is": 15,
+        "any": 14,
+        "same": 9,
+        "oh": 9,
+        "that": 8,
+        "was": 8,
+        "been": 8,
+        "fancy": 7,
+        "a": 7
+      },
+      "1": {
+        "you": 100,
+        "the": 98,
+        "was": 30,
+        "are": 25,
+        "your": 23,
+        "did": 20,
+        "a": 18,
+        "it": 17,
+        "i": 9,
+        "time": 9,
+        "plans": 8,
+        "get": 8,
+        "been": 8,
+        "have": 7,
+        "no": 7,
+        "for": 7,
+        "much": 6,
+        "good": 6,
+        "day": 6,
+        "that's": 6
+      },
+      "2": {
+        "you": 49,
+        "the": 48,
+        "get": 20,
+        "for": 18,
+        "a": 17,
+        "it": 10,
+        "new": 9,
+        "are": 9,
+        "sleep": 9,
+        "on": 9,
+        "to": 9,
+        "did": 8,
+        "still": 8,
+        "your": 7,
+        "with": 7,
+        "of": 7,
+        "that": 7,
+        "up": 7,
+        "one": 7,
+        "manage": 7
+      },
+      "last": {
+        "today": 28,
+        "weekend": 20,
+        "going": 19,
+        "it": 16,
+        "up": 16,
+        "alright": 14,
+        "tonight": 13,
+        "in": 11,
+        "out": 11,
+        "night": 10,
+        "yet": 9,
+        "done": 9,
+        "again": 9,
+        "you": 8,
+        "dinner": 8,
+        "week": 8,
+        "day": 7,
+        "good": 7,
+        "okay": 7,
+        "all": 7
+      }
+    }
+  },
+  "contractions": {
+    "corpus": 0.3729,
+    "model": 1.0,
+    "per_register": {
+      "casual": 295
+    }
+  }
+}

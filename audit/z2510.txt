@@ -1,0 +1,49 @@
+batch 2510 zero pairs: 48
+1313|0|my parcel was meant to arrive tuesday and it is still not here.|what does the tracking say?
+1314|0|the driver left my parcel behind the bin again.|did they even knock?
+1315|0|our takeaway turned up an hour late and cold.|have you rung the restaurant, or did you just eat it?
+1315|1|rang them, and they sent a fresh one without charging for the first.|well handled. do you use them often?
+1316|0|supermarket substituted half my order again.|what did they swap this time?
+1317|0|a delivery came for next door while they were out.|did you take it in for them?
+1317|1|i did, and now it is sitting in the hall and i keep forgetting it.|ha, that is the neighbourly thing to do. have they been back yet?
+1318|0|my grocery order is coming between eight and ten tonight.|that is a late slot. did you pick it or was it all that was left?
+1318|1|all that was left. i will be watching the door like a hawk.|ha, the two hour window is a long wait. have they ever been late?
+1319|0|the pizza place has started charging for delivery.|how much are they adding on?
+1320|0|i ordered a birthday present and it arrived broken.|was the box damaged on the outside?
+1320|1|no, the box was fine, so it was packed badly. i have sent photos.|that is on them, not the courier. have they offered a refund?
+1321|0|corner shop has started doing deliveries now.|will they come out this far?
+1321|1|about a mile, and they brought milk round in twenty minutes last night.|that is quicker than i would expect. do they charge for it?
+1322|0|coffee order turned up as the wrong roast.|have you kept it or sent it back?
+1323|0|delivery driver asked me to come down to the street.|why, was there nowhere to park?
+1324|0|food order came with someone else's receipt in the bag.|did it have their card details on it?
+1324|1|the last four digits and their name, which is not great.|careless of them. did you mention it when you ordered again?
+1325|0|i have been in a good mood all week for no real reason.|those are the best weeks. has anything been different?
+1325|1|nothing i can put my finger on. i have been sleeping well, so maybe that.|sleep usually explains it. are you keeping the same bedtime?
+1326|0|got really annoyed at a tiny thing this morning.|what set it off?
+1327|0|felt restless all day and i cannot settle.|is there something you are waiting on?
+1327|1|not really. i just cannot sit still with anything for long.|sounds like you have too much on. would a walk help?
+1328|0|i am quite proud of myself for finishing that course.|how long did it take you?
+1330|0|feel better after talking to my sister yesterday.|what did you talk about?
+1331|0|avoiding a phone call i need to make.|is it a tricky one?
+1332|0|got a bit tearful at a film last night.|which one was it?
+1332|1|an old one i have seen before. no idea why it got me this time.|it can sneak up on you. were you on your own?
+1333|0|had a really flat couple of days.|has anything helped at all?
+1334|0|oddly nervous about a meeting tomorrow.|is it a big one?
+1335|0|really irritable since the clocks changed.|the darker evenings do that to a lot of people.
+1336|0|felt a lot calmer after i wrote everything down.|was it a list or more of a diary?
+1337|0|boiler is making a noise like a kettle.|is it still heating the water properly?
+1337|1|it is, but the noise is getting louder. i have booked someone for friday.|better to get it looked at before it stops. have they been before?
+1338|0|plumber quoted me two hundred for the leak.|does that include the parts?
+1339|0|we need a new electrician after ours retired.|did he recommend anyone before he went?
+1340|0|painter is starting on the hallway monday.|how long will it take?
+1341|0|window firm never turned up for the measuring.|any warning at all?
+1341|1|none. i waited in all morning for nothing.|annoying, that. have you rung them to rearrange?
+1342|0|i got a second quote for the bathroom and it was half the price.|same job, or did they leave something out?
+1342|1|i checked the list twice and it is the same work.|then the first quote was just greedy. are you going with the second?
+1343|0|our gutter man is retiring.|will anyone take over the round?
+1343|1|his son, apparently, and he has been doing it with him for years.|good way to hand it over. will you stay with him?
+1344|0|fence people want a deposit before they start.|how much are they asking for?
+1345|0|our usual odd job man has put his prices up.|a big rise, or just a little one?
+1346|0|chimney sweep came round this morning.|was it as messy as you feared?
+1347|0|waiting on a call back from the heating firm.|have they been in touch yet?
+1348|0|decorator left a tin of paint behind.|have you told him?

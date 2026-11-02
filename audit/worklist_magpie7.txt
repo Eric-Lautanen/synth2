@@ -1,0 +1,214 @@
+== line 1065 b2345 [Fable]
+U: the post office queue went out the door today.
+A0: were you collecting a parcel or sending something off?   [9w ov=[]]
+
+== line 1066 b2345 [Fable]
+U: next door's cat has adopted our garden.
+A0: you have been chosen, that is how it works with cats.   [11w ov=[]]
+
+== line 1067 b2345 [Fable]
+U: our kettle started tripping the fuse.
+A0: how old is it, they do not last forever.   [9w ov=[]]
+
+== line 1068 b2345 [Fable]
+U: did a wardrobe clear out at the weekend.
+A0: bags and bags of it, i bet.   [7w ov=[]]
+
+== line 1069 b2345 [Fable]
+U: back has been stiff all week.
+A0: have you tried the physio exercises, they do help in the end.   [12w ov=[]]
+
+== line 1070 b2345 [Fable]
+U: just had the alarm go off at five for no reason.
+A0: five is not a real time to be awake, is it.   [11w ov=['five']]
+
+== line 1071 b2345 [Fable]
+U: our coffee machine at work is broken again.
+A0: just use the instant and save yourself the grief.   [9w ov=[]]
+
+== line 1072 b2345 [Fable]
+U: next door had a party until two in the morning.
+A0: say anything to them, or did you let it go?   [10w ov=[]]
+
+== line 1073 b2345 [Fable]
+U: the council tax bill came, it has gone up again.
+A0: for what, exactly, nobody in the office can ever say.   [10w ov=[]]
+
+== line 1074 b2345 [Fable]
+U: laptop did an update in the middle of my work.
+A0: always when you are busiest, it never fails.   [8w ov=[]]
+
+== line 1075 b2345 [Fable]
+U: no idea what to get my sister for her birthday.
+A0: has she dropped any hints at all?   [7w ov=[]]
+
+== line 1076 b2345 [Fable]
+U: we were forty minutes on the school run this morning.
+A0: the first week is always chaos, it settles soon.   [9w ov=[]]
+
+== line 1077 b2345 [Fable]
+U: the vet says my dog needs to lose a bit of weight.
+A0: they all do, a few less treats and he will be fine.   [12w ov=[]]
+
+== line 1078 b2345 [Fable]
+U: spent the whole weekend painting the hall.
+A0: one coat or two in the end?   [7w ov=[]]
+
+== line 1079 b2345 [Fable]
+U: car failed its mot on a brake light.
+A0: that is a cheap one at least, it could be worse.   [11w ov=[]]
+
+== line 1080 b2345 [Fable]
+U: train was delayed by a signal fault.
+A0: at least it was not raining while you waited.   [9w ov=[]]
+
+== line 1081 b2345 [Fable]
+U: i need to renew my passport, it runs out next year.
+A0: you might as well do it before the summer rush.   [10w ov=[]]
+
+== line 1082 b2345 [Fable]
+U: there is a new bakery on the corner.
+A0: have you tried their bread yet, it is meant to be good?   [12w ov=[]]
+
+== line 1083 b2345 [Fable]
+U: our recycling bin was not emptied again.
+A0: was it out in time?   [5w ov=[]]
+U: yes, seven the night before.
+A1: ring the council then, they can check the round for you.   [11w ov=[]]
+
+== line 1084 b2345 [Fable]
+U: broadband dropped out for the whole evening.
+A0: ours did the same on tuesday.   [6w ov=[]]
+U: the whole road went down, apparently.
+A1: nothing you can do then, just wait it out.   [9w ov=[]]
+
+== line 1085 b2345 [Fable]
+U: dropped the phone and cracked the screen.
+A0: a case is worth it, they save a lot of grief.   [11w ov=[]]
+U: i had a cheap one, it did nothing.
+A1: worth paying more for the next one then.   [8w ov=['one']]
+
+== line 1086 b2345 [Fable]
+U: it was the self checkout again, it accused me of not scanning something.
+A0: it does that with the loose veg.   [7w ov=[]]
+U: waited for the assistant in the end.
+A1: waiting is the worst part of it.   [7w ov=[]]
+
+== line 1087 b2345 [Fable]
+U: used my loyalty points on the big shop at last.
+A0: mine are still sitting unused.   [5w ov=[]]
+U: twelve pounds off, better than nothing.
+A1: a decent little win, i never remember to use mine.   [10w ov=[]]
+
+== line 1088 b2345 [Fable]
+U: washing machine walked across the kitchen again.
+A0: check the feet, they walk when one is missing.   [9w ov=[]]
+U: one of them is gone, i think.
+A1: card under one foot will sort it.   [7w ov=['one']]
+
+== line 1089 b2345 [Fable]
+U: need new glasses, the optician said so.
+A0: when did you last have a test?   [7w ov=[]]
+U: about four years, i think.
+A1: you were well overdue then, no wonder things looked blurry.   [10w ov=[]]
+
+== line 1090 b2345 [Fable]
+U: had the weirdest dream last night.
+A0: go on then, what happened?   [5w ov=[]]
+U: was late for a train i could not find.
+A1: everyone has that one, you are not alone.   [8w ov=[]]
+
+== line 1091 b2345 [Fable]
+U: found milk in the fridge that was out of date.
+A0: how far out was it, a day or more?   [9w ov=['out']]
+U: a week. poured it away.
+A1: a week out, that's proper milk. poured away is the only answer.   [12w ov=['away', 'poured', 'week']]
+
+== line 1092 b2345 [Fable]
+U: got a parking ticket on the high street.
+A0: were you over the line or just out of time?   [10w ov=[]]
+U: two minutes over the hour.
+A1: they are ruthless with that, no leeway.   [7w ov=[]]
+
+== line 1093 b2345 [Fable]
+U: insurance renewal came in at double last year.
+A0: did you shop around or just take the renewal?   [9w ov=['renewal']]
+U: got it down by half elsewhere.
+A1: always worth a phone call, they count on you not bothering.   [11w ov=[]]
+
+== line 1094 b2345 [Fable]
+U: had a text saying my bank card was used abroad.
+A0: was it a scam or a real charge?   [8w ov=[]]
+U: the bank confirmed it was.
+A1: good thing you caught it early, they are getting clever.   [10w ov=[]]
+
+== line 1095 b2345 [Fable]
+U: my headphones only work in one ear now.
+A0: have you tried wiggling the cable?   [6w ov=[]]
+U: wiggled it and it came back.
+A1: sounds like a loose wire, it will go again.   [9w ov=[]]
+
+== line 1096 b2345 [Fable]
+U: we have a christening to go to on sunday.
+A0: is it a big do or just close family?   [9w ov=[]]
+U: a buffet in the church hall after.
+A1: keep your expectations low and you will enjoy it.   [9w ov=[]]
+
+== line 1097 b2345 [Fable]
+U: my son has discovered the library, thankfully.
+A0: what is he reading at the moment?   [7w ov=[]]
+U: anything about dinosaurs.
+A1: that phase lasts a good while, enjoy the quiet.   [9w ov=[]]
+
+== line 1098 b2345 [Fable]
+U: there are slugs everywhere in the garden.
+A0: are the hostas still standing?   [5w ov=[]]
+U: shredded, every leaf.
+A1: hostas are their favourite, sadly.   [5w ov=[]]
+
+== line 1099 b2345 [Fable]
+U: bought a flat pack wardrobe at the weekend.
+A0: was the build a nightmare?   [5w ov=[]]
+U: four hours and one missing screw.
+A1: there is always one missing, it is a rule.   [9w ov=['missing', 'one']]
+
+== line 1100 b2345 [Fable]
+U: the tip was closed when we got there.
+A0: what day is it open, weekends at all?   [8w ov=[]]
+U: only weekdays, apparently.
+A1: so the rubbish sits in the boot all week.   [9w ov=[]]
+U: i will try again on my day off.
+A2: good luck with the queue, it is always long.   [9w ov=[]]
+
+== line 1101 b2345 [Fable]
+U: got a driving lesson tomorrow.
+A0: any nerves this time round?   [5w ov=[]]
+U: better than last week.
+A1: it gets easier, honestly, the first few are the worst.   [10w ov=[]]
+U: i hope so, the roundabouts are the worst.
+A2: they always are at first, you will get there.   [9w ov=[]]
+
+== line 1102 b2345 [Fable]
+U: they changed the platform at the last second.
+A0: did you make it, or was it a sprint?   [9w ov=[]]
+U: just, at a run.
+A1: your weekly sprint, then.   [4w ov=[]]
+U: it keeps me fit, i suppose.
+A2: there is always a bright side, that is one way to look at it.   [14w ov=[]]
+
+== line 1103 b2345 [Fable]
+U: got stuck in an enormous queue at security.
+A0: did you make the flight in the end?   [8w ov=[]]
+U: by ten minutes.
+A1: too close for comfort, i would be a wreck.   [9w ov=[]]
+U: i am not doing that again.
+A2: you say that every time, and then you book the early one again.   [13w ov=['again']]
+
+== line 1104 b2345 [Fable]
+U: booked the car in for a service.
+A0: what are they quoting you this time?   [7w ov=[]]
+U: more than last year, naturally.
+A1: never goes down, does it.   [5w ov=[]]
+U: i might try the place by the retail park.
+A2: worth a call, they are usually a bit cheaper.   [9w ov=[]]
+

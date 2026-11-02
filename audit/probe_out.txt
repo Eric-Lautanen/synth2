@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs/synth2/best.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " not a week and i'm not not. i'm not not not yet."
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " did you get it? i've been been been been been on the one. i'm not not not."
+
+## [ghetto / greeting] yo you good? long time no see.
+"yo you good? long time no see."
+  OUT: " go for a week and it is a good one. it's a good one."
+
+## [ghetto / money] they taxed my whole paycheck again.
+"they taxed my whole paycheck again."
+  OUT: " what did you get up?"
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " yeah, i've been a week and i'm not not not not."
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " did you get it on the day?"
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " the best one or the best one? what did you get?"
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " do you get it on the first one?"
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " how many are they? that's a good one. it's not not not not yet."
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " yeah, i'm not not a week and i'm not not not."
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " did you get a week? that's a good one. it's not not not not not."
+
+## [formal / general] how was your journey in this morning?
+"how was your journey in this morning?"
+  OUT: " a week, i've been been been been a good one. i'm not not not not."
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " good. i've been been been been been been a good one and it's been on a good one."
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: " how many are you get? i'm not yet. i'm not not not yet."
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " good, or just a good one?"
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: " how did you get? i've been been been been been been on the one."
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " how many are you get? i'm not yet. i'm not not not yet."
+
+## [gloomy / general] nothing good on telly ever anymore.
+"nothing good on telly ever anymore."
+  OUT: " how did you get it? i'm not yet. i'm not not not yet."
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " how did you get it? that do you get up?"
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " what did you get? i've been been been been been been been on the first time?"
+
+## [gossip / neighbours] did you hear about flat nine upstairs?
+"did you hear about flat nine upstairs?"
+  OUT: " yeah, i'm not a good one. i'm not not not not yet."
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: " did you get it on? it's been a good one. i'm not not not yet."
+
+## [nostalgic / school] remember the tuck shop queues at break?
+"remember the tuck shop queues at break?"
+  OUT: " yeah, i've been been been on the whole week."
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " yeah, i've been been been been a good one. i'm not not not not."
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " yeah, i'm not a week and i'm not not not a week and i'm not not not not."
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " i did. i'm not not not yet. i'm not not not not yet."
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " yeah, i'm not a week and i'm not not not not."
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " yeah, i've been a bit and i'm not not not not the first day and i'm not not not"
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " do the whole day at least, or the best one?"
+
+## [supportive / bad news] i did not get the job, i am gutted.
+"i did not get the job, i am gutted."
+  OUT: " the best one of them. did you get it?"
+
+## [bored / nothing to do] i am so bored i have cleaned the whole flat.
+"i am so bored i have cleaned the whole flat."
+  OUT: " how many are you get up? i'm not yet. i'm not not not yet."
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " good. i've been been been been a good one and it's been on a good one."
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " i did, i'm not not a week and i'm not not not not."
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " yeah, i'm not not a week and i'm not not not not."
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " yeah, i'm not a good one. i'm not not not not yet."
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " did you get it? it's been a good one. it's been on the one."
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " how many are they? that's the one. it's not not not not yet."
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " how many are they? i'm not yet. i'm not not not yet."
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " yeah, i'm not a week and i'm not not not not."
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " did the best one? it's been on a good one. it's been on the one."
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " how long? i've been been been been been been been on the first time."
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " how many are you get? i'm not yet. i'm not not not yet."
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " good, or was it a bit?"
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " good, or the best one? that's the one. it's still been on a good one."
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " not yet. i'm been been a good one and i'm not not not."
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " yeah, i've been a week and i'm not not not."
+
+## [petty / grudge] she still owes me twenty quid from march.
+"she still owes me twenty quid from march."
+  OUT: " the best one? the one is always always always the one."
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " do it on the one, or just the best one?"
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: " how many are they? that's the one?"
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " that is the best one of the whole week. did the best one?"
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " not yet. i'm not not not yet. i'm not not not not yet."
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " good, or just a good one?"
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: " good, or just the best one?"
+
+## [dont_know / shrug] i have not got a clue, sorry.
+"i have not got a clue, sorry."
+  OUT: " how many are you get? that's the one?"
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: " good. i've been been been been on the whole week and it's a good one."
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " how many are you on? i'm not yet. i'm not not not yet."
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " i've been been been been been been a good one. it's been on the one and it's been on a"
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " good one. it is been on a good one to be be be the one."
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " do you get it on the first one?"
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " that is a good one. did you get it on?"
+

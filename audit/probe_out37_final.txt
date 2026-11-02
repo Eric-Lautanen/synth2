@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs\synth2\final.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " sunday. the weekend calls for the website is waiting a lot."
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " rained on the rain or the whole morning?"
+
+## [casual / errands] i still need to get groceries before the store closes.
+"i still need to get groceries before the store closes."
+  OUT: " an hour of the store is dievers, check the will you at least?"
+
+## [casual / sleep] i could not fall asleep until like two last night.
+"i could not fall asleep until like two last night."
+  OUT: " two go on a week car, when did you get?"
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " not up to much, no. just looking forward to a book, nothing else back."
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " good lucking at the weekend, not?"
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " cold food order anyway, are you even better or just a scrambleingi tonight?"
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " your parking parking spot, that's the easierthus the spot you."
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " that's a goodash or the back door is nothing. it is the trick out."
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " it is theolbag's twisted. she only when it."
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " into ten minutes on top is the only way to stop it, enjoy it."
+
+## [formal / general] how was your commute in this morning?
+"how was your commute in this morning?"
+  OUT: " fine. my commute was better than usual, so i have done. i have gone back gone early."
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " oh the call, that's how the time buting. the new place is it."
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: " two hundred days in a heads and in your own twice is over."
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " the wise do and the job job. the job job job without competetetetitive it."
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: " how did the day do you actually use your back in every day?"
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " twenty years of honestly, a early night is long. was it worth the stuck or just to?"
+
+## [gloomy / general] nothing good on tv ever anymore.
+"nothing good on tv ever anymore."
+  OUT: " nothing thing, a whole night of year of my day trip. worth it."
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " have you asked theations before they hit one?"
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " how manyeah, microwa once is your accepted, cleared it much?"
+
+## [gossip / neighbors] did you hear about apartment nine upstairs?
+"did you hear about apartment nine upstairs?"
+  OUT: " halfway halfway halfway end. the last thing is my whole, and i am going too."
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: " your coldcycy did the whole time. any idea?"
+
+## [nostalgic / school] remember the candy store lines at recess?
+"remember the candy store lines at recess?"
+  OUT: " candyone means one more storm, thely anyway."
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " power at seven your fence aped down, an early night."
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " i am tired, one from to ancient one hour quietly."
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " an hour with you again i have gone planned nothing, honestly."
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " half five ons, and the house has been there. in in time for a coffee."
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " phone now. i had to put the phone in a phone time i just myself,"
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " aately nightmare. have you got a new planned?"
+
+## [supportive / bad news] i did not get the job, i am crushed.
+"i did not get the job, i am crushed."
+  OUT: " crashed electrician are the adoror worth it, the crats late dollars?"
+
+## [bored / nothing to do] i am so bored i have cleaned the whole apartment.
+"i am so bored i have cleaned the whole apartment."
+  OUT: " a long kitchen smelles the whole apartment, what is for?"
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " no the smell is always going. is it a nightmare?"
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " in the car in the car, the car on the end. they are always always there."
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " i am having a win. packed first and i am going next time."
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " got a bit of work effort. the yeah is your this week. worth it."
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " afternoon day but my list is early than a good sign."
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " the bus is last about the bus in the end are used to tomorrow."
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " three days of us days instead of three are worth threekies."
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " a noise, the that means some nights, real swingdom."
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " a fitted things is a dollar by noon, or just one it's?"
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " how many times is it? does it go this time, no time?"
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " a cookie but the staring finally got everything now?"
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " finished the night before, the night is a snooze that works."
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " passed your phone's gone, done or just the kids, every coffee there."
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " long fees in the office means the new trip."
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " never later is no idea for is a good sign."
+
+## [petty / grudge] she still owes me twenty bucks from march.
+"she still owes me twenty bucks from march."
+  OUT: " twenty bucks for twenty minutes is a solid set in the three december."
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " a server is the best part of the work today. was any natith about it?"
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: " is the one who nobody actually as well?"
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " the dog shaking your head not out, did you get it the does?"
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " slow waiting. i'm going to the morning then then an hour."
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " no notice in late. is she fine at least?"
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: " no idea is the to get any again?"
+
+## [dont_know / shrug] i have no clue, sorry.
+"i have no clue, sorry."
+  OUT: " was the clippedment going with a run anyway? that's dupbal thing?"
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: " no no waiting for the day they need them, are theried."
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " good? that's quietest is long, every time for all it is."
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " was your apartment a dripping outsideak in the ender after the the the the the end?"
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " good though, do not about one and late, book a good night."
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " good luck with the last thing, that is in the moment."
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " what do you do with twelve, did you go off the restaurant since?"
+

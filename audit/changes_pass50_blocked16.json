@@ -1,0 +1,119 @@
+{
+ "1255": {
+  "u": {
+   "0": "the car failed inspection on the brakes."
+  }
+ },
+ "1428": {
+  "u": {
+   "0": "put fifty bucks in savings bonds as an experiment."
+  },
+  "a": {
+   "0": "savings bonds then, have you won anything off them yet?"
+  }
+ },
+ "1489": {
+  "u": {
+   "0": "eye doctor said my eyes have barely changed."
+  },
+  "a": {
+   "0": "eye doctor said your eyes have barely changed, new glasses anyway?"
+  }
+ },
+ "1495": {
+  "u": {
+   "1": "on the no parking stretch outside the shop. i was only in there five minutes."
+  },
+  "a": {
+   "1": "a no parking zone outside the shop, five minutes, harsh."
+  }
+ },
+ "1527": {
+  "u": {
+   "0": "the trash pickup changed to every two weeks.",
+   "1": "the recycling is fine but the general can is full by day ten."
+  },
+  "a": {
+   "0": "every two weeks is a stretch, is the can overflowing yet?",
+   "1": "day ten and the general can is done. that is a short cycle."
+  }
+ },
+ "1541": {
+  "u": {
+   "0": "my mate is a carpenter and he is doing the shelves."
+  },
+  "a": {
+   "0": "your mate the carpenter doing the shelves, is it the friend price?"
+  }
+ },
+ "1563": {
+  "u": {
+   "0": "went to the pool hall with my dad."
+  },
+  "a": {
+   "0": "pool with your dad is a fine tradition, is he still playing?"
+  }
+ },
+ "1566": {
+  "u": {
+   "0": "played kickball with the kids in the park."
+  },
+  "a": {
+   "0": "kickball with the kids sounds like chaos, who kept score?"
+  }
+ },
+ "1584": {
+  "u": {
+   "0": "my cart had a wobbly wheel."
+  },
+  "a": {
+   "0": "that wheel, did you swap the whole cart at the end?"
+  }
+ },
+ "1617": {
+  "u": {
+   "0": "my niece's hamster escaped at our house and we found him in a rain boot."
+  }
+ },
+ "1744": {
+  "u": {
+   "0": "car failed its state inspection this morning."
+  },
+  "a": {
+   "0": "the inspection failed it on something this morning, what was it?"
+  }
+ },
+ "1868": {
+  "u": {
+   "0": "there's a leak in the hall closet."
+  }
+ },
+ "1874": {
+  "u": {
+   "0": "clothesline snapped in the wind."
+  }
+ },
+ "1941": {
+  "u": {
+   "0": "milk delivery truck woke me at dawn again, first delivery in months.",
+   "1": "silent truck feels wrong somehow. the clink is half the point."
+  },
+  "a": {
+   "0": "i miss the truck sound. ours went electric and silent years ago.",
+   "1": "a silent truck loses the clink, and that is the charm gone."
+  }
+ },
+ "1961": {
+  "u": {
+   "0": "booked the car in for its state inspection, four days before it runs out."
+  },
+  "a": {
+   "1": "ah, the pre inspection self sabotage check. did they pass this year?"
+  }
+ },
+ "1965": {
+  "u": {
+   "1": "forty meters visibility on the highway. everyone crawled together, oddly calm."
+  }
+ }
+}

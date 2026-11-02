@@ -1,0 +1,32 @@
+probing C:\github\DBllm\runs/synth2/best.bin -- confirm no train.exe is running on this data dir
+wrote C:\github\DBllm\runs\synth2\audit\probe_out66.txt (60 prompt outputs)
+probing C:\github\DBllm\runs\synth2\final.bin -- confirm no train.exe is running on this data dir
+wrote C:\github\DBllm\runs\synth2\audit\probe_out66_final.txt (60 prompt outputs)
+turn_delta  data=runs\synth2
+            ckpt=runs\synth2\best.bin
+            register-col 4
+            546 examples, 12015 scored tokens, 8261 user-side tokens
+
+  real  heldout 6.2302
+  swap  heldout 7.3272
+  drop  heldout 7.1082
+  shuf  heldout 6.5771
+
+turn_delta (understanding):
+  swap  +1.0970
+  drop  +0.8780
+  shuf  +0.3469
+  --> turn_delta = drop - real = +0.8780  (14.09% of the loss)
+
+per register (heldout.map column 4): n, real, drop, delta
+  register                        n      real      drop     delta
+  small_talk_angry.jsonl        143    6.0495    7.3766   +1.3271
+  small_talk_sexy.jsonl         110    5.9908    7.0049   +1.0141
+  small_talk_lazy.jsonl         146    6.3236    7.0577   +0.7341
+  small_talk_casual.jsonl       147    6.4924    6.9745   +0.4821
+
+read: turn_delta near 0 means the model ignores its input and no
+      derivability work can pay off. copynat is the positive control.
+      scratch: C:\Users\ericl\AppData\Local\Temp\synth_turn_delta\synth2
+wrote runs\synth2\audit\tokenmap_66.md
+wrote runs\synth2\audit\tokenmap_66.json

@@ -1,0 +1,2867 @@
+{
+ "safe": [
+  {
+   "term": "high street",
+   "us": "main street",
+   "note": "9 rows, all casual; US says main street or downtown",
+   "tier": "safe",
+   "count": 9,
+   "rows": [
+    [
+     "casual",
+     23,
+     "st2_casual_000023",
+     2015,
+     [
+      {
+       "role": "assistant",
+       "text": "yeah, a good weekend. we tried that new cafe on the high street."
+      }
+     ]
+    ],
+    [
+     "casual",
+     41,
+     "st2_casual_000041",
+     2030,
+     [
+      {
+       "role": "user",
+       "text": "did you hear about the roadworks on the high street?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     640,
+     "st2_casual_000640",
+     2195,
+     [
+      {
+       "role": "user",
+       "text": "that traffic warden on high street is relentless."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1092,
+     "st2_casual_001092",
+     2345,
+     [
+      {
+       "role": "user",
+       "text": "got a parking ticket on the high street."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1126,
+     "st2_casual_001126",
+     2375,
+     [
+      {
+       "role": "user",
+       "text": "book it. it's the cheapest confidence boost on the high street."
+      },
+      {
+       "role": "assistant",
+       "text": "booked for thursday then, the cheapest confidence boost on the high street."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1131,
+     "st2_casual_001131",
+     2375,
+     [
+      {
+       "role": "user",
+       "text": "down half a size. my gran's ring, so i want someone careful, not the cheapest high street chain."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1417,
+     "st2_casual_001417",
+     2570,
+     [
+      {
+       "role": "user",
+       "text": "my butcher on the high street does a deal on tuesdays."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1875,
+     "st2_casual_001875",
+     2885,
+     [
+      {
+       "role": "user",
+       "text": "new cafe opened on the high street."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1951,
+     "st2_casual_001951",
+     2945,
+     [
+      {
+       "role": "user",
+       "text": "tried a new bakery on the high street this morning."
+      },
+      {
+       "role": "assistant",
+       "text": "tried a new bakery on the high street, what did you pick up?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "charity shop",
+   "us": "thrift store",
+   "note": "",
+   "tier": "safe",
+   "count": 7,
+   "rows": [
+    [
+     "casual",
+     558,
+     "st2_casual_000558",
+     2165,
+     [
+      {
+       "role": "user",
+       "text": "a single ice skate. one. from a charity shop trip i have no memory of."
+      },
+      {
+       "role": "assistant",
+       "text": "a single ice skate from a charity shop, best thing all week."
+      }
+     ]
+    ],
+    [
+     "casual",
+     790,
+     "st2_casual_000790",
+     2225,
+     [
+      {
+       "role": "user",
+       "text": "dropped some things at the charity shop."
+      },
+      {
+       "role": "assistant",
+       "text": "what did you take down to the charity shop then?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     939,
+     "st2_casual_000939",
+     2270,
+     [
+      {
+       "role": "user",
+       "text": "the charity shop on church street is a goldmine now."
+      },
+      {
+       "role": "assistant",
+       "text": "what did you find in that goldmine of a charity shop?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1479,
+     "st2_casual_001479",
+     2600,
+     [
+      {
+       "role": "user",
+       "text": "one perfectly good ladder, now mine, and a wardrobe that went to the charity shop by lunchtime."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1576,
+     "st2_casual_001576",
+     2645,
+     [
+      {
+       "role": "user",
+       "text": "thirty odd, mostly from charity shops. they are cheap and sound great."
+      },
+      {
+       "role": "assistant",
+       "text": "charity shops are a goldmine for vinyl. what did you play first?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1582,
+     "st2_casual_001582",
+     2645,
+     [
+      {
+       "role": "user",
+       "text": "the charity shop had a real bargain today."
+      },
+      {
+       "role": "assistant",
+       "text": "charity shop had a real bargain today, did you come away with much?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1732,
+     "st2_casual_001732",
+     2765,
+     [
+      {
+       "role": "user",
+       "text": "found a real bargain in the charity shop."
+      },
+      {
+       "role": "assistant",
+       "text": "what was the charity shop bargain, anything good this time?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "fiver",
+   "us": "five",
+   "note": "\"a fiver\" -> \"five bucks\" preferred",
+   "tier": "safe",
+   "count": 7,
+   "rows": [
+    [
+     "casual",
+     828,
+     "st2_casual_000828",
+     2240,
+     [
+      {
+       "role": "assistant",
+       "text": "then it's the wire snake or the plumber. the snake costs a fiver and a bit of dignity."
+      }
+     ]
+    ],
+    [
+     "casual",
+     939,
+     "st2_casual_000939",
+     2270,
+     [
+      {
+       "role": "user",
+       "text": "a real wool coat for a fiver and a framed print that i've hung in the hall already."
+      },
+      {
+       "role": "assistant",
+       "text": "a fiver for a wool coat, that's a steal. i keep walking past that one, i'm going in."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1270,
+     "st2_casual_001270",
+     2465,
+     [
+      {
+       "role": "user",
+       "text": "yes, forty prints for a fiver in the sale, and they arrived quick and bright."
+      },
+      {
+       "role": "assistant",
+       "text": "forty prints for a fiver deserves a quiet celebration. which frames next?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1638,
+     "st2_casual_001638",
+     2705,
+     [
+      {
+       "role": "user",
+       "text": "the carvery near work does a midweek one for a fiver."
+      },
+      {
+       "role": "assistant",
+       "text": "a fiver carvery, that's practically a public service. how's the meat?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1874,
+     "st2_casual_001874",
+     2885,
+     [
+      {
+       "role": "assistant",
+       "text": "washing line snapped in the wind? a new one is a fiver, get the thicker cord."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1951,
+     "st2_casual_001951",
+     2945,
+     [
+      {
+       "role": "user",
+       "text": "three bucks, which stings, but the whole thing came in under a fiver."
+      },
+      {
+       "role": "assistant",
+       "text": "under a fiver for breakfast out is winning these days. i'll try the seven o'clock shift."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1956,
+     "st2_casual_001956",
+     2945,
+     [
+      {
+       "role": "assistant",
+       "text": "worth a go before buying new, a fiver of descaler saves forty bucks."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "roadworks",
+   "us": "road construction",
+   "note": "from b4175 row 10",
+   "tier": "safe",
+   "count": 7,
+   "rows": [
+    [
+     "casual",
+     41,
+     "st2_casual_000041",
+     2030,
+     [
+      {
+       "role": "user",
+       "text": "did you hear about the roadworks on the high street?"
+      },
+      {
+       "role": "assistant",
+       "text": "yeah, the roadworks started monday. the bus now takes about ten years."
+      }
+     ]
+    ],
+    [
+     "casual",
+     380,
+     "st2_casual_000380",
+     2105,
+     [
+      {
+       "role": "assistant",
+       "text": "trip home was slow. roadworks, nearly an hour. i just put a podcast on."
+      }
+     ]
+    ],
+    [
+     "casual",
+     545,
+     "st2_casual_000545",
+     2165,
+     [
+      {
+       "role": "assistant",
+       "text": "was it the roadworks again, a forty minute school run is rough."
+      }
+     ]
+    ],
+    [
+     "casual",
+     608,
+     "st2_casual_000608",
+     2180,
+     [
+      {
+       "role": "user",
+       "text": "town still a mess with the roadworks?"
+      },
+      {
+       "role": "assistant",
+       "text": "town is still a mess with the roadworks, they closed the other end."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1011,
+     "st2_casual_001011",
+     2300,
+     [
+      {
+       "role": "user",
+       "text": "roadworks everywhere this week."
+      },
+      {
+       "role": "assistant",
+       "text": "leave earlier or find a way around the roadworks each day."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1463,
+     "st2_casual_001463",
+     2585,
+     [
+      {
+       "role": "user",
+       "text": "commute has got longer with the roadworks."
+      },
+      {
+       "role": "assistant",
+       "text": "commute longer with the roadworks, how much extra time each way?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1498,
+     "st2_casual_001498",
+     2615,
+     [
+      {
+       "role": "user",
+       "text": "roadworks. one lane shut for resurfacing and nobody knew how to merge."
+      },
+      {
+       "role": "assistant",
+       "text": "roadworks with one lane shut for resurfacing, nobody knew how to merge."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "school run",
+   "us": "school drop-off",
+   "note": "US says drop-off / pickup, never 'the school run'",
+   "tier": "safe",
+   "count": 7,
+   "rows": [
+    [
+     "casual",
+     343,
+     "st2_casual_000343",
+     2090,
+     [
+      {
+       "role": "user",
+       "text": "how was the school run this morning?"
+      },
+      {
+       "role": "assistant",
+       "text": "chaotic as always, the school run. my youngest lost a shoe."
+      }
+     ]
+    ],
+    [
+     "casual",
+     545,
+     "st2_casual_000545",
+     2165,
+     [
+      {
+       "role": "user",
+       "text": "the school run took forty minutes today."
+      },
+      {
+       "role": "assistant",
+       "text": "was it the roadworks again, a forty minute school run is rough."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1076,
+     "st2_casual_001076",
+     2345,
+     [
+      {
+       "role": "user",
+       "text": "we were forty minutes on the school run this morning."
+      },
+      {
+       "role": "assistant",
+       "text": "forty minutes on the school run is a rough start, it eases."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1199,
+     "st2_casual_001199",
+     2420,
+     [
+      {
+       "role": "user",
+       "text": "wore the wrong shoes for the school run today."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1201,
+     "st2_casual_001201",
+     2420,
+     [
+      {
+       "role": "user",
+       "text": "that low sun at five o'clock is blinding on the school run."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1514,
+     "st2_casual_001514",
+     2615,
+     [
+      {
+       "role": "user",
+       "text": "walking, all of it. i did the school run on foot and then the shops."
+      },
+      {
+       "role": "assistant",
+       "text": "walking, the school run on foot then the shops, it adds up fast."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1786,
+     "st2_casual_001786",
+     2795,
+     [
+      {
+       "role": "user",
+       "text": "noticeably. the school run is no longer in full darkness and the birds have started up again."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "tenner",
+   "us": "ten",
+   "note": "\"a tenner\" -> \"ten bucks\" preferred",
+   "tier": "safe",
+   "count": 6,
+   "rows": [
+    [
+     "casual",
+     946,
+     "st2_casual_000946",
+     2270,
+     [
+      {
+       "role": "user",
+       "text": "down about a tenner a month, mostly from the heating timer being honest at last."
+      },
+      {
+       "role": "assistant",
+       "text": "about a tenner a month less just for staring at a screen. that's a genuine result."
+      }
+     ]
+    ],
+    [
+     "casual",
+     949,
+     "st2_casual_000949",
+     2270,
+     [
+      {
+       "role": "user",
+       "text": "i won a tenner on a scratch card."
+      },
+      {
+       "role": "assistant",
+       "text": "great start, a tenner on a scratch card, did you reinvest it?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1179,
+     "st2_casual_001179",
+     2390,
+     [
+      {
+       "role": "user",
+       "text": "subscription i forgot about took another tenner."
+      },
+      {
+       "role": "assistant",
+       "text": "a subscription you forgot about taking a tenner, which one was it? do you remember signing up?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1352,
+     "st2_casual_001352",
+     2525,
+     [
+      {
+       "role": "user",
+       "text": "never again. twenty minutes and a tenner for a full winter of clear glass."
+      },
+      {
+       "role": "assistant",
+       "text": "twenty minutes and a tenner for a full winter of clear glass, best value job there is."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1417,
+     "st2_casual_001417",
+     2570,
+     [
+      {
+       "role": "user",
+       "text": "any three joints for a tenner, and he throws in bones for the dog. our tuesday roasts have improved beyond measure."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1866,
+     "st2_casual_001866",
+     2870,
+     [
+      {
+       "role": "assistant",
+       "text": "car washed, i did it myself and saved a tenner."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "car park",
+   "us": "parking lot",
+   "note": "",
+   "tier": "safe",
+   "count": 5,
+   "rows": [
+    [
+     "casual",
+     544,
+     "st2_casual_000544",
+     2165,
+     [
+      {
+       "role": "user",
+       "text": "she marched in without looking back and i cried in the car park like an idiot."
+      },
+      {
+       "role": "assistant",
+       "text": "she marched in without looking back and you cried in the car park."
+      }
+     ]
+    ],
+    [
+     "casual",
+     616,
+     "st2_casual_000616",
+     2180,
+     [
+      {
+       "role": "assistant",
+       "text": "parking was a nightmare, took me three laps of the car park."
+      }
+     ]
+    ],
+    [
+     "casual",
+     673,
+     "st2_casual_000673",
+     2210,
+     [
+      {
+       "role": "user",
+       "text": "car park was full so i circled three times."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1494,
+     "st2_casual_001494",
+     2615,
+     [
+      {
+       "role": "user",
+       "text": "both, really. i said i would drive her and wait in the car park."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1944,
+     "st2_casual_001944",
+     2930,
+     [
+      {
+       "role": "user",
+       "text": "car park at the leisure center now has number plate recognition."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "gran",
+   "us": "grandma",
+   "note": "US uses grandma/nana; 'gran' reads British",
+   "tier": "safe",
+   "count": 4,
+   "rows": [
+    [
+     "casual",
+     1118,
+     "st2_casual_001118",
+     2360,
+     [
+      {
+       "role": "user",
+       "text": "run walk, and i'm not ashamed. my sister and i are doing it for the hospice that looked after our gran."
+      },
+      {
+       "role": "assistant",
+       "text": "run walk for the hospice that looked after your gran, good cause."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1131,
+     "st2_casual_001131",
+     2375,
+     [
+      {
+       "role": "user",
+       "text": "down half a size. my gran's ring, so i want someone careful, not the cheapest high street chain."
+      },
+      {
+       "role": "assistant",
+       "text": "gran's ring down half a size, use careful jewellers, not a chain."
+      },
+      {
+       "role": "user",
+       "text": "initials inside, so they've promised to protect them. i'm trusting strangers with my gran, essentially."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1225,
+     "st2_casual_001225",
+     2435,
+     [
+      {
+       "role": "user",
+       "text": "we do a jigsaw with my gran every visit now."
+      },
+      {
+       "role": "assistant",
+       "text": "gran sky empire, every jigsaw has one. how many pieces is the current one?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1646,
+     "st2_casual_001646",
+     2705,
+     [
+      {
+       "role": "user",
+       "text": "lifted and boxed in the shed, wrapped in newspaper like my gran taught me. fingers crossed they survive the loft."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "half six",
+   "us": "six thirty",
+   "note": "British clock time; US says six thirty",
+   "tier": "safe",
+   "count": 4,
+   "rows": [
+    [
+     "casual",
+     155,
+     "st2_casual_000155",
+     2060,
+     [
+      {
+       "role": "assistant",
+       "text": "half six, which is far too early a time for a saturday."
+      }
+     ]
+    ],
+    [
+     "casual",
+     288,
+     "st2_casual_000288",
+     2075,
+     [
+      {
+       "role": "assistant",
+       "text": "a lie in, lucky you. i was up at half six."
+      }
+     ]
+    ],
+    [
+     "casual",
+     408,
+     "st2_casual_000408",
+     2105,
+     [
+      {
+       "role": "assistant",
+       "text": "no lie in. the cat woke me at half six wanting breakfast, and once i'm up i'm up."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1506,
+     "st2_casual_001506",
+     2615,
+     [
+      {
+       "role": "user",
+       "text": "roads were empty at half six this morning."
+      },
+      {
+       "role": "assistant",
+       "text": "roads empty at half six this morning, worth getting up early then?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "car boot",
+   "us": "trunk",
+   "note": "in the lexicon as 'boot'; the compound is unambiguous",
+   "tier": "safe",
+   "count": 3,
+   "rows": [
+    [
+     "casual",
+     791,
+     "st2_casual_000791",
+     2225,
+     [
+      {
+       "role": "user",
+       "text": "doing a car boot on sunday."
+      },
+      {
+       "role": "assistant",
+       "text": "is it an early start for the car boot then?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     940,
+     "st2_casual_000940",
+     2270,
+     [
+      {
+       "role": "user",
+       "text": "i did the car boot sale for the first time."
+      },
+      {
+       "role": "assistant",
+       "text": "selling or buying at the car boot sale, how was the first one?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1932,
+     "st2_casual_001932",
+     2915,
+     [
+      {
+       "role": "assistant",
+       "text": "a car boot sale on saturday morning, that is the weekend plan."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "council tax",
+   "us": "property tax",
+   "note": "",
+   "tier": "safe",
+   "count": 3,
+   "rows": [
+    [
+     "casual",
+     1073,
+     "st2_casual_001073",
+     2345,
+     [
+      {
+       "role": "user",
+       "text": "the council tax bill came, it has gone up again."
+      },
+      {
+       "role": "assistant",
+       "text": "has the council tax bill gone up again, for what exactly?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1436,
+     "st2_casual_001436",
+     2585,
+     [
+      {
+       "role": "user",
+       "text": "council tax letter came today."
+      },
+      {
+       "role": "assistant",
+       "text": "council tax letter today, the usual rise or has it gone up more?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1520,
+     "st2_casual_001520",
+     2630,
+     [
+      {
+       "role": "user",
+       "text": "the council tax bill landed this morning."
+      },
+      {
+       "role": "assistant",
+       "text": "council tax bill landed this morning, is it up again this year?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "pavement",
+   "us": "sidewalk",
+   "note": "the SIDEWALK sense; US pavement means the road surface",
+   "tier": "safe",
+   "count": 3,
+   "rows": [
+    [
+     "casual",
+     1199,
+     "st2_casual_001199",
+     2420,
+     [
+      {
+       "role": "user",
+       "text": "smooth soled sneakers on a wet pavement. i did the penguin shuffle the whole way and still nearly went twice."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1782,
+     "st2_casual_001782",
+     2795,
+     [
+      {
+       "role": "user",
+       "text": "a fortune, apparently, split with mathematical seriousness on the pavement. my daughter came home eleven pounds richer."
+      },
+      {
+       "role": "assistant",
+       "text": "eleven pounds of pavement math, a good night's work. were the carols tuneful?"
+      }
+     ]
+    ],
+    [
+     "angry",
+     454,
+     "st2_angry_000454",
+     3560,
+     [
+      {
+       "role": "user",
+       "text": "our dog cracked his paw pads on the hot pavement."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "bin bag",
+   "us": "trash bag",
+   "note": "in the lexicon already, but only as a singular",
+   "tier": "safe",
+   "count": 2,
+   "rows": [
+    [
+     "casual",
+     558,
+     "st2_casual_000558",
+     2165,
+     [
+      {
+       "role": "assistant",
+       "text": "how many bin bags did clearing out the wardrobe produce?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1421,
+     "st2_casual_001421",
+     2570,
+     [
+      {
+       "role": "assistant",
+       "text": "plain tin, same beans, the house survives. did you try the own brand bin bags too?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "chemist",
+   "us": "pharmacy",
+   "note": "the shop sense, not the scientist",
+   "tier": "safe",
+   "count": 2,
+   "rows": [
+    [
+     "casual",
+     1486,
+     "st2_casual_001486",
+     2615,
+     [
+      {
+       "role": "assistant",
+       "text": "hay fever back with a vengeance this week, has the chemist anything?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1492,
+     "st2_casual_001492",
+     2615,
+     [
+      {
+       "role": "user",
+       "text": "had my flu jab at the chemist on saturday."
+      },
+      {
+       "role": "assistant",
+       "text": "flu jab at the chemist on saturday, quick job or a long line?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "payslip",
+   "us": "pay stub",
+   "note": "",
+   "tier": "safe",
+   "count": 2,
+   "rows": [
+    [
+     "casual",
+     763,
+     "st2_casual_000763",
+     2225,
+     [
+      {
+       "role": "assistant",
+       "text": "check your payslip, i hope the overtime is on there."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1711,
+     "st2_casual_001711",
+     2750,
+     [
+      {
+       "role": "user",
+       "text": "got the first payslip call from my daughter about tax."
+      },
+      {
+       "role": "assistant",
+       "text": "that payslip shock call, every parent takes it. how did you explain?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "pence",
+   "us": "cents",
+   "note": "British currency subunit",
+   "tier": "safe",
+   "count": 2,
+   "rows": [
+    [
+     "casual",
+     796,
+     "st2_casual_000796",
+     2225,
+     [
+      {
+       "role": "user",
+       "text": "twenty pence."
+      },
+      {
+       "role": "assistant",
+       "text": "twenty pence each way adds up, a monthly pass might be cheaper."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1421,
+     "st2_casual_001421",
+     2570,
+     [
+      {
+       "role": "user",
+       "text": "forty pence a tin less, and the recipe review at home said identical. the tin looks plainer, that's all."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "retail park",
+   "us": "strip mall",
+   "note": "",
+   "tier": "safe",
+   "count": 2,
+   "rows": [
+    [
+     "casual",
+     1104,
+     "st2_casual_001104",
+     2345,
+     [
+      {
+       "role": "user",
+       "text": "i might try the place by the retail park."
+      },
+      {
+       "role": "assistant",
+       "text": "that place by the retail park is worth a call, usually cheaper."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1644,
+     "st2_casual_001644",
+     2705,
+     [
+      {
+       "role": "user",
+       "text": "the van at the retail park does better coffee than the chains."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "traffic warden",
+   "us": "parking enforcement",
+   "note": "",
+   "tier": "safe",
+   "count": 2,
+   "rows": [
+    [
+     "casual",
+     640,
+     "st2_casual_000640",
+     2195,
+     [
+      {
+       "role": "user",
+       "text": "that traffic warden on high street is relentless."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1938,
+     "st2_casual_001938",
+     2930,
+     [
+      {
+       "role": "user",
+       "text": "got caught by the traffic warden while reading the parking sign."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "caravan",
+   "us": "trailer",
+   "note": "US caravan is a group of travelers",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     815,
+     "st2_casual_000815",
+     2240,
+     [
+      {
+       "role": "user",
+       "text": "a canal boat and a caravan. she's earned both."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "chap",
+   "us": "guy",
+   "note": "",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     1194,
+     "st2_casual_001194",
+     2405,
+     [
+      {
+       "role": "user",
+       "text": "quoted three hundred for a professional scrape. the chap said leave it alone unless it's blocking drainage, moss is mostly cosmetic."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "chuffed",
+   "us": "thrilled",
+   "note": "",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     1949,
+     "st2_casual_001949",
+     2930,
+     [
+      {
+       "role": "assistant",
+       "text": "a driving test passed first attempt, he must be chuffed."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "crisps",
+   "us": "chips",
+   "note": "careful: US 'chips' is the crisp, US 'fries' is the chip",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     646,
+     "st2_casual_000646",
+     2195,
+     [
+      {
+       "role": "assistant",
+       "text": "practicing! we'll see about that. i'll bring the good crisps and my finest useless facts."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "dual carriageway",
+   "us": "divided highway",
+   "note": "",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     643,
+     "st2_casual_000643",
+     2195,
+     [
+      {
+       "role": "user",
+       "text": "brilliant but i need to learn the route properly. ended up on a dual carriageway for about ninety terrifying seconds."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "faff",
+   "us": "hassle",
+   "note": "",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     1159,
+     "st2_casual_001159",
+     2390,
+     [
+      {
+       "role": "assistant",
+       "text": "unpair it and pair it again, it is a faff but it works."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "hob",
+   "us": "stovetop",
+   "note": "",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     171,
+     "st2_casual_000171",
+     2060,
+     [
+      {
+       "role": "assistant",
+       "text": "cleaned the kitchen, yes. it took longer than i'd admit, mostly because of the hob."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "loo",
+   "us": "bathroom",
+   "note": "",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     834,
+     "st2_casual_000834",
+     2240,
+     [
+      {
+       "role": "user",
+       "text": "thanks. two uncles who don't speak, one baby, and a great aunt who needs the loo nearby. it's a puzzle."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "number plate",
+   "us": "license plate",
+   "note": "",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     1944,
+     "st2_casual_001944",
+     2930,
+     [
+      {
+       "role": "user",
+       "text": "car park at the leisure center now has number plate recognition."
+      },
+      {
+       "role": "assistant",
+       "text": "number plate recognition at the leisure center, mine does that too."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "satnav",
+   "us": "gps",
+   "note": "from b4175 row 7; also in the lexicon as 'sat nav'",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     1013,
+     "st2_casual_001013",
+     2300,
+     [
+      {
+       "role": "user",
+       "text": "satnav sent me the wrong way."
+      },
+      {
+       "role": "assistant",
+       "text": "did the satnav send you the wrong way into a field?"
+      },
+      {
+       "role": "assistant",
+       "text": "nearly is bad enough, update the satnav, the maps go stale."
+      },
+      {
+       "role": "assistant",
+       "text": "i never think to either, do the satnav before the long trip."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "village hall",
+   "us": "community center",
+   "note": "",
+   "tier": "safe",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     813,
+     "st2_casual_000813",
+     2240,
+     [
+      {
+       "role": "assistant",
+       "text": "big fancy do or the village hall, cousin's wedding in june?"
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "flag": [
+  {
+   "term": "curry",
+   "us": "curry",
+   "note": "keep the word; \"going for a curry\" -> \"grabbing Indian food\" hand-read",
+   "tier": "flag",
+   "count": 20,
+   "rows": [
+    [
+     "casual",
+     177,
+     "st2_casual_000177",
+     2060,
+     [
+      {
+       "role": "assistant",
+       "text": "making dinner, yeah, a curry. everything's chopped, just waiting on the rice."
+      }
+     ]
+    ],
+    [
+     "casual",
+     178,
+     "st2_casual_000178",
+     2060,
+     [
+      {
+       "role": "user",
+       "text": "how did the curry turn out?"
+      },
+      {
+       "role": "assistant",
+       "text": "good curry. went a bit heavy on the chili but i like it."
+      }
+     ]
+    ],
+    [
+     "casual",
+     298,
+     "st2_casual_000298",
+     2075,
+     [
+      {
+       "role": "user",
+       "text": "how did the curry go?"
+      },
+      {
+       "role": "assistant",
+       "text": "better than expected, the curry. i let it simmer longer and it made all the difference."
+      }
+     ]
+    ],
+    [
+     "casual",
+     314,
+     "st2_casual_000314",
+     2075,
+     [
+      {
+       "role": "user",
+       "text": "making a curry tonight"
+      },
+      {
+       "role": "assistant",
+       "text": "a curry tonight, nice. what kind are you making?"
+      },
+      {
+       "role": "assistant",
+       "text": "a lentil curry still counts as a real dinner. it freezes well too."
+      }
+     ]
+    ],
+    [
+     "casual",
+     354,
+     "st2_casual_000354",
+     2090,
+     [
+      {
+       "role": "assistant",
+       "text": "trying something new for dinner, a curry from scratch tonight."
+      }
+     ]
+    ],
+    [
+     "casual",
+     374,
+     "st2_casual_000374",
+     2105,
+     [
+      {
+       "role": "assistant",
+       "text": "for dinner, some chicken that needs using. either a curry or a stir fry, depends how lazy."
+      }
+     ]
+    ],
+    [
+     "casual",
+     440,
+     "st2_casual_000440",
+     2135,
+     [
+      {
+       "role": "assistant",
+       "text": "for my birthday, just a curry with a few friends, nothing big."
+      },
+      {
+       "role": "user",
+       "text": "a curry with friends beats a big night out anyway. less hangover, more nan bread."
+      },
+      {
+       "role": "assistant",
+       "text": "exactly, a curry with friends and someone else does the washing up."
+      }
+     ]
+    ],
+    [
+     "casual",
+     676,
+     "st2_casual_000676",
+     2210,
+     [
+      {
+       "role": "user",
+       "text": "there is curry in the fridge from friday."
+      },
+      {
+       "role": "assistant",
+       "text": "curry from friday, sniff it first. if it smells fine heat it right through."
+      }
+     ]
+    ],
+    [
+     "casual",
+     735,
+     "st2_casual_000735",
+     2225,
+     [
+      {
+       "role": "user",
+       "text": "a curry."
+      },
+      {
+       "role": "assistant",
+       "text": "that curry still works without them, add more of whatever you do have."
+      }
+     ]
+    ],
+    [
+     "casual",
+     817,
+     "st2_casual_000817",
+     2240,
+     [
+      {
+       "role": "user",
+       "text": "the last four of us were in a curry house at one in the morning discussing the office thermostat."
+      }
+     ]
+    ],
+    [
+     "casual",
+     934,
+     "st2_casual_000934",
+     2270,
+     [
+      {
+       "role": "user",
+       "text": "somewhere in between, go karts and a curry, and everyone home by one if i have anything to do with it."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1122,
+     "st2_casual_001122",
+     2360,
+     [
+      {
+       "role": "assistant",
+       "text": "three subscriptions for one screen is crazy. cancel two, save a curry a month."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1543,
+     "st2_casual_001543",
+     2630,
+     [
+      {
+       "role": "user",
+       "text": "ordered a curry and it turned up cold."
+      },
+      {
+       "role": "assistant",
+       "text": "curry turned up cold, are you going to ring them about it?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1643,
+     "st2_casual_001643",
+     2705,
+     [
+      {
+       "role": "user",
+       "text": "found a curry house that does a taster thali on wednesdays."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1708,
+     "st2_casual_001708",
+     2750,
+     [
+      {
+       "role": "user",
+       "text": "nothing and everything, football on the TV, a curry, and talking till three like teenagers."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1756,
+     "st2_casual_001756",
+     2765,
+     [
+      {
+       "role": "user",
+       "text": "a curry that's apparently a family secret."
+      },
+      {
+       "role": "assistant",
+       "text": "a family secret curry is the best kind, did they share it all?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1808,
+     "st2_casual_001808",
+     2825,
+     [
+      {
+       "role": "user",
+       "text": "pairs, one night each, and there's a spreadsheet. my night is curry, which i can do blindfold."
+      },
+      {
+       "role": "assistant",
+       "text": "a curry night on the spreadsheet, that's a safe pair of hands. what's the walking like?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1825,
+     "st2_casual_001825",
+     2840,
+     [
+      {
+       "role": "user",
+       "text": "properly, and i'm proud and slightly frightened. two have gone into a curry and the curry fought back."
+      },
+      {
+       "role": "assistant",
+       "text": "a curry that fights back, that's a successful chilli. will you grow them again?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1900,
+     "st2_casual_001900",
+     2885,
+     [
+      {
+       "role": "user",
+       "text": "we got a takeout curry last night."
+      },
+      {
+       "role": "assistant",
+       "text": "a takeout curry last night, was it a good one?"
+      }
+     ]
+    ],
+    [
+     "lazy",
+     473,
+     "st2_lazy_000473",
+     3080,
+     [
+      {
+       "role": "assistant",
+       "text": "orange cutting board stains are permanent trophies from every curry you ever made."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "chips",
+   "us": "fries",
+   "note": "FLAG: \"bag of chips\" context; \"fish and chips\" -> \"fish and fries\"",
+   "tier": "flag",
+   "count": 9,
+   "rows": [
+    [
+     "casual",
+     806,
+     "st2_casual_000806",
+     2240,
+     [
+      {
+       "role": "user",
+       "text": "fish and chips for dinner tonight, i've decided."
+      },
+      {
+       "role": "assistant",
+       "text": "what's the order, fish and chips on a decided whim tonight?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     807,
+     "st2_casual_000807",
+     2240,
+     [
+      {
+       "role": "user",
+       "text": "that fish and chips place near the station has gone downhill."
+      },
+      {
+       "role": "assistant",
+       "text": "really, the fish and chips place near the station gone downhill, that is a shame."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1217,
+     "st2_casual_001217",
+     2435,
+     [
+      {
+       "role": "user",
+       "text": "only for big jobs. but chips and roast veg live in the turbine now."
+      },
+      {
+       "role": "assistant",
+       "text": "long live the chips and roast veg. does it actually save on the electric?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1640,
+     "st2_casual_001640",
+     2705,
+     [
+      {
+       "role": "user",
+       "text": "our local fish and chips place does a gluten free friday now."
+      },
+      {
+       "role": "user",
+       "text": "my sister says indistinguishable, and she's a harsh judge after years without fish and chips. the line agrees, it's busy."
+      },
+      {
+       "role": "assistant",
+       "text": "years without real fish and chips deserve this. does she go every friday?"
+      }
+     ]
+    ],
+    [
+     "lazy",
+     698,
+     "st2_lazy_000698",
+     3140,
+     [
+      {
+       "role": "assistant",
+       "text": "new snack machines get emptied by friday, enjoy the good chips while they last."
+      }
+     ]
+    ],
+    [
+     "lazy",
+     830,
+     "st2_lazy_000830",
+     3170,
+     [
+      {
+       "role": "assistant",
+       "text": "windshield chips spread in cold weather, get the fill kit or the shop."
+      }
+     ]
+    ],
+    [
+     "lazy",
+     1206,
+     "st2_lazy_001206",
+     3260,
+     [
+      {
+       "role": "assistant",
+       "text": "snack duty beats hosting, bring the good chips, everyone wins."
+      }
+     ]
+    ],
+    [
+     "angry",
+     165,
+     "st2_angry_000165",
+     3485,
+     [
+      {
+       "role": "user",
+       "text": "my coworker eats chips with her mouth open."
+      }
+     ]
+    ],
+    [
+     "angry",
+     1853,
+     "st2_angry_001853",
+     3890,
+     [
+      {
+       "role": "user",
+       "text": "he never chips in for the shared supplies."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "post office",
+   "us": "post office",
+   "note": "same in US; keep",
+   "tier": "flag",
+   "count": 9,
+   "rows": [
+    [
+     "casual",
+     330,
+     "st2_casual_000330",
+     2075,
+     [
+      {
+       "role": "assistant",
+       "text": "one favor owed for sure. i'm practically their post office at this point."
+      }
+     ]
+    ],
+    [
+     "casual",
+     509,
+     "st2_casual_000509",
+     2150,
+     [
+      {
+       "role": "assistant",
+       "text": "i go to the little barbers by the post office, cheap and solid."
+      }
+     ]
+    ],
+    [
+     "casual",
+     786,
+     "st2_casual_000786",
+     2225,
+     [
+      {
+       "role": "user",
+       "text": "post office line was round the block."
+      },
+      {
+       "role": "assistant",
+       "text": "was the post office line that bad at lunchtime again?"
+      },
+      {
+       "role": "assistant",
+       "text": "go first thing or last thing, the post office is worst at midday."
+      }
+     ]
+    ],
+    [
+     "casual",
+     894,
+     "st2_casual_000894",
+     2255,
+     [
+      {
+       "role": "user",
+       "text": "changed some currency at the post office."
+      },
+      {
+       "role": "assistant",
+       "text": "did the post office give you a good currency rate?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1065,
+     "st2_casual_001065",
+     2345,
+     [
+      {
+       "role": "user",
+       "text": "the post office line went out the door today."
+      },
+      {
+       "role": "assistant",
+       "text": "was the post office line for a parcel or sending something?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1583,
+     "st2_casual_001583",
+     2645,
+     [
+      {
+       "role": "user",
+       "text": "spent ages in the line at the post office."
+      },
+      {
+       "role": "assistant",
+       "text": "spent ages in the line at the post office, big parcel?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1733,
+     "st2_casual_001733",
+     2765,
+     [
+      {
+       "role": "user",
+       "text": "post office line was out the door."
+      },
+      {
+       "role": "assistant",
+       "text": "was the post office line out the door, did you give up?"
+      }
+     ]
+    ],
+    [
+     "lazy",
+     1269,
+     "st2_lazy_001269",
+     3275,
+     [
+      {
+       "role": "assistant",
+       "text": "scheduled mail holds keep the porch empty, the post office form is online."
+      }
+     ]
+    ],
+    [
+     "lazy",
+     1506,
+     "st2_lazy_001506",
+     3335,
+     [
+      {
+       "role": "user",
+       "text": "the post office line was out the door."
+      },
+      {
+       "role": "assistant",
+       "text": "post office lines move slowest when you have somewhere else to be."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "mot",
+   "us": "inspection",
+   "note": "hand-read (\"MOT test\" -> \"inspection\")",
+   "tier": "flag",
+   "count": 8,
+   "rows": [
+    [
+     "casual",
+     533,
+     "st2_casual_000533",
+     2165,
+     [
+      {
+       "role": "user",
+       "text": "the car failed its mot."
+      },
+      {
+       "role": "assistant",
+       "text": "oh no, what did the car fail its mot on, big or small?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     792,
+     "st2_casual_000792",
+     2225,
+     [
+      {
+       "role": "user",
+       "text": "the car is due its MOT."
+      },
+      {
+       "role": "assistant",
+       "text": "is there anything wrong with the car for the MOT?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1079,
+     "st2_casual_001079",
+     2345,
+     [
+      {
+       "role": "user",
+       "text": "car failed its mot on a brake light."
+      },
+      {
+       "role": "assistant",
+       "text": "a brake light on the car mot is a cheap one at least."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1255,
+     "st2_casual_001255",
+     2450,
+     [
+      {
+       "role": "user",
+       "text": "the car failed its mot on the brakes."
+      },
+      {
+       "role": "assistant",
+       "text": "car failed its mot on the brakes, that is going to sting."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1536,
+     "st2_casual_001536",
+     2630,
+     [
+      {
+       "role": "user",
+       "text": "my MOT is due next month."
+      },
+      {
+       "role": "assistant",
+       "text": "mot due next month, have you any worries about it passing?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1542,
+     "st2_casual_001542",
+     2630,
+     [
+      {
+       "role": "user",
+       "text": "MOT failed on a blown bulb."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1744,
+     "st2_casual_001744",
+     2765,
+     [
+      {
+       "role": "user",
+       "text": "car failed its mot this morning."
+      },
+      {
+       "role": "assistant",
+       "text": "did the car fail its mot on anything serious this morning?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1961,
+     "st2_casual_001961",
+     2945,
+     [
+      {
+       "role": "user",
+       "text": "booked the car in for its mot, four days before it runs out."
+      },
+      {
+       "role": "assistant",
+       "text": "car booked for its mot four days before, cutting it fine."
+      },
+      {
+       "role": "assistant",
+       "text": "ah, the pre mot self sabotage check. did they pass this year?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "wardrobe",
+   "us": "closet",
+   "note": "legal US for freestanding furniture; only the built-in sense is British",
+   "tier": "flag",
+   "count": 7,
+   "rows": [
+    [
+     "casual",
+     558,
+     "st2_casual_000558",
+     2165,
+     [
+      {
+       "role": "user",
+       "text": "i finally cleared out the wardrobe."
+      },
+      {
+       "role": "assistant",
+       "text": "how many bin bags did clearing out the wardrobe produce?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     942,
+     "st2_casual_000942",
+     2270,
+     [
+      {
+       "role": "user",
+       "text": "one suitcase, half full, entirely of things i will not wear. the essentials remain in the wardrobe."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1068,
+     "st2_casual_001068",
+     2345,
+     [
+      {
+       "role": "user",
+       "text": "did a wardrobe clear out at the weekend."
+      },
+      {
+       "role": "assistant",
+       "text": "bags and bags from the wardrobe clear out, i bet."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1099,
+     "st2_casual_001099",
+     2345,
+     [
+      {
+       "role": "user",
+       "text": "bought a flat pack wardrobe at the weekend."
+      },
+      {
+       "role": "assistant",
+       "text": "was the flat pack wardrobe build a nightmare at the weekend?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1479,
+     "st2_casual_001479",
+     2600,
+     [
+      {
+       "role": "user",
+       "text": "one perfectly good ladder, now mine, and a wardrobe that went to the charity shop by lunchtime."
+      }
+     ]
+    ],
+    [
+     "angry",
+     1995,
+     "st2_angry_001995",
+     3935,
+     [
+      {
+       "role": "user",
+       "text": "someone left the wardrobe blocking the front door."
+      },
+      {
+       "role": "assistant",
+       "text": "how do you leave a wardrobe blocking the front door?"
+      }
+     ]
+    ],
+    [
+     "sexy",
+     582,
+     "st2_sexy_000582",
+     4085,
+     [
+      {
+       "role": "user",
+       "text": "the robes were softer than our entire wardrobe."
+      },
+      {
+       "role": "assistant",
+       "text": "robes softer than our wardrobe, can we steal two for home?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "corner shop",
+   "us": "corner store",
+   "note": "corner store is live US (esp. NYC); read each",
+   "tier": "flag",
+   "count": 5,
+   "rows": [
+    [
+     "casual",
+     430,
+     "st2_casual_000430",
+     2135,
+     [
+      {
+       "role": "assistant",
+       "text": "on sundays mostly the park and the corner shop for a paper."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1041,
+     "st2_casual_001041",
+     2315,
+     [
+      {
+       "role": "user",
+       "text": "nine from the corner shop. anyone can join, including you."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1045,
+     "st2_casual_001045",
+     2330,
+     [
+      {
+       "role": "assistant",
+       "text": "that corner shop collect has never let me down. mine holds everything and the staff know my name now."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1214,
+     "st2_casual_001214",
+     2435,
+     [
+      {
+       "role": "user",
+       "text": "two bags of shopping with room for the bread on top. i barely take the car to the corner shops now."
+      },
+      {
+       "role": "assistant",
+       "text": "haha the corner shop by bike, the dream. did the wobble take getting used to?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1321,
+     "st2_casual_001321",
+     2510,
+     [
+      {
+       "role": "user",
+       "text": "corner shop has started doing deliveries now."
+      },
+      {
+       "role": "assistant",
+       "text": "corner shop started doing deliveries now, will they come out this far?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "nursery",
+   "us": "preschool",
+   "note": "US nursery is the baby's room; preschool sense is British",
+   "tier": "flag",
+   "count": 5,
+   "rows": [
+    [
+     "casual",
+     1280,
+     "st2_casual_001280",
+     2465,
+     [
+      {
+       "role": "assistant",
+       "text": "running in without looking back is the six star nursery review. long may it last."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1457,
+     "st2_casual_001457",
+     2585,
+     [
+      {
+       "role": "user",
+       "text": "our little one has started nursery this week."
+      },
+      {
+       "role": "assistant",
+       "text": "little one started nursery this week, did the first day go ok?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1585,
+     "st2_casual_001585",
+     2645,
+     [
+      {
+       "role": "assistant",
+       "text": "ordered some bits for the garden, from a real nursery?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1991,
+     "st2_casual_001991",
+     2960,
+     [
+      {
+       "role": "user",
+       "text": "it's her first day at nursery tomorrow."
+      },
+      {
+       "role": "assistant",
+       "text": "her first day at nursery, she'll be fine. it's you i'd worry about."
+      }
+     ]
+    ],
+    [
+     "sexy",
+     221,
+     "st2_sexy_000221",
+     3995,
+     [
+      {
+       "role": "user",
+       "text": "you named our future plants at the nursery."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "bus pass",
+   "us": "bus pass",
+   "note": "keep",
+   "tier": "flag",
+   "count": 4,
+   "rows": [
+    [
+     "casual",
+     749,
+     "st2_casual_000749",
+     2225,
+     [
+      {
+       "role": "user",
+       "text": "my bus pass runs out this week."
+      },
+      {
+       "role": "assistant",
+       "text": "can you renew the bus pass online before it runs out?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1208,
+     "st2_casual_001208",
+     2420,
+     [
+      {
+       "role": "user",
+       "text": "got the bus pass renewed at last."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1968,
+     "st2_casual_001968",
+     2960,
+     [
+      {
+       "role": "user",
+       "text": "my bus pass runs out next month."
+      },
+      {
+       "role": "assistant",
+       "text": "a bus pass renewal is a line. the office lines are grim, give yourself an hour."
+      }
+     ]
+    ],
+    [
+     "lazy",
+     513,
+     "st2_lazy_000513",
+     3095,
+     [
+      {
+       "role": "user",
+       "text": "my bus pass expired mid ride."
+      },
+      {
+       "role": "assistant",
+       "text": "an expired bus pass mid ride means one awkward conversation with the driver."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "mate",
+   "us": "man",
+   "note": "FLAG: \"mate\" -> \"man\"/\"dude\" by rhythm; ghetto rows -> \"bro\"",
+   "tier": "flag",
+   "count": 4,
+   "rows": [
+    [
+     "casual",
+     581,
+     "st2_casual_000581",
+     2180,
+     [
+      {
+       "role": "assistant",
+       "text": "fish is still going, he has outlived three tank mates at this point."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1541,
+     "st2_casual_001541",
+     2630,
+     [
+      {
+       "role": "user",
+       "text": "my mate is a joiner and he is doing the shelves."
+      },
+      {
+       "role": "assistant",
+       "text": "your mate the joiner doing the shelves, is it mates rates?"
+      }
+     ]
+    ],
+    [
+     "casual",
+     1778,
+     "st2_casual_001778",
+     2795,
+     [
+      {
+       "role": "user",
+       "text": "an old mate has gone self employed at fifty and is thriving."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1791,
+     "st2_casual_001791",
+     2810,
+     [
+      {
+       "role": "assistant",
+       "text": "i am cooking burgers, sausages, and my mate brings chicken."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "payday",
+   "us": "payday",
+   "note": "same in US; keep",
+   "tier": "flag",
+   "count": 3,
+   "rows": [
+    [
+     "casual",
+     1356,
+     "st2_casual_001356",
+     2525,
+     [
+      {
+       "role": "assistant",
+       "text": "twelve pounds for confident walking all winter. my turn next payday."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1426,
+     "st2_casual_001426",
+     2570,
+     [
+      {
+       "role": "user",
+       "text": "the one with the app that doesn't crash on payday. that was the deciding review."
+      },
+      {
+       "role": "assistant",
+       "text": "an app that survives payday, the real feature. congrats on the bounty."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1501,
+     "st2_casual_001501",
+     2615,
+     [
+      {
+       "role": "assistant",
+       "text": "the warning light always picks the worst moment. do you fill up on payday?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "wonky",
+   "us": "wobbly",
+   "note": "used in US speech; lead dismissed 2026-10-18",
+   "tier": "flag",
+   "count": 3,
+   "rows": [
+    [
+     "casual",
+     497,
+     "st2_casual_000497",
+     2135,
+     [
+      {
+       "role": "assistant",
+       "text": "yeah, still at the pottery class on tuesdays, four wonky bowls made."
+      },
+      {
+       "role": "user",
+       "text": "wonky bowls are the best kind. are you eating out of them?"
+      },
+      {
+       "role": "assistant",
+       "text": "absolutely. food tastes more earned out of a wonky bowl."
+      }
+     ]
+    ],
+    [
+     "casual",
+     539,
+     "st2_casual_000539",
+     2165,
+     [
+      {
+       "role": "assistant",
+       "text": "lumpy beats bought. my grandad's wonky shelf is the only thing still standing in that kitchen."
+      }
+     ]
+    ],
+    [
+     "casual",
+     1975,
+     "st2_casual_001975",
+     2960,
+     [
+      {
+       "role": "user",
+       "text": "trolley had a wonky wheel."
+      },
+      {
+       "role": "assistant",
+       "text": "a wonky wheel on the trolley, did you swap it halfway round?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "banging",
+   "us": "fire",
+   "note": "hand-read (\"banging tunes\" -> \"fire tracks\")",
+   "tier": "flag",
+   "count": 2,
+   "rows": [
+    [
+     "casual",
+     78,
+     "st2_casual_000078",
+     2045,
+     [
+      {
+       "role": "assistant",
+       "text": "i heard the storm. something was banging outside and i never worked out what it was."
+      }
+     ]
+    ],
+    [
+     "casual",
+     166,
+     "st2_casual_000166",
+     2060,
+     [
+      {
+       "role": "assistant",
+       "text": "noisy washing machine. it has been banging away for an hour and i am ignoring it."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "estate",
+   "us": "the block",
+   "note": "hand-read (\"the estate\" -> \"the block\"/\"the hood\" by register)",
+   "tier": "flag",
+   "count": 2,
+   "rows": [
+    [
+     "casual",
+     825,
+     "st2_casual_000825",
+     2240,
+     [
+      {
+       "role": "assistant",
+       "text": "an airing cupboard is prime real estate for a hamster. sleep with one eye open."
+      }
+     ]
+    ],
+    [
+     "lazy",
+     627,
+     "st2_lazy_000627",
+     3110,
+     [
+      {
+       "role": "user",
+       "text": "that estate sale had real treasures."
+      },
+      {
+       "role": "assistant",
+       "text": "estate sales price everything at a dollar by noon, go late and win."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "bookshop",
+   "us": "bookstore",
+   "note": "used in US speech; lead dismissed 2026-10-18",
+   "tier": "flag",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     810,
+     "st2_casual_000810",
+     2240,
+     [
+      {
+       "role": "user",
+       "text": "the bookshop in town is doing a closing down sale."
+      },
+      {
+       "role": "assistant",
+       "text": "oh no, the bookshop closing down, that place has been there forever."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "burger van",
+   "us": "food truck",
+   "note": "two ordinary US words in sequence",
+   "tier": "flag",
+   "count": 1,
+   "rows": [
+    [
+     "casual",
+     1124,
+     "st2_casual_001124",
+     2360,
+     [
+      {
+       "role": "user",
+       "text": "two rides and a burger van, the full national package. the kids are more excited about the burgers."
+      },
+      {
+       "role": "assistant",
+       "text": "kids always pick the burger van. what time's the switch on?"
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "term": "kebab",
+   "us": "gyro",
+   "note": "hand-read (\"kebab shop\" -> \"gyro spot\")",
+   "tier": "flag",
+   "count": 1,
+   "rows": [
+    [
+     "lazy",
+     1443,
+     "st2_lazy_001443",
+     3305,
+     [
+      {
+       "role": "assistant",
+       "text": "soaked skewers stop the burning, the kebabs survive the flip."
+      }
+     ]
+    ]
+   ]
+  }
+ ]
+}

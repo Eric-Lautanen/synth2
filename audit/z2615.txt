@@ -1,0 +1,53 @@
+batch 2615 zero pairs: 52
+1483|0|dentist tomorrow morning, not looking forward to it.|checkup, or is something giving you trouble?
+1484|0|finally registered with a doctor near the new flat.|took you long enough. did they have space on the list?
+1485|0|waited forty minutes past my appointment time at the clinic today.|frustrating. did they say why?
+1486|0|hay fever is back with a vengeance this week.|has the chemist got anything that helps?
+1487|0|booked a blood test for friday, first one in years.|anything worrying you, or just routine?
+1488|0|twisted my ankle on the stairs last night.|ouch. is it swollen?
+1488|1|a bit puffy this morning but i can walk on it. i have got the ice pack out.|keep it up and rested for a day or two. does it hurt to put weight on it?
+1489|0|optician said my eyes have barely changed.|good news then. new glasses anyway?
+1489|1|same prescription, funnily enough. she said come back in two years unless anything shifts.|cheap visit for once then. did she check the pressure thing too?
+1490|0|been sitting badly all week and my back is stiff.|desk chair or the sofa?
+1490|1|the sofa, mostly. i slouch when i am on the laptop in the evening.|easy fix, a cushion behind you. have you tried getting up more often?
+1491|0|had to cancel my physio because of work.|any fee for the late cancellation?
+1491|1|no, they were fine about it. rebooked for next tuesday instead.|decent of them. is the shoulder any better?
+1492|0|had my flu jab at the chemist on saturday.|quick job, or a long queue?
+1493|0|been waiting three weeks for a hospital letter.|have you chased them about it?
+1493|1|rang twice. they said it is in the post both times. still nothing through the door.|i would be climbing the walls. can you check online instead?
+1495|0|got a parking ticket this morning, gutted.|where did you leave it?
+1495|1|on the single yellow outside the shop. i was only in there five minutes.|they always seem to know. are you going to appeal it?
+1496|0|passed my driving test first time today.|brilliant, well done. was it the same examiner you had in lessons?
+1497|0|car is making a funny noise when i brake.|squealing, or more of a grinding?
+1497|1|grinding, mainly. it is worse when i come off the motorway.|sounds like the pads to me. worth getting it looked at this week.
+1498|0|sat in traffic for an hour on the ring road tonight.|accident, or just the usual crawl?
+1498|1|roadworks. one lane shut for resurfacing and nobody knew how to merge.|merging is where it all falls apart. was there a diversion?
+1499|0|found a free parking spot right outside for once.|you should have bought a lottery ticket with that luck.
+1500|0|sat nav sent me down a farm track yesterday.|anywhere useful, or a dead end?
+1500|1|dead end, in the dark, with a very unimpressed farmer watching.|nightmare. do you trust the app or the road signs now?
+1501|0|nearly ran out of petrol on the way home.|cutting it fine, were you?
+1502|0|someone has been parking in my space again.|have you left a note?
+1503|0|got stuck behind a tractor for ten miles today.|was there any chance to overtake?
+1503|1|not one straight bit long enough. i just settled in and enjoyed the view.|no point getting wound up about it. did it turn off eventually?
+1504|0|insurance went up forty quid this year.|were you able to shop around first?
+1504|1|shopped around, and they were all roughly the same. felt like a rip off either way.|forty is annoying when nothing changed. did you try ringing them?
+1505|0|teaching my daughter to drive at the moment.|is she getting on with the clutch ok?
+1506|0|roads were empty at half six this morning.|worth getting up early for that, then?
+1506|1|absolutely. i was at work before seven and had a coffee in peace.|sounds like a win. do you do that often?
+1507|0|back at the gym after two months off.|tough first session?
+1507|1|brutal. i did half my usual weights and still ached for three days.|the first week back always hurts. going again this week?
+1508|0|started swimming on my lunch break.|lengths, or just a paddle?
+1509|0|new running shoes arrived today.|were they fitted properly?
+1510|0|gym has raised its prices again.|much of a rise?
+1511|0|did my first park run on saturday.|what was the crowd like?
+1511|1|friendly, mostly. i came in the middle of the pack and nobody cared about the time.|no pressure, that is the point. will you go back?
+1512|0|pulled something in my shoulder lifting.|warm up first?
+1512|1|not properly, no. i went straight for the heavy stuff like an idiot.|we have all done it. is it sore to move?
+1513|1|harder than it looks. the balance ones especially, i wobble all over.|wobbling means it is working. do you follow a particular channel?
+1514|0|step counter says i have done twelve thousand today.|was that walking or running?
+1514|1|walking, all of it. i did the school run on foot and then the shops.|you barely notice it adding up. do you hit that most days?
+1515|1|eight of us, which is about right. the coach actually watches your form.|small groups are worth it. is it once a week?
+1516|0|tried to do a pull up today and failed completely.|none at all?
+1517|0|knees hurt after every run lately.|are the shoes past their best?
+1517|1|probably two years. i had not thought about it until you said.|worth replacing them before the knees get worse. what sort of distance do you run?
+1518|0|joined a five a side team at work.|what position do you play?

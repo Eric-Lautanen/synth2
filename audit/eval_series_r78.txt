@@ -1,0 +1,29 @@
+# eval_series_r78.txt -- run 78 per-eval series (ARCHIVED)
+
+Provenance: `runs/synth2/train_stdout.log` and `loss.log` are OVERWRITTEN when the next
+run launches, so this series no longer exists on disk. These five points were recovered
+from the lead's session record on 2026-10-22 (room msg #268) and are the only surviving copy.
+
+Run 78: 8234-row pack, fired 2026-10-22 14:39 UTC, d96, 37,696 planned steps.
+Verdict: turn_delta +0.8909 (14.64 pct), swap +1.1752, heldout 6.0868, probe 35/60.
+
+## heldout(macro) by step
+
+| step  | heldout(macro) |
+|-------|----------------|
+| 3769  | 4.8632         |
+| 30152 | 5.9212         |
+| 33921 | 6.0597         |
+| 37690 | 6.0868         |
+| 39722 | 6.0868         |
+
+## Why this matters
+
+The series rises monotonically from 4.8632 to 6.0868 across the run, i.e. heldout macro
+bottoms early and climbs while train loss falls. This is the documented CHECKPOINT LAW
+artifact, NOT overfitting -- it appears in every run since r6.
+
+The final two points are identical (6.0868 at 37690 and 39722) because the frozen tail
+re-evaluates the SAME checkpoint; it is one measurement, not two.
+
+Run 78 still delivered 14.64 pct turn_delta, the best read since r74, with best == final.

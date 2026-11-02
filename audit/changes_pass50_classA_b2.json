@@ -1,0 +1,89 @@
+{
+ "534": {
+  "u": {
+   "0": "the traffic on the highway is unbelievable since they started the works."
+  },
+  "a": {
+   "0": "how long is the delay on the highway since the works started?",
+   "1": "twenty minutes for a mile, so is a detour even marked?"
+  }
+ },
+ "547": {
+  "u": {
+   "0": "we're covering the school fair stall again this year."
+  },
+  "a": {
+   "0": "which stall this year, the raffle or the horrible one?"
+  }
+ },
+ "549": {
+  "u": {
+   "0": "that trivia night on thursday is back on."
+  },
+  "a": {
+   "0": "we need a fourth for the thursday trivia night, are you free?"
+  }
+ },
+ "553": {
+  "u": {
+   "0": "we did a day trip to cape may on saturday.",
+   "1": "exactly that. ate on the beachfront with the coats on and it was still the best meal i've had in weeks."
+  },
+  "a": {
+   "0": "oysters and wind, that is the full cape may experience.",
+   "1": "eating on the beachfront in coats, and still the best meal lately."
+  }
+ },
+ "825": {
+  "u": {
+   "2": "just did, he's in the hall closet. this animal has a whole property portfolio."
+  },
+  "a": {
+   "1": "a sealed submarine cage and he still got out. check the slippers first.",
+   "2": "a hall closet, so the hamster has a property portfolio now."
+  }
+ },
+ "907": {
+  "u": {
+   "0": "the school fair is next month."
+  },
+  "a": {
+   "0": "that school fair next month always needs people on the stalls."
+  }
+ },
+ "908": {
+  "u": {
+   "0": "quiz night at the tavern on thursday."
+  },
+  "a": {
+   "0": "have you got a team for the quiz night thursday?",
+   "1": "nearly counts as a team, so put me on the quiz roster."
+  }
+ },
+ "926": {
+  "u": {
+   "0": "the bachelorette party is next month."
+  },
+  "a": {
+   "0": "a quiet spa bachelorette or the full chaos version, which?"
+  }
+ },
+ "933": {
+  "u": {
+   "0": "field day on friday, in this heat.",
+   "1": "they moved the chairs, the children still ran themselves silly. my daughter came second in the sack race."
+  },
+  "a": {
+   "0": "did they move field day into the shade, that heat is savage?",
+   "1": "second in that sack race beats any trophy. did the parents run?"
+  }
+ },
+ "934": {
+  "u": {
+   "0": "the bachelor party is santa cruz this year."
+  },
+  "a": {
+   "0": "a civilized bachelor party in santa cruz or the traditional loss of dignity?"
+  }
+ }
+}

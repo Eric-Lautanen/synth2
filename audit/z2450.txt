@@ -1,0 +1,52 @@
+batch 2450 zero pairs: 51
+1230|0|did you watch the match last night?|i did, all of it. did you stay up too or catch the highlights?
+1230|1|full ninety minutes, and i paid for it this morning.|same here, i was yawning through breakfast. worth it for that second half though.
+1231|0|our five a side team lost again, sixth week running.|six in a row is painful. are you still enjoying it?
+1231|1|yeah, mostly because we all go for chips after.|ha, that explains the loyalty. do you play the same night every week?
+1232|0|got the little one into snakes and ladders this week.|has he learned to lose yet?
+1232|1|he flipped the board on tuesday, so no.|oh, i remember that stage. does he want to play again now?
+1233|0|that word game on my phone is eating my evenings.|much progress on it?
+1234|0|my brother talked me into the fantasy league again.|are they doing any better this year?
+1235|0|took the kids to the park for a kickabout.|did they last longer than you this time?
+1235|1|they did, by a mile. i was on the bench by the end.|sounds about right. are they keen to go again this weekend?
+1236|0|started that new series everyone keeps going on about.|any good so far?
+1236|1|two episodes in and i am not sure yet. it might be a slow burn.|fair, some of them take a while. what made you start it?
+1237|1|comfort, i knew every line and still enjoyed it.|same, i do that too. which one was it?
+1238|0|podcast backlog is out of control.|are you far behind on it?
+1238|1|about forty, and i keep adding more.|oh, that is a losing battle. do you listen on the commute?
+1239|0|the book club picked a book i cannot get into.|which one is it this month?
+1239|1|a long one about a family in the war. i am two hundred pages in and lost.|that is a slog. will you finish it or turn up and bluff?
+1240|0|rewatching old sitcoms instead of anything new.|same one again?
+1241|0|my mum got me into a quiz show on weekday evenings.|the one with the general knowledge round?
+1241|1|that is the one. we shout the answers at the telly.|we do the same. does she get more right than you?
+1242|0|back at the gym after three weeks off.|how did it feel?
+1242|1|brutal, i could barely do what i used to.|a break always sets you back. are you going to keep at it this time?
+1243|0|lunch breaks are walks now instead of sitting in the canteen.|does it wake you up for the afternoon?
+1243|1|it does. three miles round the park and i am much sharper after.|decent walk. do you go on your own or with anyone?
+1244|0|my knees have started complaining about the running.|how long have you been at it?
+1246|0|my sister has got me doing her workout video.|worth it, or is it a fad?
+1247|0|hit my step goal every day this week, finally.|all seven days? how did you manage it?
+1249|0|someone in our block keeps leaving bags in the hallway.|did anyone say anything about it?
+1249|1|not yet, we are all just stepping round them.|ha, classic standoff. will you be the one to mention it?
+1250|0|there is a piano upstairs now.|oh no, how bad is it?
+1251|0|the bins were not collected again this week.|no excuse given this time?
+1251|1|none. the whole road is overflowing.|same here last month. have you reported it?
+1252|0|the old couple opposite have moved out.|after how many years?
+1253|0|the shared garden fence is finally being replaced.|who is paying for it?
+1254|0|spent twenty minutes looking for a space in town.|multi storey again?
+1255|0|the car failed its mot on the brakes.|that is going to sting.
+1257|0|the motorway was closed on the way home.|were you stuck for long?
+1257|1|an hour and a half, barely moving. i gave up and got a coffee.|i would have done the same. is the road open again now?
+1258|0|my dad is teaching my nephew to drive.|going well?
+1259|0|cycling to work now to dodge the traffic.|how is the route?
+1260|0|bit of a flat week, nothing specific.|has anything helped, or is it just one of those weeks?
+1260|1|fresh air and an early night, mostly. it is passing.|good to hear. do you get weeks like that often?
+1261|0|i snapped at someone at work today and felt awful after.|what set you off?
+1261|1|they asked a simple question and i bit their head off.|we have all done it. did you apologise?
+1262|0|sleeping badly all week and it is showing.|stress, or just one of those things?
+1262|1|i am not sure. about a fortnight now, and i am running on fumes.|ugh, that is a long time to sleep badly. is something on your mind?
+1263|0|i felt really good after the walk this morning.|was today any different?
+1264|0|putting off a big decision for weeks now.|something holding you back?
+1264|1|i keep changing my mind every time i think about it.|those usually take a while. do you have anyone to talk it through with?
+1265|0|everything got a bit much last week.|anything help you come out of it?
+1265|1|writing a list and crossing things off, one at a time.|lists do help. is it shorter now?

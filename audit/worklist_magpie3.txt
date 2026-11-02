@@ -1,0 +1,448 @@
+== line 839 b2255 [Fable]
+U: our shed needs a proper sort out.
+A0: do one shelf at a time. it is less daunting that way and you can actually see progress.   [18w ov=[]]
+
+== line 840 b2255 [Fable]
+U: cleared the loft at the weekend.
+A0: find anything good?   [3w ov=[]]
+U: a few boxes of old photos.
+A1: keep those and tip the rest.   [6w ov=[]]
+U: that is the plan.
+A2: good. you will feel lighter for it.   [7w ov=[]]
+
+== line 841 b2255 [Fable]
+U: borrowed next door's drill again.
+A0: do you own one?   [4w ov=[]]
+U: somewhere.
+A1: buy a cheap one of your own. you borrow it too often to keep asking.   [15w ov=[]]
+
+== line 842 b2255 [Fable]
+U: none of my drill bits fit.
+A0: what size is the hole?   [5w ov=[]]
+U: small.
+A1: buy a mixed set. it works out cheaper than one bit at a time.   [14w ov=[]]
+
+== line 843 b2255 [Fable]
+U: ran out of screws halfway through.
+A0: what length were they?   [4w ov=[]]
+U: about an inch.
+A1: buy a box of mixed sizes. you always end up needing them.   [12w ov=[]]
+
+== line 844 b2255 [Fable]
+U: paint has gone hard in the tin.
+A0: bin it and buy fresh. you cannot bring it back once it has gone that far.   [16w ov=[]]
+
+== line 845 b2255 [Fable]
+U: stripping wallpaper is taking forever.
+A0: using a steamer?   [3w ov=[]]
+U: just a scraper.
+A1: hire a steamer for the day. it comes off in great sheets.   [12w ov=[]]
+
+== line 846 b2255 [Fable]
+U: sanding the door is dusty work.
+A0: nearly done?   [2w ov=[]]
+U: getting there.
+A1: wear a mask and open the window. the dust gets into everything.   [12w ov=[]]
+
+== line 847 b2255 [Fable]
+U: filled the holes in the wall today.
+A0: drying now?   [2w ov=[]]
+U: overnight.
+A1: sand it flat in the morning before you paint. it shows if you rush it.   [15w ov=[]]
+
+== line 848 b2255 [Fable]
+U: skirting boards need a touch up.
+A0: do them before the carpet goes down. it is much easier to reach them then.   [15w ov=[]]
+
+== line 849 b2255 [Fable]
+U: one of the door handles has gone loose.
+A0: just wobbly?   [2w ov=[]]
+U: yeah.
+A1: tighten the screws. if they will not bite, put a matchstick in the hole first.   [15w ov=[]]
+
+== line 850 b2255 [Fable]
+U: letterbox rattles in the wind.
+A0: does it keep you up?   [5w ov=[]]
+U: sometimes.
+A1: a bit of foam behind it sorts it in two minutes.   [11w ov=[]]
+
+== line 851 b2255 [Fable]
+U: our house number has faded.
+A0: repaint it. the delivery drivers will thank you and it stops the wrong door knocks.   [15w ov=[]]
+
+== line 852 b2255 [Fable]
+U: gate hinge is squeaking.
+A0: loud?   [1w ov=[]]
+U: enough.
+A1: a drop of oil and it goes silent. do the other one while you are there.   [16w ov=[]]
+
+== line 853 b2255 [Fable]
+U: our path has cracked over winter.
+A0: how bad is it?   [4w ov=[]]
+U: a few places.
+A1: fill them before the frost.   [5w ov=[]]
+U: i will get some filler this week.
+A2: do it when it is dry, not wet. it sets better that way.   [13w ov=[]]
+
+== line 854 b2255 [Fable]
+U: our shed roof leaks when it rains hard.
+A0: onto the tools?   [3w ov=[]]
+U: yeah.
+A1: felt and nails, and you can do the whole job in a dry afternoon.   [14w ov=[]]
+
+== line 855 b2255 [Fable]
+U: our gutter is blocked with leaves.
+A0: clear it out before winter. it saves the wall below and stops the damp getting in.   [16w ov=[]]
+
+== line 856 b2255 [Fable]
+U: there is a smell from the drain outside.
+A0: all the time?   [3w ov=[]]
+U: when it is warm.
+A1: pour a bucket of water down it. they dry out and let the smell back up.   [16w ov=[]]
+
+== line 857 b2255 [Fable]
+U: outside tap drips all summer.
+A0: new washer?   [2w ov=[]]
+U: probably.
+A1: same as indoors. turn the water off first before you start.   [11w ov=[]]
+
+== line 858 b2255 [Fable]
+U: hose is kinked and split.
+A0: bin it. a new one is cheap and it saves you the hassle every time you water.   [17w ov=[]]
+
+== line 859 b2255 [Fable]
+U: need a new watering can.
+A0: get a metal one. the plastic ones always split after their first winter outside.   [14w ov=[]]
+
+== line 860 b2255 [Fable]
+U: seed trays are all in the shed.
+A0: planting soon?   [2w ov=[]]
+U: next month.
+A1: wash them out first. dirty trays spread disease to the seedlings.   [11w ov=[]]
+
+== line 861 b2255 [Fable]
+U: greenhouse needs a clean.
+A0: is it the glass that needs it?   [7w ov=['needs']]
+U: mainly the glass.
+A1: soapy water and a soft cloth. do it on a cloudy day so it does not streak.   [17w ov=[]]
+
+== line 862 b2255 [Fable]
+U: the bird feeder is empty again.
+A0: they will get through it faster in winter. keep it topped up and they keep coming.   [16w ov=[]]
+
+== line 863 b2255 [Fable]
+U: there was a hedgehog in the garden last night.
+A0: lovely. a hedgehog in the garden is a good sign.   [10w ov=['garden', 'hedgehog']]
+U: first one in years.
+A1: leave a gap at the bottom of the fence. they need to move between gardens.   [15w ov=[]]
+
+== line 864 b2255 [Fable]
+U: there is a wasps nest under the eaves.
+A0: big?   [1w ov=[]]
+U: growing.
+A1: get someone in to deal with it. do not poke it yourself.   [12w ov=[]]
+
+== line 865 b2255 [Fable]
+U: ants have found the kitchen.
+A0: follow the trail and block the gap they are using. they always come back to the same spot.   [18w ov=[]]
+
+== line 866 b2255 [Fable]
+U: found a moth hole in my jumper.
+A0: is it a big hole?   [5w ov=['hole']]
+U: one small one.
+A1: put the rest in a bag with lavender. they hate the smell of it.   [14w ov=[]]
+
+== line 867 b2255 [Fable]
+U: there is a spider in the bath again.
+A0: big one?   [2w ov=[]]
+U: huge.
+A1: put a glass over it and slide a card underneath. then out the window.   [14w ov=[]]
+
+== line 868 b2255 [Fable]
+U: heard scratching in the shed.
+A0: mice?   [1w ov=[]]
+U: probably.
+A1: set a trap and keep the food sealed. they squeeze through the smallest gap.   [14w ov=[]]
+
+== line 869 b2255 [Fable]
+U: finished the crossword today.
+A0: finished it all? that is a good feeling. the cryptic ones still beat me every time.   [16w ov=['finished']]
+
+== line 870 b2255 [Fable]
+U: our kitchen radio is always on.
+A0: what station?   [2w ov=[]]
+U: whatever is on.
+A1: i do the same. it is background noise more than anything.   [11w ov=[]]
+U: it is nice to have a voice in the room.
+A2: exactly. it stops the house feeling empty.   [7w ov=[]]
+
+== line 871 b2255 [Fable]
+U: listened to a good podcast on the way in.
+A0: what about?   [2w ov=[]]
+U: history.
+A1: i will have to try that one. i need something for the commute.   [13w ov=[]]
+
+== line 872 b2255 [Fable]
+U: put some music on while cooking.
+A0: what did you play?   [4w ov=[]]
+U: old stuff.
+A1: that is the best kind. it makes the chopping go quicker.   [11w ov=[]]
+
+== line 873 b2255 [Fable]
+U: no paper again this morning.
+A0: give them a ring. they usually credit you for the missed ones without any fuss.   [15w ov=[]]
+
+== line 874 b2255 [Fable]
+U: started a sudoku and got stuck.
+A0: how far in?   [3w ov=[]]
+U: half way.
+A1: leave it and come back. you always spot it straight away then.   [12w ov=[]]
+
+== line 875 b2255 [Fable]
+U: sewing a button back on.
+A0: which coat?   [2w ov=[]]
+U: the winter one.
+A1: double the thread. single always snaps after about a week.   [10w ov=[]]
+
+== line 876 b2255 [Fable]
+U: need to mend a hem on these trousers.
+A0: a few quick stitches will do. no one ever sees the inside of a hem.   [15w ov=['hem']]
+
+== line 877 b2255 [Fable]
+U: took my shoes to be repaired.
+A0: new soles?   [2w ov=[]]
+U: just the heels.
+A1: worth it. a good pair lasts years with an occasional repair.   [11w ov=[]]
+
+== line 878 b2255 [Fable]
+U: my watch has stopped.
+A0: take it to the shop. they change the battery while you wait for a few quid.   [16w ov=[]]
+
+== line 879 b2255 [Fable]
+U: cleaned my rings with toothpaste.
+A0: does that work?   [3w ov=[]]
+U: surprisingly well.
+A1: an old trick. just rinse them properly afterwards.   [8w ov=[]]
+
+== line 880 b2255 [Fable]
+U: need new photo frames.
+A0: print the pictures first, then buy the frames. it is easier to match them that way.   [16w ov=['frames']]
+
+== line 881 b2255 [Fable]
+U: hanging a picture on the wall.
+A0: got a hook?   [3w ov=[]]
+U: yeah.
+A1: check for wires first. a cheap detector saves a lot of grief.   [12w ov=[]]
+
+== line 882 b2255 [Fable]
+U: moving the sofa to the other wall.
+A0: why?   [1w ov=[]]
+U: better light.
+A1: measure first. it never fits the way you picture it.   [10w ov=[]]
+
+== line 883 b2255 [Fable]
+U: our carpet needs a clean.
+A0: hire a machine?   [3w ov=[]]
+U: thinking about it.
+A1: do it in spring. it dries much faster with the windows open.   [12w ov=[]]
+
+== line 884 b2255 [Fable]
+U: our wooden floor creaks.
+A0: everywhere?   [1w ov=[]]
+U: one board.
+A1: talcum powder in the gap quietens it. strange but it works.   [11w ov=[]]
+
+== line 885 b2255 [Fable]
+U: bought a rug for the front room.
+A0: good. it ties the room together and keeps a bit of the draught out.   [14w ov=['room']]
+
+== line 886 b2255 [Fable]
+U: cushion covers are faded.
+A0: replace them?   [2w ov=[]]
+U: maybe.
+A1: covers are cheaper than new cushions. just check the size first.   [11w ov=[]]
+
+== line 887 b2255 [Fable]
+U: bedside lamp flickers.
+A0: loose bulb?   [2w ov=[]]
+U: maybe.
+A1: screw it in first. if it still does it then the fitting is going.   [14w ov=[]]
+
+== line 888 b2255 [Fable]
+U: bookcase is overflowing.
+A0: keep the ones you will actually read again. the rest can go to the charity shop.   [16w ov=[]]
+
+== line 889 b2255 [Fable]
+U: bought some storage boxes.
+A0: for what?   [2w ov=[]]
+U: the loft stuff.
+A1: label them. you will forget what is in them by spring.   [11w ov=[]]
+
+== line 890 b2255 [Fable]
+U: my suitcase has a broken wheel.
+A0: replace it before your next trip. it will fail completely at the worst possible time.   [15w ov=[]]
+
+== line 891 b2255 [Fable]
+U: packing for the trip tonight.
+A0: how long away?   [3w ov=[]]
+U: a week.
+A1: write a list. you always forget the charger otherwise.   [9w ov=[]]
+
+== line 892 b2255 [Fable]
+U: need a travel adaptor.
+A0: where are you going?   [4w ov=[]]
+U: abroad.
+A1: buy one before the airport. they are triple the price there.   [11w ov=[]]
+
+== line 893 b2255 [Fable]
+U: my passport runs out next year.
+A0: renew it now. it takes weeks and you cannot travel while it is away.   [14w ov=[]]
+
+== line 894 b2255 [Fable]
+U: changed some currency at the post office.
+A0: good rate?   [2w ov=[]]
+U: not bad.
+A1: compare online first next time. it varies a lot.   [9w ov=[]]
+
+== line 895 b2255 [Fable]
+U: the airport was chaos.
+A0: two hours delayed. take a good book next time and plenty of patience.   [13w ov=[]]
+
+== line 896 b2255 [Fable]
+U: hotel was nicer than expected.
+A0: good room?   [2w ov=[]]
+U: really good.
+A1: that is a nice surprise. it makes the whole trip.   [10w ov=[]]
+
+== line 897 b2255 [Fable]
+U: train journey was smooth.
+A0: on time?   [2w ov=[]]
+U: to the minute.
+A1: that is rare. enjoy it when it happens.   [8w ov=[]]
+
+== line 898 b2255 [Fable]
+U: the museum was free.
+A0: go on a weekday morning if you can. you get the whole place almost to yourself.   [16w ov=[]]
+
+== line 899 b2255 [Fable]
+U: there was a new exhibition at the gallery.
+A0: was it worth the visit?   [5w ov=[]]
+U: really good.
+A1: i will try to get there before it closes.   [9w ov=[]]
+
+== line 900 b2255 [Fable]
+U: walked round the castle.
+A0: how long did that take?   [5w ov=[]]
+U: a couple of hours.
+A1: that is a good afternoon. the views are worth the climb.   [11w ov=[]]
+
+== line 901 b2255 [Fable]
+U: spent the day at the beach.
+A0: take a windbreak next time. it makes all the difference on a breezy day.   [14w ov=['day']]
+
+== line 902 b2255 [Fable]
+U: had a walk in the park.
+A0: busy?   [1w ov=[]]
+U: full of dogs.
+A1: that is the best kind of busy. it is nice to see.   [12w ov=[]]
+
+== line 903 b2255 [Fable]
+U: we had a picnic.
+A0: did it rain?   [3w ov=[]]
+U: not this time.
+A1: take a tarp anyway.   [4w ov=[]]
+U: good idea, the forecast is unsure.
+A2: it always is here. better to be ready.   [8w ov=[]]
+
+== line 904 b2255 [Fable]
+U: got an ice cream on the way home.
+A0: you cannot beat a plain vanilla one on a hot afternoon.   [11w ov=[]]
+
+== line 905 b2255 [Fable]
+U: we are firing up the bbq this weekend.
+A0: what is going on it?   [5w ov=[]]
+U: the usual.
+A1: do the veg first. it takes longer than people think.   [10w ov=[]]
+
+== line 906 b2255 [Fable]
+U: there is a garden party on sunday.
+A0: will you go to the garden party?   [7w ov=['garden', 'party']]
+U: yeah.
+A1: take a bottle and a chair. you will be glad of both.   [12w ov=[]]
+
+== line 907 b2255 [Fable]
+U: the school fete is next month.
+A0: they always need people on the stalls. an hour of your time is plenty.   [14w ov=[]]
+
+== line 908 b2255 [Fable]
+U: quiz night at the pub on thursday.
+A0: got a team?   [3w ov=[]]
+U: nearly.
+A1: count me in. i am useless but i enjoy it.   [10w ov=[]]
+
+== line 909 b2255 [Fable]
+U: they did karaoke at the pub.
+A0: did you sing?   [3w ov=[]]
+U: badly.
+A1: that is the point of it. no one is there for the talent.   [13w ov=[]]
+
+== line 910 b2255 [Fable]
+U: we went to the cinema.
+A0: the trailers gave most of it away, but it was still a good night out.   [15w ov=[]]
+
+== line 911 b2255 [Fable]
+U: there is a play on at the theatre.
+A0: want to go?   [3w ov=[]]
+U: yeah, if we can get tickets.
+A1: book early. the good ones sell out fast.   [8w ov=[]]
+
+== line 912 b2255 [Fable]
+U: got tickets for a concert.
+A0: who is playing?   [3w ov=[]]
+U: an old band.
+A1: nice. those always sell out. you were lucky to get them.   [11w ov=[]]
+
+== line 913 b2255 [Fable]
+U: the match was on last night.
+A0: we won, finally. it has been a while coming.   [9w ov=[]]
+
+== line 914 b2255 [Fable]
+U: joined a gym class.
+A0: which class did you pick?   [5w ov=['class']]
+U: circuits.
+A1: that one is hard work. stick with it and it gets easier.   [12w ov=[]]
+
+== line 915 b2255 [Fable]
+U: started swimming again.
+A0: twice a week is a good rhythm. mornings are lovely and quiet at the pool.   [15w ov=[]]
+
+== line 916 b2255 [Fable]
+U: tried yoga for the first time.
+A0: how did the yoga go?   [5w ov=['yoga']]
+U: harder than it looks.
+A1: everyone says that. it does get easier after a few weeks.   [11w ov=[]]
+U: i ached for two days.
+A2: give it a few weeks. it gets much easier.   [9w ov=[]]
+
+== line 917 b2255 [Fable]
+U: started running again.
+A0: how far?   [2w ov=[]]
+U: a few miles.
+A1: build up slowly. the first week is always the worst.   [10w ov=[]]
+
+== line 918 b2255 [Fable]
+U: doing a parkrun on saturday.
+A0: which parkrun is it?   [4w ov=['parkrun']]
+U: the local.
+A1: they are friendly. no one cares how fast you go.   [10w ov=[]]
+
+== line 919 b2255 [Fable]
+U: had a game of tennis.
+A0: he won, but it was close and good fun. we will play again next week.   [15w ov=[]]
+
+== line 920 b2255 [Fable]
+U: started playing chess again.
+A0: are you playing online?   [4w ov=['playing']]
+U: with my neighbour.
+A1: that is a nice way to pass an evening. good for the brain too.   [14w ov=[]]
+

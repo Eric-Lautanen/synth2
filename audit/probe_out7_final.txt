@@ -1,0 +1,242 @@
+# synth2 prompt probe: 60 prompts, ckpt=C:\github\DBllm\runs/synth2/final.bin
+
+## [casual / time+plans] so what is going on with you this weekend?
+"so what is going on with you this weekend?"
+  OUT: " not a bit, and i'm not worth worth legend for the col anyway."
+
+## [casual / weather] it rained the whole way in today.
+"it rained the whole way in today."
+  OUT: " the end of a bit of a bit of those a good one. did you get there?"
+
+## [ghetto / greeting] yo you good? long time no see.
+"yo you good? long time no see."
+  OUT: " what's what a good ones one of the same how you have to that."
+
+## [ghetto / money] they taxed my whole paycheck again.
+"they taxed my whole paycheck again."
+  OUT: " how far in that, so it was too much on the whole point?"
+
+## [lazy / general] you up to anything today?
+"you up to anything today?"
+  OUT: " the same, i've been been been been been done and i'm not take it."
+
+## [lazy / weekend] the weekend came and went so fast.
+"the weekend came and went so fast."
+  OUT: " how did you get? what? that was but the same here. the correct is not a proper nightmare."
+
+## [angry / food] my order came cold and half missing.
+"my order came cold and half missing."
+  OUT: " how did you get?"
+
+## [angry / parking] someone took my parking spot again.
+"someone took my parking spot again."
+  OUT: " was it the whole time? the whole time? what did you get out?"
+
+## [sexy / flirt] you have that look in your eyes tonight.
+"you have that look in your eyes tonight."
+  OUT: " that's a good night, worth it. you will beanananan good to be back to be chill"
+
+## [sexy / general] save me a dance later, will you?
+"save me a dance later, will you?"
+  OUT: " the whole time in every morning. first timemare's chaos and it all a proper nightmare for"
+
+## [formal / weather] lovely weather we are having this week.
+"lovely weather we are having this week."
+  OUT: " was it a proper killing. do you're in them at this week?"
+
+## [formal / general] how was your journey in this morning?
+"how was your journey in this morning?"
+  OUT: " the end of my night, which and then she's still in the day. i'll be there."
+
+## [sarcastic / work] oh great, another meeting invite.
+"oh great, another meeting invite."
+  OUT: " they always do that and it is a good way. i'm not sure."
+
+## [sarcastic / work] my inbox has two hundred unread emails.
+"my inbox has two hundred unread emails."
+  OUT: " a proper chaing is a proper chilling. did you get an hour at a lesson."
+
+## [excited / news] guess what, i got the job!
+"guess what, i got the job!"
+  OUT: " good. has your fault, no idea? counting down but cha on the end."
+
+## [excited / social] we are going away this weekend!
+"we are going away this weekend!"
+  OUT: " he's been going good or just up at me?"
+
+## [gloomy / weather] dark by four again, winter is here.
+"dark by four again, winter is here."
+  OUT: " good. it will be good to be back to be back to be a one."
+
+## [gloomy / general] nothing good on telly ever anymore.
+"nothing good on telly ever anymore."
+  OUT: " the whole week membership properly? that's just how it's still in there."
+
+## [anxious / health] my heart has been racing since three am.
+"my heart has been racing since three am."
+  OUT: " how did the first go? give it a week, good."
+
+## [anxious / work] the review invite has no agenda attached.
+"the review invite has no agenda attached."
+  OUT: " the real effort do it is the whole time to be chilling."
+
+## [gossip / neighbours] did you hear about flat nine upstairs?
+"did you hear about flat nine upstairs?"
+  OUT: " yeah, the end. my mum's been so we'll be in a bit properamed."
+
+## [gossip / work] word is the promotion is already decided.
+"word is the promotion is already decided."
+  OUT: "azing what a few is universal. was the whole one one one one one one one one one one"
+
+## [nostalgic / school] remember the tuck shop queues at break?
+"remember the tuck shop queues at break?"
+  OUT: " yeah, i've got three one and i'm not not going in a week."
+
+## [nostalgic / summers] summers felt longer back then, right?
+"summers felt longer back then, right?"
+  OUT: " i'm been so much better. i've been been at it's been going to be up again."
+
+## [philosophical / time] do you ever wonder why time speeds up as you get older?
+"do you ever wonder why time speeds up as you get older?"
+  OUT: " no idea, i've got three in the best part of my part part part of the whole problem."
+
+## [philosophical / life] what do you think actually matters in the end?
+"what do you think actually matters in the end?"
+  OUT: " the correct trainingushes about an hour. i've beenves it is the first of the same on anyway."
+
+## [teasing / appearance] nice haircut, did you do it yourself?
+"nice haircut, did you do it yourself?"
+  OUT: " it was just a one. it's not much much better days are out of the one."
+
+## [teasing / habits] you have been on that phone all day, haven't you?
+"you have been on that phone all day, haven't you?"
+  OUT: " three days are a bitutalal uniiant. i'll be the first days."
+
+## [supportive / hard day] i am having a really rough week.
+"i am having a really rough week."
+  OUT: " was it the whole time? what did you get this time?"
+
+## [supportive / bad news] i did not get the job, i am gutted.
+"i did not get the job, i am gutted."
+  OUT: " i have been there now?"
+
+## [bored / nothing to do] i am so bored i have cleaned the whole flat.
+"i am so bored i have cleaned the whole flat."
+  OUT: " the step is first oh no. the whole week week out of those of those days."
+
+## [bored / evening] there is nothing to do tonight.
+"there is nothing to do tonight."
+  OUT: " do it before the whole week. the first week is always the one you're done?"
+
+## [curious / follow-up] what did you end up doing about the car?
+"what did you end up doing about the car?"
+  OUT: " one for three three days. my mum's still a proper adpppical and i'm not not not not"
+
+## [curious / people] how did you two actually meet?
+"how did you two actually meet?"
+  OUT: " not much. i've been been been good but i was up for about it."
+
+## [deflecting / dodge] did you ever send that message?
+"did you ever send that message?"
+  OUT: " i did, and i'm up than i've. i'll good to that."
+
+## [deflecting / dodge] so, about that thing we talked about.
+"so, about that thing we talked about."
+  OUT: " is it that or is it the first week out?"
+
+## [ranting / commute] my bus was late again and then the driver just sat there.
+"my bus was late again and then the driver just sat there."
+  OUT: " chaazing how much at the next one. it's's been on the best one one."
+
+## [ranting / delivery] three parcels lost this month, three.
+"three parcels lost this month, three."
+  OUT: " just do it is a good night. do you get there?"
+
+## [flirty / banter] you are trouble, you know that?
+"you are trouble, you know that?"
+  OUT: " the whole time. i've got a few of them and the first one of a week."
+
+## [flirty / drinks] buy me a drink and i might forgive you.
+"buy me a drink and i might forgive you."
+  OUT: " the best kind of what is the same. how's the whole time?"
+
+## [sullen / withdrawn] fine.
+"fine."
+  OUT: " how many? it's been now then the no no no no idea, it never never take the first anyway."
+
+## [sullen / withdrawn] whatever, it does not matter.
+"whatever, it does not matter."
+  OUT: " do it too much better. keep you you to the morning."
+
+## [celebratory / win] we finally finished the project!
+"we finally finished the project!"
+  OUT: " the whole time in in one of me week. still's, no up with my mum on a month and she'll"
+
+## [celebratory / win] i passed my driving test first time!
+"i passed my driving test first time!"
+  OUT: " the whole weeklights go again all good. was it'll still go with a good one."
+
+## [confused / lost] wait, so who is actually in charge?
+"wait, so who is actually in charge?"
+  OUT: " yeah, been in twenty minutes.'dh, what time there is, i'm not sure."
+
+## [confused / lost] sorry, i do not follow, say that again?
+"sorry, i do not follow, say that again?"
+  OUT: " i was there. the i got about, and the same here."
+
+## [petty / grudge] she still owes me twenty quid from march.
+"she still owes me twenty quid from march."
+  OUT: " yeah, the whole point. what'sazing or an hour but i was up for it."
+
+## [petty / grudge] i am not inviting him, not after last time.
+"i am not inviting him, not after last time."
+  OUT: " to be cha up. has it been there with a proper one now?"
+
+## [weird / offbeat] i just sneezed and my lamp turned off, that is not normal.
+"i just sneezed and my lamp turned off, that is not normal."
+  OUT: " how's the firstghghghghghghghghghghghghghghghghghghghgh"
+
+## [weird / offbeat] my toast came out shaped like a face.
+"my toast came out shaped like a face."
+  OUT: " about the he's been going, they than i'll get it."
+
+## [greetings / hello] morning! how are you?
+"morning! how are you?"
+  OUT: " no, i. i got a proper of that saves of of ha, which i'm not not not not not"
+
+## [greetings / hello] hey, long time no see!
+"hey, long time no see!"
+  OUT: " the best part is the same here as well. she's been on the best one with you."
+
+## [dont_know / shrug] no idea, honestly.
+"no idea, honestly."
+  OUT: " i keep saying it to it up with the whole point. that is still a few years the first week of goodground"
+
+## [dont_know / shrug] i have not got a clue, sorry.
+"i have not got a clue, sorry."
+  OUT: " good luck......."
+
+## [thanks / gratitude] thanks so much for the other day.
+"thanks so much for the other day."
+  OUT: " that is a good nightmmare. did you get the whole one?"
+
+## [thanks / gratitude] that was really kind of you, thank you.
+"that was really kind of you, thank you."
+  OUT: " i are at it. i'll be the good of it."
+
+## [apology / sorry] sorry i am late, the traffic was awful.
+"sorry i am late, the traffic was awful."
+  OUT: " i'm just damage to the whole week. good luckyites you."
+
+## [apology / sorry] my bad, i completely forgot.
+"my bad, i completely forgot."
+  OUT: " did you go and it go too much in two minutes."
+
+## [goodbye / farewell] right, i am off, see you later.
+"right, i am off, see you later."
+  OUT: " that was just a good nightmare. keep it up and it's the best kind."
+
+## [goodbye / farewell] anyway, i should go, take care!
+"anyway, i should go, take care!"
+  OUT: " a few hours is the first of a bitiant. how long for you?"
+

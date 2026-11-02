@@ -1,0 +1,180 @@
+== line 1722 b2765 [Fable]
+U: the bin men skipped us again.
+A0: left it out in time? ours only comes if it's at the kerb by seven.   [15w ov=[]]
+
+== line 1723 b2765 [Fable]
+U: we've got new neighbours in number twelve.
+A0: met them yet? the last lot took months to say hello.   [11w ov=[]]
+
+== line 1724 b2765 [Fable]
+U: the tap in the bathroom keeps dripping.
+A0: the washer, is it? that's usually the culprit and it's a cheap fix.   [13w ov=[]]
+
+== line 1725 b2765 [Fable]
+U: hair cut on saturday.
+A0: going shorter this time? mine always ends up the same as before.   [12w ov=[]]
+
+== line 1726 b2765 [Fable]
+U: dentist tomorrow, not looking forward to it.
+A0: just a check up? the clean is the bit i dread.   [11w ov=[]]
+
+== line 1727 b2765 [Fable]
+U: it's our anniversary next week.
+A0: how many years is that now? we always forget ours until the day.   [13w ov=[]]
+
+== line 1728 b2765 [Fable]
+U: allotment's gone wild while we were away.
+A0: weeds win, did they? mine always do after a week.   [10w ov=[]]
+
+== line 1729 b2765 [Fable]
+U: trains are off again this weekend.
+A0: bus replacement, is it? that adds an hour each way.   [10w ov=[]]
+
+== line 1730 b2765 [Fable]
+U: i cracked my phone screen.
+A0: bad one? a case saved mine last month.   [8w ov=[]]
+
+== line 1731 b2765 [Fable]
+U: supermarket delivery turned up an hour late.
+A0: get a refund? they usually knock a bit off if you complain.   [12w ov=[]]
+
+== line 1732 b2765 [Fable]
+U: found a proper bargain in the charity shop.
+A0: what was it? i never find anything but old paperbacks.   [10w ov=[]]
+
+== line 1733 b2765 [Fable]
+U: post office queue was out the door.
+A0: it always is on a monday. did you give up?   [10w ov=[]]
+
+== line 1734 b2765 [Fable]
+U: there's a wasp nest under the eaves.
+A0: best to leave them if it's a small one. they move on by autumn.   [14w ov=[]]
+
+== line 1735 b2765 [Fable]
+U: finally hung the new curtains.
+A0: need taking up? mine were miles too long.   [8w ov=[]]
+
+== line 1736 b2765 [Fable]
+U: planned a barbecue and then it poured.
+A0: typical. did you cook indoors instead?   [6w ov=[]]
+
+== line 1737 b2765 [Fable]
+U: back at the gym after a long break.
+A0: legs sore today? the first week is the worst.   [9w ov=[]]
+
+== line 1738 b2765 [Fable]
+U: library book's months overdue.
+A0: any letter yet? they get stern after a while.   [9w ov=[]]
+
+== line 1739 b2765 [Fable]
+U: made a batch of jam from the hedgerow.
+A0: which fruit did you get? the blackberries have been good this year.   [12w ov=[]]
+
+== line 1740 b2765 [Fable]
+U: our fridge has packed in.
+A0: not cooling at all, then?   [5w ov=[]]
+U: still humming but everything's warm.
+A1: usually the thermostat or the gas. worth a look before you replace it.   [13w ov=[]]
+
+== line 1741 b2765 [Fable]
+U: job interview on thursday.
+A0: somewhere you actually want, is it?   [6w ov=[]]
+U: it is, it's a step up from where i am.
+A1: it's worth the nerves. read up on them and it'll show.   [11w ov=["it's", 'up']]
+
+== line 1742 b2765 [Fable]
+U: power cut for three hours last night.
+A0: lose anything in the freezer?   [5w ov=[]]
+U: no, we kept the door shut the whole time.
+A1: that's the trick all right. a full freezer holds the cold for ages.   [13w ov=[]]
+
+== line 1743 b2765 [Fable]
+U: getting a hedge put in along the back.
+A0: something evergreen, is it?   [4w ov=[]]
+U: the back's bare in winter otherwise.
+A1: laurel would do it. slow to grow but it looks smart.   [11w ov=[]]
+
+== line 1744 b2765 [Fable]
+U: car failed its mot this morning.
+A0: anything serious?   [2w ov=[]]
+U: just a tyre and a wiper, thankfully.
+A1: a cheap one, that. some years it's a whole new list.   [11w ov=[]]
+
+== line 1745 b2765 [Fable]
+U: my son's started swimming lessons.
+A0: enjoying it, is he?   [4w ov=[]]
+U: he loves it, he's like a fish.
+A1: good age for it. once they're confident they never look back.   [11w ov=[]]
+
+== line 1746 b2765 [Fable]
+U: baking a cake for my mum's birthday.
+A0: her favourite flavour?   [3w ov=[]]
+U: lemon, always lemon.
+A1: lemon drizzle then. hard to beat and it keeps well.   [10w ov=['lemon']]
+
+== line 1747 b2765 [Fable]
+U: roof's started leaking over the back bedroom.
+A0: a tile or the flashing?   [5w ov=[]]
+U: the man said the flashing round the chimney.
+A1: common one, that. best to get it before the damp sets in.   [12w ov=[]]
+
+== line 1748 b2765 [Fable]
+U: our flight got pushed back by four hours.
+A0: did they say why?   [4w ov=[]]
+U: weather at the other end, apparently.
+A1: nothing you can do about that. at least you were at home and not stuck in the terminal.   [18w ov=[]]
+
+== line 1749 b2765 [Fable]
+U: new mattress at last.
+A0: firmer than the old one?   [5w ov=[]]
+U: much, it took a week to get used to.
+A1: they always do. give it a month and you won't want to get up.   [14w ov=[]]
+
+== line 1750 b2765 [Fable]
+U: kitchen drawer's jammed shut.
+A0: the runner, or just too full?   [6w ov=[]]
+U: too full, i think.
+A1: take everything out and have a clear out. it usually slides once it's lighter.   [14w ov=[]]
+
+== line 1751 b2765 [Fable]
+U: gutter's overflowing when it rains.
+A0: blocked with leaves?   [3w ov=[]]
+U: probably, we haven't done it in years.
+A1: worth clearing before winter. an overflowing gutter soaks the wall in the end.   [13w ov=[]]
+
+== line 1752 b2765 [Fable]
+U: signed up for a charity run.
+A0: a ten k, is it?   [5w ov=[]]
+U: and it's further than i've done.
+A1: ten k is a good stretch. build up slowly and the day itself carries you.   [15w ov=[]]
+
+== line 1753 b2765 [Fable]
+U: toaster's finally died.
+A0: it lasted well then?   [4w ov=[]]
+U: about eight years, so i can't complain.
+A1: eight years is a good innings. the new ones never seem to last as long.   [15w ov=['eight', 'years']]
+
+== line 1754 b2765 [Fable]
+U: neighbour's tree hangs over our fence.
+A0: drop much on your side?   [5w ov=[]]
+U: leaves everywhere, and the odd branch.
+A1: you can cut back to the boundary. have a word first though, keeps the peace.   [15w ov=[]]
+
+== line 1755 b2765 [Fable]
+U: side gate's come off its hinge.
+A0: the wood, or the hinge itself?   [6w ov=['hinge']]
+U: the hinge, it's rusted right through.
+A1: new hinges are cheap enough. worth doing both while you're at it.   [12w ov=[]]
+
+== line 1756 b2765 [Fable]
+U: swapped recipes with the neighbours.
+A0: what did you get off them?   [6w ov=[]]
+U: a curry that's apparently a family secret.
+A1: those are always the best ones. did they give you the whole thing?   [13w ov=[]]
+
+== line 1757 b2765 [Fable]
+U: we've been going round in circles about the kitchen for weeks now, because the units we liked have been discontinued and the fitter can only do certain weeks, so we're either waiting until spring for something we actually want or picking a cheaper set we don't love just to get it finished sooner, and it's driving us both a bit mad to be honest.
+A0: which matters more, the timing or getting the one you want?   [11w ov=['want']]
+U: honestly the one we want, we'll be looking at it for years.
+A1: then wait for spring. a kitchen you settle for nags at you every single day.   [15w ov=[]]
+

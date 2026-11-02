@@ -1,0 +1,340 @@
+== line 559 b2180 [Fable]
+U: the dishwasher packed in
+A0: yeah, mid cycle. everything came out dirtier than it went in.   [11w ov=[]]
+
+== line 560 b2180 [Fable]
+U: spare room's still full of boxes
+A0: yeah. i opened the door, looked at it, and closed it again.   [12w ov=[]]
+
+== line 561 b2180 [Fable]
+U: the light in the hall keeps flickering
+A0: probably the bulb. have you got a spare one in the cupboard?   [12w ov=[]]
+
+== line 562 b2180 [Fable]
+U: fence ever get painted?
+A0: half of it. then it rained and i lost the will.   [11w ov=[]]
+
+== line 563 b2180 [Fable]
+U: shower draining okay now?
+A0: much better. i pulled a whole handful of hair out of the trap. grim.   [14w ov=[]]
+
+== line 564 b2180 [Fable]
+U: curtain rail go up?
+A0: eventually. took me an hour just to find the drill.   [10w ov=[]]
+
+== line 565 b2180 [Fable]
+U: what did you make with the leftovers?
+A0: fried rice. it was fine but i put too much soy in it.   [13w ov=[]]
+
+== line 566 b2180 [Fable]
+U: how did the bread turn out?
+A0: first loaf was a brick. the second one i actually let rise properly.   [13w ov=[]]
+
+== line 567 b2180 [Fable]
+U: trying a different dinner tonight?
+A0: yeah, the one with the chickpeas. wish me luck.   [9w ov=[]]
+
+== line 568 b2180 [Fable]
+U: garlic burnt again?
+A0: the whole kitchen smelled of it for hours. no regrets though.   [11w ov=[]]
+
+== line 569 b2180 [Fable]
+U: worth getting a slow cooker?
+A0: i use it twice a week now. just chuck everything in before work.   [13w ov=[]]
+
+== line 570 b2180 [Fable]
+U: food shop still a sunday job?
+A0: moved it to friday. the shop's empty at eight in the morning.   [12w ov=[]]
+
+== line 571 b2180 [Fable]
+U: how are the tomatoes doing?
+A0: loads of them. i've been giving them away to anyone who stands still long enough.   [15w ov=[]]
+U: haha same, mine are taking over the whole bed.
+A1: you'll be drowning in them by september.   [7w ov=[]]
+
+== line 572 b2180 [Fable]
+U: the basil's gone a bit sad
+A0: too much sun probably. give it a drink and move it out of the window.   [15w ov=[]]
+
+== line 573 b2180 [Fable]
+U: are the bulbs in yet?
+A0: not yet. they're still in the bag by the back door. i keep forgetting.   [14w ov=['yet']]
+
+== line 574 b2180 [Fable]
+U: has the grass been cut yet?
+A0: no, it's been too wet. it's more of a meadow at this point.   [13w ov=[]]
+U: the daisies are nice though.
+A1: that's what i keep telling myself.   [6w ov=[]]
+
+== line 575 b2180 [Fable]
+U: rose bush doing anything?
+A0: it's covered in greenfly. i've been out there with the soapy water.   [12w ov=[]]
+
+== line 576 b2180 [Fable]
+U: did your mum's cutting take?
+A0: it's got two new leaves on it. i'm weirdly proud.   [10w ov=[]]
+U: my cuttings always die. what's your secret?
+A1: honestly just leaving it alone and not overwatering it.   [9w ov=[]]
+
+== line 577 b2180 [Fable]
+U: what did the vet say about the dog?
+A0: just that he's a bit overweight. he's on a diet now and he's not happy about it.   [17w ov=[]]
+U: poor lad. does he get treats still?
+A1: couple of carrots a day. he's not fooled for a second.   [11w ov=[]]
+
+== line 578 b2180 [Fable]
+U: cat brought in another mouse
+A0: she left it right by the back door for me. lovely.   [11w ov=[]]
+
+== line 579 b2180 [Fable]
+U: dog getting a walk in this?
+A0: quick lap round the block. he doesn't mind the rain, i do.   [12w ov=[]]
+U: same. mine drags me out whatever the weather.
+A1: they've got no sense of self preservation, dogs.   [8w ov=[]]
+
+== line 580 b2180 [Fable]
+U: puppy slept through!
+A0: first full night. i woke up at three out of habit anyway.   [12w ov=[]]
+U: haha typical. your body doesn't trust it yet.
+A1: hopefully. give it a week and i'll relax.   [8w ov=[]]
+
+== line 581 b2180 [Fable]
+U: fish still going?
+A0: just the one now, and he's outlived three of his tank mates at this point.   [15w ov=[]]
+
+== line 582 b2180 [Fable]
+U: litter tray get changed?
+A0: whole tray, fresh stuff. the cat watched me do it like a foreman.   [13w ov=['tray']]
+
+== line 583 b2180 [Fable]
+U: what's tomorrow looking like?
+A0: supposed to be sunny till about four, then it turns.   [10w ov=[]]
+
+== line 584 b2180 [Fable]
+U: did you get caught in it?
+A0: soaked through. i was only out for ten minutes.   [9w ov=[]]
+
+== line 585 b2180 [Fable]
+U: the wind last night was mad
+A0: i thought the bins were going to end up in the next street.   [13w ov=[]]
+U: ours went over. i was out there at midnight chasing lids.
+A1: oh no. i'd have left them to it.   [8w ov=[]]
+
+== line 586 b2180 [Fable]
+U: bedsheets dry out?
+A0: had to finish them on the radiator. the whole flat smells of fabric softener now.   [15w ov=[]]
+
+== line 587 b2180 [Fable]
+U: do i need a coat out there?
+A0: it's that awkward in between where you regret whatever you pick.   [11w ov=[]]
+U: that's every day this month.
+A1: tell me about it. i've given up and just carry both.   [11w ov=[]]
+
+== line 588 b2180 [Fable]
+U: did it snow where you are?
+A0: a light dusting. gone by lunchtime, as usual.   [8w ov=[]]
+
+== line 589 b2180 [Fable]
+U: how was the sleep last night?
+A0: a bit better. i put my phone in the other room and that seemed to help.   [16w ov=[]]
+U: i should try that. i scroll for an hour without noticing.
+A1: it's the noticing that gets you.   [6w ov=['noticing']]
+
+== line 590 b2180 [Fable]
+U: back to sleep in the end?
+A0: eventually. i was wide awake from about half three.   [9w ov=[]]
+
+== line 591 b2180 [Fable]
+U: i keep waking up at five
+A0: same here. it's like my body has decided that's the time now.   [12w ov=[]]
+U: it's the light. it's getting up earlier than i am.
+A1: that'll be it. i need better curtains.   [7w ov=[]]
+
+== line 592 b2180 [Fable]
+U: still on the early starts?
+A0: yeah, i'm up before the sun. it's grim but i get a lot done.   [14w ov=[]]
+
+== line 593 b2180 [Fable]
+U: was the new pillow worth it?
+A0: best money i've spent in ages. no more stiff neck.   [10w ov=[]]
+U: what kind did you get?
+A1: one of those shaped ones. looks ridiculous, works though.   [9w ov=[]]
+
+== line 594 b2180 [Fable]
+U: napping later?
+A0: i might. i'll regret it tonight but i might anyway.   [10w ov=[]]
+U: haha same. naps are a trap.
+A1: best kind of trap.   [4w ov=['trap']]
+
+== line 595 b2180 [Fable]
+U: was the review as bad as you thought?
+A0: better than i expected. he actually had nice things to say.   [11w ov=[]]
+U: good news then. any raise mentioned?
+A1: not yet. he said we'd talk about it next month.   [10w ov=[]]
+
+== line 596 b2180 [Fable]
+U: report get sent?
+A0: sent it at ten last night. haven't heard a word back.   [11w ov=['sent']]
+
+== line 597 b2180 [Fable]
+U: are you in the office much this week?
+A0: tuesday and thursday in the office, rest at home.   [9w ov=['office']]
+
+== line 598 b2180 [Fable]
+U: is the new manager settling in?
+A0: early days. he asks a lot of questions, which i don't mind.   [12w ov=[]]
+U: at least he's interested.
+A1: that's what i said. better than the last one who never spoke.   [12w ov=[]]
+
+== line 599 b2180 [Fable]
+U: did that call drag on?
+A0: forty minutes over. no one said a word about it.   [10w ov=[]]
+U: they never do. everyone just sits there.
+A1: same here. i had a lunch going cold the whole time.   [11w ov=[]]
+
+== line 600 b2180 [Fable]
+U: taking the leave you're owed?
+A0: booked a week off in october. can't wait.   [8w ov=[]]
+
+== line 601 b2180 [Fable]
+U: any baby news yet?
+A0: last tuesday. everyone's fine. she's exhausted but happy.   [8w ov=[]]
+U: lovely news. boy or girl?
+A1: she had a girl. my mum is beside herself.   [9w ov=['girl']]
+
+== line 602 b2180 [Fable]
+U: seeing your parents this weekend?
+A0: sunday lunch. my mum's already asked what i want.   [9w ov=[]]
+
+== line 603 b2180 [Fable]
+U: how's your dad's knee?
+A0: he's had the op. hobbling about but it's meant to be better long term.   [14w ov=[]]
+U: good. is he doing the exercises?
+A1: when he remembers. my mum has to nag him.   [9w ov=[]]
+
+== line 604 b2180 [Fable]
+U: did the kids go back okay?
+A0: there were tears at the gate. mine, not theirs.   [9w ov=[]]
+U: haha oh no. they settle quickly though.
+A1: they do. i'm the one who mopes about it all day.   [11w ov=[]]
+
+== line 605 b2180 [Fable]
+U: your brother still at home?
+A0: moved out in the spring. my mum's still getting used to it.   [12w ov=['still']]
+
+== line 606 b2180 [Fable]
+U: how's your nan keeping?
+A0: she's alright. we ring every sunday and she mostly wants to know if i'm eating.   [15w ov=[]]
+
+== line 607 b2180 [Fable]
+U: did the trainers turn up in your size?
+A0: only in a size up. i'm going to order them online instead.   [12w ov=['size', 'up']]
+
+== line 608 b2180 [Fable]
+U: town still a mess with the roadworks?
+A0: worse if anything. they've closed the other end now.   [9w ov=[]]
+U: rush hour's going to be chaos.
+A1: it already is. i'm walking the long way round.   [9w ov=[]]
+
+== line 609 b2180 [Fable]
+U: presents sorted yet?
+A0: nearly. just the one awkward person left.   [7w ov=[]]
+
+== line 610 b2180 [Fable]
+U: did the jacket go back?
+A0: took it back. no questions, refunded it straight away.   [9w ov=['back']]
+
+== line 611 b2180 [Fable]
+U: did the order arrive?
+A0: two of the three things. the other one's lost somewhere.   [10w ov=[]]
+U: again? that's the second time this month.
+A1: third. i'm going to stop using them.   [7w ov=[]]
+
+== line 612 b2180 [Fable]
+U: market on this week?
+A0: saturday morning. i'll go early before it gets busy.   [9w ov=[]]
+
+== line 613 b2180 [Fable]
+U: was your train on time?
+A0: twenty minutes late. stood the whole way as well.   [9w ov=[]]
+U: rough first thing in the morning.
+A1: it was. i got a seat on the way home at least.   [12w ov=[]]
+
+== line 614 b2180 [Fable]
+U: driving down or getting the coach?
+A0: coach. it's longer but i can just sit and read.   [10w ov=['coach']]
+
+== line 615 b2180 [Fable]
+U: was the flight alright?
+A0: smooth enough. the landing was a bit bumpy but we got there.   [12w ov=[]]
+
+== line 616 b2180 [Fable]
+U: parking a nightmare?
+A0: took me three laps of the car park. i nearly gave up.   [12w ov=[]]
+U: exactly why i don't drive into town.
+A1: you've got the right idea. i might start cycling.   [9w ov=[]]
+
+== line 617 b2180 [Fable]
+U: bike back on the road?
+A0: new inner tube and it's fine. the brakes still squeak though.   [11w ov=[]]
+
+== line 618 b2180 [Fable]
+U: was the bus late again?
+A0: eventually it turned up. i'd been stood there twenty five minutes.   [11w ov=[]]
+U: i'd have walked by then.
+A1: i nearly did. it came the second i gave in.   [10w ov=[]]
+
+== line 619 b2180 [Fable]
+U: that cough still hanging around?
+A0: it's hanging on. i sound worse than i feel.   [9w ov=['hanging']]
+
+== line 620 b2180 [Fable]
+U: blood test done?
+A0: yes, finally. results should be through next week.   [8w ov=[]]
+
+== line 621 b2180 [Fable]
+U: back any better?
+A0: it's easing off. i've been doing the stretches the physio gave me.   [12w ov=[]]
+U: good. keep at them, they really work.
+A1: i will. i don't fancy it going again.   [8w ov=[]]
+
+== line 622 b2180 [Fable]
+U: did they fit you in soon?
+A0: not till the end of the month. i'll just soldier on.   [11w ov=[]]
+
+== line 623 b2180 [Fable]
+U: has the headache gone?
+A0: just water and a lie down. seems to have done the trick.   [12w ov=[]]
+
+== line 624 b2180 [Fable]
+U: cold going round your work?
+A0: half the office is off. i'm washing my hands like a surgeon.   [12w ov=[]]
+U: it's everywhere at the minute.
+A1: tell me about it. i've been drinking orange juice by the pint.   [12w ov=[]]
+
+== line 625 b2180 [Fable]
+U: got a series on the go?
+A0: a detective thing. i've guessed the ending already but i'm still watching.   [12w ov=[]]
+
+== line 626 b2180 [Fable]
+U: book finished?
+A0: last night. i sat up till one to get to the end.   [12w ov=[]]
+
+== line 627 b2180 [Fable]
+U: still on the guitar?
+A0: ten minutes a day. i'm not good but i'm better than i was.   [13w ov=[]]
+U: the way to do it. little and often.
+A1: no joke. i'm learning one song and driving everyone mad with it.   [12w ov=[]]
+
+== line 628 b2180 [Fable]
+U: jigsaw done?
+A0: two hundred pieces to go. the sky part is torture.   [10w ov=[]]
+
+== line 629 b2180 [Fable]
+U: did you listen to that podcast?
+A0: first two episodes. it's right up my street.   [8w ov=[]]
+
+== line 630 b2180 [Fable]
+U: how did the game go?
+A0: we lost in the last minute. typical.   [7w ov=[]]
+

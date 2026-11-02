@@ -1,0 +1,77 @@
+#!/usr/bin/env python3
+"""Hand-written b2735 rewrites -> audit/changes_magpie10.json, then self-validate.
+Law: 10-13 words, echo an exact content word from the OWN user turn, VARY the frame
+(never open 'the <noun>')."""
+import json
+
+C = {
+ "1671": {"0": "cat had you up since half five, ours starts at six sharp."},
+ "1672": {"0": "garden's full of leaves again, do you rake them up by hand?"},
+ "1673": {"0": "cold won't shift then, has it been a while now?"},
+ "1674": {"0": "work's dead quiet this week with everyone off, does the day drag?"},
+ "1675": {"0": "train was rammed this morning, was it the early one?"},
+ "1676": {"0": "started making your own bread, how's the crust coming out?"},
+ "1677": {"0": "phone nearly flat by lunchtime, is the battery on its way out?"},
+ "1678": {"0": "thinking of painting the hall, what colour are you leaning towards?"},
+ "1679": {"0": "next door's dog barks at everything, does it go on all day?"},
+ "1680": {"0": "wedding to go to next month, are you travelling far for it?"},
+ "1681": {"0": "finally got the loft emptied, how much did you end up binning?"},
+ "1682": {"0": "supermarket's moved everything round again, did you still find it all?"},
+ "1683": {"0": "walking into work this week instead of driving, how long does it take?"},
+ "1685": {"0": "burnt the roast on sunday, did any of it get eaten?"},
+ "1688": {"0": "sleeping badly all week, is it the heat or something on your mind?"},
+ "1689": {"0": "washing machine's noisy on the spin, is it walking across the floor?",
+          "1": "walking and shoving it back twice means the feet are uneven."},
+ "1690": {"0": "stack of books you keep meaning to read, what's the count up to?",
+          "1": "twelve and still adding to it, what's sat at the top now?"},
+ "1691": {"0": "coast for the day on saturday, was the weather kind to you?"},
+ "1692": {"0": "started a new series on the telly, what is it about?"},
+ "1693": {"0": "back's gone again after the garden, is it the same as last time?",
+          "1": "worse and you can't bend down properly, so give it a few days."},
+ "1694": {"0": "trying to cut down on the coffee, how many were you on?",
+          "1": "five or six a day, are you on decaf or the tea now?"},
+ "1695": {"0": "boiler's playing up in this cold, no hot water or no heating?",
+          "1": "heating's fine but the water's lukewarm, that is often the diverter valve."},
+ "1696": {"0": "doing a bit of decorating this week, which room is it this time?",
+          "1": "spare room half done for months, are you finishing it this time?"},
+ "1697": {"0": "rescue cat last month, how's she settling in so far?",
+          "1": "a month is nothing to a rescue, she hides under the sofa still."},
+ "1698": {"0": "course for work all week, is there anything useful on it?",
+          "1": "spreadsheets, thrilling stuff, but does any of it actually stick?"},
+ "1699": {"0": "kids went back to school this week, was it a relief?",
+          "1": "house is quiet and you don't know what to do with yourself."},
+ "1700": {"0": "trying to fix the shed door, what is the trouble with it?",
+          "1": "dropped and dragging on the floor usually means the hinges need oil."},
+ "1701": {"0": "meaning to sort out your photos, is it the old prints you're after?"},
+ "1702": {"0": "in laws over at the weekend, are you cooking or going out?"},
+ "1703": {"0": "bike's got a slow puncture, is it the front or back?",
+          "1": "back and the second one this month, worth checking the tyre itself."},
+ "1704": {"0": "getting into running lately, how far are you up to now?"},
+ "1705": {"0": "loft quote is the trouble, what is the bit you actually need?",
+          "1": "extra bedroom pushes the price up, so start with the bit you use."},
+}
+
+path = "audit/changes_magpie10.json"
+json.dump(C, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+
+lines = [l for l in open("raw/small_talk_casual.jsonl", "rb").read().split(b"\r\n") if l.strip()]
+issues = []; n = 0; the_op = []
+for key, ch in C.items():
+    ln = int(key)
+    row = json.loads(lines[ln - 1])
+    asst = [t for t in row["turns"] if t["role"] == "assistant"]
+    for idx, txt in ch.items():
+        i = int(idx); n += 1
+        w = len(txt.split())
+        if not (10 <= w <= 13): issues.append((ln, i, "wordcount", w, txt))
+        if any(ord(c) > 127 for c in txt): issues.append((ln, i, "nonascii", txt))
+        if any(d in txt for d in ["\u2013", "\u2014", "\u2012", "\u2015"]): issues.append((ln, i, "dash", txt))
+        if "-" in txt: issues.append((ln, i, "hyphen", txt))
+        if any(0x2600 <= ord(c) <= 0x1FAFF for c in txt): issues.append((ln, i, "emoji", txt))
+        if i >= len(asst): issues.append((ln, i, "index-oob", len(asst)))
+        if txt.lower().startswith("the "): the_op.append((ln, i, txt))
+print(f"wrote {path}: rows={len(C)} replies={n}")
+print("issues:", len(issues))
+for it in issues: print("  ", it)
+print("the-openers:", len(the_op))
+for it in the_op: print("  ", it)

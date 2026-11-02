@@ -1,0 +1,83 @@
+{
+ "1079": {
+  "a": {
+   "0": "a brake light is a cheap fail at least, that one is quick."
+  },
+  "u": {
+   "0": "car failed its inspection on a brake light."
+  }
+ },
+ "1089": {
+  "a": {
+   "0": "when did the eye doctor last give you a glasses test?"
+  },
+  "u": {
+   "0": "need new glasses, the eye doctor said so."
+  }
+ },
+ "1536": {
+  "a": {
+   "0": "inspection due next month, do you have worries about passing?"
+  },
+  "u": {
+   "0": "my inspection is due next month."
+  }
+ },
+ "1542": {
+  "u": {
+   "0": "inspection failed on a blown bulb."
+  }
+ },
+ "1579": {
+  "a": {
+   "0": "the grocery run done, was it busy in there this morning?",
+   "1": "one cart and a long line, the usual. everything make it home?"
+  },
+  "u": {
+   "0": "did the big grocery run this morning.",
+   "1": "packed. i stood in line for twenty minutes behind one cart."
+  }
+ },
+ "403": {
+  "a": {
+   "0": "grocery run prices again. a few things in, a full cart out."
+  },
+  "u": {
+   "0": "the grocery run as expensive as always?"
+  }
+ },
+ "533": {
+  "a": {
+   "0": "oh no, what did it fail the inspection on, big or small?"
+  },
+  "u": {
+   "0": "the car failed its inspection."
+  }
+ },
+ "632": {
+  "a": {
+   "0": "has it been two years since the eye doctor, thursday sneaks up."
+  },
+  "u": {
+   "0": "i've got the eye doctor on thursday."
+  }
+ },
+ "666": {
+  "a": {
+   "0": "sore all week? stop lifting heavy things, use a cart at the store."
+  }
+ },
+ "792": {
+  "a": {
+   "0": "does the car have anything wrong that would fail the inspection?"
+  },
+  "u": {
+   "0": "the car needs its inspection this month."
+  }
+ },
+ "811": {
+  "u": {
+   "1": "slightly worse, which the eye doctor blamed on screens and i blame on being forty."
+  }
+ }
+}
